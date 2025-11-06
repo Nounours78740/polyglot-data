@@ -1,0 +1,128 @@
+﻿[
+  {
+    "title": "L’alphabet cyrillique (bases essentielles)",
+    "explanation": "Le russe utilise l’alphabet cyrillique, composé de 33 lettres. Beaucoup correspondent au français, mais certaines ont des valeurs spécifiques.",
+    "rules": [
+      "Л, М, К, Т → très proches du français",
+      "В = V, Р = R roulé, Н = N",
+      "Б = B, Г = G, Д = D",
+      "Й = i bref, Ы = son difficile entre i et u",
+      "Ш = ch dur, Щ = ch long/soft",
+      "Е/Ё → ye/yo selon la position"
+    ],
+    "examples": [
+      {
+        "example": "Привет",
+        "example_translit": "Privet",
+        "translation": "Salut"
+      },
+      {
+        "example": "Дом",
+        "example_translit": "Dom",
+        "translation": "Maison"
+      }
+    ],
+    "notes": [
+      "Maîtriser l’alphabet rend le russe beaucoup plus simple qu'il n'y paraît."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Les genres et le nominatif",
+    "explanation": "Au nominatif, les mots russes ont trois genres : masculin, féminin, neutre. Cela détermine la forme des adjectifs et des verbes au passé.",
+    "rules": [
+      "Masculin : terminaison consonne (стол, дом)",
+      "Féminin : -а / -я (книга, лампа)",
+      "Neutre : -о / -е (окно, море)"
+    ],
+    "examples": [
+      {
+        "example": "Это дом.",
+        "example_translit": "Eto dom.",
+        "translation": "C'est une maison."
+      },
+      {
+        "example": "Это книга.",
+        "example_translit": "Eto kniga.",
+        "translation": "C'est un livre."
+      }
+    ],
+    "notes": [
+      "Au passé, le verbe s’accorde avec le genre du sujet."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Les pluriels simples",
+    "explanation": "Le pluriel russe dépend du genre. Certaines transformations sont régulières.",
+    "rules": [
+      "Masculin : ajout -ы ou -и (стол → столы)",
+      "Féminin : -а devient -ы, -я devient -и (книга → книги)",
+      "Neutre : -о devient -а, -е devient -я (окно → окна)"
+    ],
+    "examples": [
+      {
+        "example": "книги",
+        "example_translit": "knigi",
+        "translation": "des livres"
+      },
+      {
+        "example": "окна",
+        "example_translit": "okna",
+        "translation": "des fenêtres"
+      }
+    ],
+    "notes": [
+      "Attention aux pluriels irréguliers, très fréquents au niveau intermédiaire."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Le verbe « être » (быть) au présent : omission",
+    "explanation": "Au présent, le verbe 'être' n’est jamais utilisé. Les phrases nominales sont directes.",
+    "rules": [
+      "Structure : sujet + nom/adjectif sans verbe",
+      "быть n’est utilisé qu’au passé et au futur"
+    ],
+    "examples": [
+      {
+        "example": "Он студент.",
+        "example_translit": "On student.",
+        "translation": "Il est étudiant."
+      },
+      {
+        "example": "Она дома.",
+        "example_translit": "Ona doma.",
+        "translation": "Elle est à la maison."
+      }
+    ],
+    "notes": [
+      "Ce trait est déroutant au début mais rend les phrases courtes et logiques."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Le présent des verbes réguliers",
+    "explanation": "Les verbes russes réguliers se conjuguent selon deux grands modèles. Niveau 1 = reconnaître les terminaisons.",
+    "rules": [
+      "1re conjugaison : -у/-ю, -ешь, -ет, -ем, -ете, -ут/-ют",
+      "2e conjugaison : -у/-ю, -ишь, -ит, -им, -ите, -ат/-ят"
+    ],
+    "examples": [
+      {
+        "example": "Я говорю.",
+        "example_translit": "Ya govoryu.",
+        "translation": "Je parle."
+      },
+      {
+        "example": "Они читают.",
+        "example_translit": "Oni chitayut.",
+        "translation": "Ils lisent."
+      }
+    ],
+    "notes": [
+      "Beaucoup de verbes très courants sont irréguliers (aller, vouloir…)."
+    ],
+    "level": 1
+  }
+]

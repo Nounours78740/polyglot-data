@@ -1,0 +1,147 @@
+﻿[
+  {
+    "title": "Le présent régulier (-ar, -er, -ir)",
+    "explanation": "Le présent de l’indicatif espagnol est utilisé pour décrire les actions habituelles, les vérités générales et les descriptions simples. Les verbes réguliers suivent trois modèles principaux.",
+    "rules": [
+      "Verbes en -ar : o, as, a, amos, áis, an → hablar → hablo",
+      "Verbes en -er : o, es, e, emos, éis, en → comer → como",
+      "Verbes en -ir : o, es, e, imos, ís, en → vivir → vivo"
+    ],
+    "examples": [
+      {
+        "example": "Hablo español.",
+        "translation": "Je parle espagnol."
+      },
+      {
+        "example": "Ellos viven en Madrid.",
+        "translation": "Ils vivent à Madrid."
+      }
+    ],
+    "notes": [
+      "Le présent espagnol couvre parfois le sens du présent continu français.",
+      "Les verbes irréguliers seront vus aux niveaux supérieurs."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Les articles définis et indéfinis",
+    "explanation": "L’espagnol possède quatre articles définis et quatre indéfinis, qui s’accordent en genre et en nombre avec le nom.",
+    "rules": [
+      "Définis : el (m.s.), la (f.s.), los (m.pl.), las (f.pl.)",
+      "Indéfinis : un, una, unos, unas",
+      "El devant les mots commençant par 'a' accentuée : el agua, el águila"
+    ],
+    "examples": [
+      {
+        "example": "La casa es grande.",
+        "translation": "La maison est grande."
+      },
+      {
+        "example": "Un amigo me llamó.",
+        "translation": "Un ami m’a appelé."
+      }
+    ],
+    "notes": [
+      "L’article défini est plus fréquent qu’en français.",
+      "Même lorsque le mot est féminin, 'el' est utilisé pour éviter deux sons 'a' consécutifs."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Ser vs Estar (usage basique)",
+    "explanation": "L’espagnol possède deux verbes pour traduire 'être'. Ser désigne des caractéristiques permanentes, tandis que estar exprime des états temporaires ou une localisation.",
+    "rules": [
+      "Ser → identité, profession, nationalité, description permanente",
+      "Estar → état temporaire, émotions, localisation",
+      "Ser pour l’heure, la date ; estar pour les conditions changeantes"
+    ],
+    "examples": [
+      {
+        "example": "Soy francés.",
+        "translation": "Je suis français."
+      },
+      {
+        "example": "Estoy cansado.",
+        "translation": "Je suis fatigué."
+      }
+    ],
+    "notes": [
+      "Erreur fréquente : utiliser ser pour les émotions → toujours estar.",
+      "Les exceptions apparaîtront au niveau 2-3."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Le pluriel",
+    "explanation": "Le pluriel espagnol est généralement formé de manière régulière, mais il existe quelques particularités selon la terminaison.",
+    "rules": [
+      "Voyelle finale → +s : casa → casas",
+      "Consonne finale → +es : ciudad → ciudades",
+      "Mots en -z → z devient c + es : lápiz → lápices"
+    ],
+    "examples": [
+      {
+        "example": "Los perros son grandes.",
+        "translation": "Les chiens sont grands."
+      },
+      {
+        "example": "Las ciudades son antiguas.",
+        "translation": "Les villes sont anciennes."
+      }
+    ],
+    "notes": [
+      "Les mots finissant par -ión deviennent -iones (león → leones).",
+      "L’accent peut disparaître au pluriel."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Les adjectifs (genre et nombre)",
+    "explanation": "Contrairement à l’anglais, les adjectifs espagnols s’accordent toujours en genre et en nombre avec le nom qu’ils qualifient.",
+    "rules": [
+      "Adjectifs en -o : o/a → bonito / bonita",
+      "Adjectifs en -e ou consonne : forme unique au singulier",
+      "Pluriel : +s pour voyelles, +es pour consonnes"
+    ],
+    "examples": [
+      {
+        "example": "Una casa bonita.",
+        "translation": "Une belle maison."
+      },
+      {
+        "example": "Los libros interesantes.",
+        "translation": "Les livres intéressants."
+      }
+    ],
+    "notes": [
+      "L’adjectif suit généralement le nom, sauf exceptions (gran hombre…).",
+      "Certains adjectifs changent de sens selon la position."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Les verbes fondamentaux (ser, estar, tener, ir)",
+    "explanation": "Ces quatre verbes extrêmement fréquents apparaissent dans presque toutes les conversations. Leurs formes doivent être mémorisées dès le début.",
+    "rules": [
+      "Ser : soy, eres, es, somos, sois, son",
+      "Estar : estoy, estás, está, estamos, estáis, están",
+      "Tener : tengo, tienes, tiene…",
+      "Ir : voy, vas, va…"
+    ],
+    "examples": [
+      {
+        "example": "Tengo hambre.",
+        "translation": "J'ai faim."
+      },
+      {
+        "example": "Voy al trabajo.",
+        "translation": "Je vais au travail."
+      }
+    ],
+    "notes": [
+      "Tener sert à exprimer des sensations : tener frío, tener razón.",
+      "Ir est souvent suivi de 'a' : ir a + lieu."
+    ],
+    "level": 1
+  }
+]

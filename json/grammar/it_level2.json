@@ -1,0 +1,146 @@
+﻿[
+  {
+    "title": "Le Passato Prossimo (passé composé italien)",
+    "explanation": "Le passato prossimo exprime une action passée achevée. Il se forme avec l’auxiliaire 'essere' ou 'avere' + participe passé.",
+    "rules": [
+      "Avere est utilisé pour la majorité des verbes transitifs : ho mangiato",
+      "Essere est utilisé pour les verbes de mouvement, changement d’état, et les verbes pronominaux : sono andato",
+      "Le participe s’accorde seulement avec l’auxiliaire essere : andata/andati",
+      "Participe régulier : -are → -ato, -ere → -uto, -ire → -ito"
+    ],
+    "examples": [
+      {
+        "example": "Ho comprato un libro.",
+        "translation": "J’ai acheté un livre."
+      },
+      {
+        "example": "Siamo arrivati tardi.",
+        "translation": "Nous sommes arrivés en retard."
+      }
+    ],
+    "notes": [
+      "Fait partie des temps les plus utilisés à l’oral.",
+      "Attention aux verbes qui changent d’auxiliaire selon leur sens."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les verbes pronominaux (verbi riflessivi)",
+    "explanation": "Ils se conjuguent avec un pronom réfléchi (mi, ti, si…) et utilisent l’auxiliaire essere au passato prossimo.",
+    "rules": [
+      "Pronoms : mi, ti, si, ci, vi, si",
+      "Structure : pronom + verbe conjugué",
+      "Au passato prossimo → accord obligatoire : si sono alzati / si è alzata"
+    ],
+    "examples": [
+      {
+        "example": "Mi sveglio alle sette.",
+        "translation": "Je me réveille à sept heures."
+      },
+      {
+        "example": "Si sono divertiti molto.",
+        "translation": "Ils se sont beaucoup amusés."
+      }
+    ],
+    "notes": [
+      "Très productifs : de nombreux verbes changent de sens selon qu’ils sont réfléchis ou non."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Le comparatif et le superlatif",
+    "explanation": "Ils permettent de comparer deux éléments. Très fréquents dans la conversation.",
+    "rules": [
+      "Comparatif : più… di / meno… di",
+      "Comparatif devant un adjectif : più bella di",
+      "Superlatif relatif : la più + adjectif",
+      "Superlatif absolu : -issimo (bellissimo, altissimo)"
+    ],
+    "examples": [
+      {
+        "example": "Roma è più grande di Firenze.",
+        "translation": "Rome est plus grande que Florence."
+      },
+      {
+        "example": "È un film interessantissimo.",
+        "translation": "C’est un film très intéressant."
+      }
+    ],
+    "notes": [
+      "L’usage de 'che' au lieu de 'di' dépend de la structure comparée (adjectifs ou adverbes)."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les prépositions articulées (preposizioni articolate)",
+    "explanation": "Elles résultent de la fusion obligatoire entre préposition simple (di, a, da, in, su) et l’article défini.",
+    "rules": [
+      "di + il = del, di + lo = dello, di + la = della, di + i = dei, di + gli = degli, di + le = delle",
+      "a + il = al, a + lo = allo, …",
+      "in + il = nel, su + il = sul",
+      "Toujours accordées en genre et nombre"
+    ],
+    "examples": [
+      {
+        "example": "Vengo dal medico.",
+        "translation": "Je viens du médecin."
+      },
+      {
+        "example": "Nel libro c’è una foto.",
+        "translation": "Dans le livre, il y a une photo."
+      }
+    ],
+    "notes": [
+      "Essentielles : on les utilise dans presque toutes les phrases.",
+      "Très difficiles au début, deviennent naturelles ensuite."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Le futur simple (Futuro Semplice)",
+    "explanation": "Le futur sert aussi à exprimer une hypothèse, en plus du futur réel.",
+    "rules": [
+      "Terminaisons : -ò, -ai, -à, -emo, -ete, -anno",
+      "Radicaux irréguliers : avere → avr-, andare → andr-, essere → sar-",
+      "Peut exprimer la probabilité : 'sarà a casa' = 'il doit être chez lui'"
+    ],
+    "examples": [
+      {
+        "example": "Domani andrò al mare.",
+        "translation": "Demain j’irai à la mer."
+      },
+      {
+        "example": "Sarà stanco.",
+        "translation": "Il doit être fatigué."
+      }
+    ],
+    "notes": [
+      "Beaucoup plus utilisé qu’en français pour exprimer un futur certain."
+    ],
+    "level": 2
+  },
+  {
+    "title": "L’accord du participe passé",
+    "explanation": "Avec l’auxiliaire essere, le participe s’accorde comme un adjectif. Avec avere, il ne s’accorde jamais (sauf exception quand l’objet direct est placé avant).",
+    "rules": [
+      "Essere → accord obligatoire : andata, usciti",
+      "Avere → jamais d’accord : ho visto",
+      "Exception : 'la ho vista' → 'l’ho vista'"
+    ],
+    "examples": [
+      {
+        "example": "L’ho vista ieri.",
+        "translation": "Je l’ai vue hier."
+      },
+      {
+        "example": "Sono tornate presto.",
+        "translation": "Elles sont revenues tôt."
+      }
+    ],
+    "notes": [
+      "C’est une des règles les plus piégeuses de l’italien.",
+      "Très important pour écrire correctement."
+    ],
+    "level": 2
+  }
+]

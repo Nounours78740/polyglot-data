@@ -1,0 +1,1092 @@
+[
+  {
+    "word": "anstarren",
+    "translation": [ "fixer du regard", "dévisager" ],
+    "translit": "",
+    "example": "Es ist unhöflich, jemanden anzustarren.",
+    "example_fr": "Il est impoli de dévisager quelqu’un.",
+    "level": 1
+  },
+  {
+    "word": "benutzen",
+    "translation": [ "utiliser", "se servir de" ],
+    "translit": "",
+    "example": "Kann ich dein Handy benutzen?",
+    "example_fr": "Puis-je utiliser ton téléphone ?",
+    "level": 1
+  },
+  {
+    "word": "beachten",
+    "translation": [ "respecter", "tenir compte de" ],
+    "translit": "",
+    "example": "Bitte beachten Sie die Hausordnung.",
+    "example_fr": "Veuillez respecter le règlement intérieur.",
+    "level": 1
+  },
+  {
+    "word": "der Vorteil",
+    "translation": [ "avantage" ],
+    "translit": "",
+    "example": "Ein großer Vorteil ist die Flexibilität.",
+    "example_fr": "Un grand avantage est la flexibilité.",
+    "level": 1
+  },
+  {
+    "word": "der Nachteil",
+    "translation": [ "inconvénient" ],
+    "translit": "",
+    "example": "Der einzige Nachteil ist der Preis.",
+    "example_fr": "Le seul inconvénient est le prix.",
+    "level": 1
+  },
+  {
+    "word": "anfangen",
+    "translation": [ "commencer" ],
+    "translit": "",
+    "example": "Wann fängt der Film an?",
+    "example_fr": "Quand commence le film ?",
+    "level": 1
+  },
+  {
+    "word": "die Umgebung",
+    "translation": [ "environnement", "alentours" ],
+    "translit": "",
+    "example": "Die Umgebung der Stadt ist sehr schön.",
+    "example_fr": "Les environs de la ville sont très beaux.",
+    "level": 1
+  },
+  {
+    "word": "schaffen",
+    "translation": [ "réussir", "parvenir à" ],
+    "translit": "",
+    "example": "Ich schaffe das schon.",
+    "example_fr": "J’y arriverai.",
+    "level": 1
+  },
+  {
+    "word": "genießen",
+    "translation": [ "profiter de", "apprécier" ],
+    "translit": "",
+    "example": "Wir genießen den sonnigen Tag.",
+    "example_fr": "Nous profitons de cette journée ensoleillée.",
+    "level": 1
+  },
+  {
+    "word": "der Eindruck",
+    "translation": [ "impression" ],
+    "translit": "",
+    "example": "Ich habe den Eindruck, dass er müde ist.",
+    "example_fr": "J’ai l’impression qu’il est fatigué.",
+    "level": 1
+  },
+
+  {
+    "word": "wecken",
+    "translation": [ "réveiller" ],
+    "translit": "",
+    "example": "Kannst du mich um sieben wecken?",
+    "example_fr": "Peux-tu me réveiller à sept heures ?",
+    "level": 1
+  },
+  {
+    "word": "ausgeben",
+    "translation": [ "dépenser" ],
+    "translit": "",
+    "example": "Ich habe zu viel Geld ausgegeben.",
+    "example_fr": "J’ai dépensé trop d’argent.",
+    "level": 1
+  },
+  {
+    "word": "entdecken",
+    "translation": [ "découvrir" ],
+    "translit": "",
+    "example": "Wir haben ein neues Café entdeckt.",
+    "example_fr": "Nous avons découvert un nouveau café.",
+    "level": 1
+  },
+  {
+    "word": "die Gewohnheit",
+    "translation": [ "habitude" ],
+    "translit": "",
+    "example": "Rauchen ist eine schlechte Gewohnheit.",
+    "example_fr": "Fumer est une mauvaise habitude.",
+    "level": 1
+  },
+  {
+    "word": "erklären",
+    "translation": [ "expliquer" ],
+    "translit": "",
+    "example": "Kannst du mir das erklären?",
+    "example_fr": "Peux-tu m’expliquer cela ?",
+    "level": 1
+  },
+  {
+    "word": "sich erinnern",
+    "translation": [ "se souvenir" ],
+    "translit": "",
+    "example": "Ich erinnere mich nicht mehr.",
+    "example_fr": "Je ne m’en souviens plus.",
+    "level": 1
+  },
+  {
+    "word": "jedoch",
+    "translation": [ "cependant" ],
+    "translit": "",
+    "example": "Ich möchte kommen, jedoch habe ich keine Zeit.",
+    "example_fr": "J’aimerais venir, cependant je n’ai pas le temps.",
+    "level": 1
+  },
+  {
+    "word": "die Beziehung",
+    "translation": [ "relation" ],
+    "translit": "",
+    "example": "Ihre Beziehung ist sehr stabil.",
+    "example_fr": "Leur relation est très stable.",
+    "level": 1
+  },
+  {
+    "word": "bevorzugen",
+    "translation": [ "préférer" ],
+    "translit": "",
+    "example": "Ich bevorzuge Tee statt Kaffee.",
+    "example_fr": "Je préfère le thé au café.",
+    "level": 1
+  },
+  {
+    "word": "vorbereiten",
+    "translation": [ "préparer" ],
+    "translit": "",
+    "example": "Ich muss das Abendessen vorbereiten.",
+    "example_fr": "Je dois préparer le dîner.",
+    "level": 1
+  },
+
+  {
+    "word": "vermeiden",
+    "translation": [ "éviter" ],
+    "translit": "",
+    "example": "Du solltest Stress vermeiden.",
+    "example_fr": "Tu devrais éviter le stress.",
+    "level": 1
+  },
+  {
+    "word": "der Zweck",
+    "translation": [ "but", "objectif" ],
+    "translit": "",
+    "example": "Der Zweck der Reise ist Erholung.",
+    "example_fr": "Le but du voyage est la détente.",
+    "level": 1
+  },
+  {
+    "word": "überzeugen",
+    "translation": [ "convaincre" ],
+    "translit": "",
+    "example": "Ich versuche, ihn zu überzeugen.",
+    "example_fr": "J’essaie de le convaincre.",
+    "level": 1
+  },
+  {
+    "word": "die Forschung",
+    "translation": [ "recherche scientifique" ],
+    "translit": "",
+    "example": "Die Forschung hat große Fortschritte gemacht.",
+    "example_fr": "La recherche a fait de grands progrès.",
+    "level": 1
+  },
+  {
+    "word": "die Bildung",
+    "translation": [ "éducation" ],
+    "translit": "",
+    "example": "Bildung ist sehr wichtig.",
+    "example_fr": "L’éducation est très importante.",
+    "level": 1
+  },
+  {
+    "word": "das Verhalten",
+    "translation": [ "comportement" ],
+    "translit": "",
+    "example": "Sein Verhalten war heute ungewöhnlich.",
+    "example_fr": "Son comportement était inhabituel aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "vergleichen",
+    "translation": [ "comparer" ],
+    "translit": "",
+    "example": "Man sollte Preise vergleichen.",
+    "example_fr": "Il faut comparer les prix.",
+    "level": 1
+  },
+  {
+    "word": "bestimmen",
+    "translation": [ "déterminer" ],
+    "translit": "",
+    "example": "Das Alter des Gebäudes ist schwer zu bestimmen.",
+    "example_fr": "Il est difficile de déterminer l’âge du bâtiment.",
+    "level": 1
+  },
+  {
+    "word": "reduzieren",
+    "translation": [ "réduire" ],
+    "translit": "",
+    "example": "Wir müssen den Plastikverbrauch reduzieren.",
+    "example_fr": "Nous devons réduire la consommation de plastique.",
+    "level": 1
+  },
+  {
+    "word": "erreichen",
+    "translation": [ "atteindre", "joindre" ],
+    "translit": "",
+    "example": "Ich kann ihn telefonisch nicht erreichen.",
+    "example_fr": "Je n’arrive pas à le joindre par téléphone.",
+    "level": 1
+  },
+
+  {
+    "word": "der Eindruck",
+    "translation": [ "impression" ],
+    "translit": "",
+    "example": "Ich hatte einen guten Eindruck von ihm.",
+    "example_fr": "J’ai eu une bonne impression de lui.",
+    "level": 1
+  },
+  {
+    "word": "die Aufgabe",
+    "translation": [ "tâche", "devoir" ],
+    "translit": "",
+    "example": "Die Aufgabe war schwieriger als gedacht.",
+    "example_fr": "La tâche était plus difficile que prévu.",
+    "level": 1
+  },
+  {
+    "word": "erhöhen",
+    "translation": [ "augmenter" ],
+    "translit": "",
+    "example": "Die Regierung will die Steuern erhöhen.",
+    "example_fr": "Le gouvernement veut augmenter les impôts.",
+    "level": 1
+  },
+  {
+    "word": "verantwortlich",
+    "translation": [ "responsable" ],
+    "translit": "",
+    "example": "Er ist für das Projekt verantwortlich.",
+    "example_fr": "Il est responsable du projet.",
+    "level": 1
+  },
+  {
+    "word": "vereinbaren",
+    "translation": [ "convenir de", "fixer" ],
+    "translit": "",
+    "example": "Wir haben einen Termin vereinbart.",
+    "example_fr": "Nous avons fixé un rendez-vous.",
+    "level": 1
+  },
+  {
+    "word": "beenden",
+    "translation": [ "terminer", "mettre fin à" ],
+    "translit": "",
+    "example": "Wir müssen das Gespräch beenden.",
+    "example_fr": "Nous devons mettre fin à la conversation.",
+    "level": 1
+  },
+  {
+    "word": "die Lage",
+    "translation": [ "situation", "position" ],
+    "translit": "",
+    "example": "Die Lage ist ernst.",
+    "example_fr": "La situation est grave.",
+    "level": 1
+  },
+  {
+    "word": "zwar",
+    "translation": [ "certes", "c’est vrai... mais" ],
+    "translit": "",
+    "example": "Es ist zwar teuer, aber sehr gut.",
+    "example_fr": "C’est certes cher, mais très bon.",
+    "level": 1
+  },
+  {
+    "word": "schätzen",
+    "translation": [ "estimer", "apprécier" ],
+    "translit": "",
+    "example": "Ich schätze deine Hilfe sehr.",
+    "example_fr": "J’apprécie beaucoup ton aide.",
+    "level": 1
+  },
+  {
+    "word": "überraschen",
+    "translation": [ "surprendre" ],
+    "translit": "",
+    "example": "Die Nachricht hat mich überrascht.",
+    "example_fr": "La nouvelle m’a surpris.",
+    "level": 1
+  },
+  {
+    "word": "der Zustand",
+    "translation": [ "état", "condition" ],
+    "translit": "",
+    "example": "Der Zustand des Autos ist sehr gut.",
+    "example_fr": "L’état de la voiture est très bon.",
+    "level": 1
+  },
+  {
+    "word": "die Entscheidung",
+    "translation": [ "décision" ],
+    "translit": "",
+    "example": "Es war keine leichte Entscheidung.",
+    "example_fr": "Ce n’était pas une décision facile.",
+    "level": 1
+  },
+  {
+    "word": "auftreten",
+    "translation": [ "se produire", "apparaître" ],
+    "translit": "",
+    "example": "Das Problem tritt nur selten auf.",
+    "example_fr": "Le problème n’apparaît que rarement.",
+    "level": 1
+  },
+  {
+    "word": "der Versuch",
+    "translation": [ "tentative", "essai" ],
+    "translit": "",
+    "example": "Der Versuch ist gelungen.",
+    "example_fr": "La tentative a réussi.",
+    "level": 1
+  },
+  {
+    "word": "bezeichnen",
+    "translation": [ "désigner", "qualifier" ],
+    "translit": "",
+    "example": "Er bezeichnet ihn als Freund.",
+    "example_fr": "Il le qualifie d’ami.",
+    "level": 1
+  },
+  {
+    "word": "die Zukunft",
+    "translation": [ "avenir" ],
+    "translit": "",
+    "example": "Sie denkt viel über die Zukunft nach.",
+    "example_fr": "Elle pense beaucoup à l’avenir.",
+    "level": 1
+  },
+  {
+    "word": "der Zusammenhang",
+    "translation": [ "lien", "relation" ],
+    "translit": "",
+    "example": "Es gibt keinen Zusammenhang zwischen den beiden Fällen.",
+    "example_fr": "Il n’y a aucun lien entre les deux affaires.",
+    "level": 1
+  },
+  {
+    "word": "der Bereich",
+    "translation": [ "domaine", "secteur" ],
+    "translit": "",
+    "example": "Sie arbeitet im medizinischen Bereich.",
+    "example_fr": "Elle travaille dans le domaine médical.",
+    "level": 1
+  },
+  {
+    "word": "steigern",
+    "translation": [ "augmenter", "accroître" ],
+    "translit": "",
+    "example": "Wir müssen die Produktivität steigern.",
+    "example_fr": "Nous devons augmenter la productivité.",
+    "level": 1
+  },
+  {
+    "word": "handeln",
+    "translation": [ "agir" ],
+    "translit": "",
+    "example": "Es ist Zeit zu handeln.",
+    "example_fr": "Il est temps d’agir.",
+    "level": 1
+  },
+
+  {
+    "word": "bevorstehen",
+    "translation": [ "être imminent" ],
+    "translit": "",
+    "example": "Eine schwierige Aufgabe steht bevor.",
+    "example_fr": "Une tâche difficile est imminente.",
+    "level": 1
+  },
+  {
+    "word": "erfordern",
+    "translation": [ "exiger", "nécessiter" ],
+    "translit": "",
+    "example": "Der Job erfordert viel Geduld.",
+    "example_fr": "Le travail exige beaucoup de patience.",
+    "level": 1
+  },
+  {
+    "word": "ablehnen",
+    "translation": [ "refuser", "rejeter" ],
+    "translit": "",
+    "example": "Er hat das Angebot abgelehnt.",
+    "example_fr": "Il a refusé l’offre.",
+    "level": 1
+  },
+  {
+    "word": "untersuchen",
+    "translation": [ "examiner", "analyser" ],
+    "translit": "",
+    "example": "Der Arzt untersucht den Patienten.",
+    "example_fr": "Le médecin examine le patient.",
+    "level": 1
+  },
+  {
+    "word": "gelingen",
+    "translation": [ "réussir" ],
+    "translit": "",
+    "example": "Es ist mir endlich gelungen.",
+    "example_fr": "J’ai enfin réussi.",
+    "level": 1
+  },
+  {
+    "word": "bewegen",
+    "translation": [ "bouger", "déplacer" ],
+    "translit": "",
+    "example": "Ich kann meinen Arm nicht bewegen.",
+    "example_fr": "Je ne peux pas bouger mon bras.",
+    "level": 1
+  },
+  {
+    "word": "verbessern",
+    "translation": [ "améliorer" ],
+    "translit": "",
+    "example": "Wir wollen unsere Dienstleistungen verbessern.",
+    "example_fr": "Nous voulons améliorer nos services.",
+    "level": 1
+  },
+  {
+    "word": "die Ursache",
+    "translation": [ "cause" ],
+    "translit": "",
+    "example": "Die Ursache des Problems ist noch unbekannt.",
+    "example_fr": "La cause du problème est encore inconnue.",
+    "level": 1
+  },
+  {
+    "word": "die Lösung",
+    "translation": [ "solution" ],
+    "translit": "",
+    "example": "Wir haben eine gute Lösung gefunden.",
+    "example_fr": "Nous avons trouvé une bonne solution.",
+    "level": 1
+  },
+  {
+    "word": "verhindern",
+    "translation": [ "empêcher" ],
+    "translit": "",
+    "example": "Wir müssen einen Unfall verhindern.",
+    "example_fr": "Nous devons empêcher un accident.",
+    "level": 1
+  },
+
+  {
+    "word": "der Schritt",
+    "translation": [ "pas", "étape" ],
+    "translit": "",
+    "example": "Das ist ein wichtiger Schritt.",
+    "example_fr": "C’est une étape importante.",
+    "level": 1
+  },
+  {
+    "word": "die Stimmung",
+    "translation": [ "ambiance", "humeur" ],
+    "translit": "",
+    "example": "Die Stimmung war sehr entspannt.",
+    "example_fr": "L’ambiance était très détendue.",
+    "level": 1
+  },
+  {
+    "word": "die Fähigkeit",
+    "translation": [ "capacité", "aptitude" ],
+    "translit": "",
+    "example": "Er hat die Fähigkeit, schnell zu lernen.",
+    "example_fr": "Il a la capacité d’apprendre vite.",
+    "level": 1
+  },
+  {
+    "word": "die Gefahr",
+    "translation": [ "danger" ],
+    "translit": "",
+    "example": "Es besteht keine Gefahr.",
+    "example_fr": "Il n’y a aucun danger.",
+    "level": 1
+  },
+  {
+    "word": "die Art",
+    "translation": [ "manière", "sorte" ],
+    "translit": "",
+    "example": "Auf diese Art geht es schneller.",
+    "example_fr": "De cette manière, c’est plus rapide.",
+    "level": 1
+  },
+  {
+    "word": "abholen",
+    "translation": [ "venir chercher", "récupérer" ],
+    "translit": "",
+    "example": "Kannst du mich am Bahnhof abholen?",
+    "example_fr": "Peux-tu venir me chercher à la gare ?",
+    "level": 1
+  },
+  {
+    "word": "ausreichen",
+    "translation": [ "suffire" ],
+    "translit": "",
+    "example": "Das Geld reicht nicht aus.",
+    "example_fr": "L’argent ne suffit pas.",
+    "level": 1
+  },
+  {
+    "word": "vorstellen",
+    "translation": [ "présenter", "imaginer" ],
+    "translit": "",
+    "example": "Ich stelle dir meinen Bruder vor.",
+    "example_fr": "Je te présente mon frère.",
+    "level": 1
+  },
+  {
+    "word": "bieten",
+    "translation": [ "offrir", "proposer" ],
+    "translit": "",
+    "example": "Die Firma bietet viele Vorteile.",
+    "example_fr": "L’entreprise offre de nombreux avantages.",
+    "level": 1
+  },
+  {
+    "word": "beschreiben",
+    "translation": [ "décrire" ],
+    "translit": "",
+    "example": "Kannst du mir das Bild beschreiben?",
+    "example_fr": "Peux-tu me décrire l’image ?",
+    "level": 1
+  },
+    {
+      "word": "feststellen",
+      "translation": [ "constater", "remarquer" ],
+      "translit": "",
+      "example": "Der Arzt stellte eine Verbesserung fest.",
+      "example_fr": "Le médecin a constaté une amélioration.",
+      "level": 1
+    },
+    {
+      "word": "darstellen",
+      "translation": [ "représenter", "constituer" ],
+      "translit": "",
+      "example": "Das stellt kein Problem dar.",
+      "example_fr": "Cela ne représente aucun problème.",
+      "level": 1
+    },
+    {
+      "word": "erreichen",
+      "translation": [ "atteindre" ],
+      "translit": "",
+      "example": "Wir haben unser Ziel erreicht.",
+      "example_fr": "Nous avons atteint notre objectif.",
+      "level": 1
+    },
+    {
+      "word": "weiterhin",
+      "translation": [ "continuer à", "toujours" ],
+      "translit": "",
+      "example": "Wir unterstützen dich weiterhin.",
+      "example_fr": "Nous continuons de te soutenir.",
+      "level": 1
+    },
+    {
+      "word": "erhöhen",
+      "translation": [ "augmenter" ],
+      "translit": "",
+      "example": "Die Firma will die Produktion erhöhen.",
+      "example_fr": "L’entreprise veut augmenter la production.",
+      "level": 1
+    },
+    {
+      "word": "der Einfluss",
+      "translation": [ "influence" ],
+      "translit": "",
+      "example": "Er hat großen Einfluss auf sie.",
+      "example_fr": "Il a beaucoup d’influence sur elle.",
+      "level": 1
+    },
+    {
+      "word": "hinzufügen",
+      "translation": [ "ajouter" ],
+      "translit": "",
+      "example": "Möchtest du noch etwas hinzufügen?",
+      "example_fr": "Souhaites-tu ajouter quelque chose ?",
+      "level": 1
+    },
+    {
+      "word": "stattfinden",
+      "translation": [ "avoir lieu" ],
+      "translit": "",
+      "example": "Die Veranstaltung findet morgen statt.",
+      "example_fr": "L’événement a lieu demain.",
+      "level": 1
+    },
+    {
+      "word": "sich lohnen",
+      "translation": [ "valoir la peine" ],
+      "translit": "",
+      "example": "Der Besuch lohnt sich.",
+      "example_fr": "La visite en vaut la peine.",
+      "level": 1
+    },
+    {
+      "word": "erkennen",
+      "translation": [ "reconnaître", "s’apercevoir" ],
+      "translit": "",
+      "example": "Ich habe ihn kaum erkannt.",
+      "example_fr": "Je l’ai à peine reconnu.",
+      "level": 1
+    },
+    {
+      "word": "die Verantwortung",
+      "translation": [ "responsabilité" ],
+      "translit": "",
+      "example": "Ich übernehme die volle Verantwortung.",
+      "example_fr": "J’assume l’entière responsabilité.",
+      "level": 1
+    },
+    {
+      "word": "gelten",
+      "translation": [ "être valable", "s’appliquer" ],
+      "translit": "",
+      "example": "Die Regeln gelten für alle.",
+      "example_fr": "Les règles s’appliquent à tous.",
+      "level": 1
+    },
+    {
+      "word": "entstehen",
+      "translation": [ "naître", "se former" ],
+      "translit": "",
+      "example": "Es entstand eine lange Diskussion.",
+      "example_fr": "Une longue discussion s’est formée.",
+      "level": 1
+    },
+    {
+      "word": "die Unterstützung",
+      "translation": [ "soutien" ],
+      "translit": "",
+      "example": "Danke für deine Unterstützung.",
+      "example_fr": "Merci pour ton soutien.",
+      "level": 1
+    },
+    {
+      "word": "ermöglichen",
+      "translation": [ "permettre" ],
+      "translit": "",
+      "example": "Das Internet ermöglicht schnelles Lernen.",
+      "example_fr": "Internet permet un apprentissage rapide.",
+      "level": 1
+    },
+    {
+      "word": "die Mehrheit",
+      "translation": [ "majorité" ],
+      "translit": "",
+      "example": "Die Mehrheit stimmt zu.",
+      "example_fr": "La majorité approuve.",
+      "level": 1
+    },
+    {
+      "word": "erhöht",
+      "translation": [ "élevé" ],
+      "translit": "",
+      "example": "Der Lärmpegel war stark erhöht.",
+      "example_fr": "Le niveau de bruit était très élevé.",
+      "level": 1
+    },
+    {
+      "word": "die Wirkung",
+      "translation": [ "effet" ],
+      "translit": "",
+      "example": "Das Medikament hat starke Wirkung.",
+      "example_fr": "Le médicament a un effet puissant.",
+      "level": 1
+    },
+    {
+      "word": "vor allem",
+      "translation": [ "surtout" ],
+      "translit": "",
+      "example": "Ich mag vor allem klassische Musik.",
+      "example_fr": "J’aime surtout la musique classique.",
+      "level": 1
+    },
+    {
+      "word": "scheinen",
+      "translation": [ "sembler", "briller" ],
+      "translit": "",
+      "example": "Es scheint alles in Ordnung zu sein.",
+      "example_fr": "Tout semble être en ordre.",
+      "level": 1
+    },
+    {
+      "word": "die Genehmigung",
+      "translation": [ "autorisation" ],
+      "translit": "",
+      "example": "Wir brauchen eine Genehmigung.",
+      "example_fr": "Nous avons besoin d’une autorisation.",
+      "level": 1
+    },
+    {
+      "word": "zweifeln",
+      "translation": [ "douter" ],
+      "translit": "",
+      "example": "Ich zweifle nicht an dir.",
+      "example_fr": "Je ne doute pas de toi.",
+      "level": 1
+    },
+    {
+      "word": "die Leistung",
+      "translation": [ "performance", "rendement" ],
+      "translit": "",
+      "example": "Seine Leistung war beeindruckend.",
+      "example_fr": "Sa performance était impressionnante.",
+      "level": 1
+    },
+    {
+      "word": "erlauben",
+      "translation": [ "permettre" ],
+      "translit": "",
+      "example": "Meine Eltern erlauben mir das nicht.",
+      "example_fr": "Mes parents ne me permettent pas cela.",
+      "level": 1
+    },
+    {
+      "word": "der Zweck",
+      "translation": [ "but", "objectif" ],
+      "translit": "",
+      "example": "Der Zweck der Übung ist Klarheit.",
+      "example_fr": "Le but de l’exercice est la clarté.",
+      "level": 1
+    },
+    {
+      "word": "beachten",
+      "translation": [ "faire attention à" ],
+      "translit": "",
+      "example": "Bitte beachten Sie die Hinweise.",
+      "example_fr": "Veuillez suivre les indications.",
+      "level": 1
+    },
+    {
+      "word": "verpassen",
+      "translation": [ "rater", "manquer" ],
+      "translit": "",
+      "example": "Ich habe den Bus verpasst.",
+      "example_fr": "J’ai raté le bus.",
+      "level": 1
+    },
+    {
+      "word": "der Rand",
+      "translation": [ "bord", "marge" ],
+      "translit": "",
+      "example": "Das steht am Rand des Dokuments.",
+      "example_fr": "C’est écrit dans la marge du document.",
+      "level": 1
+    },
+    {
+      "word": "forschen",
+      "translation": [ "faire des recherches" ],
+      "translit": "",
+      "example": "Sie forschen an neuen Medikamenten.",
+      "example_fr": "Ils recherchent de nouveaux médicaments.",
+      "level": 1
+    },
+    {
+      "word": "die Möglichkeit",
+      "translation": [ "possibilité" ],
+      "translit": "",
+      "example": "Es gibt viele Möglichkeiten.",
+      "example_fr": "Il y a beaucoup de possibilités.",
+      "level": 1
+    },
+      {
+        "word": "die Voraussetzung",
+        "translation": [ "condition préalable", "prérequis" ],
+        "translit": "",
+        "example": "Gute Kenntnisse sind eine Voraussetzung.",
+        "example_fr": "De bonnes connaissances sont un prérequis.",
+        "level": 1
+      },
+      {
+        "word": "erreichen",
+        "translation": [ "joindre", "atteindre" ],
+        "translit": "",
+        "example": "Ich kann ihn nicht erreichen.",
+        "example_fr": "Je n’arrive pas à le joindre.",
+        "level": 1
+      },
+      {
+        "word": "entlassen",
+        "translation": [ "licencier", "laisser partir" ],
+        "translit": "",
+        "example": "Der Mitarbeiter wurde entlassen.",
+        "example_fr": "L’employé a été licencié.",
+        "level": 1
+      },
+      {
+        "word": "beitragen",
+        "translation": [ "contribuer" ],
+        "translit": "",
+        "example": "Jeder kann etwas beitragen.",
+        "example_fr": "Chacun peut contribuer.",
+        "level": 1
+      },
+      {
+        "word": "verursachen",
+        "translation": [ "causer", "provoquer" ],
+        "translit": "",
+        "example": "Das Problem wurde durch einen Fehler verursacht.",
+        "example_fr": "Le problème a été causé par une erreur.",
+        "level": 1
+      },
+      {
+        "word": "die Ansicht",
+        "translation": [ "avis", "opinion" ],
+        "translit": "",
+        "example": "Ich bin anderer Ansicht.",
+        "example_fr": "Je suis d’un autre avis.",
+        "level": 1
+      },
+      {
+        "word": "schließlich",
+        "translation": [ "finalement" ],
+        "translit": "",
+        "example": "Schließlich haben wir eine Lösung gefunden.",
+        "example_fr": "Finalement, nous avons trouvé une solution.",
+        "level": 1
+      },
+      {
+        "word": "die Voraussetzung",
+        "translation": [ "condition", "exigence" ],
+        "translit": "",
+        "example": "Teamarbeit ist eine wichtige Voraussetzung.",
+        "example_fr": "Le travail en équipe est une exigence importante.",
+        "level": 1
+      },
+      {
+        "word": "erlauben",
+        "translation": [ "permettre" ],
+        "translit": "",
+        "example": "Rauchen ist hier nicht erlaubt.",
+        "example_fr": "Fumer n’est pas autorisé ici.",
+        "level": 1
+      },
+      {
+        "word": "der Anspruch",
+        "translation": [ "exigence", "revendication" ],
+        "translit": "",
+        "example": "Er hat hohe Ansprüche.",
+        "example_fr": "Il a des exigences élevées.",
+        "level": 1
+      },
+      {
+        "word": "ausdrücken",
+        "translation": [ "exprimer" ],
+        "translit": "",
+        "example": "Ich kann meine Gefühle nicht ausdrücken.",
+        "example_fr": "Je n’arrive pas à exprimer mes sentiments.",
+        "level": 1
+      },
+      {
+        "word": "behandeln",
+        "translation": [ "traiter" ],
+        "translit": "",
+        "example": "Der Arzt behandelt viele Patienten.",
+        "example_fr": "Le médecin traite de nombreux patients.",
+        "level": 1
+      },
+      {
+        "word": "schildern",
+        "translation": [ "décrire", "relater" ],
+        "translit": "",
+        "example": "Er schilderte die Situation sehr genau.",
+        "example_fr": "Il a décrit la situation très précisément.",
+        "level": 1
+      },
+      {
+        "word": "die Gemeinsamkeit",
+        "translation": [ "point commun" ],
+        "translit": "",
+        "example": "Sie haben viele Gemeinsamkeiten.",
+        "example_fr": "Ils ont beaucoup de points communs.",
+        "level": 1
+      },
+      {
+        "word": "leisten",
+        "translation": [ "fournir", "accomplir" ],
+        "translit": "",
+        "example": "Er hat hervorragende Arbeit geleistet.",
+        "example_fr": "Il a accompli un excellent travail.",
+        "level": 1
+      },
+      {
+        "word": "verlegen",
+        "translation": [ "déplacer", "reporter" ],
+        "translit": "",
+        "example": "Der Termin wurde verlegt.",
+        "example_fr": "Le rendez-vous a été déplacé.",
+        "level": 1
+      },
+      {
+        "word": "erscheinen",
+        "translation": [ "apparaître", "sembler" ],
+        "translit": "",
+        "example": "Er erscheint mir ehrlich.",
+        "example_fr": "Il me paraît honnête.",
+        "level": 1
+      },
+      {
+        "word": "enttäuschen",
+        "translation": [ "décevoir" ],
+        "translit": "",
+        "example": "Die Nachricht hat mich enttäuscht.",
+        "example_fr": "La nouvelle m’a déçu.",
+        "level": 1
+      },
+      {
+        "word": "entfernen",
+        "translation": [ "enlever", "retirer" ],
+        "translit": "",
+        "example": "Bitte entfernen Sie Ihre Schuhe.",
+        "example_fr": "Veuillez enlever vos chaussures.",
+        "level": 1
+      },
+      {
+        "word": "die Behörde",
+        "translation": [ "autorité administrative" ],
+        "translit": "",
+        "example": "Die Behörde hat den Antrag geprüft.",
+        "example_fr": "L’autorité administrative a examiné la demande.",
+        "level": 1
+      },
+      {
+        "word": "überprüfen",
+        "translation": [ "vérifier", "contrôler" ],
+        "translit": "",
+        "example": "Wir müssen die Daten überprüfen.",
+        "example_fr": "Nous devons vérifier les données.",
+        "level": 1
+      },
+      {
+        "word": "ermitteln",
+        "translation": [ "enquêter", "déterminer" ],
+        "translit": "",
+        "example": "Die Polizei ermittelt im Fall.",
+        "example_fr": "La police enquête sur l’affaire.",
+        "level": 1
+      },
+      {
+        "word": "verzichten",
+        "translation": [ "renoncer" ],
+        "translit": "",
+        "example": "Ich kann nicht auf Kaffee verzichten.",
+        "example_fr": "Je ne peux pas renoncer au café.",
+        "level": 1
+      },
+      {
+        "word": "begrenzen",
+        "translation": [ "limiter" ],
+        "translit": "",
+        "example": "Die Geschwindigkeit ist hier begrenzt.",
+        "example_fr": "La vitesse est limitée ici.",
+        "level": 1
+      },
+      {
+        "word": "erfassen",
+        "translation": [ "saisir", "enregistrer" ],
+        "translit": "",
+        "example": "Die Daten wurden korrekt erfasst.",
+        "example_fr": "Les données ont été correctement enregistrées.",
+        "level": 1
+      },
+      {
+        "word": "die Vereinbarung",
+        "translation": [ "accord" ],
+        "translit": "",
+        "example": "Wir haben eine Vereinbarung getroffen.",
+        "example_fr": "Nous avons conclu un accord.",
+        "level": 1
+      },
+      {
+        "word": "ausfallen",
+        "translation": [ "être annulé", "tomber en panne" ],
+        "translit": "",
+        "example": "Der Unterricht fällt heute aus.",
+        "example_fr": "Le cours est annulé aujourd’hui.",
+        "level": 1
+      },
+      {
+        "word": "durchführen",
+        "translation": [ "effectuer", "réaliser" ],
+        "translit": "",
+        "example": "Wir führen gerade Tests durch.",
+        "example_fr": "Nous réalisons actuellement des tests.",
+        "level": 1
+      },
+      {
+        "word": "die Umsetzung",
+        "translation": [ "mise en œuvre" ],
+        "translit": "",
+        "example": "Die Umsetzung des Projekts läuft gut.",
+        "example_fr": "La mise en œuvre du projet se déroule bien.",
+        "level": 1
+      },
+      {
+        "word": "auswählen",
+        "translation": [ "choisir", "sélectionner" ],
+        "translit": "",
+        "example": "Sie können eine Option auswählen.",
+        "example_fr": "Vous pouvez sélectionner une option.",
+        "level": 1
+      },
+      {
+        "word": "entnehmen",
+        "translation": [ "retirer", "prélever" ],
+        "translit": "",
+        "example": "Bitte entnehmen Sie das Formular.",
+        "example_fr": "Veuillez retirer le formulaire.",
+        "level": 1
+      },
+      {
+        "word": "überreichen",
+        "translation": [ "remettre", "offrir" ],
+        "translit": "",
+        "example": "Er überreichte ihr ein Geschenk.",
+        "example_fr": "Il lui a remis un cadeau.",
+        "level": 1
+      },
+      {
+        "word": "festlegen",
+        "translation": [ "fixer", "définir" ],
+        "translit": "",
+        "example": "Der Termin wurde festgelegt.",
+        "example_fr": "La date a été fixée.",
+        "level": 1
+      },
+      {
+        "word": "verbleiben",
+        "translation": [ "rester", "demeurer" ],
+        "translit": "",
+        "example": "Wir verbleiben in Kontakt.",
+        "example_fr": "Nous restons en contact.",
+        "level": 1
+      },
+      {
+        "word": "stattgeben",
+        "translation": [ "approuver", "accorder" ],
+        "translit": "",
+        "example": "Der Antrag wurde stattgegeben.",
+        "example_fr": "La demande a été approuvée.",
+        "level": 1
+      }
+]  
+
+  
+
+
+

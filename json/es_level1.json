@@ -1,0 +1,1294 @@
+[
+  {
+    "word": "aprovechar",
+    "translation": [ "profiter de", "tirer parti de" ],
+    "translit": "",
+    "example": "Debemos aprovechar esta oportunidad.",
+    "example_fr": "Nous devons profiter de cette opportunité.",
+    "level": 1
+  },
+  {
+    "word": "vecino",
+    "translation": [ "voisin" ],
+    "translit": "",
+    "example": "Mi vecino es muy amable.",
+    "example_fr": "Mon voisin est très aimable.",
+    "level": 1
+  },
+  {
+    "word": "crecer",
+    "translation": [ "grandir", "croître" ],
+    "translit": "",
+    "example": "Los niños crecen muy rápido.",
+    "example_fr": "Les enfants grandissent très vite.",
+    "level": 1
+  },
+  {
+    "word": "elegir",
+    "translation": [ "choisir" ],
+    "translit": "",
+    "example": "Tienes que elegir una opción.",
+    "example_fr": "Tu dois choisir une option.",
+    "level": 1
+  },
+  {
+    "word": "duda",
+    "translation": [ "doute" ],
+    "translit": "",
+    "example": "No tengo ninguna duda al respecto.",
+    "example_fr": "Je n’ai aucun doute à ce sujet.",
+    "level": 1
+  },
+  {
+    "word": "consejo",
+    "translation": [ "conseil" ],
+    "translit": "",
+    "example": "Te daré un buen consejo.",
+    "example_fr": "Je vais te donner un bon conseil.",
+    "level": 1
+  },
+  {
+    "word": "mejorar",
+    "translation": [ "améliorer" ],
+    "translit": "",
+    "example": "Quiero mejorar mi español.",
+    "example_fr": "Je veux améliorer mon espagnol.",
+    "level": 1
+  },
+  {
+    "word": "mover",
+    "translation": [ "bouger", "déplacer" ],
+    "translit": "",
+    "example": "No puedo mover esta mesa solo.",
+    "example_fr": "Je ne peux pas déplacer cette table tout seul.",
+    "level": 1
+  },
+  {
+    "word": "lograr",
+    "translation": [ "réussir à", "atteindre" ],
+    "translit": "",
+    "example": "Logró terminar el proyecto a tiempo.",
+    "example_fr": "Il a réussi à terminer le projet à temps.",
+    "level": 1
+  },
+  {
+    "word": "temprano",
+    "translation": [ "tôt" ],
+    "translit": "",
+    "example": "Me desperté muy temprano hoy.",
+    "example_fr": "Je me suis réveillé très tôt aujourd’hui.",
+    "level": 1
+  },
+
+  {
+    "word": "olvidar",
+    "translation": [ "oublier" ],
+    "translit": "",
+    "example": "No debes olvidar tus llaves.",
+    "example_fr": "Tu ne dois pas oublier tes clés.",
+    "level": 1
+  },
+  {
+    "word": "invitar",
+    "translation": [ "inviter" ],
+    "translit": "",
+    "example": "Voy a invitar a mis amigos a cenar.",
+    "example_fr": "Je vais inviter mes amis à dîner.",
+    "level": 1
+  },
+  {
+    "word": "todavía",
+    "translation": [ "encore", "toujours" ],
+    "translit": "",
+    "example": "Todavía estoy trabajando.",
+    "example_fr": "Je suis encore en train de travailler.",
+    "level": 1
+  },
+  {
+    "word": "fácil",
+    "translation": [ "facile" ],
+    "translit": "",
+    "example": "Este ejercicio es muy fácil.",
+    "example_fr": "Cet exercice est très facile.",
+    "level": 1
+  },
+  {
+    "word": "difícil",
+    "translation": [ "difficile" ],
+    "translit": "",
+    "example": "Aprender chino es difícil.",
+    "example_fr": "Apprendre le chinois est difficile.",
+    "level": 1
+  },
+  {
+    "word": "soler",
+    "translation": [ "avoir l’habitude de" ],
+    "translit": "",
+    "example": "Suelo correr por las mañanas.",
+    "example_fr": "J’ai l’habitude de courir le matin.",
+    "level": 1
+  },
+  {
+    "word": "callado",
+    "translation": [ "silencieux", "discret" ],
+    "translit": "",
+    "example": "Es una persona muy callada.",
+    "example_fr": "C’est une personne très silencieuse.",
+    "level": 1
+  },
+  {
+    "word": "sencillo",
+    "translation": [ "simple", "facile" ],
+    "translit": "",
+    "example": "El proceso es bastante sencillo.",
+    "example_fr": "Le processus est assez simple.",
+    "level": 1
+  },
+  {
+    "word": "viaje",
+    "translation": [ "voyage" ],
+    "translit": "",
+    "example": "El viaje fue muy agradable.",
+    "example_fr": "Le voyage a été très agréable.",
+    "level": 1
+  },
+  {
+    "word": "cambiar",
+    "translation": [ "changer" ],
+    "translit": "",
+    "example": "Necesito cambiar de trabajo.",
+    "example_fr": "J’ai besoin de changer de travail.",
+    "level": 1
+  },
+
+  {
+    "word": "creencia",
+    "translation": [ "croyance" ],
+    "translit": "",
+    "example": "Es una creencia popular.",
+    "example_fr": "C’est une croyance populaire.",
+    "level": 1
+  },
+  {
+    "word": "cuidar",
+    "translation": [ "prendre soin de" ],
+    "translit": "",
+    "example": "Debes cuidar tu salud.",
+    "example_fr": "Tu dois prendre soin de ta santé.",
+    "level": 1
+  },
+  {
+    "word": "apoyo",
+    "translation": [ "soutien" ],
+    "translit": "",
+    "example": "Gracias por tu apoyo.",
+    "example_fr": "Merci pour ton soutien.",
+    "level": 1
+  },
+  {
+    "word": "evitar",
+    "translation": [ "éviter" ],
+    "translit": "",
+    "example": "Debemos evitar los conflictos.",
+    "example_fr": "Nous devons éviter les conflits.",
+    "level": 1
+  },
+  {
+    "word": "avanzar",
+    "translation": [ "avancer", "progresser" ],
+    "translit": "",
+    "example": "El proyecto avanza lentamente.",
+    "example_fr": "Le projet avance lentement.",
+    "level": 1
+  },
+  {
+    "word": "sugerir",
+    "translation": [ "suggérer" ],
+    "translit": "",
+    "example": "Sugiero que descansemos un poco.",
+    "example_fr": "Je suggère que nous nous reposions un peu.",
+    "level": 1
+  },
+  {
+    "word": "reír",
+    "translation": [ "rire" ],
+    "translit": "",
+    "example": "Ella siempre me hace reír.",
+    "example_fr": "Elle me fait toujours rire.",
+    "level": 1
+  },
+  {
+    "word": "feliz",
+    "translation": [ "heureux" ],
+    "translit": "",
+    "example": "Estoy muy feliz hoy.",
+    "example_fr": "Je suis très heureux aujourd'hui.",
+    "level": 1
+  },
+  {
+    "word": "acordarse",
+    "translation": [ "se souvenir" ],
+    "translit": "",
+    "example": "No me acuerdo de su nombre.",
+    "example_fr": "Je ne me souviens pas de son nom.",
+    "level": 1
+  },
+  {
+    "word": "últimamente",
+    "translation": [ "dernièrement" ],
+    "translit": "",
+    "example": "He estado muy cansado últimamente.",
+    "example_fr": "J’ai été très fatigué dernièrement.",
+    "level": 1
+  },
+
+  {
+    "word": "ganas",
+    "translation": [ "envie" ],
+    "translit": "",
+    "example": "No tengo ganas de salir.",
+    "example_fr": "Je n’ai pas envie de sortir.",
+    "level": 1
+  },
+  {
+    "word": "logro",
+    "translation": [ "réussite", "accomplissement" ],
+    "translit": "",
+    "example": "Fue un gran logro personal.",
+    "example_fr": "Ce fut un grand accomplissement personnel.",
+    "level": 1
+  },
+  {
+    "word": "desear",
+    "translation": [ "désirer", "souhaiter" ],
+    "translit": "",
+    "example": "Deseo que tengas un buen día.",
+    "example_fr": "Je te souhaite une bonne journée.",
+    "level": 1
+  },
+  {
+    "word": "aprender",
+    "translation": [ "apprendre" ],
+    "translit": "",
+    "example": "Quiero aprender japonés.",
+    "example_fr": "Je veux apprendre le japonais.",
+    "level": 1
+  },
+  {
+    "word": "creativo",
+    "translation": [ "créatif" ],
+    "translit": "",
+    "example": "Es un niño muy creativo.",
+    "example_fr": "C’est un enfant très créatif.",
+    "level": 1
+  },
+  {
+    "word": "sufrir",
+    "translation": [ "souffrir" ],
+    "translit": "",
+    "example": "Sufrió un accidente grave.",
+    "example_fr": "Il a souffert d’un grave accident.",
+    "level": 1
+  },
+  {
+    "word": "miedo",
+    "translation": [ "peur" ],
+    "translit": "",
+    "example": "Tengo miedo de las alturas.",
+    "example_fr": "J’ai peur du vide.",
+    "level": 1
+  },
+  {
+    "word": "enseñar",
+    "translation": [ "enseigner", "montrer" ],
+    "translit": "",
+    "example": "Ella me enseñó a cocinar.",
+    "example_fr": "Elle m’a appris à cuisiner.",
+    "level": 1
+  },
+  {
+    "word": "cansado",
+    "translation": [ "fatigué" ],
+    "translit": "",
+    "example": "Estoy muy cansado hoy.",
+    "example_fr": "Je suis très fatigué aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "valor",
+    "translation": [ "valeur", "courage" ],
+    "translit": "",
+    "example": "El valor es una cualidad importante.",
+    "example_fr": "Le courage est une qualité importante.",
+    "level": 1
+  },
+  {
+    "word": "buscar",
+    "translation": [ "chercher" ],
+    "translit": "",
+    "example": "Tengo que buscar mis gafas.",
+    "example_fr": "Je dois chercher mes lunettes.",
+    "level": 1
+  },
+  {
+    "word": "romper",
+    "translation": [ "casser", "briser" ],
+    "translit": "",
+    "example": "No quería romper el vaso.",
+    "example_fr": "Je ne voulais pas casser le verre.",
+    "level": 1
+  },
+  {
+    "word": "probar",
+    "translation": [ "essayer", "tester" ],
+    "translit": "",
+    "example": "Quiero probar este plato nuevo.",
+    "example_fr": "Je veux essayer ce nouveau plat.",
+    "level": 1
+  },
+  {
+    "word": "suerte",
+    "translation": [ "chance" ],
+    "translit": "",
+    "example": "Tuve mucha suerte hoy.",
+    "example_fr": "J’ai eu beaucoup de chance aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "ruido",
+    "translation": [ "bruit" ],
+    "translit": "",
+    "example": "Hay demasiado ruido aquí.",
+    "example_fr": "Il y a trop de bruit ici.",
+    "level": 1
+  },
+  {
+    "word": "recoger",
+    "translation": [ "ramasser", "récupérer" ],
+    "translit": "",
+    "example": "Voy a recoger el paquete.",
+    "example_fr": "Je vais récupérer le colis.",
+    "level": 1
+  },
+  {
+    "word": "quedarse",
+    "translation": [ "rester" ],
+    "translit": "",
+    "example": "Me voy a quedar en casa hoy.",
+    "example_fr": "Je vais rester à la maison aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "tardar",
+    "translation": [ "mettre du temps", "tarder" ],
+    "translit": "",
+    "example": "¿Cuánto tardas en llegar?",
+    "example_fr": "Tu mets combien de temps pour arriver ?",
+    "level": 1
+  },
+  {
+    "word": "esperanza",
+    "translation": [ "espoir" ],
+    "translit": "",
+    "example": "Nunca pierdas la esperanza.",
+    "example_fr": "Ne perds jamais espoir.",
+    "level": 1
+  },
+  {
+    "word": "limpiar",
+    "translation": [ "nettoyer" ],
+    "translit": "",
+    "example": "Tengo que limpiar mi habitación.",
+    "example_fr": "Je dois nettoyer ma chambre.",
+    "level": 1
+  },
+
+  {
+    "word": "apoyo",
+    "translation": [ "soutien", "appui" ],
+    "translit": "",
+    "example": "Ella me dio mucho apoyo en momentos difíciles.",
+    "example_fr": "Elle m’a beaucoup soutenu dans les moments difficiles.",
+    "level": 1
+  },
+  {
+    "word": "creer",
+    "translation": [ "croire" ],
+    "translit": "",
+    "example": "No puedo creer lo que pasó.",
+    "example_fr": "Je ne peux pas croire ce qui s’est passé.",
+    "level": 1
+  },
+  {
+    "word": "rueda",
+    "translation": [ "roue" ],
+    "translit": "",
+    "example": "La rueda del coche está pinchada.",
+    "example_fr": "La roue de la voiture est crevée.",
+    "level": 1
+  },
+  {
+    "word": "compartir",
+    "translation": [ "partager" ],
+    "translit": "",
+    "example": "Me gusta compartir mis ideas.",
+    "example_fr": "J’aime partager mes idées.",
+    "level": 1
+  },
+  {
+    "word": "invierno",
+    "translation": [ "hiver" ],
+    "translit": "",
+    "example": "El invierno aquí es muy frío.",
+    "example_fr": "L’hiver est très froid ici.",
+    "level": 1
+  },
+  {
+    "word": "primavera",
+    "translation": [ "printemps" ],
+    "translit": "",
+    "example": "La primavera es mi estación favorita.",
+    "example_fr": "Le printemps est ma saison préférée.",
+    "level": 1
+  },
+  {
+    "word": "verano",
+    "translation": [ "été" ],
+    "translit": "",
+    "example": "El verano pasado viajamos a Italia.",
+    "example_fr": "L’été dernier nous avons voyagé en Italie.",
+    "level": 1
+  },
+  {
+    "word": "otoño",
+    "translation": [ "automne" ],
+    "translit": "",
+    "example": "El otoño trae colores hermosos.",
+    "example_fr": "L’automne apporte de magnifiques couleurs.",
+    "level": 1
+  },
+  {
+    "word": "ganar",
+    "translation": [ "gagner" ],
+    "translit": "",
+    "example": "Mi equipo ganó el partido.",
+    "example_fr": "Mon équipe a gagné le match.",
+    "level": 1
+  },
+  {
+    "word": "perder",
+    "translation": [ "perdre" ],
+    "translit": "",
+    "example": "Perdí mis llaves ayer.",
+    "example_fr": "J’ai perdu mes clés hier.",
+    "level": 1
+  },
+
+  {
+    "word": "reparar",
+    "translation": [ "réparer" ],
+    "translit": "",
+    "example": "Voy a reparar mi bicicleta.",
+    "example_fr": "Je vais réparer mon vélo.",
+    "level": 1
+  },
+  {
+    "word": "apagar",
+    "translation": [ "éteindre" ],
+    "translit": "",
+    "example": "No olvides apagar la luz.",
+    "example_fr": "N’oublie pas d’éteindre la lumière.",
+    "level": 1
+  },
+  {
+    "word": "encender",
+    "translation": [ "allumer" ],
+    "translit": "",
+    "example": "Encendí la televisión.",
+    "example_fr": "J’ai allumé la télévision.",
+    "level": 1
+  },
+  {
+    "word": "mandar",
+    "translation": [ "envoyer" ],
+    "translit": "",
+    "example": "Voy a mandar un mensaje.",
+    "example_fr": "Je vais envoyer un message.",
+    "level": 1
+  },
+  {
+    "word": "tirar",
+    "translation": [ "jeter", "lancer" ],
+    "translit": "",
+    "example": "Tira la basura, por favor.",
+    "example_fr": "Jette les déchets, s’il te plaît.",
+    "level": 1
+  },
+  {
+    "word": "alegría",
+    "translation": [ "joie" ],
+    "translit": "",
+    "example": "La alegría se notaba en su rostro.",
+    "example_fr": "La joie se voyait sur son visage.",
+    "level": 1
+  },
+  {
+    "word": "tristeza",
+    "translation": [ "tristesse" ],
+    "translit": "",
+    "example": "La película me dio mucha tristeza.",
+    "example_fr": "Le film m’a rendu très triste.",
+    "level": 1
+  },
+  {
+    "word": "regalo",
+    "translation": [ "cadeau" ],
+    "translit": "",
+    "example": "Le compré un regalo a mi madre.",
+    "example_fr": "J’ai acheté un cadeau pour ma mère.",
+    "level": 1
+  },
+  {
+    "word": "despertar",
+    "translation": [ "réveiller" ],
+    "translit": "",
+    "example": "El ruido me despertó.",
+    "example_fr": "Le bruit m’a réveillé.",
+    "level": 1
+  },
+  {
+    "word": "casi",
+    "translation": [ "presque" ],
+    "translit": "",
+    "example": "Casi terminé el trabajo.",
+    "example_fr": "J’ai presque terminé le travail.",
+    "level": 1
+  },
+
+  {
+    "word": "silla",
+    "translation": [ "chaise" ],
+    "translit": "",
+    "example": "La silla es muy cómoda.",
+    "example_fr": "La chaise est très confortable.",
+    "level": 1
+  },
+  {
+    "word": "pared",
+    "translation": [ "mur" ],
+    "translit": "",
+    "example": "Pintamos la pared de azul.",
+    "example_fr": "Nous avons peint le mur en bleu.",
+    "level": 1
+  },
+  {
+    "word": "sombra",
+    "translation": [ "ombre" ],
+    "translit": "",
+    "example": "Nos sentamos a la sombra del árbol.",
+    "example_fr": "Nous nous sommes assis à l’ombre de l’arbre.",
+    "level": 1
+  },
+  {
+    "word": "piso",
+    "translation": [ "sol", "étage", "appartement" ],
+    "translit": "",
+    "example": "Vivo en el tercer piso.",
+    "example_fr": "J’habite au troisième étage.",
+    "level": 1
+  },
+  {
+    "word": "enfermo",
+    "translation": [ "malade" ],
+    "translit": "",
+    "example": "Estoy enfermo desde ayer.",
+    "example_fr": "Je suis malade depuis hier.",
+    "level": 1
+  },
+  {
+    "word": "hilo",
+    "translation": [ "fil" ],
+    "translit": "",
+    "example": "Necesito hilo para coser esto.",
+    "example_fr": "J’ai besoin de fil pour coudre ceci.",
+    "level": 1
+  },
+  {
+    "word": "barrer",
+    "translation": [ "balayer" ],
+    "translit": "",
+    "example": "Voy a barrer la cocina.",
+    "example_fr": "Je vais balayer la cuisine.",
+    "level": 1
+  },
+  {
+    "word": "río",
+    "translation": [ "rivière", "fleuve" ],
+    "translit": "",
+    "example": "Cruzamos un río muy ancho.",
+    "example_fr": "Nous avons traversé une rivière très large.",
+    "level": 1
+  },
+  {
+    "word": "montaña",
+    "translation": [ "montagne" ],
+    "translit": "",
+    "example": "La montaña está nevada.",
+    "example_fr": "La montagne est enneigée.",
+    "level": 1
+  },
+  {
+    "word": "cadera",
+    "translation": [ "hanche" ],
+    "translit": "",
+    "example": "Me duele la cadera izquierda.",
+    "example_fr": "J’ai mal à la hanche gauche.",
+    "level": 1
+  },
+  {
+    "word": "cuello",
+    "translation": [ "cou" ],
+    "translit": "",
+    "example": "Me duele el cuello después de dormir mal.",
+    "example_fr": "J’ai mal au cou après avoir mal dormi.",
+    "level": 1
+  },
+  {
+    "word": "hombro",
+    "translation": [ "épaule" ],
+    "translit": "",
+    "example": "Tiene dolor en el hombro derecho.",
+    "example_fr": "Il a mal à l’épaule droite.",
+    "level": 1
+  },
+  {
+    "word": "codo",
+    "translation": [ "coude" ],
+    "translit": "",
+    "example": "Me golpeé el codo contra la mesa.",
+    "example_fr": "Je me suis cogné le coude contre la table.",
+    "level": 1
+  },
+  {
+    "word": "muñeca",
+    "translation": [ "poignet" ],
+    "translit": "",
+    "example": "Se torció la muñeca jugando al tenis.",
+    "example_fr": "Elle s’est foulé le poignet en jouant au tennis.",
+    "level": 1
+  },
+  {
+    "word": "dedo",
+    "translation": [ "doigt" ],
+    "translit": "",
+    "example": "Me corté el dedo cocinando.",
+    "example_fr": "Je me suis coupé le doigt en cuisinant.",
+    "level": 1
+  },
+  {
+    "word": "rodilla",
+    "translation": [ "genou" ],
+    "translit": "",
+    "example": "La rodilla le duele al correr.",
+    "example_fr": "Le genou lui fait mal quand il court.",
+    "level": 1
+  },
+  {
+    "word": "espalda",
+    "translation": [ "dos" ],
+    "translit": "",
+    "example": "Tengo dolor de espalda.",
+    "example_fr": "J’ai mal au dos.",
+    "level": 1
+  },
+  {
+    "word": "pecho",
+    "translation": [ "poitrine" ],
+    "translit": "",
+    "example": "El atleta tiene un dolor en el pecho.",
+    "example_fr": "L’athlète a une douleur à la poitrine.",
+    "level": 1
+  },
+  {
+    "word": "piel",
+    "translation": [ "peau" ],
+    "translit": "",
+    "example": "Tengo la piel muy seca.",
+    "example_fr": "J’ai la peau très sèche.",
+    "level": 1
+  },
+  {
+    "word": "sangre",
+    "translation": [ "sang" ],
+    "translit": "",
+    "example": "Me salió un poco de sangre.",
+    "example_fr": "J’ai saigné un peu.",
+    "level": 1
+  },
+
+  {
+    "word": "pájaro",
+    "translation": [ "oiseau" ],
+    "translit": "",
+    "example": "Un pájaro cantaba en la ventana.",
+    "example_fr": "Un oiseau chantait à la fenêtre.",
+    "level": 1
+  },
+  {
+    "word": "vaca",
+    "translation": [ "vache" ],
+    "translit": "",
+    "example": "La vaca cruza el camino lentamente.",
+    "example_fr": "La vache traverse la route lentement.",
+    "level": 1
+  },
+  {
+    "word": "oveja",
+    "translation": [ "mouton", "brebis" ],
+    "translit": "",
+    "example": "Las ovejas están en el campo.",
+    "example_fr": "Les moutons sont dans le champ.",
+    "level": 1
+  },
+  {
+    "word": "cerdo",
+    "translation": [ "cochon" ],
+    "translit": "",
+    "example": "El cerdo vive en la granja.",
+    "example_fr": "Le cochon vit dans la ferme.",
+    "level": 1
+  },
+  {
+    "word": "caballo",
+    "translation": [ "cheval" ],
+    "translit": "",
+    "example": "El caballo corrió muy rápido.",
+    "example_fr": "Le cheval a couru très vite.",
+    "level": 1
+  },
+  {
+    "word": "tigre",
+    "translation": [ "tigre" ],
+    "translit": "",
+    "example": "El tigre es un animal salvaje.",
+    "example_fr": "Le tigre est un animal sauvage.",
+    "level": 1
+  },
+  {
+    "word": "ratón",
+    "translation": [ "souris" ],
+    "translit": "",
+    "example": "Un ratón salió de la cocina.",
+    "example_fr": "Une souris est sortie de la cuisine.",
+    "level": 1
+  },
+  {
+    "word": "mono",
+    "translation": [ "singe" ],
+    "translit": "",
+    "example": "El mono saltó del árbol.",
+    "example_fr": "Le singe a sauté de l’arbre.",
+    "level": 1
+  },
+  {
+    "word": "león",
+    "translation": [ "lion" ],
+    "translit": "",
+    "example": "El león es el rey de la selva.",
+    "example_fr": "Le lion est le roi de la jungle.",
+    "level": 1
+  },
+  {
+    "word": "rana",
+    "translation": [ "grenouille" ],
+    "translit": "",
+    "example": "La rana saltó al agua.",
+    "example_fr": "La grenouille a sauté dans l’eau.",
+    "level": 1
+  },
+
+  {
+    "word": "pescado",
+    "translation": [ "poisson (aliment)" ],
+    "translit": "",
+    "example": "Hoy comemos pescado.",
+    "example_fr": "Aujourd’hui nous mangeons du poisson.",
+    "level": 1
+  },
+  {
+    "word": "pez",
+    "translation": [ "poisson (animal)" ],
+    "translit": "",
+    "example": "El pez nada rápido.",
+    "example_fr": "Le poisson nage vite.",
+    "level": 1
+  },
+  {
+    "word": "mar",
+    "translation": [ "mer" ],
+    "translit": "",
+    "example": "El mar está tranquilo.",
+    "example_fr": "La mer est calme.",
+    "level": 1
+  },
+  {
+    "word": "isla",
+    "translation": [ "île" ],
+    "translit": "",
+    "example": "Vivimos en una isla pequeña.",
+    "example_fr": "Nous vivons sur une petite île.",
+    "level": 1
+  },
+  {
+    "word": "playa",
+    "translation": [ "plage" ],
+    "translit": "",
+    "example": "Vamos a la playa mañana.",
+    "example_fr": "Nous allons à la plage demain.",
+    "level": 1
+  },
+  {
+    "word": "arena",
+    "translation": [ "sable" ],
+    "translit": "",
+    "example": "La arena está muy caliente.",
+    "example_fr": "Le sable est très chaud.",
+    "level": 1
+  },
+  {
+    "word": "olas",
+    "translation": [ "vagues" ],
+    "translit": "",
+    "example": "Las olas son muy altas hoy.",
+    "example_fr": "Les vagues sont très hautes aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "barco",
+    "translation": [ "bateau" ],
+    "translit": "",
+    "example": "El barco llegó al puerto.",
+    "example_fr": "Le bateau est arrivé au port.",
+    "level": 1
+  },
+  {
+    "word": "puerto",
+    "translation": [ "port" ],
+    "translit": "",
+    "example": "El puerto está lleno de turistas.",
+    "example_fr": "Le port est plein de touristes.",
+    "level": 1
+  },
+  {
+    "word": "caminar",
+    "translation": [ "marcher" ],
+    "translit": "",
+    "example": "Vamos a caminar un rato.",
+    "example_fr": "Nous allons marcher un moment.",
+    "level": 1
+  },
+
+  {
+    "word": "viento",
+    "translation": [ "vent" ],
+    "translit": "",
+    "example": "Hace mucho viento hoy.",
+    "example_fr": "Il y a beaucoup de vent aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "lluvia",
+    "translation": [ "pluie" ],
+    "translit": "",
+    "example": "La lluvia no para.",
+    "example_fr": "La pluie ne s’arrête pas.",
+    "level": 1
+  },
+  {
+    "word": "nieve",
+    "translation": [ "neige" ],
+    "translit": "",
+    "example": "La nieve cubrió la calle.",
+    "example_fr": "La neige a recouvert la rue.",
+    "level": 1
+  },
+  {
+    "word": "tormenta",
+    "translation": [ "orage", "tempête" ],
+    "translit": "",
+    "example": "La tormenta fue muy fuerte.",
+    "example_fr": "La tempête a été très forte.",
+    "level": 1
+  },
+  {
+    "word": "cielo",
+    "translation": [ "ciel" ],
+    "translit": "",
+    "example": "El cielo está despejado.",
+    "example_fr": "Le ciel est dégagé.",
+    "level": 1
+  },
+  {
+    "word": "estrella",
+    "translation": [ "étoile" ],
+    "translit": "",
+    "example": "Vimos una estrella fugaz.",
+    "example_fr": "Nous avons vu une étoile filante.",
+    "level": 1
+  },
+  {
+    "word": "luna",
+    "translation": [ "lune" ],
+    "translit": "",
+    "example": "La luna llena es hermosa.",
+    "example_fr": "La pleine lune est magnifique.",
+    "level": 1
+  },
+  {
+    "word": "sol",
+    "translation": [ "soleil" ],
+    "translit": "",
+    "example": "El sol brilla mucho.",
+    "example_fr": "Le soleil brille beaucoup.",
+    "level": 1
+  },
+  {
+    "word": "nube",
+    "translation": [ "nuage" ],
+    "translit": "",
+    "example": "Hay muchas nubes grises.",
+    "example_fr": "Il y a beaucoup de nuages gris.",
+    "level": 1
+  },
+  {
+    "word": "temperatura",
+    "translation": [ "température" ],
+    "translit": "",
+    "example": "La temperatura bajó esta noche.",
+    "example_fr": "La température a baissé cette nuit.",
+    "level": 1
+  },
+  {
+    "word": "carretera",
+    "translation": [ "route" ],
+    "translit": "",
+    "example": "La carretera está vacía esta mañana.",
+    "example_fr": "La route est vide ce matin.",
+    "level": 1
+  },
+  {
+    "word": "calle",
+    "translation": [ "rue" ],
+    "translit": "",
+    "example": "La calle principal está cerrada.",
+    "example_fr": "La rue principale est fermée.",
+    "level": 1
+  },
+  {
+    "word": "esquina",
+    "translation": [ "coin", "angle" ],
+    "translit": "",
+    "example": "Nos vemos en la esquina del banco.",
+    "example_fr": "On se voit au coin de la banque.",
+    "level": 1
+  },
+  {
+    "word": "señal",
+    "translation": [ "panneau", "signal" ],
+    "translit": "",
+    "example": "La señal indica que no se puede pasar.",
+    "example_fr": "Le panneau indique qu’on ne peut pas passer.",
+    "level": 1
+  },
+  {
+    "word": "cruce",
+    "translation": [ "croisement" ],
+    "translit": "",
+    "example": "Hay un cruce peligroso cerca.",
+    "example_fr": "Il y a un croisement dangereux à proximité.",
+    "level": 1
+  },
+  {
+    "word": "parada",
+    "translation": [ "arrêt (bus, train)" ],
+    "translit": "",
+    "example": "La parada de autobús está ahí.",
+    "example_fr": "L’arrêt de bus est là.",
+    "level": 1
+  },
+  {
+    "word": "mapa",
+    "translation": [ "carte" ],
+    "translit": "",
+    "example": "Tengo un mapa de la ciudad.",
+    "example_fr": "J’ai une carte de la ville.",
+    "level": 1
+  },
+  {
+    "word": "volar",
+    "translation": [ "voler (dans les airs)" ],
+    "translit": "",
+    "example": "Los pájaros pueden volar muy alto.",
+    "example_fr": "Les oiseaux peuvent voler très haut.",
+    "level": 1
+  },
+  {
+    "word": "subir",
+    "translation": [ "monter" ],
+    "translit": "",
+    "example": "Vamos a subir las escaleras.",
+    "example_fr": "Nous allons monter les escaliers.",
+    "level": 1
+  },
+  {
+    "word": "bajar",
+    "translation": [ "descendre" ],
+    "translit": "",
+    "example": "Baja con cuidado, está resbaloso.",
+    "example_fr": "Descends prudemment, c’est glissant.",
+    "level": 1
+  },
+
+  {
+    "word": "jugar",
+    "translation": [ "jouer" ],
+    "translit": "",
+    "example": "A los niños les encanta jugar fuera.",
+    "example_fr": "Les enfants adorent jouer dehors.",
+    "level": 1
+  },
+  {
+    "word": "reír",
+    "translation": [ "rire" ],
+    "translit": "",
+    "example": "Nos hizo reír mucho.",
+    "example_fr": "Cela nous a beaucoup fait rire.",
+    "level": 1
+  },
+  {
+    "word": "gritar",
+    "translation": [ "crier" ],
+    "translit": "",
+    "example": "No necesitas gritar, te escucho.",
+    "example_fr": "Tu n’as pas besoin de crier, je t’entends.",
+    "level": 1
+  },
+  {
+    "word": "llorar",
+    "translation": [ "pleurer" ],
+    "translit": "",
+    "example": "El bebé empezó a llorar.",
+    "example_fr": "Le bébé a commencé à pleurer.",
+    "level": 1
+  },
+  {
+    "word": "besar",
+    "translation": [ "embrasser" ],
+    "translit": "",
+    "example": "Besó a su hijo antes de dormir.",
+    "example_fr": "Elle a embrassé son fils avant de dormir.",
+    "level": 1
+  },
+  {
+    "word": "abrazar",
+    "translation": [ "serrer dans ses bras" ],
+    "translit": "",
+    "example": "Nos abrazamos al vernos.",
+    "example_fr": "Nous nous sommes serrés dans les bras en nous voyant.",
+    "level": 1
+  },
+  {
+    "word": "vestirse",
+    "translation": [ "s’habiller" ],
+    "translit": "",
+    "example": "Voy a vestirme para salir.",
+    "example_fr": "Je vais m’habiller pour sortir.",
+    "level": 1
+  },
+  {
+    "word": "desvestirse",
+    "translation": [ "se déshabiller" ],
+    "translit": "",
+    "example": "Los niños se desvistieron rápido.",
+    "example_fr": "Les enfants se sont déshabillés rapidement.",
+    "level": 1
+  },
+  {
+    "word": "afeitarse",
+    "translation": [ "se raser" ],
+    "translit": "",
+    "example": "Mi padre se afeita todas las mañanas.",
+    "example_fr": "Mon père se rase tous les matins.",
+    "level": 1
+  },
+  {
+    "word": "maquillarse",
+    "translation": [ "se maquiller" ],
+    "translit": "",
+    "example": "Ella se maquilla antes de trabajar.",
+    "example_fr": "Elle se maquille avant de travailler.",
+    "level": 1
+  },
+
+  {
+    "word": "almorzar",
+    "translation": [ "déjeuner (midi)" ],
+    "translit": "",
+    "example": "Almorzamos juntos todos los días.",
+    "example_fr": "Nous déjeunons ensemble tous les jours.",
+    "level": 1
+  },
+  {
+    "word": "cena",
+    "translation": [ "dîner (repas du soir)" ],
+    "translit": "",
+    "example": "La cena está lista.",
+    "example_fr": "Le dîner est prêt.",
+    "level": 1
+  },
+  {
+    "word": "abrir",
+    "translation": [ "ouvrir" ],
+    "translit": "",
+    "example": "¿Puedes abrir la ventana?",
+    "example_fr": "Peux-tu ouvrir la fenêtre ?",
+    "level": 1
+  },
+  {
+    "word": "cerrar",
+    "translation": [ "fermer" ],
+    "translit": "",
+    "example": "Cierra la puerta, por favor.",
+    "example_fr": "Ferme la porte, s’il te plaît.",
+    "level": 1
+  },
+  {
+    "word": "aprender",
+    "translation": [ "apprendre" ],
+    "translit": "",
+    "example": "Estoy aprendiendo español.",
+    "example_fr": "J’apprends l’espagnol.",
+    "level": 1
+  },
+  {
+    "word": "enseñar",
+    "translation": [ "enseigner" ],
+    "translit": "",
+    "example": "Ella enseña matemáticas.",
+    "example_fr": "Elle enseigne les mathématiques.",
+    "level": 1
+  },
+  {
+    "word": "preguntar",
+    "translation": [ "demander", "poser une question" ],
+    "translit": "",
+    "example": "Voy a preguntar la hora.",
+    "example_fr": "Je vais demander l’heure.",
+    "level": 1
+  },
+  {
+    "word": "contestar",
+    "translation": [ "répondre" ],
+    "translit": "",
+    "example": "No contestó el mensaje.",
+    "example_fr": "Il n’a pas répondu au message.",
+    "level": 1
+  },
+  {
+    "word": "miedo",
+    "translation": [ "peur" ],
+    "translit": "",
+    "example": "Tengo miedo de las alturas.",
+    "example_fr": "J’ai peur du vide.",
+    "level": 1
+  },
+  {
+    "word": "sueño",
+    "translation": [ "sommeil", "rêve" ],
+    "translit": "",
+    "example": "Tengo mucho sueño.",
+    "example_fr": "J’ai très sommeil.",
+    "level": 1
+  },
+
+  {
+    "word": "hambre",
+    "translation": [ "faim" ],
+    "translit": "",
+    "example": "Tengo hambre, ¿comemos?",
+    "example_fr": "J’ai faim, on mange ?",
+    "level": 1
+  },
+  {
+    "word": "sed",
+    "translation": [ "soif" ],
+    "translit": "",
+    "example": "Tengo sed, necesito agua.",
+    "example_fr": "J’ai soif, j’ai besoin d’eau.",
+    "level": 1
+  },
+  {
+    "word": "calor",
+    "translation": [ "chaleur" ],
+    "translit": "",
+    "example": "Hace mucho calor hoy.",
+    "example_fr": "Il fait très chaud aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "frío",
+    "translation": [ "froid" ],
+    "translit": "",
+    "example": "Tengo frío, cierra la ventana.",
+    "example_fr": "J’ai froid, ferme la fenêtre.",
+    "level": 1
+  },
+  {
+    "word": "fuerte",
+    "translation": [ "fort" ],
+    "translit": "",
+    "example": "El viento es muy fuerte.",
+    "example_fr": "Le vent est très fort.",
+    "level": 1
+  },
+  {
+    "word": "débil",
+    "translation": [ "faible" ],
+    "translit": "",
+    "example": "Se siente débil después de la gripe.",
+    "example_fr": "Il se sent faible après la grippe.",
+    "level": 1
+  },
+  {
+    "word": "rápido",
+    "translation": [ "rapide" ],
+    "translit": "",
+    "example": "Ese coche es muy rápido.",
+    "example_fr": "Cette voiture est très rapide.",
+    "level": 1
+  },
+  {
+    "word": "lento",
+    "translation": [ "lent" ],
+    "translit": "",
+    "example": "El internet está muy lento hoy.",
+    "example_fr": "Internet est très lent aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "nuevo",
+    "translation": [ "nouveau" ],
+    "translit": "",
+    "example": "Compré un coche nuevo.",
+    "example_fr": "J’ai acheté une nouvelle voiture.",
+    "level": 1
+  },
+  {
+    "word": "viejo",
+    "translation": [ "vieux" ],
+    "translit": "",
+    "example": "El libro es muy viejo.",
+    "example_fr": "Le livre est très vieux.",
+    "level": 1
+  }
+]

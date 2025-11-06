@@ -1,0 +1,171 @@
+﻿[
+  {
+    "title": "Les six cas : usages avancés et nuances de sens",
+    "explanation": "Le système des cas russes permet d’exprimer des nuances complexes : mouvement, possession, comparaison, intention, nécessité, instrument, réaction émotionnelle. Au niveau avancé, il faut comprendre les emplois métaphoriques et idiomatiques.",
+    "rules": [
+      "Génitif → absence, origine, opposition, partie d’un tout",
+      "Datif → destinataire, nécessité ('мне нужно'), réaction ('мне холодно')",
+      "Accusatif → but, direction ('в школу'), durée ('на час')",
+      "Instrumental → manière, moyen, état ('работать учителем')",
+      "Prépositionnel → localisation abstraite ('говорить о...'), pensée",
+      "Double régence : certains verbes changent de cas selon le sens ('ждать кого / ждать чего')"
+    ],
+    "examples": [
+      {
+        "example": "Он работает учителем.",
+        "example_translit": "On rabotayet uchitelem.",
+        "translation": "Il travaille comme enseignant."
+      },
+      {
+        "example": "Мне нужно идти.",
+        "example_translit": "Mne nuzhno idti.",
+        "translation": "Je dois partir (nécessité impersonnelle)."
+      }
+    ],
+    "notes": [
+      "Beaucoup d’usages avancés sont idiomatiques.",
+      "L’instrumental abstrait est très utilisé dans la littérature."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les participes actifs et passifs (participe présent et passé)",
+    "explanation": "Les participes russes permettent d’exprimer des actions simultanées, antérieures ou des caractéristiques permanentes. Ils se déclinent comme des adjectifs et sont très fréquents dans la langue écrite.",
+    "rules": [
+      "Actif présent : lisant → читающий",
+      "Actif passé : ayant lu → читавший",
+      "Passif présent → читаемый",
+      "Passif passé → прочитанный",
+      "S’accordent en genre, nombre, cas"
+    ],
+    "examples": [
+      {
+        "example": "читающий студент",
+        "example_translit": "chitayushchiy student",
+        "translation": "l’étudiant qui lit"
+      },
+      {
+        "example": "прочитанная книга",
+        "example_translit": "prochitannaya kniga",
+        "translation": "le livre lu"
+      }
+    ],
+    "notes": [
+      "Très utilisés à l’écrit, beaucoup moins à l’oral.",
+      "Permettent une grande précision de sens."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les verbes de mouvement composés (aller + préfixes)",
+    "explanation": "Les préfixes transforment complètement le sens : sortir, entrer, traverser, s’approcher, s’éloigner, revenir… Chaque combinaison a un sens propre et productif.",
+    "rules": [
+      "войти → entrer (aller vers l’intérieur)",
+      "выйти → sortir",
+      "подойти → s’approcher",
+      "уйти → partir",
+      "перейти → traverser",
+      "отойти → s’éloigner"
+    ],
+    "examples": [
+      {
+        "example": "Он вошёл в комнату.",
+        "example_translit": "On voshyol v komnatu.",
+        "translation": "Il est entré dans la pièce."
+      },
+      {
+        "example": "Она отошла от дома.",
+        "example_translit": "Ona otoshla ot doma.",
+        "translation": "Elle s’est éloignée de la maison."
+      }
+    ],
+    "notes": [
+      "Chaque préfixe implique une direction spatiale ou abstraite précise.",
+      "Très difficile mais essentiel pour comprendre les films et romans."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les constructions impersonnelles",
+    "explanation": "Le russe utilise largement des constructions sans sujet grammatical : sensations, météo, nécessité, obligation, émotions.",
+    "rules": [
+      "Мне холодно / жарко",
+      "Нужно / можно + infinitif",
+      "Темнеет, светает",
+      "Меня тошнит, меня пугает"
+    ],
+    "examples": [
+      {
+        "example": "Мне интересно.",
+        "example_translit": "Mne interesno.",
+        "translation": "Je trouve ça intéressant."
+      },
+      {
+        "example": "Можно войти?",
+        "example_translit": "Mozhno voytí?",
+        "translation": "Puis-je entrer ?"
+      }
+    ],
+    "notes": [
+      "Beaucoup plus fréquent qu’en français.",
+      "La langue russe exprime les émotions de façon « externe »."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les conjonctions subordonnées complexes",
+    "explanation": "Le russe utilise un ensemble de conjonctions pour exprimer les causes, oppositions, conditions, conséquences et buts.",
+    "rules": [
+      "потому что → parce que",
+      "чтобы → pour que / afin que",
+      "хотя → bien que",
+      "когда → quand",
+      "если → si",
+      "как только → dès que"
+    ],
+    "examples": [
+      {
+        "example": "Я пришёл, потому что ты позвонил.",
+        "example_translit": "Ya prishyol, potomu chto ty pozvonil.",
+        "translation": "Je suis venu parce que tu as appelé."
+      },
+      {
+        "example": "Я сделал это, чтобы помочь.",
+        "example_translit": "Ya sdelal eto, chtoby pomoch'.",
+        "translation": "J’ai fait cela pour aider."
+      }
+    ],
+    "notes": [
+      "чтобы déclenche souvent un verbe au perfectif.",
+      "хотя est typique de la langue écrite."
+    ],
+    "level": 3
+  },
+  {
+    "title": "L’ordre des mots et l’inversion (инверсия)",
+    "explanation": "Le russe permet une grande liberté d’ordre des mots. Le choix modifie l’accent ou le sous-entendu.",
+    "rules": [
+      "Ordre neutre : sujet – verbe – complément",
+      "Inversion = insistance ou mise en contraste",
+      "Position finale → forte emphase",
+      "Position initiale → thème du discours"
+    ],
+    "examples": [
+      {
+        "example": "Я тебя люблю.",
+        "example_translit": "Ya tebya lyublyu.",
+        "translation": "Je t’aime."
+      },
+      {
+        "example": "Люблю я тебя...",
+        "example_translit": "Lyublyu ya tebya...",
+        "translation": "C’est toi que j’aime… (émotion, poésie)"
+      }
+    ],
+    "notes": [
+      "Très utilisé dans la littérature.",
+      "L’ordre des mots russe permet des effets impossibles en français."
+    ],
+    "level": 3
+  }
+]

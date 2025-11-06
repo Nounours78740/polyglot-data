@@ -1,0 +1,94 @@
+﻿[
+  {
+    "title": "Les articles définis et indéfinis",
+    "explanation": "Les articles italiens varient selon le genre (masculin/féminin), le nombre (singulier/pluriel), et la lettre qui commence le mot suivant.",
+    "rules": [
+      "Masculin singulier : il, lo, l'",
+      "Masculin pluriel : i, gli",
+      "Féminin singulier : la, l'",
+      "Féminin pluriel : le",
+      "Indéfinis (un/uno/una) : 'uno' devant s+consonne, z, ps, gn."
+    ],
+    "examples": [
+      {
+        "example": "Il cane",
+        "translation": "Le chien"
+      },
+      {
+        "example": "Una casa",
+        "translation": "Une maison"
+      }
+    ],
+    "notes": [
+      "À bien maîtriser : c’est le cœur de la structure italienne."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Le présent des verbes réguliers",
+    "explanation": "Les verbes italiens se divisent en trois groupes : -are, -ere, -ire. Le présent suit des schémas réguliers.",
+    "rules": [
+      "Parlare (are) → parlo, parli, parla, parliamo, parlate, parlano",
+      "Prendere (ere) → prendo, prendi, prende, prendiamo, prendete, prendono",
+      "Dormire (ire) → dormo, dormi, dorme, dormiamo, dormite, dormono"
+    ],
+    "examples": [
+      {
+        "example": "Parlo italiano.",
+        "translation": "Je parle italien."
+      },
+      {
+        "example": "Dormono molto.",
+        "translation": "Ils dorment beaucoup."
+      }
+    ],
+    "notes": [
+      "Beaucoup de verbes en -ire ajoutent -isc- : finire → finisco."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Être et avoir : essere & avere",
+    "explanation": "Les deux verbes fondamentaux en italien. Très irréguliers, omniprésents.",
+    "rules": [
+      "Essere → sono, sei, è, siamo, siete, sono",
+      "Avere → ho, hai, ha, abbiamo, avete, hanno"
+    ],
+    "examples": [
+      {
+        "example": "Sono felice.",
+        "translation": "Je suis heureux."
+      },
+      {
+        "example": "Hanno un gatto.",
+        "translation": "Ils ont un chat."
+      }
+    ],
+    "notes": [
+      "Essere s'utilise comme auxiliaire avec de nombreux verbes."
+    ],
+    "level": 1
+  },
+  {
+    "title": "La négation",
+    "explanation": "La négation est simple : on place 'non' devant le verbe.",
+    "rules": [
+      "Structure → non + verbe",
+      "Il n’y a pas de double négation obligatoire comme en français moderne."
+    ],
+    "examples": [
+      {
+        "example": "Non capisco.",
+        "translation": "Je ne comprends pas."
+      },
+      {
+        "example": "Non è vero.",
+        "translation": "Ce n’est pas vrai."
+      }
+    ],
+    "notes": [
+      "Très facile : toujours un seul mot."
+    ],
+    "level": 1
+  }
+]

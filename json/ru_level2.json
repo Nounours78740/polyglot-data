@@ -1,0 +1,925 @@
+﻿[
+  {
+    "word": "влияние",
+    "translit": "vliyaniye",
+    "translation": [ "influence", "impact" ],
+    "example": "Его слова оказали сильное влияние на решение.",
+    "example_translit": "Yego slova okazali silnoye vliyaniye na resheniye.",
+    "example_fr": "Ses paroles ont eu une forte influence sur la décision.",
+    "level": 2
+  },
+  {
+    "word": "принимать",
+    "translit": "prinimat'",
+    "translation": [ "accepter", "prendre (une décision)" ],
+    "example": "Нам нужно принять важное решение.",
+    "example_translit": "Nam nuzhno prinyat' vazhnoye resheniye.",
+    "example_fr": "Nous devons prendre une décision importante.",
+    "level": 2
+  },
+  {
+    "word": "повод",
+    "translit": "povod",
+    "translation": [ "raison", "prétexte", "occasion" ],
+    "example": "Это был хороший повод встретиться.",
+    "example_translit": "Eto byl khoroshiy povod vstretit'sya.",
+    "example_fr": "C’était une bonne occasion de se rencontrer.",
+    "level": 2
+  },
+  {
+    "word": "намерение",
+    "translit": "namereniye",
+    "translation": [ "intention" ],
+    "example": "У меня нет намерения тебя обманывать.",
+    "example_translit": "U menya net namereniya tebya obmanyvat'.",
+    "example_fr": "Je n’ai aucune intention de te tromper.",
+    "level": 2
+  },
+  {
+    "word": "учитывать",
+    "translit": "uchityvat'",
+    "translation": [ "prendre en compte", "considérer" ],
+    "example": "Мы должны учитывать все факты.",
+    "example_translit": "My dolzhny uchityvat' vse fakty.",
+    "example_fr": "Nous devons prendre en compte tous les faits.",
+    "level": 2
+  },
+  {
+    "word": "действовать",
+    "translit": "deystvovat'",
+    "translation": [ "agir", "fonctionner" ],
+    "example": "Пора действовать решительно.",
+    "example_translit": "Pora deystvovat' reshitil'no.",
+    "example_fr": "Il est temps d’agir avec détermination.",
+    "level": 2
+  },
+  {
+    "word": "сравнение",
+    "translit": "sravneniye",
+    "translation": [ "comparaison" ],
+    "example": "В сравнении с прошлым годом спрос вырос.",
+    "example_translit": "V sravnenii s proshlym godom spros vyros.",
+    "example_fr": "Comparé à l’an dernier, la demande a augmenté.",
+    "level": 2
+  },
+  {
+    "word": "прибыль",
+    "translit": "pribyl'",
+    "translation": [ "profit", "bénéfice" ],
+    "example": "Компания получила значительную прибыль.",
+    "example_translit": "Kompaniya poluchila znachitel'nuyu pribyl'.",
+    "example_fr": "L’entreprise a réalisé un bénéfice important.",
+    "level": 2
+  },
+  {
+    "word": "терпение",
+    "translit": "terpeniye",
+    "translation": [ "patience" ],
+    "example": "Терпение — это добродетель.",
+    "example_translit": "Terpeniye — eto dobrodetel'.",
+    "example_fr": "La patience est une vertu.",
+    "level": 2
+  },
+  {
+    "word": "впечатление",
+    "translit": "vpechatleniye",
+    "translation": [ "impression" ],
+    "example": "Он произвёл хорошее впечатление.",
+    "example_translit": "On proizvyol khoroshye vpechatleniye.",
+    "example_fr": "Il a fait une bonne impression.",
+    "level": 2
+  },
+
+  {
+    "word": "потребность",
+    "translit": "potrebnost'",
+    "translation": [ "besoin (humain)", "nécessité" ],
+    "example": "Потребность в общении важна для всех.",
+    "example_translit": "Potrebnost' v obshchenii vazhna dlya vsekh.",
+    "example_fr": "Le besoin de communiquer est important pour tous.",
+    "level": 2
+  },
+  {
+    "word": "предложение",
+    "translit": "predlozheniye",
+    "translation": [ "offre", "proposition" ],
+    "example": "Я получил интересное предложение о работе.",
+    "example_translit": "Ya poluchil interesnoye predlozheniye o rabote.",
+    "example_fr": "J’ai reçu une offre d’emploi intéressante.",
+    "level": 2
+  },
+  {
+    "word": "сомнение",
+    "translit": "somneniye",
+    "translation": [ "doute" ],
+    "example": "У меня есть сомнения насчёт этого решения.",
+    "example_translit": "U menya yest' somneniya naschyot etogo resheniya.",
+    "example_fr": "J’ai des doutes concernant cette décision.",
+    "level": 2
+  },
+  {
+    "word": "утверждать",
+    "translit": "utverzhdat'",
+    "translation": [ "affirmer", "soutenir" ],
+    "example": "Он утверждает, что говорит правду.",
+    "example_translit": "On utverzhdayet, chto govorit pravdu.",
+    "example_fr": "Il affirme qu’il dit la vérité.",
+    "level": 2
+  },
+  {
+    "word": "выражать",
+    "translit": "vyrazhat'",
+    "translation": [ "exprimer" ],
+    "example": "Она умеет чётко выражать свои мысли.",
+    "example_translit": "Ona umeyet chyotko vyrazhat' svoi mysli.",
+    "example_fr": "Elle sait exprimer clairement ses idées.",
+    "level": 2
+  },
+  {
+    "word": "отношение",
+    "translit": "otnosheniye",
+    "translation": [ "relation", "attitude" ],
+    "example": "У него положительное отношение к работе.",
+    "example_translit": "U nego polozhitel'noye otnosheniye k rabote.",
+    "example_fr": "Il a une attitude positive envers le travail.",
+    "level": 2
+  },
+  {
+    "word": "обстоятельство",
+    "translit": "obstoyatel'stvo",
+    "translation": [ "circonstance" ],
+    "example": "Обстоятельства изменились.",
+    "example_translit": "Obstoyatel'stva izmenilis'.",
+    "example_fr": "Les circonstances ont changé.",
+    "level": 2
+  },
+  {
+    "word": "ощущение",
+    "translit": "oshchushcheniye",
+    "translation": [ "sensation", "sentiment" ],
+    "example": "У меня было странное ощущение.",
+    "example_translit": "U menya bylo strannoye oshchushcheniye.",
+    "example_fr": "J’ai eu une étrange sensation.",
+    "level": 2
+  },
+  {
+    "word": "забота",
+    "translit": "zabota",
+    "translation": [ "soin", "préoccupation" ],
+    "example": "Он проявляет заботу о своей семье.",
+    "example_translit": "On proyavlyayet zabotu o svoey sem'ye.",
+    "example_fr": "Il prend soin de sa famille.",
+    "level": 2
+  },
+  {
+    "word": "справляться",
+    "translit": "spravlyat'sya",
+    "translation": [ "s’en sortir", "gérer" ],
+    "example": "Она хорошо справляется со стрессом.",
+    "example_translit": "Ona khorosho spravlyayetsya so stressom.",
+    "example_fr": "Elle gère bien le stress.",
+    "level": 2
+  },
+  {
+    "word": "достижение",
+    "translit": "dostizheniye",
+    "translation": [ "accomplissement", "réalisation", "succès" ],
+    "example": "Это важное достижение для всей команды.",
+    "example_translit": "Eto vazhnoye dostizheniye dlya vsey komandy.",
+    "example_fr": "C’est une réalisation importante pour toute l’équipe.",
+    "level": 2
+  },
+  {
+    "word": "убеждение",
+    "translit": "ubezhdeniye",
+    "translation": [ "conviction", "croyance" ],
+    "example": "Он твёрдо придерживается своих убеждений.",
+    "example_translit": "On tvyordo priderzhivayetsya svoikh ubezhdeniy.",
+    "example_fr": "Il s’en tient fermement à ses convictions.",
+    "level": 2
+  },
+  {
+    "word": "подозрение",
+    "translit": "podozreniye",
+    "translation": [ "soupçon", "suspicion" ],
+    "example": "У них есть подозрения по поводу его слов.",
+    "example_translit": "U nikh yest' podozreniya po povodu yego slov.",
+    "example_fr": "Ils ont des soupçons concernant ses paroles.",
+    "level": 2
+  },
+  {
+    "word": "взаимодействие",
+    "translit": "vzaimodeystviye",
+    "translation": [ "interaction", "collaboration" ],
+    "example": "Эффективное взаимодействие важно для успеха.",
+    "example_translit": "Effektivnoye vzaimodeystviye vazhno dlya uspekha.",
+    "example_fr": "Une interaction efficace est importante pour la réussite.",
+    "level": 2
+  },
+  {
+    "word": "возможность",
+    "translit": "vozmozhnost'",
+    "translation": [ "possibilité", "opportunité" ],
+    "example": "У нас есть возможность улучшить результаты.",
+    "example_translit": "U nas yest' vozmozhnost' uluchshit' rezultaty.",
+    "example_fr": "Nous avons la possibilité d’améliorer les résultats.",
+    "level": 2
+  },
+  {
+    "word": "признание",
+    "translit": "priznaniye",
+    "translation": [ "reconnaissance", "aveu" ],
+    "example": "Он получил признание за свою работу.",
+    "example_translit": "On poluchil priznaniye za svoyu rabotu.",
+    "example_fr": "Il a reçu de la reconnaissance pour son travail.",
+    "level": 2
+  },
+  {
+    "word": "сопротивление",
+    "translit": "soprotivleniye",
+    "translation": [ "résistance", "opposition" ],
+    "example": "Мы столкнулись с серьёзным сопротивлением.",
+    "example_translit": "My stolknulis' s seryoznym soprotivleniyem.",
+    "example_fr": "Nous avons rencontré une résistance importante.",
+    "level": 2
+  },
+  {
+    "word": "обсуждение",
+    "translit": "obsuzhdeniye",
+    "translation": [ "discussion", "débat" ],
+    "example": "Это требует дополнительного обсуждения.",
+    "example_translit": "Eto trebuet dopolnitel'nogo obsuzhdeniya.",
+    "example_fr": "Cela nécessite une discussion supplémentaire.",
+    "level": 2
+  },
+  {
+    "word": "поддерживать",
+    "translit": "podderzhivat'",
+    "translation": [ "soutenir", "maintenir" ],
+    "example": "Мы должны поддерживать этот уровень качества.",
+    "example_translit": "My dolzhny podderzhivat' etot uroven' kachestva.",
+    "example_fr": "Nous devons maintenir ce niveau de qualité.",
+    "level": 2
+  },
+  {
+    "word": "отвечать",
+    "translit": "otvechat'",
+    "translation": [ "répondre", "être responsable de" ],
+    "example": "Он отвечает за этот проект.",
+    "example_translit": "On otvechayet za etot proyekt.",
+    "example_fr": "Il est responsable de ce projet.",
+    "level": 2
+  },
+
+  {
+    "word": "способность",
+    "translit": "sposobnost'",
+    "translation": [ "capacité", "aptitude" ],
+    "example": "У неё есть способность быстро учиться.",
+    "example_translit": "U neyo yest' sposobnost' bystro uchit'sya.",
+    "example_fr": "Elle a la capacité d’apprendre rapidement.",
+    "level": 2
+  },
+  {
+    "word": "совпадение",
+    "translit": "sovpadeniye",
+    "translation": [ "coïncidence" ],
+    "example": "Это странное совпадение.",
+    "example_translit": "Eto strannoye sovpadeniye.",
+    "example_fr": "C’est une étrange coïncidence.",
+    "level": 2
+  },
+  {
+    "word": "воздействие",
+    "translit": "vozdestviye",
+    "translation": [ "influence", "effet" ],
+    "example": "Солнце оказывает сильное воздействие на кожу.",
+    "example_translit": "Solntse okazyvayet sil'noye vozdestviye na kozhu.",
+    "example_fr": "Le soleil a un fort effet sur la peau.",
+    "level": 2
+  },
+  {
+    "word": "недостаток",
+    "translit": "nedostatok",
+    "translation": [ "manque", "défaut" ],
+    "example": "У этого метода есть недостатки.",
+    "example_translit": "U etogo metoda yest' nedostatki.",
+    "example_fr": "Cette méthode présente des défauts.",
+    "level": 2
+  },
+  {
+    "word": "препятствие",
+    "translit": "prepyatstviye",
+    "translation": [ "obstacle" ],
+    "example": "Мы преодолели все препятствия.",
+    "example_translit": "My preodoleli vse prepyatstviya.",
+    "example_fr": "Nous avons surmonté tous les obstacles.",
+    "level": 2
+  },
+  {
+    "word": "убеждать",
+    "translit": "ubezhdat'",
+    "translation": [ "convaincre" ],
+    "example": "Мне пришлось долго его убеждать.",
+    "example_translit": "Mne prishlos' dolgo yego ubezhdat'.",
+    "example_fr": "J’ai dû le convaincre longtemps.",
+    "level": 2
+  },
+  {
+    "word": "привычка",
+    "translit": "privychka",
+    "translation": [ "habitude" ],
+    "example": "У него есть привычка вставать рано.",
+    "example_translit": "U nego yest' privychka vstavát' rano.",
+    "example_fr": "Il a l’habitude de se lever tôt.",
+    "level": 2
+  },
+  {
+    "word": "страдание",
+    "translit": "stradaniye",
+    "translation": [ "souffrance" ],
+    "example": "Он испытал много страданий.",
+    "example_translit": "On ispytal mnogo stradaniy.",
+    "example_fr": "Il a enduré beaucoup de souffrances.",
+    "level": 2
+  },
+  {
+    "word": "свойство",
+    "translit": "svoystvo",
+    "translation": [ "propriété", "caractéristique" ],
+    "example": "Это свойство делает материал уникальным.",
+    "example_translit": "Eto svoystvo delayet material unikal'nym.",
+    "example_fr": "Cette propriété rend le matériau unique.",
+    "level": 2
+  },
+  {
+    "word": "источник",
+    "translit": "istochnik",
+    "translation": [ "source", "origine" ],
+    "example": "Мы нашли источник проблемы.",
+    "example_translit": "My nashli istochnik problemy.",
+    "example_fr": "Nous avons trouvé la source du problème.",
+    "level": 2
+  },
+  {
+    "word": "разочарование",
+    "translit": "razocharovaniye",
+    "translation": [ "déception", "désillusion" ],
+    "example": "Он не скрывал своего разочарования.",
+    "example_translit": "On ne skryval svoyego razocharovaniya.",
+    "example_fr": "Il ne cachait pas sa déception.",
+    "level": 2
+  },
+  {
+    "word": "подход",
+    "translit": "podkhod",
+    "translation": [ "approche", "méthode" ],
+    "example": "Этот подход не всегда работает.",
+    "example_translit": "Etot podkhod ne vsegda rabotayet.",
+    "example_fr": "Cette approche ne fonctionne pas toujours.",
+    "level": 2
+  },
+  {
+    "word": "увеличение",
+    "translit": "uvelicheniye",
+    "translation": [ "augmentation", "croissance" ],
+    "example": "Мы заметили увеличение спроса.",
+    "example_translit": "My zametili uvelicheniye sprosa.",
+    "example_fr": "Nous avons remarqué une hausse de la demande.",
+    "level": 2
+  },
+  {
+    "word": "уверенность",
+    "translit": "uverennoct'",
+    "translation": [ "confiance", "assurance" ],
+    "example": "Она говорила с полной уверенностью.",
+    "example_translit": "Ona govorila s polnoy uverennost'yu.",
+    "example_fr": "Elle parlait avec une totale assurance.",
+    "level": 2
+  },
+  {
+    "word": "развитие",
+    "translit": "razvitiye",
+    "translation": [ "développement", "progrès" ],
+    "example": "Технологическое развитие идёт быстро.",
+    "example_translit": "Tekhnologicheskoye razvitiye idyot bystro.",
+    "example_fr": "Le développement technologique avance rapidement.",
+    "level": 2
+  },
+  {
+    "word": "представление",
+    "translit": "predstavleniye",
+    "translation": [ "représentation", "idée" ],
+    "example": "У них разное представление о ситуации.",
+    "example_translit": "U nikh raznoye predstavleniye o situatsii.",
+    "example_fr": "Ils ont une idée différente de la situation.",
+    "level": 2
+  },
+  {
+    "word": "попытка",
+    "translit": "popytka",
+    "translation": [ "tentative", "essai" ],
+    "example": "Это была его последняя попытка.",
+    "example_translit": "Eto byla yego poslednyaya popytka.",
+    "example_fr": "C’était sa dernière tentative.",
+    "level": 2
+  },
+  {
+    "word": "осознание",
+    "translit": "osoznanije",
+    "translation": [ "prise de conscience" ],
+    "example": "К нему пришло осознание ошибки.",
+    "example_translit": "K nemu prishlo osoznaniye oshibki.",
+    "example_fr": "Il a pris conscience de son erreur.",
+    "level": 2
+  },
+  {
+    "word": "подробность",
+    "translit": "podrobnost'",
+    "translation": [ "détail" ],
+    "example": "Расскажи все подробности.",
+    "example_translit": "Rasskazhi vse podrobnosti.",
+    "example_fr": "Raconte tous les détails.",
+    "level": 2
+  },
+  {
+    "word": "разница",
+    "translit": "raznitsa",
+    "translation": [ "différence" ],
+    "example": "Между ними большая разница.",
+    "example_translit": "Mezhdu nimi bol'shaya raznitsa.",
+    "example_fr": "Il y a une grande différence entre eux.",
+    "level": 2
+  },
+
+  {
+    "word": "ограничение",
+    "translit": "ogranicheniye",
+    "translation": [ "limitation", "restriction" ],
+    "example": "Есть некоторые ограничения по времени.",
+    "example_translit": "Yest' nekotoryye ogranicheniya po vremeni.",
+    "example_fr": "Il y a certaines restrictions de temps.",
+    "level": 2
+  },
+  {
+    "word": "подчёркивать",
+    "translit": "podchorkivat'",
+    "translation": [ "souligner", "mettre en avant" ],
+    "example": "Я хочу подчеркнуть важность этого вопроса.",
+    "example_translit": "Ya khochu podcherknut' vazhnost' etogo voprosa.",
+    "example_fr": "Je veux souligner l’importance de cette question.",
+    "level": 2
+  },
+  {
+    "word": "удовлетворение",
+    "translit": "udovletvoreniye",
+    "translation": [ "satisfaction" ],
+    "example": "Он получил удовлетворение от результата.",
+    "example_translit": "On poluchil udovletvoreniye ot rezultata.",
+    "example_fr": "Il a eu de la satisfaction du résultat.",
+    "level": 2
+  },
+  {
+    "word": "снижение",
+    "translit": "snizheniye",
+    "translation": [ "réduction", "diminution" ],
+    "example": "Мы добились снижения расходов.",
+    "example_translit": "My dobilis' snizheniya raskhodov.",
+    "example_fr": "Nous avons réussi à réduire les dépenses.",
+    "level": 2
+  },
+  {
+    "word": "стремление",
+    "translit": "stremleniye",
+    "translation": [ "aspiration", "tendance" ],
+    "example": "У неё есть стремление к совершенству.",
+    "example_translit": "U neyo yest' stremleniye k sovershenstvu.",
+    "example_fr": "Elle a une aspiration à la perfection.",
+    "level": 2
+  },
+  {
+    "word": "огромный",
+    "translit": "ogromnyy",
+    "translation": [ "énorme", "immense" ],
+    "example": "Это огромный шаг вперёд.",
+    "example_translit": "Eto ogromnyy shag vperyod.",
+    "example_fr": "C’est un immense pas en avant.",
+    "level": 2
+  },
+  {
+    "word": "убежище",
+    "translit": "ubezhishche",
+    "translation": [ "refuge", "abri" ],
+    "example": "Мы нашли убежище от дождя.",
+    "example_translit": "My nashli ubezhishche ot dozhdya.",
+    "example_fr": "Nous avons trouvé un abri contre la pluie.",
+    "level": 2
+  },
+  {
+    "word": "спор",
+    "translit": "spor",
+    "translation": [ "dispute", "controverse" ],
+    "example": "Между ними возник спор.",
+    "example_translit": "Mezhdu nimi voznik spor.",
+    "example_fr": "Une dispute a éclaté entre eux.",
+    "level": 2
+  },
+  {
+    "word": "способствовать",
+    "translit": "sposobstvovat'",
+    "translation": [ "favoriser", "contribuer à" ],
+    "example": "Это должно способствовать нашему успеху.",
+    "example_translit": "Eto dolzhno sposobstvovat' nashemu uspekhu.",
+    "example_fr": "Cela devrait contribuer à notre réussite.",
+    "level": 2
+  },
+  {
+    "word": "заметка",
+    "translit": "zametka",
+    "translation": [ "note", "annotation" ],
+    "example": "Он сделал заметку в блокноте.",
+    "example_translit": "On sdelal zametku v bloknote.",
+    "example_fr": "Il a pris une note dans son carnet.",
+    "level": 2
+  },
+
+  {
+    "word": "ценность",
+    "translit": "tsennost'",
+    "translation": [ "valeur", "importance" ],
+    "example": "Эта книга имеет большую ценность.",
+    "example_translit": "Eta kniga imeyet bol'shuyu tsennost'.",
+    "example_fr": "Ce livre a une grande valeur.",
+    "level": 2
+  },
+  {
+    "word": "обида",
+    "translit": "obida",
+    "translation": [ "offense", "rancœur" ],
+    "example": "Он долго держал обиду.",
+    "example_translit": "On dolgo derzhal obidu.",
+    "example_fr": "Il a longtemps gardé de la rancœur.",
+    "level": 2
+  },
+  {
+    "word": "молчание",
+    "translit": "molchaniye",
+    "translation": [ "silence" ],
+    "example": "Молчание было красноречивее слов.",
+    "example_translit": "Molchaniye bylo krasnorechiveye slov.",
+    "example_fr": "Le silence en disait plus que les mots.",
+    "level": 2
+  },
+  {
+    "word": "расход",
+    "translit": "raskhod",
+    "translation": [ "dépense", "coût" ],
+    "example": "Нам нужно сократить расходы.",
+    "example_translit": "Nam nuzhno sokratit' raskhody.",
+    "example_fr": "Nous devons réduire les dépenses.",
+    "level": 2
+  },
+  {
+    "word": "согласие",
+    "translit": "soglasiye",
+    "translation": [ "accord", "consentement" ],
+    "example": "Он дал своё согласие.",
+    "example_translit": "On dal svoyo soglasiye.",
+    "example_fr": "Il a donné son accord.",
+    "level": 2
+  },
+  {
+    "word": "поддержка",
+    "translit": "podderzhka",
+    "translation": [ "soutien", "appui" ],
+    "example": "Она всегда оказывает мне поддержку.",
+    "example_translit": "Ona vsegda okazivayet mne podderzhku.",
+    "example_fr": "Elle me soutient toujours.",
+    "level": 2
+  },
+  {
+    "word": "прощение",
+    "translit": "proshcheniye",
+    "translation": [ "pardon", "absolution" ],
+    "example": "Иногда прощение — лучший путь.",
+    "example_translit": "Inogda proshcheniye — luchshiy put'.",
+    "example_fr": "Parfois, le pardon est le meilleur chemin.",
+    "level": 2
+  },
+  {
+    "word": "обеспечение",
+    "translit": "obespecheniye",
+    "translation": [ "assurance", "garantie", "provisionnement" ],
+    "example": "Они работают над обеспечением безопасности.",
+    "example_translit": "Oni rabotayut nad obespecheniyem bezopasnosti.",
+    "example_fr": "Ils travaillent à assurer la sécurité.",
+    "level": 2
+  },
+  {
+    "word": "размышление",
+    "translit": "razmyshleniye",
+    "translation": [ "réflexion", "méditation" ],
+    "example": "Мне нужно время для размышления.",
+    "example_translit": "Mne nuzhno vremya dlya razmyshleniya.",
+    "example_fr": "J’ai besoin de temps pour réfléchir.",
+    "level": 2
+  },
+  {
+    "word": "неопределённость",
+    "translit": "neopredelyonnost'",
+    "translation": [ "incertitude" ],
+    "example": "В воздухе чувствовалась неопределённость.",
+    "example_translit": "V vozdukhe chuvstvovalas' neopredelyonnost'.",
+    "example_fr": "On ressentait une certaine incertitude dans l’air.",
+    "level": 2
+  },
+  {
+    "word": "осложнение",
+    "translit": "oslozhneniye",
+    "translation": [ "complication" ],
+    "example": "Ситуация вызвала новые осложнения.",
+    "example_translit": "Situatsiya vyzvala novyye oslozhneniya.",
+    "example_fr": "La situation a provoqué de nouvelles complications.",
+    "level": 2
+  },
+  {
+    "word": "переход",
+    "translit": "perekhod",
+    "translation": [ "transition", "passage" ],
+    "example": "Переход занял больше времени, чем ожидалось.",
+    "example_translit": "Perekhod zanyal bol'she vremeni, chem ozhidalos'.",
+    "example_fr": "La transition a pris plus de temps que prévu.",
+    "level": 2
+  },
+  {
+    "word": "проявление",
+    "translit": "proyavleniye",
+    "translation": [ "manifestation", "expression" ],
+    "example": "Это проявление искренних чувств.",
+    "example_translit": "Eto proyavleniye iskrennikh chuvstv.",
+    "example_fr": "C’est une manifestation de sentiments sincères.",
+    "level": 2
+  },
+  {
+    "word": "угроза",
+    "translit": "ugroza",
+    "translation": [ "menace", "danger" ],
+    "example": "Существовала реальная угроза срыва проекта.",
+    "example_translit": "Sushchestvovala real'naya ugroza sryva proekta.",
+    "example_fr": "Il y avait une réelle menace d’échec du projet.",
+    "level": 2
+  },
+  {
+    "word": "указание",
+    "translit": "ukazaniye",
+    "translation": [ "instruction", "directive" ],
+    "example": "Мы получили чёткие указания.",
+    "example_translit": "My poluchili chyotkiye ukazaniya.",
+    "example_fr": "Nous avons reçu des instructions claires.",
+    "level": 2
+  },
+  {
+    "word": "выносливость",
+    "translit": "vynoslivost'",
+    "translation": [ "endurance", "résistance" ],
+    "example": "Его выносливость впечатляет.",
+    "example_translit": "Yego vynoslivost' vpechatlyayet.",
+    "example_fr": "Son endurance est impressionnante.",
+    "level": 2
+  },
+  {
+    "word": "сомневаться",
+    "translit": "somnevat'sya",
+    "translation": [ "douter" ],
+    "example": "Я начинаю сомневаться в этом плане.",
+    "example_translit": "Ya nachinayu somnevat'sya v etom plane.",
+    "example_fr": "Je commence à douter de ce plan.",
+    "level": 2
+  },
+  {
+    "word": "исключение",
+    "translit": "isklyucheniye",
+    "translation": [ "exception" ],
+    "example": "Это всего лишь исключение.",
+    "example_translit": "Eto vsego lish' isklyucheniye.",
+    "example_fr": "Ce n’est qu’une exception.",
+    "level": 2
+  },
+  {
+    "word": "обновление",
+    "translit": "obnovleniye",
+    "translation": [ "mise à jour", "renouvellement" ],
+    "example": "Требуется обновление программы.",
+    "example_translit": "Trebuyetsya obnovleniye programmy.",
+    "example_fr": "Une mise à jour du programme est nécessaire.",
+    "level": 2
+  },
+  {
+    "word": "устойчивость",
+    "translit": "ustoychivost'",
+    "translation": [ "stabilité", "résilience" ],
+    "example": "Экономическая устойчивость важна для страны.",
+    "example_translit": "Ekonomicheskaya ustoychivost' vazhna dlya strany.",
+    "example_fr": "La stabilité économique est importante pour le pays.",
+    "level": 2
+  },
+  {
+    "word": "распространение",
+    "translit": "rasprostraneniye",
+    "translation": [ "diffusion", "propagation" ],
+    "example": "Распределение информации было быстрым.",
+    "example_translit": "Rasprostraneniye informatsii bylo bystrym.",
+    "example_fr": "La diffusion de l’information a été rapide.",
+    "level": 2
+  },
+  {
+    "word": "преимущество",
+    "translit": "preimushchestvo",
+    "translation": [ "avantage", "atout" ],
+    "example": "Это даёт нам значительное преимущество.",
+    "example_translit": "Eto dayot nam znachitel'noye preimushchestvo.",
+    "example_fr": "Cela nous donne un avantage significatif.",
+    "level": 2
+  },
+  {
+    "word": "предположение",
+    "translit": "predpolozheniye",
+    "translation": [ "supposition", "hypothèse" ],
+    "example": "Ваше предположение оказалось правильным.",
+    "example_translit": "Vashe predpolozheniye okazalos' pravil'nym.",
+    "example_fr": "Votre hypothèse s’est révélée correcte.",
+    "level": 2
+  },
+  {
+    "word": "затруднение",
+    "translit": "zatrudneniye",
+    "translation": [ "difficulté", "embarras" ],
+    "example": "У меня возникли некоторые затруднения.",
+    "example_translit": "U menya voznikli nekotoryye zatrudneniya.",
+    "example_fr": "J’ai rencontré certaines difficultés.",
+    "level": 2
+  },
+  {
+    "word": "приоритет",
+    "translit": "prioritet",
+    "translation": [ "priorité" ],
+    "example": "Безопасность является нашим приоритетом.",
+    "example_translit": "Bezopasnost' yavlyayetsya nashim prioritetom.",
+    "example_fr": "La sécurité est notre priorité.",
+    "level": 2
+  },
+  {
+    "word": "столкновение",
+    "translit": "stolknoveniye",
+    "translation": [ "conflit", "collision" ],
+    "example": "Произошло столкновение интересов.",
+    "example_translit": "Proizoshlo stolknoveniye interesov.",
+    "example_fr": "Il y a eu un conflit d’intérêts.",
+    "level": 2
+  },
+  {
+    "word": "освобождение",
+    "translit": "osvobozhdeniye",
+    "translation": [ "libération", "délivrance" ],
+    "example": "Он чувствовал освобождение после разговора.",
+    "example_translit": "On chuvstvoval osvobozhdeniye posle razgovora.",
+    "example_fr": "Il a ressenti une libération après la discussion.",
+    "level": 2
+  },
+  {
+    "word": "участие",
+    "translit": "uchastiye",
+    "translation": [ "participation" ],
+    "example": "Спасибо за участие в проекте.",
+    "example_translit": "Spasibo za uchastiye v proyekte.",
+    "example_fr": "Merci pour votre participation au projet.",
+    "level": 2
+  },
+  {
+    "word": "переживание",
+    "translit": "perezhivaniye",
+    "translation": [ "émotion", "souci" ],
+    "example": "У неё было много переживаний.",
+    "example_translit": "U neyo bylo mnogo perezhivaniy.",
+    "example_fr": "Elle avait beaucoup d’inquiétudes.",
+    "level": 2
+  },
+  {
+    "word": "гарантия",
+    "translit": "garantiya",
+    "translation": [ "garantie" ],
+    "example": "Эта услуга идёт с гарантией.",
+    "example_translit": "Eta usluga idyot s garantiey.",
+    "example_fr": "Ce service est fourni avec une garantie.",
+    "level": 2
+  },
+  {
+    "word": "признательность",
+    "translit": "priznatel'nost'",
+    "translation": [ "gratitude", "reconnaissance" ],
+    "example": "Он выразил признательность за помощь.",
+    "example_translit": "On vyrazil priznatel'nost' za pomoshch'.",
+    "example_fr": "Il a exprimé sa gratitude pour l'aide.",
+    "level": 2
+  },
+  {
+    "word": "представитель",
+    "translit": "predstavitel'",
+    "translation": [ "représentant" ],
+    "example": "Он является представителем компании.",
+    "example_translit": "On yavlyayetsya predstavitelem kompanii.",
+    "example_fr": "Il est le représentant de l’entreprise.",
+    "level": 2
+  },
+  {
+    "word": "разработка",
+    "translit": "razrabotka",
+    "translation": [ "développement", "élaboration" ],
+    "example": "Идёт разработка нового проекта.",
+    "example_translit": "Idyot razrabotka novogo proekta.",
+    "example_fr": "Le développement du nouveau projet est en cours.",
+    "level": 2
+  },
+  {
+    "word": "выступление",
+    "translit": "vystupleniye",
+    "translation": [ "discours", "performance" ],
+    "example": "Его выступление всем понравилось.",
+    "example_translit": "Yego vystupleniye vsem ponravilos'.",
+    "example_fr": "Son discours a plu à tout le monde.",
+    "level": 2
+  },
+  {
+    "word": "поражение",
+    "translit": "porazheniye",
+    "translation": [ "défaite", "perte" ],
+    "example": "Поражение стало для них уроком.",
+    "example_translit": "Porazheniye stalo dlya nikh urokom.",
+    "example_fr": "La défaite a été une leçon pour eux.",
+    "level": 2
+  },
+  {
+    "word": "обнаружение",
+    "translit": "obnaruzheniye",
+    "translation": [ "découverte", "détection" ],
+    "example": "Обнаружение ошибки заняло много времени.",
+    "example_translit": "Obnaruzheniye oshibki zanyalo mnogo vremeni.",
+    "example_fr": "La détection de l’erreur a pris beaucoup de temps.",
+    "level": 2
+  },
+  {
+    "word": "воспоминание",
+    "translit": "vospominaniye",
+    "translation": [ "souvenir" ],
+    "example": "Это одно из моих лучших воспоминаний.",
+    "example_translit": "Eto odno iz moikh luchshikh vospominaniy.",
+    "example_fr": "C’est l’un de mes meilleurs souvenirs.",
+    "level": 2
+  },
+  {
+    "word": "навык",
+    "translit": "navyk",
+    "translation": [ "compétence", "habileté" ],
+    "example": "Этот навык нужно постоянно тренировать.",
+    "example_translit": "Etot navik nuzhno postoyanno trenirovat'.",
+    "example_fr": "Cette compétence doit être entraînée régulièrement.",
+    "level": 2
+  },
+  {
+    "word": "назначение",
+    "translit": "naznacheniye",
+    "translation": [ "nomination", "destination" ],
+    "example": "Он получил назначение на новую должность.",
+    "example_translit": "On poluchil naznacheniye na novuyu dolzhnost'.",
+    "example_fr": "Il a été nommé à un nouveau poste.",
+    "level": 2
+  },
+  {
+    "word": "сопричастность",
+    "translit": "soprichastnost'",
+    "translation": [ "implication", "participation" ],
+    "example": "Он почувствовал сопричастность к общему делу.",
+    "example_translit": "On pochuvstvoval soprichastnost' k obshchemu delu.",
+    "example_fr": "Il s’est senti impliqué dans l’effort collectif.",
+    "level": 2
+  },
+  {
+    "word": "последствие",
+    "translit": "posledstviye",
+    "translation": [ "conséquence" ],
+    "example": "Мы должны учитывать возможные последствия.",
+    "example_translit": "My dolzhny uchityvat' vozmozhnye posledstviya.",
+    "example_fr": "Nous devons tenir compte des conséquences possibles.",
+    "level": 2
+  },
+  {
+    "word": "сведение",
+    "translit": "svedeniye",
+    "translation": [ "information", "donnée" ],
+    "example": "Эти сведения оказались полезными.",
+    "example_translit": "Eti svedeniya okazalis' poleznymi.",
+    "example_fr": "Ces informations se sont révélées utiles.",
+    "level": 2
+  }
+
+]

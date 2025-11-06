@@ -1,0 +1,161 @@
+﻿[
+  {
+    "title": "Les dérivations verbales : Formes II à X",
+    "explanation": "Les verbes en arabe dérivent d’une racine trilittère. Les formes II à X modifient le sens : intensité, répétition, causation, réciprocité, demande, association, etc.",
+    "rules": [
+      "Forme II (فعّل) : intensif / causatif → درّس = enseigner (faire étudier).",
+      "Forme III (فاعل) : participation / interaction → شَارَكَ = participer.",
+      "Forme IV (أفعل) : causatif direct → أَكْرَمَ = honorer.",
+      "Forme V (تفعّل) : réfléchi / interne → تَعَلَّم = apprendre.",
+      "Forme VI (تفاعل) : réciproque → تَقَابَل = se rencontrer.",
+      "Forme VII (انفعل) : passif interne → اِنْكَسَر = se casser.",
+      "Forme VIII (افتعل) : effort / engagement → اِجْتَهَد = faire des efforts.",
+      "Forme IX (افعلّ) : couleurs et défauts → اِحْمَرَّ = rougir.",
+      "Forme X (استفعل) : demande / considération → اِسْتَفْهَم = demander des explications."
+    ],
+    "examples": [
+      {
+        "example": "درّس المعلم الدرس.",
+        "example_translit_litteral": "darrasa al-muʿallimu ad-darsa",
+        "example_egyptian": "المعلم درس الدرس.",
+        "example_translit_egyptian": "il-muʿallim darris id-dars",
+        "translation": "L’enseignant a enseigné la leçon."
+      },
+      {
+        "example": "اجتهد الطالب في العمل.",
+        "example_translit_litteral": "ijtahada aṭ-ṭālib fī al-ʿamal",
+        "example_egyptian": "الطالب اجتهد في الشغل.",
+        "example_translit_egyptian": "iṭ-ṭālib igtahid fish-shughl",
+        "translation": "L’étudiant a fait un grand effort dans son travail."
+      }
+    ],
+    "notes": [
+      "Les dérivations transforment souvent radicalement le sens.",
+      "Niveau essentiel pour comprendre journaux, politique, littérature."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Le subjonctif arabe (المضارع المنصوب)",
+    "explanation": "Le subjonctif en arabe n’est pas un mode indépendant mais une forme du présent influencée par certaines particules, notamment ‘أنْ’ (que), ‘لن’ (ne … jamais au futur), ‘لكي’ (afin que). La terminaison finale change.",
+    "rules": [
+      "Après أنْ : أريد أن أكتب = je veux écrire.",
+      "Après لن : لن أفعل = je ne ferai pas.",
+      "Terminaisons subjonctives : a-a, a-ī, a-ū.",
+      "En égyptien : la distinction disparaît presque totalement."
+    ],
+    "examples": [
+      {
+        "example": "أريد أن أتعلم العربية.",
+        "example_translit_litteral": "urīdu an ataʿallama al-ʿarabiyya",
+        "example_egyptian": "عايز أتعلم عربي.",
+        "example_translit_egyptian": "ʿāyez atʿallim ʿarabi",
+        "translation": "Je veux apprendre l’arabe."
+      },
+      {
+        "example": "لن أترك العمل.",
+        "example_translit_litteral": "lan atruka al-ʿamala",
+        "example_egyptian": "مش هسيب الشغل.",
+        "example_translit_egyptian": "mish hasīb ish-shughl",
+        "translation": "Je ne quitterai pas le travail."
+      }
+    ],
+    "notes": [
+      "Le MSA maintient le subjonctif strictement.",
+      "L’égyptien remplace les nuances grammaticales par des particules."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Le jussif (المجزوم) : ordre, condition, interdiction",
+    "explanation": "Le jussif est la forme du verbe après certaines particules conditionnelles, négatives ou d’interdiction. Il exprime soit l’ordre, soit la condition, soit la négation stricte.",
+    "rules": [
+      "Après لا الناهية (interdiction) → لا تكتبْ = n’écris pas.",
+      "Après lam (لم) → لم أفعلْ = je n’ai pas fait.",
+      "Après la conditionnelle إنْ → إن تدرسْ تنجحْ.",
+      "Terminaison : chute du nūn pour les verbes pluriels."
+    ],
+    "examples": [
+      {
+        "example": "لا تذهبْ الآن.",
+        "example_translit_litteral": "lā tadhhab al-ān",
+        "example_egyptian": "ما تروحش دلوقتي.",
+        "example_translit_egyptian": "ma trūḥsh dilwa’ti",
+        "translation": "Ne pars pas maintenant."
+      },
+      {
+        "example": "إن تعملْ تنجحْ.",
+        "example_translit_litteral": "in taʿmal tanjaḥ",
+        "example_egyptian": "لو تشتغل تنجح.",
+        "example_translit_egyptian": "law tishtaghal tinggaḥ",
+        "translation": "Si tu travailles, tu réussiras."
+      }
+    ],
+    "notes": [
+      "En MSA, la vocalisation jussive est obligatoire.",
+      "L’égyptien remplace le jussif par ‘ma…sh’ ou ‘law’."
+    ],
+    "level": 3
+  },
+  {
+    "title": "‘Kana’ et ses sœurs (كان وأخواتها)",
+    "explanation": "‘Kana’ et ses dérivés sont des verbes qui modifient la phrase nominale : ils introduisent un temps (souvent le passé) et obligent à mettre le sujet au nominatif et le prédicat à l’accusatif.",
+    "rules": [
+      "كان + sujet (nominatif) + prédicat (accusatif).",
+      "كان = être (au passé) mais avec un sens grammatical particulier.",
+      "De ses sœurs : أصبح، ما زال، صار، ظلّ.",
+      "En égyptien : كان + verbe = structure très courante."
+    ],
+    "examples": [
+      {
+        "example": "كان الجو بارداً.",
+        "example_translit_litteral": "kāna al-jawwu bāridan",
+        "example_egyptian": "كان الجو بارد.",
+        "example_translit_egyptian": "kān ig-gaww bāred",
+        "translation": "Il faisait froid."
+      },
+      {
+        "example": "صار الطالب ناجحاً.",
+        "example_translit_litteral": "ṣāra aṭ-ṭālibu nājiḥan",
+        "example_egyptian": "بقى الطالب ناجح.",
+        "example_translit_egyptian": "ba’a iṭ-ṭālib nāgiḥ",
+        "translation": "L’étudiant est devenu brillant."
+      }
+    ],
+    "notes": [
+      "Structure fondamentale pour comprendre les textes modernes.",
+      "En dialecte : صار → بقى (ba’a)."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Expressions existentielles : ‘هناك’ vs ‘فيه’",
+    "explanation": "Pour dire ‘il y a’, l’arabe littéral utilise ‘هناك’, tandis que l’égyptien utilise presque exclusivement ‘فيه’. Cette différence est essentielle pour comprendre la langue réelle.",
+    "rules": [
+      "Littéral : هناك كتاب على الطاولة.",
+      "Égyptien : فيه كتاب على الترابيزة.",
+      "Pour la négation : ليس هناك / مافيش."
+    ],
+    "examples": [
+      {
+        "example": "هناك مشكلة.",
+        "example_translit_litteral": "hunāka mushkila",
+        "example_egyptian": "فيه مشكلة.",
+        "example_translit_egyptian": "fī mushkila",
+        "translation": "Il y a un problème."
+      },
+      {
+        "example": "ليس هناك حل.",
+        "example_translit_litteral": "laysa hunāka ḥall",
+        "example_egyptian": "مافيش حل.",
+        "example_translit_egyptian": "mafīsh ḥall",
+        "translation": "Il n’y a pas de solution."
+      }
+    ],
+    "notes": [
+      "‘هناك’ est littéraire et très fréquent dans la presse.",
+      "‘فيه’ est pratiquement universel en dialecte."
+    ],
+    "level": 3
+  }
+]

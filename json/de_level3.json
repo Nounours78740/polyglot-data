@@ -1,0 +1,1294 @@
+[
+  {
+    "word": "anspruchsvoll",
+    "translation": [ "exigeant", "complexe", "sophistiqué" ],
+    "translit": "",
+    "example": "Das Projekt ist technisch sehr anspruchsvoll.",
+    "example_fr": "Le projet est techniquement très exigeant.",
+    "level": 3
+  },
+  {
+    "word": "verheerend",
+    "translation": [ "dévastateur", "catastrophique" ],
+    "translit": "",
+    "example": "Der Sturm hatte verheerende Folgen.",
+    "example_fr": "La tempête a eu des conséquences dévastatrices.",
+    "level": 3
+  },
+  {
+    "word": "umfangreich",
+    "translation": [ "étendu", "vaste", "volumineux" ],
+    "translit": "",
+    "example": "Der Bericht ist sehr umfangreich.",
+    "example_fr": "Le rapport est très volumineux.",
+    "level": 3
+  },
+  {
+    "word": "voraussagen",
+    "translation": [ "prédire", "pronostiquer" ],
+    "translit": "",
+    "example": "Man kann das Ergebnis nicht genau voraussagen.",
+    "example_fr": "On ne peut pas prédire précisément le résultat.",
+    "level": 3
+  },
+  {
+    "word": "nachhaltig",
+    "translation": [ "durable", "soutenable" ],
+    "translit": "",
+    "example": "Wir müssen nachhaltige Lösungen finden.",
+    "example_fr": "Nous devons trouver des solutions durables.",
+    "level": 3
+  },
+  {
+    "word": "einschränken",
+    "translation": [ "restreindre", "réduire" ],
+    "translit": "",
+    "example": "Die Regierung hat die Freiheit stark eingeschränkt.",
+    "example_fr": "Le gouvernement a fortement restreint la liberté.",
+    "level": 3
+  },
+  {
+    "word": "unentbehrlich",
+    "translation": [ "indispensable" ],
+    "translit": "",
+    "example": "Erfahrung ist für diesen Beruf unentbehrlich.",
+    "example_fr": "L’expérience est indispensable pour ce métier.",
+    "level": 3
+  },
+  {
+    "word": "behaupten",
+    "translation": [ "affirmer", "prétendre" ],
+    "translit": "",
+    "example": "Er behauptet, er habe nichts gewusst.",
+    "example_fr": "Il affirme qu’il n’était au courant de rien.",
+    "level": 3
+  },
+  {
+    "word": "die Umsetzung",
+    "translation": [ "mise en œuvre", "application" ],
+    "translit": "",
+    "example": "Die Umsetzung des Plans dauert länger als erwartet.",
+    "example_fr": "La mise en œuvre du plan prend plus de temps que prévu.",
+    "level": 3
+  },
+  {
+    "word": "vorwiegend",
+    "translation": [ "principalement", "majoritairement" ],
+    "translit": "",
+    "example": "Die Region ist vorwiegend landwirtschaftlich geprägt.",
+    "example_fr": "La région est principalement marquée par l’agriculture.",
+    "level": 3
+  },
+
+  {
+    "word": "gewissermaßen",
+    "translation": [ "en quelque sorte" ],
+    "translit": "",
+    "example": "Er ist gewissermaßen ein Experte.",
+    "example_fr": "Il est en quelque sorte un expert.",
+    "level": 3
+  },
+  {
+    "word": "befürchten",
+    "translation": [ "craindre" ],
+    "translit": "",
+    "example": "Viele befürchten einen wirtschaftlichen Rückgang.",
+    "example_fr": "Beaucoup craignent une régression économique.",
+    "level": 3
+  },
+  {
+    "word": "ausschließlich",
+    "translation": [ "exclusivement" ],
+    "translit": "",
+    "example": "Der Zugang ist ausschließlich für Mitglieder.",
+    "example_fr": "L’accès est exclusivement réservé aux membres.",
+    "level": 3
+  },
+  {
+    "word": "voraussehen",
+    "translation": [ "prévoir", "anticiper" ],
+    "translit": "",
+    "example": "Niemand konnte diese Krise voraussehen.",
+    "example_fr": "Personne ne pouvait anticiper cette crise.",
+    "level": 3
+  },
+  {
+    "word": "entfalten",
+    "translation": [ "déployer", "développer" ],
+    "translit": "",
+    "example": "Der Künstler konnte sein Talent voll entfalten.",
+    "example_fr": "L’artiste a pu développer pleinement son talent.",
+    "level": 3
+  },
+  {
+    "word": "unübersichtlich",
+    "translation": [ "confus", "peu clair" ],
+    "translit": "",
+    "example": "Die Lage bleibt weiterhin unübersichtlich.",
+    "example_fr": "La situation reste toujours confuse.",
+    "level": 3
+  },
+  {
+    "word": "die Erhaltung",
+    "translation": [ "préservation", "conservation" ],
+    "translit": "",
+    "example": "Die Erhaltung der Natur ist entscheidend.",
+    "example_fr": "La préservation de la nature est essentielle.",
+    "level": 3
+  },
+  {
+    "word": "gewährleisten",
+    "translation": [ "garantir", "assurer" ],
+    "translit": "",
+    "example": "Sicherheit wird durch Kameras gewährleistet.",
+    "example_fr": "La sécurité est assurée par des caméras.",
+    "level": 3
+  },
+  {
+    "word": "überschreiten",
+    "translation": [ "dépasser", "franchir" ],
+    "translit": "",
+    "example": "Die Belastungsgrenze wurde überschritten.",
+    "example_fr": "La limite de charge a été dépassée.",
+    "level": 3
+  },
+  {
+    "word": "unverzüglich",
+    "translation": [ "immédiatement", "sans délai" ],
+    "translit": "",
+    "example": "Bitte handeln Sie unverzüglich.",
+    "example_fr": "Veuillez agir immédiatement.",
+    "level": 3
+  },
+
+  {
+    "word": "die Bestimmung",
+    "translation": [ "règlement", "destination" ],
+    "translit": "",
+    "example": "Die Bestimmungen müssen eingehalten werden.",
+    "example_fr": "Les règlements doivent être respectés.",
+    "level": 3
+  },
+  {
+    "word": "veranlassen",
+    "translation": [ "inciter", "faire faire" ],
+    "translit": "",
+    "example": "Er veranlasste die Reparatur des Autos.",
+    "example_fr": "Il a fait effectuer la réparation de la voiture.",
+    "level": 3
+  },
+  {
+    "word": "maßgeblich",
+    "translation": [ "déterminant", "essentiel" ],
+    "translit": "",
+    "example": "Er spielte eine maßgebliche Rolle im Projekt.",
+    "example_fr": "Il a joué un rôle déterminant dans le projet.",
+    "level": 3
+  },
+  {
+    "word": "der Vorwurf",
+    "translation": [ "reproche" ],
+    "translit": "",
+    "example": "Er wies alle Vorwürfe zurück.",
+    "example_fr": "Il a rejeté toutes les accusations.",
+    "level": 3
+  },
+  {
+    "word": "absehbar",
+    "translation": [ "prévisible", "imminent" ],
+    "translit": "",
+    "example": "Eine Lösung ist nicht absehbar.",
+    "example_fr": "Aucune solution n'est prévisible.",
+    "level": 3
+  },
+  {
+    "word": "belegen",
+    "translation": [ "prouver", "attester" ],
+    "translit": "",
+    "example": "Die Studie belegt seine Theorie.",
+    "example_fr": "L’étude prouve sa théorie.",
+    "level": 3
+  },
+  {
+    "word": "untersagen",
+    "translation": [ "interdire" ],
+    "translit": "",
+    "example": "Das Rauchen ist hier untersagt.",
+    "example_fr": "Fumer est interdit ici.",
+    "level": 3
+  },
+  {
+    "word": "die Beeinträchtigung",
+    "translation": [ "atteinte", "altération" ],
+    "translit": "",
+    "example": "Es gab keine Beeinträchtigung der Daten.",
+    "example_fr": "Il n’y a pas eu d’atteinte aux données.",
+    "level": 3
+  },
+  {
+    "word": "übermäßig",
+    "translation": [ "excessif" ],
+    "translit": "",
+    "example": "Übermäßiger Stress ist ungesund.",
+    "example_fr": "Le stress excessif est mauvais pour la santé.",
+    "level": 3
+  },
+  {
+    "word": "der Beauftragte",
+    "translation": [ "responsable", "mandataire" ],
+    "translit": "",
+    "example": "Der Datenschutzbeauftragte überprüft das System.",
+    "example_fr": "Le délégué à la protection des données vérifie le système.",
+    "level": 3
+  },
+
+  {
+    "word": "übereinstimmen",
+    "translation": [ "correspondre", "coïncider" ],
+    "translit": "",
+    "example": "Die Aussagen stimmen nicht überein.",
+    "example_fr": "Les déclarations ne coïncident pas.",
+    "level": 3
+  },
+  {
+    "word": "widersprüchlich",
+    "translation": [ "contradictoire" ],
+    "translit": "",
+    "example": "Die Informationen sind widersprüchlich.",
+    "example_fr": "Les informations sont contradictoires.",
+    "level": 3
+  },
+  {
+    "word": "einheitlich",
+    "translation": [ "uniforme", "cohérent" ],
+    "translit": "",
+    "example": "Es fehlt an einer einheitlichen Regelung.",
+    "example_fr": "Il manque une réglementation uniforme.",
+    "level": 3
+  },
+  {
+    "word": "erheblich",
+    "translation": [ "considérable" ],
+    "translit": "",
+    "example": "Der Schaden ist erheblich.",
+    "example_fr": "Le dommage est considérable.",
+    "level": 3
+  },
+  {
+    "word": "unterschätzen",
+    "translation": [ "sous-estimer" ],
+    "translit": "",
+    "example": "Man sollte die Gefahr nicht unterschätzen.",
+    "example_fr": "Il ne faut pas sous-estimer le danger.",
+    "level": 3
+  },
+  {
+    "word": "verheißungsvoll",
+    "translation": [ "prometteur" ],
+    "translit": "",
+    "example": "Die ersten Ergebnisse sind verheißungsvoll.",
+    "example_fr": "Les premiers résultats sont prometteurs.",
+    "level": 3
+  },
+  {
+    "word": "der Rücktritt",
+    "translation": [ "démission" ],
+    "translit": "",
+    "example": "Der Minister erklärte seinen Rücktritt.",
+    "example_fr": "Le ministre a annoncé sa démission.",
+    "level": 3
+  },
+  {
+    "word": "bevorstehen",
+    "translation": [ "être imminent" ],
+    "translit": "",
+    "example": "Eine Veränderung steht bevor.",
+    "example_fr": "Un changement est imminent.",
+    "level": 3
+  },
+  {
+    "word": "verwerflich",
+    "translation": [ "répréhensible", "blâmable" ],
+    "translit": "",
+    "example": "Sein Verhalten war moralisch verwerflich.",
+    "example_fr": "Son comportement était moralement répréhensible.",
+    "level": 3
+  },
+  {
+    "word": "belasten",
+    "translation": [ "peser sur", "charger" ],
+    "translit": "",
+    "example": "Die Verantwortung belastet ihn sehr.",
+    "example_fr": "La responsabilité pèse lourdement sur lui.",
+    "level": 3
+  },
+  {
+    "word": "zugrunde liegen",
+    "translation": [ "être à la base de", "sous-tendre" ],
+    "translit": "",
+    "example": "Dem Konzept liegt eine klare Strategie zugrunde.",
+    "example_fr": "Une stratégie claire sous-tend ce concept.",
+    "level": 3
+  },
+  {
+    "word": "veranschaulichen",
+    "translation": [ "illustrer", "exemplifier" ],
+    "translit": "",
+    "example": "Die Grafik veranschaulicht den Prozess gut.",
+    "example_fr": "Le graphique illustre bien le processus.",
+    "level": 3
+  },
+  {
+    "word": "verzichten auf",
+    "translation": [ "renoncer à" ],
+    "translit": "",
+    "example": "Sie verzichtete auf ihre Rechte.",
+    "example_fr": "Elle a renoncé à ses droits.",
+    "level": 3
+  },
+  {
+    "word": "die Verfassung",
+    "translation": [ "constitution", "état (santé)" ],
+    "translit": "",
+    "example": "Die Verfassung garantiert Grundrechte.",
+    "example_fr": "La constitution garantit des droits fondamentaux.",
+    "level": 3
+  },
+  {
+    "word": "erscheinungsbild",
+    "translation": [ "apparence" ],
+    "translit": "",
+    "example": "Das Erscheinungsbild des Gebäudes wurde modernisiert.",
+    "example_fr": "L’apparence du bâtiment a été modernisée.",
+    "level": 3
+  },
+  {
+    "word": "wahrnehmen",
+    "translation": [ "percevoir", "saisir une opportunité" ],
+    "translit": "",
+    "example": "Viele nehmen die Gefahr nicht wahr.",
+    "example_fr": "Beaucoup ne perçoivent pas le danger.",
+    "level": 3
+  },
+  {
+    "word": "die Vereinbarung",
+    "translation": [ "accord", "convention" ],
+    "translit": "",
+    "example": "Die Parteien haben eine Vereinbarung getroffen.",
+    "example_fr": "Les parties ont conclu un accord.",
+    "level": 3
+  },
+  {
+    "word": "abwägen",
+    "translation": [ "peser le pour et le contre" ],
+    "translit": "",
+    "example": "Man muss alle Optionen sorgfältig abwägen.",
+    "example_fr": "Il faut soigneusement peser toutes les options.",
+    "level": 3
+  },
+  {
+    "word": "vorherrschend",
+    "translation": [ "dominant", "prépondérant" ],
+    "translit": "",
+    "example": "Die vorherrschende Meinung ist kritisch.",
+    "example_fr": "L’opinion dominante est critique.",
+    "level": 3
+  },
+  {
+    "word": "bezüglich",
+    "translation": [ "concernant", "en ce qui concerne" ],
+    "translit": "",
+    "example": "Bezüglich des Vertrags gibt es Fragen.",
+    "example_fr": "Il y a des questions concernant le contrat.",
+    "level": 3
+  },
+
+  {
+    "word": "die Auswirkung",
+    "translation": [ "impact", "effet" ],
+    "translit": "",
+    "example": "Die Auswirkung der Krise ist enorm.",
+    "example_fr": "L’impact de la crise est énorme.",
+    "level": 3
+  },
+  {
+    "word": "entkräftigen",
+    "translation": [ "réfuter", "affaiblir (argument)" ],
+    "translit": "",
+    "example": "Das Argument wurde vollständig entkräftigt.",
+    "example_fr": "L’argument a été complètement réfuté.",
+    "level": 3
+  },
+  {
+    "word": "vorlegen",
+    "translation": [ "présenter (un document)" ],
+    "translit": "",
+    "example": "Bitte legen Sie Ihren Ausweis vor.",
+    "example_fr": "Veuillez présenter votre pièce d’identité.",
+    "level": 3
+  },
+  {
+    "word": "die Betreuung",
+    "translation": [ "encadrement", "prise en charge" ],
+    "translit": "",
+    "example": "Die Betreuung der Kinder ist gesichert.",
+    "example_fr": "La prise en charge des enfants est assurée.",
+    "level": 3
+  },
+  {
+    "word": "überwinden",
+    "translation": [ "surmonter" ],
+    "translit": "",
+    "example": "Er hat große Schwierigkeiten überwunden.",
+    "example_fr": "Il a surmonté de grandes difficultés.",
+    "level": 3
+  },
+  {
+    "word": "vorsehen",
+    "translation": [ "prévoir" ],
+    "translit": "",
+    "example": "Das Budget sieht neue Investitionen vor.",
+    "example_fr": "Le budget prévoit de nouveaux investissements.",
+    "level": 3
+  },
+  {
+    "word": "sich zusammensetzen aus",
+    "translation": [ "se composer de" ],
+    "translit": "",
+    "example": "Die Gruppe setzt sich aus Experten zusammen.",
+    "example_fr": "Le groupe se compose d’experts.",
+    "level": 3
+  },
+  {
+    "word": "die Erhebung",
+    "translation": [ "enquête", "collecte de données" ],
+    "translit": "",
+    "example": "Die Erhebung liefert wichtige Statistiken.",
+    "example_fr": "L’enquête fournit des statistiques importantes.",
+    "level": 3
+  },
+  {
+    "word": "verwerfen",
+    "translation": [ "rejeter", "abandonner (idée)" ],
+    "translit": "",
+    "example": "Der Vorschlag wurde verworfen.",
+    "example_fr": "La proposition a été rejetée.",
+    "level": 3
+  },
+  {
+    "word": "zulässig",
+    "translation": [ "autorisé", "admissible" ],
+    "translit": "",
+    "example": "Diese Methode ist nicht zulässig.",
+    "example_fr": "Cette méthode n’est pas admissible.",
+    "level": 3
+  },
+
+  {
+    "word": "die Darstellung",
+    "translation": [ "représentation", "interprétation" ],
+    "translit": "",
+    "example": "Die Darstellung der Fakten ist korrekt.",
+    "example_fr": "La représentation des faits est correcte.",
+    "level": 3
+  },
+  {
+    "word": "unterbinden",
+    "translation": [ "empêcher", "stopper" ],
+    "translit": "",
+    "example": "Die Polizei unterband den illegalen Handel.",
+    "example_fr": "La police a stoppé le commerce illégal.",
+    "level": 3
+  },
+  {
+    "word": "veranlassen",
+    "translation": [ "provoquer", "faire faire" ],
+    "translit": "",
+    "example": "Die Ereignisse veranlassten ihn zum Rücktritt.",
+    "example_fr": "Les événements l'ont poussé à démissionner.",
+    "level": 3
+  },
+  {
+    "word": "aufrechterhalten",
+    "translation": [ "maintenir", "conserver" ],
+    "translit": "",
+    "example": "Wir müssen die Ordnung aufrechterhalten.",
+    "example_fr": "Nous devons maintenir l’ordre.",
+    "level": 3
+  },
+  {
+    "word": "gewährleisten",
+    "translation": [ "garantir" ],
+    "translit": "",
+    "example": "Die Qualität wird regelmäßig gewährleistet.",
+    "example_fr": "La qualité est régulièrement garantie.",
+    "level": 3
+  },
+  {
+    "word": "vertretbar",
+    "translation": [ "défendable", "raisonnable" ],
+    "translit": "",
+    "example": "In dieser Situation ist das vertretbar.",
+    "example_fr": "Dans cette situation, c’est défendable.",
+    "level": 3
+  },
+  {
+    "word": "veranschaulichung",
+    "translation": [ "illustration", "visualisation" ],
+    "translit": "",
+    "example": "Zur Veranschaulichung wurden Grafiken erstellt.",
+    "example_fr": "Des graphiques ont été créés pour l’illustration.",
+    "level": 3
+  },
+  {
+    "word": "die Abweichung",
+    "translation": [ "écart", "déviation" ],
+    "translit": "",
+    "example": "Es gab eine geringe Abweichung vom Plan.",
+    "example_fr": "Il y a eu un léger écart par rapport au plan.",
+    "level": 3
+  },
+  {
+    "word": "gewährleisten",
+    "translation": [ "assurer", "garantir" ],
+    "translit": "",
+    "example": "Die Sicherheit muss gewährleistet werden.",
+    "example_fr": "La sécurité doit être garantie.",
+    "level": 3
+  },
+  {
+    "word": "vorantreiben",
+    "translation": [ "accélérer", "pousser en avant" ],
+    "translit": "",
+    "example": "Die Regierung treibt die Reform voran.",
+    "example_fr": "Le gouvernement accélère la réforme.",
+    "level": 3
+  },
+
+  {
+    "word": "die Ausdehnung",
+    "translation": [ "expansion", "élargissement" ],
+    "translit": "",
+    "example": "Die Ausdehnung des Unternehmens schreitet voran.",
+    "example_fr": "L’expansion de l’entreprise progresse.",
+    "level": 3
+  },
+  {
+    "word": "unüberwindbar",
+    "translation": [ "insurmontable" ],
+    "translit": "",
+    "example": "Das Hindernis schien unüberwindbar.",
+    "example_fr": "L’obstacle semblait insurmontable.",
+    "level": 3
+  },
+  {
+    "word": "anscheinend",
+    "translation": [ "apparemment" ],
+    "translit": "",
+    "example": "Er ist anscheinend nicht interessiert.",
+    "example_fr": "Il n’est apparemment pas intéressé.",
+    "level": 3
+  },
+  {
+    "word": "sich auswirken auf",
+    "translation": [ "avoir un effet sur" ],
+    "translit": "",
+    "example": "Die Änderungen wirken sich auf die Preise aus.",
+    "example_fr": "Les changements ont un effet sur les prix.",
+    "level": 3
+  },
+  {
+    "word": "übermäßig",
+    "translation": [ "excessif" ],
+    "translit": "",
+    "example": "Übermäßiger Alkoholkonsum ist gefährlich.",
+    "example_fr": "La consommation excessive d’alcool est dangereuse.",
+    "level": 3
+  },
+  {
+    "word": "der Anhaltspunkt",
+    "translation": [ "indice", "piste" ],
+    "translit": "",
+    "example": "Wir haben keinen Anhaltspunkt für die Ursache.",
+    "example_fr": "Nous n’avons aucun indice sur la cause.",
+    "level": 3
+  },
+  {
+    "word": "der Umstand",
+    "translation": [ "circonstance" ],
+    "translit": "",
+    "example": "Unter diesen Umständen ist das unmöglich.",
+    "example_fr": "Dans ces circonstances, c’est impossible.",
+    "level": 3
+  },
+  {
+    "word": "untermauern",
+    "translation": [ "étayer", "appuyer" ],
+    "translit": "",
+    "example": "Die These wurde durch Daten untermauert.",
+    "example_fr": "La thèse a été étayée par des données.",
+    "level": 3
+  },
+  {
+    "word": "vorliegen",
+    "translation": [ "être disponible", "être présent" ],
+    "translit": "",
+    "example": "Das Dokument liegt nun vor.",
+    "example_fr": "Le document est maintenant disponible.",
+    "level": 3
+  },
+  {
+    "word": "außerordentlich",
+    "translation": [ "extraordinaire" ],
+    "translit": "",
+    "example": "Das ist eine außerordentliche Leistung.",
+    "example_fr": "C’est une performance extraordinaire.",
+    "level": 3
+  },
+  {
+    "word": "gewinnbringend",
+    "translation": [ "lucratif", "rentable" ],
+    "translit": "",
+    "example": "Die Investition war äußerst gewinnbringend.",
+    "example_fr": "L’investissement a été extrêmement rentable.",
+    "level": 3
+  },
+  {
+    "word": "inwieweit",
+    "translation": [ "dans quelle mesure" ],
+    "translit": "",
+    "example": "Es ist unklar, inwieweit er beteiligt war.",
+    "example_fr": "On ignore dans quelle mesure il a été impliqué.",
+    "level": 3
+  },
+  {
+    "word": "uneindeutig",
+    "translation": [ "ambigu", "peu clair" ],
+    "translit": "",
+    "example": "Die Ergebnisse sind uneindeutig.",
+    "example_fr": "Les résultats sont ambigus.",
+    "level": 3
+  },
+  {
+    "word": "die Abschätzung",
+    "translation": [ "estimation", "évaluation" ],
+    "translit": "",
+    "example": "Eine genaue Abschätzung ist schwierig.",
+    "example_fr": "Une estimation précise est difficile.",
+    "level": 3
+  },
+  {
+    "word": "verblüffend",
+    "translation": [ "stupéfiant", "étonnant" ],
+    "translit": "",
+    "example": "Die Ähnlichkeit ist verblüffend.",
+    "example_fr": "La ressemblance est stupéfiante.",
+    "level": 3
+  },
+  {
+    "word": "die Veranlagung",
+    "translation": [ "prédisposition", "tendance" ],
+    "translit": "",
+    "example": "Er hat eine künstlerische Veranlagung.",
+    "example_fr": "Il a une prédisposition artistique.",
+    "level": 3
+  },
+  {
+    "word": "übergeordnet",
+    "translation": [ "supérieur", "prioritaire" ],
+    "translit": "",
+    "example": "Das übergeordnete Ziel ist klar definiert.",
+    "example_fr": "L’objectif principal est clairement défini.",
+    "level": 3
+  },
+  {
+    "word": "verblassen",
+    "translation": [ "pâlir", "s’estomper" ],
+    "translit": "",
+    "example": "Die Farben verblassen mit der Zeit.",
+    "example_fr": "Les couleurs s’estompent avec le temps.",
+    "level": 3
+  },
+  {
+    "word": "auferlegen",
+    "translation": [ "imposer" ],
+    "translit": "",
+    "example": "Der Richter legte ihm eine Strafe auf.",
+    "example_fr": "Le juge lui a imposé une peine.",
+    "level": 3
+  },
+  {
+    "word": "der Anspruch",
+    "translation": [ "exigence", "revendication" ],
+    "translit": "",
+    "example": "Er hat hohe Ansprüche an sich selbst.",
+    "example_fr": "Il a de hautes exigences envers lui-même.",
+    "level": 3
+  },
+
+  {
+    "word": "vorrangig",
+    "translation": [ "prioritaire" ],
+    "translit": "",
+    "example": "Die Sicherheit hat vorrangigen Charakter.",
+    "example_fr": "La sécurité est prioritaire.",
+    "level": 3
+  },
+  {
+    "word": "die Aufrechterhaltung",
+    "translation": [ "maintien" ],
+    "translit": "",
+    "example": "Die Aufrechterhaltung des Friedens ist entscheidend.",
+    "example_fr": "Le maintien de la paix est essentiel.",
+    "level": 3
+  },
+  {
+    "word": "befugt",
+    "translation": [ "autorisé", "habilité" ],
+    "translit": "",
+    "example": "Nur befugtes Personal darf eintreten.",
+    "example_fr": "Seul le personnel habilité peut entrer.",
+    "level": 3
+  },
+  {
+    "word": "der Entwurf",
+    "translation": [ "projet", "ébauche" ],
+    "translit": "",
+    "example": "Der Entwurf des Gesetzes wurde veröffentlicht.",
+    "example_fr": "Le projet de loi a été publié.",
+    "level": 3
+  },
+  {
+    "word": "einheitlich",
+    "translation": [ "uniforme", "cohérent" ],
+    "translit": "",
+    "example": "Ein einheitliches System ist erforderlich.",
+    "example_fr": "Un système uniforme est nécessaire.",
+    "level": 3
+  },
+  {
+    "word": "verheerend",
+    "translation": [ "désastreux" ],
+    "translit": "",
+    "example": "Der Konflikt hatte verheerende Folgen.",
+    "example_fr": "Le conflit a eu des conséquences désastreuses.",
+    "level": 3
+  },
+  {
+    "word": "die Einhaltung",
+    "translation": [ "respect", "conformité" ],
+    "translit": "",
+    "example": "Die Einhaltung der Regeln ist wichtig.",
+    "example_fr": "Le respect des règles est important.",
+    "level": 3
+  },
+  {
+    "word": "entziehen",
+    "translation": [ "retirer", "soustraire" ],
+    "translit": "",
+    "example": "Man entzog ihm das Vertrauen.",
+    "example_fr": "On lui a retiré la confiance.",
+    "level": 3
+  },
+  {
+    "word": "gewährleisten",
+    "translation": [ "garantir" ],
+    "translit": "",
+    "example": "Die Sicherheit muss gewährleistet sein.",
+    "example_fr": "La sécurité doit être garantie.",
+    "level": 3
+  },
+  {
+    "word": "vorerst",
+    "translation": [ "pour l’instant" ],
+    "translit": "",
+    "example": "Wir stoppen das Projekt vorerst.",
+    "example_fr": "Nous arrêtons le projet pour l’instant.",
+    "level": 3
+  },
+
+  {
+    "word": "vermehrt",
+    "translation": [ "de plus en plus" ],
+    "translit": "",
+    "example": "Es kommt vermehrt zu Beschwerden.",
+    "example_fr": "Il y a de plus en plus de plaintes.",
+    "level": 3
+  },
+  {
+    "word": "der Vorbehalt",
+    "translation": [ "réserve", "objection" ],
+    "translit": "",
+    "example": "Er akzeptierte das Angebot ohne Vorbehalte.",
+    "example_fr": "Il a accepté l’offre sans réserves.",
+    "level": 3
+  },
+  {
+    "word": "unausweichlich",
+    "translation": [ "inévitable" ],
+    "translit": "",
+    "example": "Die Krise war unausweichlich.",
+    "example_fr": "La crise était inévitable.",
+    "level": 3
+  },
+  {
+    "word": "bewirken",
+    "translation": [ "provoquer", "entraîner" ],
+    "translit": "",
+    "example": "Die Reform bewirkte große Veränderungen.",
+    "example_fr": "La réforme a provoqué de grands changements.",
+    "level": 3
+  },
+  {
+    "word": "konsequent",
+    "translation": [ "cohérent", "logique" ],
+    "translit": "",
+    "example": "Sein Verhalten ist konsequent.",
+    "example_fr": "Son comportement est cohérent.",
+    "level": 3
+  },
+  {
+    "word": "die Belastbarkeit",
+    "translation": [ "résistance", "robustesse" ],
+    "translit": "",
+    "example": "Die Belastbarkeit des Materials wurde getestet.",
+    "example_fr": "La résistance du matériau a été testée.",
+    "level": 3
+  },
+  {
+    "word": "unmissverständlich",
+    "translation": [ "sans équivoque" ],
+    "translit": "",
+    "example": "Er äußerte sich unmissverständlich.",
+    "example_fr": "Il s’est exprimé sans équivoque.",
+    "level": 3
+  },
+  {
+    "word": "unterliegen",
+    "translation": [ "être soumis à" ],
+    "translit": "",
+    "example": "Die Preise unterliegen starken Schwankungen.",
+    "example_fr": "Les prix sont soumis à de fortes fluctuations.",
+    "level": 3
+  },
+  {
+    "word": "die Bewältigung",
+    "translation": [ "gestion", "maîtrise" ],
+    "translit": "",
+    "example": "Die Bewältigung der Krise ist schwierig.",
+    "example_fr": "La gestion de la crise est difficile.",
+    "level": 3
+  },
+  {
+    "word": "vorherrschen",
+    "translation": [ "dominer" ],
+    "translit": "",
+    "example": "In der Region herrscht Trockenheit vor.",
+    "example_fr": "La sécheresse domine dans la région.",
+    "level": 3
+  },
+
+  {
+    "word": "die Vorschrift",
+    "translation": [ "règlement", "directive" ],
+    "translit": "",
+    "example": "Sie müssen die Vorschriften beachten.",
+    "example_fr": "Vous devez respecter les directives.",
+    "level": 3
+  },
+  {
+    "word": "einleiten",
+    "translation": [ "engager", "entamer" ],
+    "translit": "",
+    "example": "Man hat rechtliche Schritte eingeleitet.",
+    "example_fr": "Des démarches juridiques ont été engagées.",
+    "level": 3
+  },
+  {
+    "word": "verwehren",
+    "translation": [ "refuser", "interdire" ],
+    "translit": "",
+    "example": "Der Zutritt wurde ihm verwehrt.",
+    "example_fr": "L’accès lui a été interdit.",
+    "level": 3
+  },
+  {
+    "word": "die Einigkeit",
+    "translation": [ "unité", "consensus" ],
+    "translit": "",
+    "example": "In wichtigen Fragen herrscht Einigkeit.",
+    "example_fr": "Il y a un consensus sur les questions importantes.",
+    "level": 3
+  },
+  {
+    "word": "eindämmen",
+    "translation": [ "endiguer", "contenir" ],
+    "translit": "",
+    "example": "Maßnahmen sollen die Ausbreitung eindämmen.",
+    "example_fr": "Les mesures visent à contenir la propagation.",
+    "level": 3
+  },
+  {
+    "word": "aufbringen",
+    "translation": [ "rassembler (argent)", "fournir (effort)" ],
+    "translit": "",
+    "example": "Er konnte das nötige Geld aufbringen.",
+    "example_fr": "Il a pu rassembler l’argent nécessaire.",
+    "level": 3
+  },
+  {
+    "word": "der Auslöser",
+    "translation": [ "déclencheur" ],
+    "translit": "",
+    "example": "Der Auslöser des Konflikts ist unklar.",
+    "example_fr": "Le déclencheur du conflit est incertain.",
+    "level": 3
+  },
+  {
+    "word": "vorsätzlich",
+    "translation": [ "intentionnel", "délibéré" ],
+    "translit": "",
+    "example": "Die Tat war eindeutig vorsätzlich.",
+    "example_fr": "L’acte était clairement intentionnel.",
+    "level": 3
+  },
+  {
+    "word": "der Umriss",
+    "translation": [ "contour", "silhouette" ],
+    "translit": "",
+    "example": "Der Umriss der Berge ist gut sichtbar.",
+    "example_fr": "Le contour des montagnes est bien visible.",
+    "level": 3
+  },
+  {
+    "word": "vorbeugen",
+    "translation": [ "prévenir", "anticiper" ],
+    "translit": "",
+    "example": "Sport hilft, Krankheiten vorzubeugen.",
+    "example_fr": "Le sport aide à prévenir les maladies.",
+    "level": 3
+  },
+  {
+    "word": "untergraben",
+    "translation": [ "miner", "saper" ],
+    "translit": "",
+    "example": "Sein Verhalten untergräbt das Vertrauen.",
+    "example_fr": "Son comportement mine la confiance.",
+    "level": 3
+  },
+  {
+    "word": "plausibel",
+    "translation": [ "plausible", "crédible" ],
+    "translit": "",
+    "example": "Die Erklärung klingt plausibel.",
+    "example_fr": "L'explication semble plausible.",
+    "level": 3
+  },
+  {
+    "word": "veranschaulichen",
+    "translation": [ "illustrer", "démontrer" ],
+    "translit": "",
+    "example": "Ein Beispiel veranschaulicht das Konzept.",
+    "example_fr": "Un exemple illustre le concept.",
+    "level": 3
+  },
+  {
+    "word": "die Auswertung",
+    "translation": [ "analyse", "évaluation" ],
+    "translit": "",
+    "example": "Die Auswertung der Daten ist abgeschlossen.",
+    "example_fr": "L’analyse des données est terminée.",
+    "level": 3
+  },
+  {
+    "word": "unüberlegt",
+    "translation": [ "irréfléchi", "impulsif" ],
+    "translit": "",
+    "example": "Er traf eine unüberlegte Entscheidung.",
+    "example_fr": "Il a pris une décision irréfléchie.",
+    "level": 3
+  },
+  {
+    "word": "übersehen",
+    "translation": [ "oublier", "négliger" ],
+    "translit": "",
+    "example": "Ich habe das Detail übersehen.",
+    "example_fr": "J’ai négligé ce détail.",
+    "level": 3
+  },
+  {
+    "word": "voraussehen",
+    "translation": [ "prévoir", "anticiper" ],
+    "translit": "",
+    "example": "Man konnte die Folgen nicht voraussehen.",
+    "example_fr": "On ne pouvait pas prévoir les conséquences.",
+    "level": 3
+  },
+  {
+    "word": "beibehalten",
+    "translation": [ "maintenir", "conserver" ],
+    "translit": "",
+    "example": "Die Regeln werden beibehalten.",
+    "example_fr": "Les règles seront maintenues.",
+    "level": 3
+  },
+  {
+    "word": "der Widerstand",
+    "translation": [ "résistance", "opposition" ],
+    "translit": "",
+    "example": "Der Vorschlag stieß auf Widerstand.",
+    "example_fr": "La proposition a rencontré de l'opposition.",
+    "level": 3
+  },
+  {
+    "word": "entschlüsseln",
+    "translation": [ "déchiffrer", "décrypter" ],
+    "translit": "",
+    "example": "Forscher entschlüsselten den Code.",
+    "example_fr": "Des chercheurs ont déchiffré le code.",
+    "level": 3
+  },
+
+  {
+    "word": "die Weichen stellen",
+    "translation": [ "poser les bases", "orienter" ],
+    "translit": "",
+    "example": "Die Entscheidung stellt die Weichen für die Zukunft.",
+    "example_fr": "La décision oriente l’avenir.",
+    "level": 3
+  },
+  {
+    "word": "die Vorgabe",
+    "translation": [ "directive", "prescription" ],
+    "translit": "",
+    "example": "Wir müssen uns an die Vorgaben halten.",
+    "example_fr": "Nous devons respecter les directives.",
+    "level": 3
+  },
+  {
+    "word": "absehen von",
+    "translation": [ "renoncer à", "ne pas tenir compte de" ],
+    "translit": "",
+    "example": "Wir sollten von Vorwürfen absehen.",
+    "example_fr": "Nous devrions renoncer aux reproches.",
+    "level": 3
+  },
+  {
+    "word": "hinreichend",
+    "translation": [ "suffisant", "adéquat" ],
+    "translit": "",
+    "example": "Dafür gibt es hinreichende Gründe.",
+    "example_fr": "Il y a des raisons suffisantes pour cela.",
+    "level": 3
+  },
+  {
+    "word": "die Abgrenzung",
+    "translation": [ "délimitation", "distinction" ],
+    "translit": "",
+    "example": "Die Abgrenzung zwischen den Bereichen ist wichtig.",
+    "example_fr": "La distinction entre les domaines est importante.",
+    "level": 3
+  },
+  {
+    "word": "einvernehmlich",
+    "translation": [ "d’un commun accord" ],
+    "translit": "",
+    "example": "Die Parteien fanden eine einvernehmliche Lösung.",
+    "example_fr": "Les parties ont trouvé une solution d’un commun accord.",
+    "level": 3
+  },
+  {
+    "word": "der Stellenwert",
+    "translation": [ "importance", "valeur" ],
+    "translit": "",
+    "example": "Bildung hat einen hohen Stellenwert.",
+    "example_fr": "L’éducation a une grande importance.",
+    "level": 3
+  },
+  {
+    "word": "bezugnehmend",
+    "translation": [ "en référence à" ],
+    "translit": "",
+    "example": "Bezugnehmend auf Ihre Anfrage senden wir...",
+    "example_fr": "En référence à votre demande, nous envoyons...",
+    "level": 3
+  },
+  {
+    "word": "die Einsicht",
+    "translation": [ "compréhension", "prise de conscience" ],
+    "translit": "",
+    "example": "Er zeigte Einsicht und entschuldigte sich.",
+    "example_fr": "Il a montré de la compréhension et s’est excusé.",
+    "level": 3
+  },
+  {
+    "word": "aufrechterhalten",
+    "translation": [ "maintenir" ],
+    "translit": "",
+    "example": "Die Ordnung muss aufrechterhalten werden.",
+    "example_fr": "L’ordre doit être maintenu.",
+    "level": 3
+  },
+
+  {
+    "word": "die Entfaltung",
+    "translation": [ "développement", "épanouissement" ],
+    "translit": "",
+    "example": "Kinder brauchen Raum zur Entfaltung.",
+    "example_fr": "Les enfants ont besoin d’espace pour s’épanouir.",
+    "level": 3
+  },
+  {
+    "word": "unterschwellig",
+    "translation": [ "subliminal", "latent" ],
+    "translit": "",
+    "example": "Die Botschaft wirkt unterschwellig.",
+    "example_fr": "Le message agit de façon subliminale.",
+    "level": 3
+  },
+  {
+    "word": "die Verzögerung",
+    "translation": [ "retard" ],
+    "translit": "",
+    "example": "Es kam zu erheblichen Verzögerungen.",
+    "example_fr": "Il y a eu des retards importants.",
+    "level": 3
+  },
+  {
+    "word": "geläufig",
+    "translation": [ "courant", "familier" ],
+    "translit": "",
+    "example": "Der Ausdruck ist ihm nicht geläufig.",
+    "example_fr": "L’expression ne lui est pas familière.",
+    "level": 3
+  },
+  {
+    "word": "die Verflechtung",
+    "translation": [ "interconnexion", "enchevêtrement" ],
+    "translit": "",
+    "example": "Es gibt eine starke wirtschaftliche Verflechtung.",
+    "example_fr": "Il existe une forte interconnexion économique.",
+    "level": 3
+  },
+  {
+    "word": "herausragend",
+    "translation": [ "remarquable", "exceptionnel" ],
+    "translit": "",
+    "example": "Er hat eine herausragende Leistung erbracht.",
+    "example_fr": "Il a accompli une performance remarquable.",
+    "level": 3
+  },
+  {
+    "word": "unter diesen Umständen",
+    "translation": [ "dans ces circonstances" ],
+    "translit": "",
+    "example": "Unter diesen Umständen ist es unmöglich.",
+    "example_fr": "Dans ces circonstances, c’est impossible.",
+    "level": 3
+  },
+  {
+    "word": "nachdrücklich",
+    "translation": [ "fermement", "vigoureusement" ],
+    "translit": "",
+    "example": "Er widersprach nachdrücklich.",
+    "example_fr": "Il a contesté fermement.",
+    "level": 3
+  },
+  {
+    "word": "die Anregung",
+    "translation": [ "suggestion", "stimulation" ],
+    "translit": "",
+    "example": "Wir danken für Ihre Anregungen.",
+    "example_fr": "Nous vous remercions pour vos suggestions.",
+    "level": 3
+  },
+  {
+    "word": "übertreffen",
+    "translation": [ "surpasser", "dépasser" ],
+    "translit": "",
+    "example": "Das Ergebnis übertrifft alle Erwartungen.",
+    "example_fr": "Le résultat dépasse toutes les attentes.",
+    "level": 3
+  },
+
+  {
+    "word": "widerlegen",
+    "translation": [ "réfuter" ],
+    "translit": "",
+    "example": "Er konnte das Argument widerlegen.",
+    "example_fr": "Il a pu réfuter l’argument.",
+    "level": 3
+  },
+  {
+    "word": "der Rückschluss",
+    "translation": [ "déduction", "conclusion" ],
+    "translit": "",
+    "example": "Der Rückschluss ist nicht eindeutig.",
+    "example_fr": "La déduction n’est pas claire.",
+    "level": 3
+  },
+  {
+    "word": "verschleiern",
+    "translation": [ "dissimuler", "masquer" ],
+    "translit": "",
+    "example": "Er versuchte, die Wahrheit zu verschleiern.",
+    "example_fr": "Il a essayé de dissimuler la vérité.",
+    "level": 3
+  },
+  {
+    "word": "übermitteln",
+    "translation": [ "transmettre" ],
+    "translit": "",
+    "example": "Die Daten wurden erfolgreich übermittelt.",
+    "example_fr": "Les données ont été transmises avec succès.",
+    "level": 3
+  },
+  {
+    "word": "umfangreich",
+    "translation": [ "étendu", "vaste" ],
+    "translit": "",
+    "example": "Der Bericht ist sehr umfangreich.",
+    "example_fr": "Le rapport est très volumineux.",
+    "level": 3
+  },
+  {
+    "word": "eintreten für",
+    "translation": [ "défendre", "soutenir" ],
+    "translit": "",
+    "example": "Er tritt für Menschenrechte ein.",
+    "example_fr": "Il défend les droits humains.",
+    "level": 3
+  },
+  {
+    "word": "beobachtbar",
+    "translation": [ "observable" ],
+    "translit": "",
+    "example": "Eine Veränderung ist bereits beobachtbar.",
+    "example_fr": "Un changement est déjà observable.",
+    "level": 3
+  },
+  {
+    "word": "die Beilegung",
+    "translation": [ "règlement (d’un conflit)" ],
+    "translit": "",
+    "example": "Die Beilegung des Streits dauerte Monate.",
+    "example_fr": "Le règlement du conflit a pris des mois.",
+    "level": 3
+  },
+  {
+    "word": "befriedigend",
+    "translation": [ "satisfaisant" ],
+    "translit": "",
+    "example": "Das Ergebnis ist nur teilweise befriedigend.",
+    "example_fr": "Le résultat n’est que partiellement satisfaisant.",
+    "level": 3
+  },
+  {
+    "word": "vorsehen",
+    "translation": [ "prévoir" ],
+    "translit": "",
+    "example": "Das Gesetz sieht strengere Regeln vor.",
+    "example_fr": "La loi prévoit des règles plus strictes.",
+    "level": 3
+  }
+]
