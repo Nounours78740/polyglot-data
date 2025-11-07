@@ -1,0 +1,1294 @@
+[
+  {
+    "word": "accenno",
+    "translation": [ "allusion", "signe", "esquisse" ],
+    "translit": "",
+    "example": "Ha fatto un accenno di sorriso.",
+    "example_fr": "Il a esquissé un sourire.",
+    "level": 2
+  }, 
+  {
+    "word": "garbuglio",
+    "translation": [ "enchevêtrement", "imbroglio" ],
+    "translit": "",
+    "example": "La situazione è un vero garbuglio.",
+    "example_fr": "La situation est un vrai imbroglio.",
+    "level": 2
+  },
+  {
+    "word": "svogliato",
+    "translation": [ "démotivé", "peu enthousiaste" ],
+    "translit": "",
+    "example": "Oggi è svogliato e non vuole fare nulla.",
+    "example_fr": "Aujourd’hui il est démotivé et ne veut rien faire.",
+    "level": 2
+  },
+  {
+    "word": "pettegolezzo",
+    "translation": [ "ragot", "commérage" ],
+    "translit": "",
+    "example": "Non credere a ogni pettegolezzo che senti.",
+    "example_fr": "Ne crois pas tous les ragots que tu entends.",
+    "level": 2
+  },
+  {
+    "word": "sussulto",
+    "translation": [ "sursaut" ],
+    "translit": "",
+    "example": "Ha avuto un sussulto per la paura.",
+    "example_fr": "Il a sursauté de peur.",
+    "level": 2
+  },
+  {
+    "word": "avvertenza",
+    "translation": [ "avertissement", "précaution" ],
+    "translit": "",
+    "example": "Leggi attentamente le avvertenze.",
+    "example_fr": "Lis attentivement les avertissements.",
+    "level": 2
+  },
+  {
+    "word": "dintorni",
+    "translation": [ "alentours" ],
+    "translit": "",
+    "example": "I dintorni del paese sono molto belli.",
+    "example_fr": "Les environs du village sont très beaux.",
+    "level": 2
+  },
+  {
+    "word": "sbocciare",
+    "translation": [ "éclore", "fleurir" ],
+    "translit": "",
+    "example": "I fiori stanno per sbocciare.",
+    "example_fr": "Les fleurs sont sur le point d’éclore.",
+    "level": 2
+  },
+  {
+    "word": "affacciarsi",
+    "translation": [ "se pencher", "se montrer à la fenêtre" ],
+    "translit": "",
+    "example": "Si è affacciato per vedere chi era.",
+    "example_fr": "Il s’est penché pour voir qui c’était.",
+    "level": 2
+  },
+  {
+    "word": "smarrire",
+    "translation": [ "égarer", "perdre" ],
+    "translit": "",
+    "example": "Ha smarrito il passaporto.",
+    "example_fr": "Il a égaré son passeport.",
+    "level": 2
+  },
+
+  {
+    "word": "intralcio",
+    "translation": [ "obstacle", "entrave" ],
+    "translit": "",
+    "example": "Quella scatola è d’intralcio.",
+    "example_fr": "Cette boîte est un obstacle.",
+    "level": 2
+  },
+  {
+    "word": "fiutare",
+    "translation": [ "flairer", "sentir" ],
+    "translit": "",
+    "example": "Il cane ha fiutato una pista.",
+    "example_fr": "Le chien a flairé une piste.",
+    "level": 2
+  },
+  {
+    "word": "spavaldo",
+    "translation": [ "arrogant", "crâneur" ],
+    "translit": "",
+    "example": "È troppo spavaldo per i miei gusti.",
+    "example_fr": "Il est trop arrogant à mon goût.",
+    "level": 2
+  },
+  {
+    "word": "addebitare",
+    "translation": [ "facturer", "imputer" ],
+    "translit": "",
+    "example": "La somma ti verrà addebitata domani.",
+    "example_fr": "La somme te sera facturée demain.",
+    "level": 2
+  },
+  {
+    "word": "caparbio",
+    "translation": [ "têtu", "obstiné" ],
+    "translit": "",
+    "example": "È troppo caparbio per cambiare idea.",
+    "example_fr": "Il est trop obstiné pour changer d’avis.",
+    "level": 2
+  },
+  {
+    "word": "sobbalzo",
+    "translation": [ "cahot", "soubresaut" ],
+    "translit": "",
+    "example": "L'auto ha fatto un sobbalzo improvviso.",
+    "example_fr": "La voiture a fait un soubresaut soudain.",
+    "level": 2
+  },
+  {
+    "word": "accudire",
+    "translation": [ "s’occuper de", "soigner" ],
+    "translit": "",
+    "example": "Lei accudisce i suoi genitori anziani.",
+    "example_fr": "Elle s’occupe de ses parents âgés.",
+    "level": 2
+  },
+  {
+    "word": "raffica",
+    "translation": [ "rafale (vent)", "salve" ],
+    "translit": "",
+    "example": "Una raffica di vento ha chiuso la porta.",
+    "example_fr": "Une rafale de vent a fermé la porte.",
+    "level": 2
+  },
+  {
+    "word": "affanno",
+    "translation": [ "essoufflement", "anxiété" ],
+    "translit": "",
+    "example": "Corse fino all’affanno.",
+    "example_fr": "Il a couru jusqu’à l’essoufflement.",
+    "level": 2
+  },
+  {
+    "word": "disagio",
+    "translation": [ "malaise", "gêne" ],
+    "translit": "",
+    "example": "Provo un certo disagio in quelle situazioni.",
+    "example_fr": "Je ressens un certain malaise dans ces situations.",
+    "level": 2
+  },
+
+  {
+    "word": "pasticcio",
+    "translation": [ "gâchis", "bourde" ],
+    "translit": "",
+    "example": "Hai fatto un bel pasticcio!",
+    "example_fr": "Tu as fait un beau gâchis !",
+    "level": 2
+  },
+  {
+    "word": "osare",
+    "translation": [ "oser" ],
+    "translit": "",
+    "example": "Non osava parlare.",
+    "example_fr": "Il n’osait pas parler.",
+    "level": 2
+  },
+  {
+    "word": "sfocato",
+    "translation": [ "flou" ],
+    "translit": "",
+    "example": "La foto è sfocata.",
+    "example_fr": "La photo est floue.",
+    "level": 2
+  },
+  {
+    "word": "affrontare",
+    "translation": [ "affronter" ],
+    "translit": "",
+    "example": "Ha affrontato il problema con coraggio.",
+    "example_fr": "Il a affronté le problème avec courage.",
+    "level": 2
+  },
+  {
+    "word": "sporgersi",
+    "translation": [ "se pencher" ],
+    "translit": "",
+    "example": "Non ti sporgere dal balcone!",
+    "example_fr": "Ne te penche pas au balcon !",
+    "level": 2
+  },
+  {
+    "word": "torpore",
+    "translation": [ "torpeur" ],
+    "translit": "",
+    "example": "Dopo pranzo sento sempre un po’ di torpore.",
+    "example_fr": "Après le déjeuner, je ressens toujours un peu de torpeur.",
+    "level": 2
+  },
+  {
+    "word": "brusio",
+    "translation": [ "brouhaha", "murmure" ],
+    "translit": "",
+    "example": "C’era un brusio nella sala.",
+    "example_fr": "Il y avait un murmure dans la salle.",
+    "level": 2
+  },
+  {
+    "word": "ravvedersi",
+    "translation": [ "se raviser", "revenir sur sa décision" ],
+    "translit": "",
+    "example": "Si è ravveduto troppo tardi.",
+    "example_fr": "Il s’est ravisé trop tard.",
+    "level": 2
+  },
+  {
+    "word": "squarcio",
+    "translation": [ "déchirure", "brèche" ],
+    "translit": "",
+    "example": "C’è uno squarcio nel cielo.",
+    "example_fr": "Il y a une brèche dans le ciel.",
+    "level": 2
+  },
+  {
+    "word": "abbozzo",
+    "translation": [ "ébauche", "brouillon" ],
+    "translit": "",
+    "example": "Ho fatto solo un abbozzo del progetto.",
+    "example_fr": "J’ai seulement fait une ébauche du projet.",
+    "level": 2
+  },
+
+  {
+    "word": "allettante",
+    "translation": [ "attrayant", "tentant" ],
+    "translit": "",
+    "example": "L’offerta è davvero allettante.",
+    "example_fr": "L’offre est vraiment tentante.",
+    "level": 2
+  },
+  {
+    "word": "adempimento",
+    "translation": [ "accomplissement", "exécution (tâche)" ],
+    "translit": "",
+    "example": "L’adempimento dei doveri è importante.",
+    "example_fr": "L’accomplissement des devoirs est important.",
+    "level": 2
+  },
+  {
+    "word": "stizza",
+    "translation": [ "dépit", "irritation" ],
+    "translit": "",
+    "example": "Ha reagito con stizza.",
+    "example_fr": "Il a réagi avec dépit.",
+    "level": 2
+  },
+  {
+    "word": "spiccare",
+    "translation": [ "se détacher", "ressortir" ],
+    "translit": "",
+    "example": "Il suo talento spicca tra gli altri.",
+    "example_fr": "Son talent ressort parmi les autres.",
+    "level": 2
+  },
+  {
+    "word": "duro a morire",
+    "translation": [ "tenace", "dur à vaincre" ],
+    "translit": "",
+    "example": "Quel problema è duro a morire.",
+    "example_fr": "Ce problème est tenace.",
+    "level": 2
+  },
+  {
+    "word": "incespicare",
+    "translation": [ "trébucher" ],
+    "translit": "",
+    "example": "Ha incespicato su una pietra.",
+    "example_fr": "Il a trébuché sur une pierre.",
+    "level": 2
+  },
+  {
+    "word": "smacco",
+    "translation": [ "revers", "défaite humiliante" ],
+    "translit": "",
+    "example": "La sconfitta è stato un vero smacco.",
+    "example_fr": "La défaite a été un véritable revers.",
+    "level": 2
+  },
+  {
+    "word": "dispendioso",
+    "translation": [ "coûteux", "onéreux" ],
+    "translit": "",
+    "example": "Questo progetto è molto dispendioso.",
+    "example_fr": "Ce projet est très coûteux.",
+    "level": 2
+  },
+  {
+    "word": "crepa",
+    "translation": [ "fissure" ],
+    "translit": "",
+    "example": "C’è una crepa nel muro.",
+    "example_fr": "Il y a une fissure dans le mur.",
+    "level": 2
+  },
+  {
+    "word": "accorato",
+    "translation": [ "ému", "attristé", "déchirant" ],
+    "translit": "",
+    "example": "Ha fatto un appello accorato.",
+    "example_fr": "Il a lancé un appel déchirant.",
+    "level": 2
+  },
+  {
+    "word": "annegare",
+    "translation": [ "noyer", "se noyer" ],
+    "translit": "",
+    "example": "È quasi annegato nel fiume.",
+    "example_fr": "Il a failli se noyer dans la rivière.",
+    "level": 2
+  },
+  {
+    "word": "ansante",
+    "translation": [ "haletant" ],
+    "translit": "",
+    "example": "È arrivato ansante dopo la corsa.",
+    "example_fr": "Il est arrivé haletant après la course.",
+    "level": 2
+  },
+  {
+    "word": "approdare",
+    "translation": [ "accoster", "arriver à (sens figuré)" ],
+    "translit": "",
+    "example": "La barca è approdata al porto.",
+    "example_fr": "Le bateau a accosté au port.",
+    "level": 2
+  },
+  {
+    "word": "arrendevole",
+    "translation": [ "conciliant", "accommodant" ],
+    "translit": "",
+    "example": "Non è mai stato così arrendevole.",
+    "example_fr": "Il n’a jamais été aussi conciliant.",
+    "level": 2
+  },
+  {
+    "word": "avveduto",
+    "translation": [ "avisé", "prudent" ],
+    "translit": "",
+    "example": "È una persona molto avveduta.",
+    "example_fr": "C’est une personne très avisée.",
+    "level": 2
+  },
+  {
+    "word": "barcollare",
+    "translation": [ "tituber", "vaciller" ],
+    "translit": "",
+    "example": "Barcollava dopo aver bevuto troppo.",
+    "example_fr": "Il vacillait après avoir trop bu.",
+    "level": 2
+  },
+  {
+    "word": "burrasca",
+    "translation": [ "tempête", "tourmente" ],
+    "translit": "",
+    "example": "La barca fu sorpresa da una burrasca.",
+    "example_fr": "Le bateau fut surpris par une tempête.",
+    "level": 2
+  },
+  {
+    "word": "carestia",
+    "translation": [ "famine", "pénurie" ],
+    "translit": "",
+    "example": "La carestia colpì l’intera regione.",
+    "example_fr": "La famine frappa toute la région.",
+    "level": 2
+  },
+  {
+    "word": "crollare",
+    "translation": [ "s’effondrer" ],
+    "translit": "",
+    "example": "Il palazzo è crollato improvvisamente.",
+    "example_fr": "L’immeuble s’est effondré soudainement.",
+    "level": 2
+  },
+  {
+    "word": "cogitare",
+    "translation": [ "réfléchir profondément", "méditer" ],
+    "translit": "",
+    "example": "Stava cogitando sulla decisione.",
+    "example_fr": "Il réfléchissait profondément à la décision.",
+    "level": 2
+  },
+
+  {
+    "word": "dilagare",
+    "translation": [ "se propager", "se répandre" ],
+    "translit": "",
+    "example": "Il panico dilagò nella folla.",
+    "example_fr": "La panique s’est répandue dans la foule.",
+    "level": 2
+  },
+  {
+    "word": "dondolare",
+    "translation": [ "se balancer", "osciller" ],
+    "translit": "",
+    "example": "La sedia a dondolo dondolava lentamente.",
+    "example_fr": "La chaise à bascule oscillait lentement.",
+    "level": 2
+  },
+  {
+    "word": "equivocare",
+    "translation": [ "se tromper", "s’embrouiller" ],
+    "translit": "",
+    "example": "Hai equivocato le mie parole.",
+    "example_fr": "Tu as mal interprété mes paroles.",
+    "level": 2
+  },
+  {
+    "word": "falcidia",
+    "translation": [ "hécatombe", "grande perte" ],
+    "translit": "",
+    "example": "La malattia causò una falcidia nella popolazione.",
+    "example_fr": "La maladie causa une hécatombe dans la population.",
+    "level": 2
+  },
+  {
+    "word": "frastuono",
+    "translation": [ "vacarme", "boucan" ],
+    "translit": "",
+    "example": "Che frastuono in quella stanza!",
+    "example_fr": "Quel vacarme dans cette pièce !",
+    "level": 2
+  },
+  {
+    "word": "garantire",
+    "translation": [ "garantir" ],
+    "translit": "",
+    "example": "Nessuno può garantire il risultato.",
+    "example_fr": "Personne ne peut garantir le résultat.",
+    "level": 2
+  },
+  {
+    "word": "ghiacciare",
+    "translation": [ "geler" ],
+    "translit": "",
+    "example": "L’acqua è ghiacciata durante la notte.",
+    "example_fr": "L’eau a gelé durant la nuit.",
+    "level": 2
+  },
+  {
+    "word": "gravoso",
+    "translation": [ "lourd", "pénible" ],
+    "translit": "",
+    "example": "È un lavoro gravoso ma necessario.",
+    "example_fr": "C’est un travail pénible mais nécessaire.",
+    "level": 2
+  },
+  {
+    "word": "impacciare",
+    "translation": [ "gêner", "entraver" ],
+    "translit": "",
+    "example": "Il cappotto mi impaccia i movimenti.",
+    "example_fr": "Le manteau gêne mes mouvements.",
+    "level": 2
+  },
+  {
+    "word": "impavido",
+    "translation": [ "intrépide" ],
+    "translit": "",
+    "example": "È rimasto impavido davanti al pericolo.",
+    "example_fr": "Il est resté intrépide face au danger.",
+    "level": 2
+  },
+
+  {
+    "word": "infuriare",
+    "translation": [ "se déchaîner", "s’énerver furieusement" ],
+    "translit": "",
+    "example": "La tempesta infuriò tutta la notte.",
+    "example_fr": "La tempête s’est déchaînée toute la nuit.",
+    "level": 2
+  },
+  {
+    "word": "intravedere",
+    "translation": [ "entrevoir", "apercevoir brièvement" ],
+    "translit": "",
+    "example": "Ho intravisto una luce dentro la casa.",
+    "example_fr": "J’ai entrevu une lumière dans la maison.",
+    "level": 2
+  },
+  {
+    "word": "intralciare",
+    "translation": [ "faire obstacle", "gêner" ],
+    "translit": "",
+    "example": "La folla intralcia il passaggio.",
+    "example_fr": "La foule gêne le passage.",
+    "level": 2
+  },
+  {
+    "word": "inveire",
+    "translation": [ "injurier", "fulminer" ],
+    "translit": "",
+    "example": "Ha inveito contro il giudice.",
+    "example_fr": "Il a fulminé contre le juge.",
+    "level": 2
+  },
+  {
+    "word": "lastrico",
+    "translation": [ "pavement", "sol pavé" ],
+    "translit": "",
+    "example": "Il lastrico della piazza era scivoloso.",
+    "example_fr": "Le pavement de la place était glissant.",
+    "level": 2
+  },
+  {
+    "word": "lecito",
+    "translation": [ "licite", "autorisé" ],
+    "translit": "",
+    "example": "È lecito avere dei dubbi.",
+    "example_fr": "Il est licite d’avoir des doutes.",
+    "level": 2
+  },
+  {
+    "word": "lusinga",
+    "translation": [ "flatterie" ],
+    "translit": "",
+    "example": "Non lasciarti ingannare dalle lusinghe.",
+    "example_fr": "Ne te laisse pas tromper par les flatteries.",
+    "level": 2
+  },
+  {
+    "word": "malcapitato",
+    "translation": [ "infortuné", "malchanceux" ],
+    "translit": "",
+    "example": "Il malcapitato rimase ferito.",
+    "example_fr": "Le malchanceux resta blessé.",
+    "level": 2
+  },
+  {
+    "word": "meticoloso",
+    "translation": [ "méticuleux" ],
+    "translit": "",
+    "example": "È molto meticoloso nel suo lavoro.",
+    "example_fr": "Il est très méticuleux dans son travail.",
+    "level": 2
+  },
+  {
+    "word": "mitezza",
+    "translation": [ "douceur", "mansuétude" ],
+    "translit": "",
+    "example": "La sua mitezza colpisce tutti.",
+    "example_fr": "Sa douceur frappe tout le monde.",
+    "level": 2
+  },
+
+  {
+    "word": "mormorio",
+    "translation": [ "murmure" ],
+    "translit": "",
+    "example": "Un mormorio percorse la sala.",
+    "example_fr": "Un murmure parcourut la salle.",
+    "level": 2
+  },
+  {
+    "word": "ossessionare",
+    "translation": [ "obséder" ],
+    "translit": "",
+    "example": "L’idea lo ossessiona da giorni.",
+    "example_fr": "L’idée l’obsède depuis des jours.",
+    "level": 2
+  },
+  {
+    "word": "pagliare",
+    "translation": [ "remplir de paille" ],
+    "translit": "",
+    "example": "Hanno pagliato il vecchio materasso.",
+    "example_fr": "Ils ont rempli le vieux matelas de paille.",
+    "level": 2
+  },
+  {
+    "word": "palpabile",
+    "translation": [ "palpable" ],
+    "translit": "",
+    "example": "La tensione era palpabile.",
+    "example_fr": "La tension était palpable.",
+    "level": 2
+  },
+  {
+    "word": "perplessità",
+    "translation": [ "perplexité" ],
+    "translit": "",
+    "example": "Mostrò un po’ di perplessità.",
+    "example_fr": "Il montra un peu de perplexité.",
+    "level": 2
+  },
+  {
+    "word": "precipitare",
+    "translation": [ "précipiter", "tomber soudainement" ],
+    "translit": "",
+    "example": "È precipitato dalle scale.",
+    "example_fr": "Il est tombé dans l’escalier.",
+    "level": 2
+  },
+  {
+    "word": "propenso",
+    "translation": [ "enclin", "disposé à" ],
+    "translit": "",
+    "example": "Sono propenso a credere che abbia ragione.",
+    "example_fr": "Je suis enclin à croire qu’il a raison.",
+    "level": 2
+  },
+  {
+    "word": "rabbrividire",
+    "translation": [ "frissonner" ],
+    "translit": "",
+    "example": "Ha rabbrividito dal freddo.",
+    "example_fr": "Il a frissonné de froid.",
+    "level": 2
+  },
+  {
+    "word": "raggirare",
+    "translation": [ "rouler", "duper" ],
+    "translit": "",
+    "example": "È stato raggirato da un truffatore.",
+    "example_fr": "Il a été dupé par un escroc.",
+    "level": 2
+  },
+  {
+    "word": "rammarico",
+    "translation": [ "regret", "chagrin" ],
+    "translit": "",
+    "example": "Ha espresso molto rammarico.",
+    "example_fr": "Il a exprimé beaucoup de regret.",
+    "level": 2
+  },
+  {
+    "word": "recidere",
+    "translation": [ "trancher", "sectionner" ],
+    "translit": "",
+    "example": "Ha reciso il ramo con un colpo netto.",
+    "example_fr": "Il a tranché la branche d’un coup net.",
+    "level": 2
+  },
+  {
+    "word": "redarguire",
+    "translation": [ "réprimander" ],
+    "translit": "",
+    "example": "L’insegnante ha redarguito lo studente.",
+    "example_fr": "Le professeur a réprimandé l’élève.",
+    "level": 2
+  },
+  {
+    "word": "remare",
+    "translation": [ "ramer" ],
+    "translit": "",
+    "example": "Abbiamo remato per ore.",
+    "example_fr": "Nous avons ramé pendant des heures.",
+    "level": 2
+  },
+  {
+    "word": "rinnegare",
+    "translation": [ "renier" ],
+    "translit": "",
+    "example": "Non puoi rinnegare il tuo passato.",
+    "example_fr": "Tu ne peux pas renier ton passé.",
+    "level": 2
+  },
+  {
+    "word": "risucchiare",
+    "translation": [ "aspirer", "engloutir" ],
+    "translit": "",
+    "example": "Il buco ha risucchiato l’acqua.",
+    "example_fr": "Le trou a aspiré l’eau.",
+    "level": 2
+  },
+  {
+    "word": "rovistare",
+    "translation": [ "fouiller" ],
+    "translit": "",
+    "example": "Ha rovistato tra i cassetti.",
+    "example_fr": "Il a fouillé dans les tiroirs.",
+    "level": 2
+  },
+  {
+    "word": "ruggire",
+    "translation": [ "rugir" ],
+    "translit": "",
+    "example": "Il leone ha ruggito forte.",
+    "example_fr": "Le lion a rugi fortement.",
+    "level": 2
+  },
+  {
+    "word": "sbandare",
+    "translation": [ "déraper", "perdre le contrôle" ],
+    "translit": "",
+    "example": "L’auto ha sbandato sulla curva.",
+    "example_fr": "La voiture a dérapé dans le virage.",
+    "level": 2
+  },
+  {
+    "word": "scampare",
+    "translation": [ "échapper à", "survivre" ],
+    "translit": "",
+    "example": "È scampato al pericolo.",
+    "example_fr": "Il a échappé au danger.",
+    "level": 2
+  },
+  {
+    "word": "schernire",
+    "translation": [ "se moquer", "railler" ],
+    "translit": "",
+    "example": "Lo hanno schernito senza pietà.",
+    "example_fr": "Ils se sont moqués de lui sans pitié.",
+    "level": 2
+  },
+
+  {
+    "word": "sconforto",
+    "translation": [ "découragement", "abattement" ],
+    "translit": "",
+    "example": "Era pieno di sconforto.",
+    "example_fr": "Il était plein de découragement.",
+    "level": 2
+  },
+  {
+    "word": "scorgere",
+    "translation": [ "apercevoir", "déceler" ],
+    "translit": "",
+    "example": "Ho scorto una figura in lontananza.",
+    "example_fr": "J’ai aperçu une silhouette au loin.",
+    "level": 2
+  },
+  {
+    "word": "scosceso",
+    "translation": [ "raide", "escarpé" ],
+    "translit": "",
+    "example": "Il sentiero è molto scosceso.",
+    "example_fr": "Le sentier est très escarpé.",
+    "level": 2
+  },
+  {
+    "word": "sdebitarsi",
+    "translation": [ "se rendre quitte", "rendre la pareille" ],
+    "translit": "",
+    "example": "Volevo sdebitarmi per il tuo aiuto.",
+    "example_fr": "Je voulais te rendre la pareille pour ton aide.",
+    "level": 2
+  },
+  {
+    "word": "sgomento",
+    "translation": [ "consternation", "effroi" ],
+    "translit": "",
+    "example": "Guardò la scena con sgomento.",
+    "example_fr": "Il regarda la scène avec consternation.",
+    "level": 2
+  },
+  {
+    "word": "sgranare",
+    "translation": [ "écarquiller (les yeux)", "égrener" ],
+    "translit": "",
+    "example": "Ha sgranato gli occhi dalla sorpresa.",
+    "example_fr": "Il a écarquillé les yeux de surprise.",
+    "level": 2
+  },
+  {
+    "word": "smaltire",
+    "translation": [ "éliminer", "évacuer", "digérer" ],
+    "translit": "",
+    "example": "Non riesco a smaltire la stanchezza.",
+    "example_fr": "Je n’arrive pas à évacuer la fatigue.",
+    "level": 2
+  },
+  {
+    "word": "sollevare",
+    "translation": [ "soulever" ],
+    "translit": "",
+    "example": "Ha sollevato la scatola con facilità.",
+    "example_fr": "Il a soulevé la boîte avec facilité.",
+    "level": 2
+  },
+  {
+    "word": "sospingere",
+    "translation": [ "pousser légèrement" ],
+    "translit": "",
+    "example": "Il vento sospingeva la porta.",
+    "example_fr": "Le vent poussait légèrement la porte.",
+    "level": 2
+  },
+  {
+    "word": "sparpagliare",
+    "translation": [ "disperser", "éparpiller" ],
+    "translit": "",
+    "example": "Ha sparpagliato i fogli sul tavolo.",
+    "example_fr": "Il a éparpillé les feuilles sur la table.",
+    "level": 2
+  },
+
+  {
+    "word": "spavalderia",
+    "translation": [ "outrecuidance", "arrogance" ],
+    "translit": "",
+    "example": "La sua spavalderia dà fastidio.",
+    "example_fr": "Son arrogance est agaçante.",
+    "level": 2
+  },
+  {
+    "word": "spelare",
+    "translation": [ "éplucher", "peler" ],
+    "translit": "",
+    "example": "Sto spelando le patate.",
+    "example_fr": "Je suis en train d’éplucher les pommes de terre.",
+    "level": 2
+  },
+  {
+    "word": "sporgere",
+    "translation": [ "déposer (une plainte)", "présenter" ],
+    "translit": "",
+    "example": "Ha sporto denuncia.",
+    "example_fr": "Il a déposé plainte.",
+    "level": 2
+  },
+  {
+    "word": "sproloquio",
+    "translation": [ "discours incohérent", "divagation" ],
+    "translit": "",
+    "example": "Ha fatto uno sproloquio interminabile.",
+    "example_fr": "Il a fait un discours incohérent interminable.",
+    "level": 2
+  },
+  {
+    "word": "stentare",
+    "translation": [ "peiner", "avoir du mal à" ],
+    "translit": "",
+    "example": "Stentavo a capire il senso.",
+    "example_fr": "J’avais du mal à comprendre le sens.",
+    "level": 2
+  },
+  {
+    "word": "stravolgere",
+    "translation": [ "bouleverser", "changer complètement" ],
+    "translit": "",
+    "example": "La notizia ha stravolto tutti.",
+    "example_fr": "La nouvelle a bouleversé tout le monde.",
+    "level": 2
+  },
+  {
+    "word": "strisciare",
+    "translation": [ "ramper", "glisser" ],
+    "translit": "",
+    "example": "Il serpente ha strisciato via.",
+    "example_fr": "Le serpent a rampé au loin.",
+    "level": 2
+  },
+  {
+    "word": "stuzzicare",
+    "translation": [ "taquiner", "stimuler" ],
+    "translit": "",
+    "example": "La sua curiosità fu stuzzicata.",
+    "example_fr": "Sa curiosité fut éveillée.",
+    "level": 2
+  },
+  {
+    "word": "tastare",
+    "translation": [ "tâter", "palper" ],
+    "translit": "",
+    "example": "Il medico ha tastato l’addome.",
+    "example_fr": "Le médecin a palpé l’abdomen.",
+    "level": 2
+  },
+  {
+    "word": "tentennare",
+    "translation": [ "hésiter", "vaciller" ],
+    "translit": "",
+    "example": "Ha tentennato prima di rispondere.",
+    "example_fr": "Il a hésité avant de répondre.",
+    "level": 2
+  },
+
+  {
+    "word": "traboccare",
+    "translation": [ "déborder" ],
+    "translit": "",
+    "example": "Il vaso trabocca d’acqua.",
+    "example_fr": "Le vase déborde d’eau.",
+    "level": 2
+  },
+  {
+    "word": "tracannare",
+    "translation": [ "engloutir (boisson)", "boire cul sec" ],
+    "translit": "",
+    "example": "Ha tracannato la birra in un secondo.",
+    "example_fr": "Il a englouti la bière en une seconde.",
+    "level": 2
+  },
+  {
+    "word": "trattenere",
+    "translation": [ "retenir" ],
+    "translit": "",
+    "example": "Trattiene il fiato.",
+    "example_fr": "Il retient son souffle.",
+    "level": 2
+  },
+  {
+    "word": "tremolante",
+    "translation": [ "tremblant" ],
+    "translit": "",
+    "example": "La sua voce era tremolante.",
+    "example_fr": "Sa voix était tremblante.",
+    "level": 2
+  },
+  {
+    "word": "vantarsi",
+    "translation": [ "se vanter" ],
+    "translit": "",
+    "example": "Si vanta troppo dei suoi successi.",
+    "example_fr": "Il se vante trop de ses succès.",
+    "level": 2
+  },
+  {
+    "word": "varcare",
+    "translation": [ "franchir" ],
+    "translit": "",
+    "example": "Varcarono il confine all’alba.",
+    "example_fr": "Ils ont franchi la frontière à l’aube.",
+    "level": 2
+  },
+  {
+    "word": "vegliardo",
+    "translation": [ "vieillard", "ancien" ],
+    "translit": "",
+    "example": "Il vegliardo parlava con saggezza.",
+    "example_fr": "Le vieillard parlait avec sagesse.",
+    "level": 2
+  },
+  {
+    "word": "velleità",
+    "translation": [ "veilléité", "désir sans suite" ],
+    "translit": "",
+    "example": "Le sue erano solo velleità.",
+    "example_fr": "Ses désirs n’étaient que des velléités.",
+    "level": 2
+  },
+  {
+    "word": "vigilare",
+    "translation": [ "veiller", "surveiller" ],
+    "translit": "",
+    "example": "La polizia vigila sulla zona.",
+    "example_fr": "La police surveille la zone.",
+    "level": 2
+  },
+  {
+    "word": "zoppicare",
+    "translation": [ "boiter" ],
+    "translit": "",
+    "example": "Ha iniziato a zoppicare dopo la caduta.",
+    "example_fr": "Il a commencé à boiter après la chute.",
+    "level": 2
+  },
+  {
+    "word": "accaparrare",
+    "translation": [ "accaparer" ],
+    "translit": "",
+    "example": "La gente ha accaparrato tutto il pane.",
+    "example_fr": "Les gens ont accaparé tout le pain.",
+    "level": 2
+  },
+  {
+    "word": "accasciare",
+    "translation": [ "s'affaisser", "s'écrouler" ],
+    "translit": "",
+    "example": "Si è accasciato sulla sedia.",
+    "example_fr": "Il s'est affaissé sur la chaise.",
+    "level": 2
+  },
+  {
+    "word": "accudire",
+    "translation": [ "prendre soin", "s'occuper de" ],
+    "translit": "",
+    "example": "Accudisce i nipoti ogni pomeriggio.",
+    "example_fr": "Il s'occupe de ses petits-enfants chaque après-midi.",
+    "level": 2
+  },
+  {
+    "word": "acquattarsi",
+    "translation": [ "se tapir", "se blottir" ],
+    "translit": "",
+    "example": "Il gatto si è acquattato tra i cespugli.",
+    "example_fr": "Le chat s’est tapi dans les buissons.",
+    "level": 2
+  },
+  {
+    "word": "addolcire",
+    "translation": [ "adoucir" ],
+    "translit": "",
+    "example": "Ha addolcito il caffè con dello zucchero.",
+    "example_fr": "Il a adouci son café avec du sucre.",
+    "level": 2
+  },
+  {
+    "word": "affannarsi",
+    "translation": [ "s’affairer", "s’essouffler" ],
+    "translit": "",
+    "example": "Si affanna troppo per cose inutili.",
+    "example_fr": "Il s'essouffle trop pour des choses inutiles.",
+    "level": 2
+  },
+  {
+    "word": "allestire",
+    "translation": [ "préparer", "mettre en place" ],
+    "translit": "",
+    "example": "Stanno allestendo il palcoscenico.",
+    "example_fr": "Ils préparent la scène.",
+    "level": 2
+  },
+  {
+    "word": "ammutolire",
+    "translation": [ "rendre muet", "rester sans voix" ],
+    "translit": "",
+    "example": "È rimasto ammutolito dalla sorpresa.",
+    "example_fr": "Il est resté sans voix de surprise.",
+    "level": 2
+  },
+  {
+    "word": "appagare",
+    "translation": [ "satisfaire", "assouvir" ],
+    "translit": "",
+    "example": "Niente sembra appagarlo davvero.",
+    "example_fr": "Rien ne semble vraiment le satisfaire.",
+    "level": 2
+  },
+  {
+    "word": "appostare",
+    "translation": [ "guetter", "se poster" ],
+    "translit": "",
+    "example": "I fotografi erano appostati all’ingresso.",
+    "example_fr": "Les photographes étaient postés à l’entrée.",
+    "level": 2
+  },
+
+  {
+    "word": "ardire",
+    "translation": [ "audace", "hardiesse" ],
+    "translit": "",
+    "example": "Ha avuto l’ardire di contraddirlo.",
+    "example_fr": "Il a eu l’audace de le contredire.",
+    "level": 2
+  },
+  {
+    "word": "attanagliare",
+    "translation": [ "tenailler", "serrer" ],
+    "translit": "",
+    "example": "La paura lo attanagliava.",
+    "example_fr": "La peur le tenaillait.",
+    "level": 2
+  },
+  {
+    "word": "avvalorare",
+    "translation": [ "confirmer", "étayer" ],
+    "translit": "",
+    "example": "Le prove avvalorano la sua versione.",
+    "example_fr": "Les preuves étayent sa version.",
+    "level": 2
+  },
+  {
+    "word": "barattare",
+    "translation": [ "échanger", "troquer" ],
+    "translit": "",
+    "example": "Ha barattato il vecchio telefono con uno nuovo.",
+    "example_fr": "Il a troqué son vieux téléphone contre un nouveau.",
+    "level": 2
+  },
+  {
+    "word": "beffardo",
+    "translation": [ "narquois", "moqueur" ],
+    "translit": "",
+    "example": "Mi ha rivolto un sorriso beffardo.",
+    "example_fr": "Il m’a adressé un sourire narquois.",
+    "level": 2
+  },
+  {
+    "word": "bramare",
+    "translation": [ "désirer ardemment", "aspirer à" ],
+    "translit": "",
+    "example": "Brama un po’ di tranquillità.",
+    "example_fr": "Il aspire à un peu de tranquillité.",
+    "level": 2
+  },
+  {
+    "word": "capitolare",
+    "translation": [ "capituler", "se rendre" ],
+    "translit": "",
+    "example": "Alla fine ha capitolato.",
+    "example_fr": "Il a fini par capituler.",
+    "level": 2
+  },
+  {
+    "word": "cinguettare",
+    "translation": [ "gazouiller" ],
+    "translit": "",
+    "example": "Gli uccelli cinguettano all’alba.",
+    "example_fr": "Les oiseaux gazouillent à l’aube.",
+    "level": 2
+  },
+  {
+    "word": "collimare",
+    "translation": [ "coïncider", "converger" ],
+    "translit": "",
+    "example": "Le nostre idee non collimano.",
+    "example_fr": "Nos idées ne coïncident pas.",
+    "level": 2
+  },
+  {
+    "word": "consolare",
+    "translation": [ "consoler" ],
+    "translit": "",
+    "example": "Ha cercato di consolarla.",
+    "example_fr": "Il a essayé de la consoler.",
+    "level": 2
+  },
+
+  {
+    "word": "costernare",
+    "translation": [ "consterner" ],
+    "translit": "",
+    "example": "La notizia lo ha costernato.",
+    "example_fr": "La nouvelle l’a consterné.",
+    "level": 2
+  },
+  {
+    "word": "dardeggiare",
+    "translation": [ "darder", "lancer des rayons" ],
+    "translit": "",
+    "example": "Il sole dardeggiava sulla spiaggia.",
+    "example_fr": "Le soleil dardait sur la plage.",
+    "level": 2
+  },
+  {
+    "word": "diradare",
+    "translation": [ "éclaircir", "se faire plus rare" ],
+    "translit": "",
+    "example": "La folla si è diradata.",
+    "example_fr": "La foule s’est éclaircie.",
+    "level": 2
+  },
+  {
+    "word": "eclissarsi",
+    "translation": [ "disparaître", "s’éclipser" ],
+    "translit": "",
+    "example": "Si è eclissato senza salutare.",
+    "example_fr": "Il s’est éclipsé sans dire au revoir.",
+    "level": 2
+  },
+  {
+    "word": "elogiare",
+    "translation": [ "louer", "faire l’éloge" ],
+    "translit": "",
+    "example": "Il professore ha elogiato il suo lavoro.",
+    "example_fr": "Le professeur a fait l’éloge de son travail.",
+    "level": 2
+  },
+  {
+    "word": "esimere",
+    "translation": [ "exempter" ],
+    "translit": "",
+    "example": "Lo hanno esentato dal compito.",
+    "example_fr": "Ils l’ont exempté de la tâche.",
+    "level": 2
+  },
+  {
+    "word": "fiammata",
+    "translation": [ "flambée" ],
+    "translit": "",
+    "example": "Una fiammata improvvisa è uscita dal camino.",
+    "example_fr": "Une flambée soudaine est sortie de la cheminée.",
+    "level": 2
+  },
+  {
+    "word": "inorgoglire",
+    "translation": [ "remplir d’orgueil" ],
+    "translit": "",
+    "example": "Le parole del maestro lo hanno inorgoglito.",
+    "example_fr": "Les paroles du maître l’ont rempli d’orgueil.",
+    "level": 2
+  },
+  {
+    "word": "insinuare",
+    "translation": [ "insinuer" ],
+    "translit": "",
+    "example": "Ha insinuato che stessi mentendo.",
+    "example_fr": "Il a insinué que je mentais.",
+    "level": 2
+  },
+  {
+    "word": "lauto",
+    "translation": [ "copieux", "abondant" ],
+    "translit": "",
+    "example": "Hanno preparato un lauto pranzo.",
+    "example_fr": "Ils ont préparé un repas copieux.",
+    "level": 2
+  },
+
+  {
+    "word": "lenire",
+    "translation": [ "apaiser", "soulager" ],
+    "translit": "",
+    "example": "La musica lenisce il dolore.",
+    "example_fr": "La musique apaise la douleur.",
+    "level": 2
+  },
+  {
+    "word": "mandria",
+    "translation": [ "troupeau (de bovins)" ],
+    "translit": "",
+    "example": "Una mandria attraversava la strada.",
+    "example_fr": "Un troupeau traversait la route.",
+    "level": 2
+  },
+  {
+    "word": "mestizia",
+    "translation": [ "tristesse profonde" ],
+    "translit": "",
+    "example": "I suoi occhi riflettevano mestizia.",
+    "example_fr": "Ses yeux reflétaient une profonde tristesse.",
+    "level": 2
+  },
+  {
+    "word": "mettere a repentaglio",
+    "translation": [ "mettre en danger" ],
+    "translit": "",
+    "example": "Ha messo a repentaglio la sua vita.",
+    "example_fr": "Il a mis sa vie en danger.",
+    "level": 2
+  },
+  {
+    "word": "nuocere",
+    "translation": [ "nuire" ],
+    "translit": "",
+    "example": "Il fumo nuoce gravemente alla salute.",
+    "example_fr": "La fumée nuit gravement à la santé.",
+    "level": 2
+  },
+  {
+    "word": "ostentare",
+    "translation": [ "afficher", "exhiber" ],
+    "translit": "",
+    "example": "Ostenta una ricchezza esagerata.",
+    "example_fr": "Il affiche une richesse exagérée.",
+    "level": 2
+  },
+  {
+    "word": "perentorio",
+    "translation": [ "péremptoire", "autoritaire" ],
+    "translit": "",
+    "example": "Ha dato un ordine perentorio.",
+    "example_fr": "Il a donné un ordre péremptoire.",
+    "level": 2
+  },
+  {
+    "word": "rimpinguare",
+    "translation": [ "renflouer", "augmenter" ],
+    "translit": "",
+    "example": "Ha rimpinguato il conto in banca.",
+    "example_fr": "Il a renfloué son compte bancaire.",
+    "level": 2
+  },
+  {
+    "word": "soggiacere",
+    "translation": [ "être soumis à", "se trouver sous" ],
+    "translit": "",
+    "example": "Il paese soggiace a una forte pressione economica.",
+    "example_fr": "Le pays est soumis à une forte pression économique.",
+    "level": 2
+  },
+  {
+    "word": "trapelare",
+    "translation": [ "fuiter", "transparaître" ],
+    "translit": "",
+    "example": "La notizia è trapelata sui giornali.",
+    "example_fr": "La nouvelle a fuité dans les journaux.",
+    "level": 2
+  }
+]
