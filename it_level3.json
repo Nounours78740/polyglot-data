@@ -1,0 +1,1294 @@
+[
+  {
+    "word": "abnegazione",
+    "translation": [ "abnégation", "dévouement total" ],
+    "translit": "",
+    "example": "Ha svolto il suo lavoro con grande abnegazione.",
+    "example_fr": "Il a accompli son travail avec une grande abnégation.",
+    "level": 3
+  },
+  {
+    "word": "acume",
+    "translation": [ "perspicacité", "acuité d'esprit" ],
+    "translit": "",
+    "example": "La sua analisi è nota per l’acume straordinario.",
+    "example_fr": "Son analyse est connue pour sa perspicacité extraordinaire.",
+    "level": 3
+  },
+  {
+    "word": "aderire",
+    "translation": [ "adhérer (à une idée, un mouvement)" ],
+    "translit": "",
+    "example": "Molti hanno aderito alla proposta.",
+    "example_fr": "Beaucoup ont adhéré à la proposition.",
+    "level": 3
+  },
+  {
+    "word": "affiorare",
+    "translation": [ "émerger", "apparaître en surface" ],
+    "translit": "",
+    "example": "I ricordi affiorano lentamente.",
+    "example_fr": "Les souvenirs émergent lentement.",
+    "level": 3
+  },
+  {
+    "word": "allusione",
+    "translation": [ "allusion" ],
+    "translit": "",
+    "example": "Ha fatto un’allusione poco velata al problema.",
+    "example_fr": "Il a fait une allusion à peine voilée au problème.",
+    "level": 3
+  },
+  {
+    "word": "alterco",
+    "translation": [ "altercation", "dispute vive" ],
+    "translit": "",
+    "example": "I due colleghi hanno avuto un alterco pesante.",
+    "example_fr": "Les deux collègues ont eu une lourde altercation.",
+    "level": 3
+  },
+  {
+    "word": "ampolloso",
+    "translation": [ "ampoulé", "pompeux" ],
+    "translit": "",
+    "example": "Il suo stile di scrittura è troppo ampolloso.",
+    "example_fr": "Son style d’écriture est trop ampoulé.",
+    "level": 3
+  },
+  {
+    "word": "annichilire",
+    "translation": [ "anéantir", "détruire moralement" ],
+    "translit": "",
+    "example": "La sconfitta lo ha annichilito.",
+    "example_fr": "La défaite l’a anéanti.",
+    "level": 3
+  },
+  {
+    "word": "antitetico",
+    "translation": [ "antithétique", "en opposition radicale" ],
+    "translit": "",
+    "example": "Queste idee sono completamente antitetiche.",
+    "example_fr": "Ces idées sont complètement antithétiques.",
+    "level": 3
+  },
+  {
+    "word": "apodittico",
+    "translation": [ "apodictique", "présenté comme indiscutable" ],
+    "translit": "",
+    "example": "Ha espresso un'opinione in modo troppo apodittico.",
+    "example_fr": "Il a exprimé son opinion de manière trop apodictique.",
+    "level": 3
+  },
+
+  {
+    "word": "approfondire",
+    "translation": [ "approfondir" ],
+    "translit": "",
+    "example": "Dobbiamo approfondire la questione.",
+    "example_fr": "Nous devons approfondir la question.",
+    "level": 3
+  },
+  {
+    "word": "arguzia",
+    "translation": [ "esprit vif", "malice brillante" ],
+    "translit": "",
+    "example": "Rispose con grande arguzia.",
+    "example_fr": "Il répondit avec un esprit très vif.",
+    "level": 3
+  },
+  {
+    "word": "assiduo",
+    "translation": [ "assidu", "constant" ],
+    "translit": "",
+    "example": "È uno studente assiduo.",
+    "example_fr": "C'est un étudiant assidu.",
+    "level": 3
+  },
+  {
+    "word": "atavico",
+    "translation": [ "atavique", "profondément enraciné" ],
+    "translit": "",
+    "example": "Una paura atavica lo paralizzava.",
+    "example_fr": "Une peur atavique le paralysait.",
+    "level": 3
+  },
+  {
+    "word": "avarizia",
+    "translation": [ "avarice" ],
+    "translit": "",
+    "example": "La sua avarizia è proverbiale.",
+    "example_fr": "Son avarice est proverbiale.",
+    "level": 3
+  },
+  {
+    "word": "baratro",
+    "translation": [ "gouffre", "abîme" ],
+    "translit": "",
+    "example": "Si trovava sull’orlo del baratro.",
+    "example_fr": "Il se trouvait au bord du gouffre.",
+    "level": 3
+  },
+  {
+    "word": "blaterare",
+    "translation": [ "jacasser", "parler dans le vide" ],
+    "translit": "",
+    "example": "Ha blaterato senza dire nulla di utile.",
+    "example_fr": "Il a jacassé sans rien dire d’utile.",
+    "level": 3
+  },
+  {
+    "word": "brusio",
+    "translation": [ "bruissement", "murmure confus" ],
+    "translit": "",
+    "example": "Un brusio riempiva la sala.",
+    "example_fr": "Un murmure confus remplissait la salle.",
+    "level": 3
+  },
+  {
+    "word": "calamità",
+    "translation": [ "calamité", "catastrophe" ],
+    "translit": "",
+    "example": "La regione è stata colpita da una calamità.",
+    "example_fr": "La région a été frappée par une calamité.",
+    "level": 3
+  },
+  {
+    "word": "caparbietà",
+    "translation": [ "entêtement", "obstination" ],
+    "translit": "",
+    "example": "Ha superato tutto grazie alla sua caparbietà.",
+    "example_fr": "Il a tout surmonté grâce à son obstination.",
+    "level": 3
+  },
+
+  {
+    "word": "carpire",
+    "translation": [ "arracher", "obtenir par ruse" ],
+    "translit": "",
+    "example": "Ha carpito informazioni riservate.",
+    "example_fr": "Il a arraché des informations confidentielles.",
+    "level": 3
+  },
+  {
+    "word": "cogente",
+    "translation": [ "contraignant", "irrésistible" ],
+    "translit": "",
+    "example": "Una norma cogente obbliga tutti a rispettarla.",
+    "example_fr": "Une règle contraignante oblige tout le monde à la respecter.",
+    "level": 3
+  },
+  {
+    "word": "colmarsi",
+    "translation": [ "se remplir", "déborder" ],
+    "translit": "",
+    "example": "La sala si è colmata rapidamente.",
+    "example_fr": "La salle s’est remplie rapidement.",
+    "level": 3
+  },
+  {
+    "word": "conciliare",
+    "translation": [ "concilier", "réconcilier" ],
+    "translit": "",
+    "example": "Dobbiamo conciliare esigenze diverse.",
+    "example_fr": "Nous devons concilier des besoins différents.",
+    "level": 3
+  },
+  {
+    "word": "connubio",
+    "translation": [ "union", "mélange harmonieux" ],
+    "translit": "",
+    "example": "Un perfetto connubio tra tradizione e modernità.",
+    "example_fr": "Un parfait mélange entre tradition et modernité.",
+    "level": 3
+  },
+  {
+    "word": "contingenza",
+    "translation": [ "contingence", "situation imprévue" ],
+    "translit": "",
+    "example": "Le contingenze hanno cambiato i piani.",
+    "example_fr": "Les contingences ont changé les plans.",
+    "level": 3
+  },
+  {
+    "word": "corrucciarsi",
+    "translation": [ "se renfrogner", "se crisper" ],
+    "translit": "",
+    "example": "Si è corrucciato sentendo la notizia.",
+    "example_fr": "Il s'est renfrogné en entendant la nouvelle.",
+    "level": 3
+  },
+  {
+    "word": "deferente",
+    "translation": [ "déférent", "respectueux" ],
+    "translit": "",
+    "example": "Ha risposto in modo molto deferente.",
+    "example_fr": "Il a répondu de manière très déférente.",
+    "level": 3
+  },
+  {
+    "word": "delibare",
+    "translation": [ "goûter légèrement", "effleurer" ],
+    "translit": "",
+    "example": "Ho delibato appena il vino.",
+    "example_fr": "J’ai à peine goûté le vin.",
+    "level": 3
+  },
+  {
+    "word": "diatriba",
+    "translation": [ "diatribe", "dispute virulente" ],
+    "translit": "",
+    "example": "Si è aperta una lunga diatriba sul tema.",
+    "example_fr": "Une longue diatribe s’est ouverte sur le sujet.",
+    "level": 3
+  },
+
+  {
+    "word": "dissimulare",
+    "translation": [ "dissimuler", "cacher" ],
+    "translit": "",
+    "example": "Ha dissimulato bene le sue emozioni.",
+    "example_fr": "Il a bien dissimulé ses émotions.",
+    "level": 3
+  },
+  {
+    "word": "dissonanza",
+    "translation": [ "dissonance" ],
+    "translit": "",
+    "example": "C'è una forte dissonanza tra parole e fatti.",
+    "example_fr": "Il y a une forte dissonance entre les paroles et les actes.",
+    "level": 3
+  },
+  {
+    "word": "edulcorare",
+    "translation": [ "adoucir", "édulcorer" ],
+    "translit": "",
+    "example": "Ha edulcorato la verità per non ferirla.",
+    "example_fr": "Il a édulcoré la vérité pour ne pas la blesser.",
+    "level": 3
+  },
+  {
+    "word": "eloquio",
+    "translation": [ "éloquence", "façon de s’exprimer" ],
+    "translit": "",
+    "example": "Il suo eloquio è raffinato.",
+    "example_fr": "Son éloquence est raffinée.",
+    "level": 3
+  },
+  {
+    "word": "empietà",
+    "translation": [ "impiété" ],
+    "translit": "",
+    "example": "Era accusato di empietà.",
+    "example_fr": "Il était accusé d’impiété.",
+    "level": 3
+  },
+  {
+    "word": "entorpidire",
+    "translation": [ "engourdir" ],
+    "translit": "",
+    "example": "Il freddo ha entorpidito le mani.",
+    "example_fr": "Le froid a engourdi les mains.",
+    "level": 3
+  },
+  {
+    "word": "esautorare",
+    "translation": [ "dessaisir (d'un pouvoir)", "priver d’autorité" ],
+    "translit": "",
+    "example": "Hanno esautorato il direttore.",
+    "example_fr": "Ils ont dessaisi le directeur de son autorité.",
+    "level": 3
+  },
+  {
+    "word": "esimio",
+    "translation": [ "éminent", "prestigieux" ],
+    "translit": "",
+    "example": "Un esimio professore di storia.",
+    "example_fr": "Un éminent professeur d’histoire.",
+    "level": 3
+  },
+  {
+    "word": "estenuante",
+    "translation": [ "exténuant" ],
+    "translit": "",
+    "example": "È stato un lavoro estenuante.",
+    "example_fr": "Ça a été un travail exténuant.",
+    "level": 3
+  },
+  {
+    "word": "farraginoso",
+    "translation": [ "confus", "embrouillé" ],
+    "translit": "",
+    "example": "Il documento è troppo farraginoso.",
+    "example_fr": "Le document est trop confus.",
+    "level": 3
+  },
+  {
+    "word": "fecondo",
+    "translation": [ "fécond", "productif", "riche en résultats" ],
+    "translit": "",
+    "example": "È stato un periodo molto fecondo per le sue ricerche.",
+    "example_fr": "Ce fut une période très féconde pour ses recherches.",
+    "level": 3
+  },
+  {
+    "word": "fiacchezza",
+    "translation": [ "mollesse", "faiblesse", "languissement" ],
+    "translit": "",
+    "example": "La fiacchezza lo ha colto all’improvviso.",
+    "example_fr": "Une faiblesse soudaine l’a pris.",
+    "level": 3
+  },
+  {
+    "word": "fierezza",
+    "translation": [ "fierté", "dignité" ],
+    "translit": "",
+    "example": "Ha mantenuto la fierezza anche nei momenti difficili.",
+    "example_fr": "Il a conservé sa fierté même dans les moments difficiles.",
+    "level": 3
+  },
+  {
+    "word": "flagranza",
+    "translation": [ "flagrant délit" ],
+    "translit": "",
+    "example": "È stato colto in flagranza.",
+    "example_fr": "Il a été pris en flagrant délit.",
+    "level": 3
+  },
+  {
+    "word": "fluttuante",
+    "translation": [ "fluctuant", "instable" ],
+    "translit": "",
+    "example": "Un mercato troppo fluttuante crea incertezze.",
+    "example_fr": "Un marché trop fluctuant crée des incertitudes.",
+    "level": 3
+  },
+  {
+    "word": "forsennato",
+    "translation": [ "forcené", "déchaîné" ],
+    "translit": "",
+    "example": "Ha lavorato a un ritmo forsennato.",
+    "example_fr": "Il a travaillé à un rythme forcené.",
+    "level": 3
+  },
+  {
+    "word": "frastornare",
+    "translation": [ "étourdir", "déconcerter" ],
+    "translit": "",
+    "example": "Le notizie lo hanno frastornato.",
+    "example_fr": "Les nouvelles l'ont étourdi.",
+    "level": 3
+  },
+  {
+    "word": "garrulo",
+    "translation": [ "bavard", "loquace (teinte négative)" ],
+    "translit": "",
+    "example": "Un ragazzo troppo garrulo.",
+    "example_fr": "Un garçon trop bavard.",
+    "level": 3
+  },
+  {
+    "word": "gravoso",
+    "translation": [ "lourd", "pénible", "onéreux" ],
+    "translit": "",
+    "example": "Il compito si è rivelato più gravoso del previsto.",
+    "example_fr": "La tâche s’est révélée plus lourde que prévu.",
+    "level": 3
+  },
+  {
+    "word": "impellente",
+    "translation": [ "impérieux", "urgent" ],
+    "translit": "",
+    "example": "C'è un bisogno impellente di trovare soluzioni.",
+    "example_fr": "Il y a un besoin impérieux de trouver des solutions.",
+    "level": 3
+  },
+
+  {
+    "word": "imperturbabile",
+    "translation": [ "imperturbable", "impassible" ],
+    "translit": "",
+    "example": "È rimasto imperturbabile di fronte alle critiche.",
+    "example_fr": "Il est resté imperturbable face aux critiques.",
+    "level": 3
+  },
+  {
+    "word": "inappuntabile",
+    "translation": [ "irréprochable", "impeccable" ],
+    "translit": "",
+    "example": "Ha un comportamento inappuntabile.",
+    "example_fr": "Il a un comportement irréprochable.",
+    "level": 3
+  },
+  {
+    "word": "incalzante",
+    "translation": [ "pressant", "insistant" ],
+    "translit": "",
+    "example": "Le domande diventavano sempre più incalzanti.",
+    "example_fr": "Les questions devenaient de plus en plus pressantes.",
+    "level": 3
+  },
+  {
+    "word": "incedere",
+    "translation": [ "démarche", "allure solennelle" ],
+    "translit": "",
+    "example": "Aveva un incedere lento e dignitoso.",
+    "example_fr": "Il avait une allure lente et digne.",
+    "level": 3
+  },
+  {
+    "word": "incidere",
+    "translation": [ "avoir un impact", "peser sur" ],
+    "translit": "",
+    "example": "La decisione inciderà sul futuro dell’azienda.",
+    "example_fr": "La décision aura un impact sur l’avenir de l’entreprise.",
+    "level": 3
+  },
+  {
+    "word": "increscioso",
+    "translation": [ "regrettable", "fâcheux" ],
+    "translit": "",
+    "example": "È stato un episodio davvero increscioso.",
+    "example_fr": "C’était un épisode vraiment regrettable.",
+    "level": 3
+  },
+  {
+    "word": "ineluttabile",
+    "translation": [ "inévitable", "inéluctable" ],
+    "translit": "",
+    "example": "Un destino ineluttabile.",
+    "example_fr": "Un destin inéluctable.",
+    "level": 3
+  },
+  {
+    "word": "inerme",
+    "translation": [ "sans défense", "désarmé" ],
+    "translit": "",
+    "example": "Era inerme di fronte all’accaduto.",
+    "example_fr": "Il était sans défense face aux événements.",
+    "level": 3
+  },
+  {
+    "word": "inesorabile",
+    "translation": [ "inéxorable", "implacable" ],
+    "translit": "",
+    "example": "Il tempo è inesorabile.",
+    "example_fr": "Le temps est inexorable.",
+    "level": 3
+  },
+  {
+    "word": "ingombrante",
+    "translation": [ "encombrant" ],
+    "translit": "",
+    "example": "Quel mobile è troppo ingombrante.",
+    "example_fr": "Ce meuble est trop encombrant.",
+    "level": 3
+  },
+
+  {
+    "word": "insindacabile",
+    "translation": [ "indiscutable", "sans appel" ],
+    "translit": "",
+    "example": "Una decisione insindacabile.",
+    "example_fr": "Une décision sans appel.",
+    "level": 3
+  },
+  {
+    "word": "insinuante",
+    "translation": [ "insinuant", "sournois" ],
+    "translit": "",
+    "example": "Un tono di voce insinuante.",
+    "example_fr": "Un ton de voix insinuant.",
+    "level": 3
+  },
+  {
+    "word": "insipienza",
+    "translation": [ "ignorance profonde", "stupidité" ],
+    "translit": "",
+    "example": "Ha agito con totale insipienza.",
+    "example_fr": "Il a agi avec une ignorance totale.",
+    "level": 3
+  },
+  {
+    "word": "insolente",
+    "translation": [ "insolent", "impertinent" ],
+    "translit": "",
+    "example": "Un atteggiamento insolente.",
+    "example_fr": "Une attitude insolente.",
+    "level": 3
+  },
+  {
+    "word": "intemerato",
+    "translation": [ "intrépide", "irréprochable moralement" ],
+    "translit": "",
+    "example": "Un cavaliere intemerato.",
+    "example_fr": "Un chevalier intrépide.",
+    "level": 3
+  },
+  {
+    "word": "intimorire",
+    "translation": [ "intimider" ],
+    "translit": "",
+    "example": "Non lasciare che ti intimoriscano.",
+    "example_fr": "Ne les laisse pas t’intimider.",
+    "level": 3
+  },
+  {
+    "word": "irreprensibile",
+    "translation": [ "irréprochable" ],
+    "translit": "",
+    "example": "Una condotta irreprensibile.",
+    "example_fr": "Une conduite irréprochable.",
+    "level": 3
+  },
+  {
+    "word": "lastrico",
+    "translation": [ "pavage", "chaussée", "sol en pierre" ],
+    "translit": "",
+    "example": "La strada era coperta di lastrici antichi.",
+    "example_fr": "La rue était couverte d’un ancien pavage.",
+    "level": 3
+  },
+  {
+    "word": "lusinga",
+    "translation": [ "flatterie" ],
+    "translit": "",
+    "example": "Non lasciarti ingannare dalle lusinghe.",
+    "example_fr": "Ne te laisse pas tromper par les flatteries.",
+    "level": 3
+  },
+  {
+    "word": "meandro",
+    "translation": [ "méandre" ],
+    "translit": "",
+    "example": "Il fiume formava molti meandri.",
+    "example_fr": "Le fleuve formait de nombreux méandres.",
+    "level": 3
+  },
+
+  {
+    "word": "mendace",
+    "translation": [ "mensonger", "trompeur" ],
+    "translit": "",
+    "example": "Ha dato una testimonianza mendace.",
+    "example_fr": "Il a donné un témoignage mensonger.",
+    "level": 3
+  },
+  {
+    "word": "meticoloso",
+    "translation": [ "méticuleux" ],
+    "translit": "",
+    "example": "È molto meticoloso nel suo lavoro.",
+    "example_fr": "Il est très méticuleux dans son travail.",
+    "level": 3
+  },
+  {
+    "word": "moralismo",
+    "translation": [ "moralisme", "attitude moralisatrice" ],
+    "translit": "",
+    "example": "Il suo moralismo irritava tutti.",
+    "example_fr": "Son moralisme agaçait tout le monde.",
+    "level": 3
+  },
+  {
+    "word": "morbosità",
+    "translation": [ "morbidité", "attrait malsain" ],
+    "translit": "",
+    "example": "C’era una certa morbosità nel suo interesse.",
+    "example_fr": "Il y avait une certaine morbidité dans son intérêt.",
+    "level": 3
+  },
+  {
+    "word": "nebuloso",
+    "translation": [ "nébuleux", "flou" ],
+    "translit": "",
+    "example": "I suoi ricordi erano nebulosi.",
+    "example_fr": "Ses souvenirs étaient nébuleux.",
+    "level": 3
+  },
+  {
+    "word": "nefasto",
+    "translation": [ "néfaste" ],
+    "translit": "",
+    "example": "Le decisioni nefaste del governo.",
+    "example_fr": "Les décisions néfastes du gouvernement.",
+    "level": 3
+  },
+  {
+    "word": "oltranzista",
+    "translation": [ "extrémiste", "intransigeant" ],
+    "translit": "",
+    "example": "Ha posizioni decisamente oltranziste.",
+    "example_fr": "Il a des positions clairement extrémistes.",
+    "level": 3
+  },
+  {
+    "word": "ondoso",
+    "translation": [ "ondoyant", "agité (mer)" ],
+    "translit": "",
+    "example": "Il mare era molto ondoso.",
+    "example_fr": "La mer était très agitée.",
+    "level": 3
+  },
+  {
+    "word": "opulenza",
+    "translation": [ "opulence" ],
+    "translit": "",
+    "example": "Viveva in una grande opulenza.",
+    "example_fr": "Il vivait dans une grande opulence.",
+    "level": 3
+  },
+  {
+    "word": "ostico",
+    "translation": [ "ardu", "difficile à comprendre" ],
+    "translit": "",
+    "example": "È un testo piuttosto ostico.",
+    "example_fr": "C'est un texte assez ardu.",
+    "level": 3
+  },
+  {
+    "word": "ottundere",
+    "translation": [ "émousser", "affaiblir (un sens, un esprit)" ],
+    "translit": "",
+    "example": "La stanchezza aveva ottuso la sua lucidità.",
+    "example_fr": "La fatigue avait émoussé sa lucidité.",
+    "level": 3
+  },
+  {
+    "word": "ove",
+    "translation": [ "là où", "où (registre élevé)" ],
+    "translit": "",
+    "example": "Tornerò ove mi aspettano.",
+    "example_fr": "Je reviendrai là où l’on m’attend.",
+    "level": 3
+  },
+  {
+    "word": "paventare",
+    "translation": [ "craindre profondément", "redouter" ],
+    "translit": "",
+    "example": "Paventa le conseguenze delle sue scelte.",
+    "example_fr": "Il redoute les conséquences de ses choix.",
+    "level": 3
+  },
+  {
+    "word": "pernicioso",
+    "translation": [ "pernicieux", "dangereux" ],
+    "translit": "",
+    "example": "Un'abitudine perniciosa.",
+    "example_fr": "Une habitude pernicieuse.",
+    "level": 3
+  },
+  {
+    "word": "pertinace",
+    "translation": [ "opiniâtre", "entêté" ],
+    "translit": "",
+    "example": "Una resistenza pertinace.",
+    "example_fr": "Une résistance opiniâtre.",
+    "level": 3
+  },
+  {
+    "word": "piaggeria",
+    "translation": [ "flagornerie", "flatterie intéressée" ],
+    "translit": "",
+    "example": "Non sopporto la piaggeria.",
+    "example_fr": "Je ne supporte pas la flagornerie.",
+    "level": 3
+  },
+  {
+    "word": "piombare",
+    "translation": [ "fondre sur", "arriver brusquement" ],
+    "translit": "",
+    "example": "Un temporale è piombato sulla città.",
+    "example_fr": "Un orage s’est abattu sur la ville.",
+    "level": 3
+  },
+  {
+    "word": "placare",
+    "translation": [ "apaiser", "calmer" ],
+    "translit": "",
+    "example": "Hanno cercato di placare la folla.",
+    "example_fr": "Ils ont tenté d’apaiser la foule.",
+    "level": 3
+  },
+  {
+    "word": "pleonastico",
+    "translation": [ "pléonastique" ],
+    "translit": "",
+    "example": "L’espressione è del tutto pleonastica.",
+    "example_fr": "L'expression est totalement pléonastique.",
+    "level": 3
+  },
+  {
+    "word": "premura",
+    "translation": [ "soin attentif", "empressement" ],
+    "translit": "",
+    "example": "Ha svolto il lavoro con grande premura.",
+    "example_fr": "Il a accompli son travail avec beaucoup de soin.",
+    "level": 3
+  },
+
+  {
+    "word": "prodigo",
+    "translation": [ "prodigue", "généreux", "dépensier" ],
+    "translit": "",
+    "example": "È prodigo di consigli.",
+    "example_fr": "Il est prodigue en conseils.",
+    "level": 3
+  },
+  {
+    "word": "prolifico",
+    "translation": [ "prolifique" ],
+    "translit": "",
+    "example": "È uno scrittore estremamente prolifico.",
+    "example_fr": "C’est un écrivain extrêmement prolifique.",
+    "level": 3
+  },
+  {
+    "word": "propensione",
+    "translation": [ "propension", "inclination" ],
+    "translit": "",
+    "example": "Ha una forte propensione per le lingue.",
+    "example_fr": "Il a une forte propension pour les langues.",
+    "level": 3
+  },
+  {
+    "word": "prosodia",
+    "translation": [ "prosodie (rythme du langage)" ],
+    "translit": "",
+    "example": "La prosodia italiana è musicale.",
+    "example_fr": "La prosodie italienne est musicale.",
+    "level": 3
+  },
+  {
+    "word": "pudore",
+    "translation": [ "pudeur", "retenue" ],
+    "translit": "",
+    "example": "Parla con grande pudore dei suoi sentimenti.",
+    "example_fr": "Il parle de ses sentiments avec beaucoup de pudeur.",
+    "level": 3
+  },
+  {
+    "word": "raggelare",
+    "translation": [ "glacer", "figer" ],
+    "translit": "",
+    "example": "Le sue parole mi hanno raggelato.",
+    "example_fr": "Ses paroles m'ont glacé.",
+    "level": 3
+  },
+  {
+    "word": "rammarico",
+    "translation": [ "regret", "chagrin modéré" ],
+    "translit": "",
+    "example": "Ha espresso il suo rammarico.",
+    "example_fr": "Il a exprimé son regret.",
+    "level": 3
+  },
+  {
+    "word": "rancore",
+    "translation": [ "rancœur" ],
+    "translit": "",
+    "example": "Non nutre rancore verso nessuno.",
+    "example_fr": "Il ne nourrit de rancœur envers personne.",
+    "level": 3
+  },
+  {
+    "word": "rattoppare",
+    "translation": [ "rafistoler", "racommoder" ],
+    "translit": "",
+    "example": "Ha rattoppato il vecchio cappotto.",
+    "example_fr": "Il a rafistolé le vieux manteau.",
+    "level": 3
+  },
+  {
+    "word": "redarguire",
+    "translation": [ "réprimander sévèrement" ],
+    "translit": "",
+    "example": "L’insegnante lo ha redarguito duramente.",
+    "example_fr": "L’enseignant l’a sévèrement réprimandé.",
+    "level": 3
+  },
+
+  {
+    "word": "redundante",
+    "translation": [ "redondant" ],
+    "translit": "",
+    "example": "Il testo è troppo redundante.",
+    "example_fr": "Le texte est trop redondant.",
+    "level": 3
+  },
+  {
+    "word": "remissivo",
+    "translation": [ "soumis", "docile" ],
+    "translit": "",
+    "example": "Ha un carattere eccessivamente remissivo.",
+    "example_fr": "Il a un caractère excessivement soumis.",
+    "level": 3
+  },
+  {
+    "word": "reprensibile",
+    "translation": [ "blâmable", "répréhensible" ],
+    "translit": "",
+    "example": "Il suo comportamento è reprensibile.",
+    "example_fr": "Son comportement est blâmable.",
+    "level": 3
+  },
+  {
+    "word": "resiliente",
+    "translation": [ "résilient" ],
+    "translit": "",
+    "example": "È una persona molto resiliente.",
+    "example_fr": "C’est une personne très résiliente.",
+    "level": 3
+  },
+  {
+    "word": "ribadire",
+    "translation": [ "réaffirmer", "répéter avec insistance" ],
+    "translit": "",
+    "example": "Ha ribadito il suo punto di vista.",
+    "example_fr": "Il a réaffirmé son point de vue.",
+    "level": 3
+  },
+  {
+    "word": "ricusare",
+    "translation": [ "récuser", "rejeter formellement" ],
+    "translit": "",
+    "example": "Hanno ricusato la sua proposta.",
+    "example_fr": "Ils ont récusé sa proposition.",
+    "level": 3
+  },
+  {
+    "word": "rigoglioso",
+    "translation": [ "luxuriant", "vigoureux" ],
+    "translit": "",
+    "example": "Un giardino rigoglioso.",
+    "example_fr": "Un jardin luxuriant.",
+    "level": 3
+  },
+  {
+    "word": "risibile",
+    "translation": [ "risible", "ridicule" ],
+    "translit": "",
+    "example": "Una cifra del tutto risibile.",
+    "example_fr": "Une somme absolument risible.",
+    "level": 3
+  },
+  {
+    "word": "rissoso",
+    "translation": [ "querelleur" ],
+    "translit": "",
+    "example": "È un tipo rissoso.",
+    "example_fr": "C’est un type querelleur.",
+    "level": 3
+  },
+  {
+    "word": "roco",
+    "translation": [ "rauque" ],
+    "translit": "",
+    "example": "Aveva una voce roca dopo aver urlato.",
+    "example_fr": "Il avait une voix rauque après avoir crié.",
+    "level": 3
+  },
+
+  {
+    "word": "salace",
+    "translation": [ "grivois", "salé (humour)" ],
+    "translit": "",
+    "example": "Ha raccontato una battuta salace.",
+    "example_fr": "Il a raconté une blague grivoise.",
+    "level": 3
+  },
+  {
+    "word": "sardonico",
+    "translation": [ "sarcastique", "sardonique" ],
+    "translit": "",
+    "example": "Un sorriso sardonico.",
+    "example_fr": "Un sourire sardonique.",
+    "level": 3
+  },
+  {
+    "word": "scabroso",
+    "translation": [ "scabreux", "délicat" ],
+    "translit": "",
+    "example": "È un argomento piuttosto scabroso.",
+    "example_fr": "C'est un sujet plutôt scabreux.",
+    "level": 3
+  },
+  {
+    "word": "scaltrezza",
+    "translation": [ "ruse", "astuce" ],
+    "translit": "",
+    "example": "Ha affrontato la questione con grande scaltrezza.",
+    "example_fr": "Il a abordé la question avec beaucoup de ruse.",
+    "level": 3
+  },
+  {
+    "word": "scampare",
+    "translation": [ "échapper à", "se tirer de" ],
+    "translit": "",
+    "example": "È scampato a un grave incidente.",
+    "example_fr": "Il a échappé à un grave accident.",
+    "level": 3
+  },
+  {
+    "word": "scemare",
+    "translation": [ "diminuer", "s'atténuer" ],
+    "translit": "",
+    "example": "La rabbia è scemata col tempo.",
+    "example_fr": "La colère s’est atténuée avec le temps.",
+    "level": 3
+  },
+  {
+    "word": "sciacallo",
+    "translation": [ "charognard (fig.)", "profitteur du malheur d’autrui" ],
+    "translit": "",
+    "example": "Si comporta come uno sciacallo.",
+    "example_fr": "Il se comporte comme un charognard.",
+    "level": 3
+  },
+  {
+    "word": "sclerotizzato",
+    "translation": [ "sclérosé", "rigidifié" ],
+    "translit": "",
+    "example": "Un sistema sclerotizzato.",
+    "example_fr": "Un système sclérosé.",
+    "level": 3
+  },
+  {
+    "word": "sedare",
+    "translation": [ "maîtriser", "apaiser (une révolte, une émotion)" ],
+    "translit": "",
+    "example": "Hanno sedato la rivolta.",
+    "example_fr": "Ils ont maîtrisé la révolte.",
+    "level": 3
+  },
+  {
+    "word": "serafico",
+    "translation": [ "séra phique", "paisible et souriant" ],
+    "translit": "",
+    "example": "Aveva un sorriso serafico.",
+    "example_fr": "Il avait un sourire séraphique.",
+    "level": 3
+  },
+  {
+    "word": "sferzare",
+    "translation": [ "fouetter", "frapper violemment", "stimuler (fig.)" ],
+    "translit": "",
+    "example": "Il vento sferzava il mare.",
+    "example_fr": "Le vent fouettait la mer.",
+    "level": 3
+  },
+  {
+    "word": "soggiacere",
+    "translation": [ "être soumis à", "être contraint par" ],
+    "translit": "",
+    "example": "Tutti soggiacciono alla legge.",
+    "example_fr": "Tous sont soumis à la loi.",
+    "level": 3
+  },
+  {
+    "word": "solerte",
+    "translation": [ "zélé", "dévoué", "diligent" ],
+    "translit": "",
+    "example": "È un collaboratore solerte.",
+    "example_fr": "C’est un collaborateur zélé.",
+    "level": 3
+  },
+  {
+    "word": "sommesso",
+    "translation": [ "feutré", "à voix basse" ],
+    "translit": "",
+    "example": "Hanno parlato a tono sommesso.",
+    "example_fr": "Ils ont parlé à voix basse.",
+    "level": 3
+  },
+  {
+    "word": "sopire",
+    "translation": [ "apaiser", "faire retomber" ],
+    "translit": "",
+    "example": "Il tempo ha sopito il dolore.",
+    "example_fr": "Le temps a apaisé la douleur.",
+    "level": 3
+  },
+  {
+    "word": "spauracchio",
+    "translation": [ "épouvantail (fig.)", "menace exagérée" ],
+    "translit": "",
+    "example": "Quel pericolo è solo uno spauracchio.",
+    "example_fr": "Ce danger n’est qu’un épouvantail.",
+    "level": 3
+  },
+  {
+    "word": "specioso",
+    "translation": [ "spécieux", "trompeur en apparence" ],
+    "translit": "",
+    "example": "Un ragionamento specioso.",
+    "example_fr": "Un raisonnement spécieux.",
+    "level": 3
+  },
+  {
+    "word": "spiccare",
+    "translation": [ "se détacher nettement", "ressortir" ],
+    "translit": "",
+    "example": "Il suo talento spicca.",
+    "example_fr": "Son talent ressort.",
+    "level": 3
+  },
+  {
+    "word": "spigliato",
+    "translation": [ "débarrassé", "à l’aise", "dégagé" ],
+    "translit": "",
+    "example": "Parla in modo molto spigliato.",
+    "example_fr": "Il parle de façon très à l’aise.",
+    "level": 3
+  },
+  {
+    "word": "sprezzante",
+    "translation": [ "méprisant", "hautain" ],
+    "translit": "",
+    "example": "Un gesto sprezzante.",
+    "example_fr": "Un geste méprisant.",
+    "level": 3
+  },
+
+  {
+    "word": "spregiudicato",
+    "translation": [ "sans scrupules", "audacieux (fort)" ],
+    "translit": "",
+    "example": "Un imprenditore spregiudicato.",
+    "example_fr": "Un entrepreneur sans scrupules.",
+    "level": 3
+  },
+  {
+    "word": "spropositato",
+    "translation": [ "exorbitant", "excessif" ],
+    "translit": "",
+    "example": "Un prezzo spropositato.",
+    "example_fr": "Un prix exorbitant.",
+    "level": 3
+  },
+  {
+    "word": "stentoreo",
+    "translation": [ "stentorienne (voix forte)" ],
+    "translit": "",
+    "example": "Parlava con voce stentorea.",
+    "example_fr": "Il parlait d’une voix stentorienne.",
+    "level": 3
+  },
+  {
+    "word": "stillicidio",
+    "translation": [ "goutte-à-goutte", "processus lent et pénible (fig.)" ],
+    "translit": "",
+    "example": "È uno stillicidio di piccoli problemi.",
+    "example_fr": "C'est un goutte-à-goutte de petits problèmes.",
+    "level": 3
+  },
+  {
+    "word": "strenuo",
+    "translation": [ "acharné", "infatigable" ],
+    "translit": "",
+    "example": "È un difensore strenuo dei suoi valori.",
+    "example_fr": "Il est un défenseur acharné de ses valeurs.",
+    "level": 3
+  },
+  {
+    "word": "stucchevole",
+    "translation": [ "écœurant", "trop sucré", "mièvre" ],
+    "translit": "",
+    "example": "Una storia stucchevole.",
+    "example_fr": "Une histoire mièvre.",
+    "level": 3
+  },
+  {
+    "word": "suggellare",
+    "translation": [ "sceller", "consacrer (fig.)" ],
+    "translit": "",
+    "example": "Hanno suggellato l’accordo.",
+    "example_fr": "Ils ont scellé l’accord.",
+    "level": 3
+  },
+  {
+    "word": "superfluo",
+    "translation": [ "superflu" ],
+    "translit": "",
+    "example": "Evita i dettagli superflui.",
+    "example_fr": "Évite les détails superflus.",
+    "level": 3
+  },
+  {
+    "word": "tacito",
+    "translation": [ "tacite", "silencieux" ],
+    "translit": "",
+    "example": "Un tacito accordo.",
+    "example_fr": "Un accord tacite.",
+    "level": 3
+  },
+  {
+    "word": "tediare",
+    "translation": [ "ennuyer profondément" ],
+    "translit": "",
+    "example": "Non voglio tediarti con i dettagli.",
+    "example_fr": "Je ne veux pas t’ennuyer avec les détails.",
+    "level": 3
+  },
+
+  {
+    "word": "temerario",
+    "translation": [ "téméraire", "imprudent audacieux" ],
+    "translit": "",
+    "example": "Una decisione temeraria.",
+    "example_fr": "Une décision téméraire.",
+    "level": 3
+  },
+  {
+    "word": "tetragono",
+    "translation": [ "inflexible", "inébranlable" ],
+    "translit": "",
+    "example": "Rimase tetragono di fronte alle critiche.",
+    "example_fr": "Il resta inflexible face aux critiques.",
+    "level": 3
+  },
+  {
+    "word": "torvo",
+    "translation": [ "sombre", "menaçant (regard)" ],
+    "translit": "",
+    "example": "Mi ha lanciato uno sguardo torvo.",
+    "example_fr": "Il m’a lancé un regard menaçant.",
+    "level": 3
+  },
+  {
+    "word": "traballante",
+    "translation": [ "branlant", "instable" ],
+    "translit": "",
+    "example": "Una sedia traballante.",
+    "example_fr": "Une chaise branlante.",
+    "level": 3
+  },
+  {
+    "word": "tracotanza",
+    "translation": [ "arrogance excessive", "outrecuidance" ],
+    "translit": "",
+    "example": "La sua tracotanza è insopportabile.",
+    "example_fr": "Son arrogance est insupportable.",
+    "level": 3
+  },
+  {
+    "word": "traslare",
+    "translation": [ "transposer", "déplacer (concept)" ],
+    "translit": "",
+    "example": "Il concetto è stato traslato in un altro contesto.",
+    "example_fr": "Le concept a été transposé dans un autre contexte.",
+    "level": 3
+  },
+  {
+    "word": "turbare",
+    "translation": [ "perturber", "troubler profondément" ],
+    "translit": "",
+    "example": "La notizia lo ha turbato.",
+    "example_fr": "La nouvelle l’a troublé.",
+    "level": 3
+  },
+  {
+    "word": "ululare",
+    "translation": [ "hurler (vent, loup)", "gémir" ],
+    "translit": "",
+    "example": "Il vento ululava tra gli alberi.",
+    "example_fr": "Le vent hurlait entre les arbres.",
+    "level": 3
+  },
+  {
+    "word": "untuoso",
+    "translation": [ "huileux", "mielleux (fig.)" ],
+    "translit": "",
+    "example": "Un tono di voce untuoso.",
+    "example_fr": "Un ton de voix mielleux.",
+    "level": 3
+  },
+  {
+    "word": "vacuo",
+    "translation": [ "vide", "creux (fig.)" ],
+    "translit": "",
+    "example": "Parole vacue e senza senso.",
+    "example_fr": "Des paroles vides et insensées.",
+    "level": 3
+  },
+
+  {
+    "word": "veemente",
+    "translation": [ "véhément" ],
+    "translit": "",
+    "example": "Una protesta veemente.",
+    "example_fr": "Une protestation véhémente.",
+    "level": 3
+  },
+  {
+    "word": "velare",
+    "translation": [ "voiler", "masquer légèrement" ],
+    "translit": "",
+    "example": "Un sorriso velato di malinconia.",
+    "example_fr": "Un sourire voilé de mélancolie.",
+    "level": 3
+  },
+  {
+    "word": "vessare",
+    "translation": [ "harceler", "malmener" ],
+    "translit": "",
+    "example": "Gli impiegati erano vessati dal capo.",
+    "example_fr": "Les employés étaient harcelés par leur chef.",
+    "level": 3
+  },
+  {
+    "word": "vigoroso",
+    "translation": [ "vigoureux", "puissant" ],
+    "translit": "",
+    "example": "Un discorso vigoroso.",
+    "example_fr": "Un discours vigoureux.",
+    "level": 3
+  },
+  {
+    "word": "vilipendere",
+    "translation": [ "avilir", "déprécier avec mépris" ],
+    "translit": "",
+    "example": "Ha vilipeso il suo lavoro.",
+    "example_fr": "Il a avili son travail.",
+    "level": 3
+  },
+  {
+    "word": "vincolo",
+    "translation": [ "contrainte", "lien (moral ou légal)" ],
+    "translit": "",
+    "example": "Un vincolo giuridico.",
+    "example_fr": "Un lien juridique.",
+    "level": 3
+  },
+  {
+    "word": "viscerale",
+    "translation": [ "viscéral", "profond et instinctif" ],
+    "translit": "",
+    "example": "Un odio viscerale.",
+    "example_fr": "Une haine viscérale.",
+    "level": 3
+  },
+  {
+    "word": "vituperare",
+    "translation": [ "vitupérer", "blâmer sévèrement" ],
+    "translit": "",
+    "example": "Il pubblico vituperò l'oratore.",
+    "example_fr": "Le public vitupéra l’orateur.",
+    "level": 3
+  },
+  {
+    "word": "volubile",
+    "translation": [ "changeant", "instable (caractère)" ],
+    "translit": "",
+    "example": "È una persona volubile.",
+    "example_fr": "C'est une personne instable.",
+    "level": 3
+  },
+  {
+    "word": "zelo",
+    "translation": [ "zèle", "ar­d eur" ],
+    "translit": "",
+    "example": "Ha svolto il compito con grande zelo.",
+    "example_fr": "Il a accompli la tâche avec beaucoup de zèle.",
+    "level": 3
+  }
+]

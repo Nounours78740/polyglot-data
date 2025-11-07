@@ -1,0 +1,1279 @@
+[
+ 
+    {
+      "word": "дом",
+      "translit": "dom",
+      "translation": [ "maison", "foyer" ],
+      "example": "Это мой дом.",
+      "example_translit": "Eto moy dom.",
+      "example_fr": "C’est ma maison.",
+      "level": 1
+    },
+    {
+      "word": "семья",
+      "translit": "semya",
+      "translation": [ "famille" ],
+      "example": "У меня большая семья.",
+      "example_translit": "U menya bolshaya semya.",
+      "example_fr": "J’ai une grande famille.",
+      "level": 1
+    },
+    {
+      "word": "друг",
+      "translit": "drug",
+      "translation": [ "ami" ],
+      "example": "Он мой лучший друг.",
+      "example_translit": "On moy luchshiy drug.",
+      "example_fr": "C’est mon meilleur ami.",
+      "level": 1
+    },
+    {
+      "word": "подруга",
+      "translit": "podruga",
+      "translation": [ "amie (féminin)" ],
+      "example": "Она моя подруга.",
+      "example_translit": "Ona moya podruga.",
+      "example_fr": "C’est mon amie.",
+      "level": 1
+    },
+    {
+      "word": "город",
+      "translit": "gorod",
+      "translation": [ "ville" ],
+      "example": "Москва — большой город.",
+      "example_translit": "Moskva — bolshoy gorod.",
+      "example_fr": "Moscou est une grande ville.",
+      "level": 1
+    },
+    {
+      "word": "страна",
+      "translit": "strana",
+      "translation": [ "pays" ],
+      "example": "Россия — большая страна.",
+      "example_translit": "Rossiya — bolshaya strana.",
+      "example_fr": "La Russie est un grand pays.",
+      "level": 1
+    },
+    {
+      "word": "язык",
+      "translit": "yazyk",
+      "translation": [ "langue (parlée)", "langue (organe)" ],
+      "example": "Русский язык трудный.",
+      "example_translit": "Russkiy yazyk trudnyy.",
+      "example_fr": "La langue russe est difficile.",
+      "level": 1
+    },
+    {
+      "word": "работа",
+      "translit": "rabota",
+      "translation": [ "travail", "emploi" ],
+      "example": "Я ищу работу.",
+      "example_translit": "Ya ischu rabotu.",
+      "example_fr": "Je cherche du travail.",
+      "level": 1
+    },
+    {
+      "word": "магазин",
+      "translit": "magazin",
+      "translation": [ "magasin" ],
+      "example": "Я иду в магазин.",
+      "example_translit": "Ya idu v magazin.",
+      "example_fr": "Je vais au magasin.",
+      "level": 1
+    },
+    {
+      "word": "мир",
+      "translit": "mir",
+      "translation": [ "monde", "paix" ],
+      "example": "В мире много стран.",
+      "example_translit": "V mire mnogo stran.",
+      "example_fr": "Il y a beaucoup de pays dans le monde.",
+      "level": 1
+    },
+
+    {
+      "word": "утро",
+      "translit": "utro",
+      "translation": [ "matin" ],
+      "example": "Доброе утро!",
+      "example_translit": "Dobroye utro!",
+      "example_fr": "Bonjour (le matin) !",
+      "level": 1
+    },
+    {
+      "word": "день",
+      "translit": "den'",
+      "translation": [ "jour", "journée" ],
+      "example": "Хорошего дня!",
+      "example_translit": "Khoroshego dnya!",
+      "example_fr": "Bonne journée !",
+      "level": 1
+    },
+    {
+      "word": "вечер",
+      "translit": "vecher",
+      "translation": [ "soir" ],
+      "example": "Добрый вечер!",
+      "example_translit": "Dobryy vecher!",
+      "example_fr": "Bonsoir !",
+      "level": 1
+    },
+    {
+      "word": "ночь",
+      "translit": "noch'",
+      "translation": [ "nuit" ],
+      "example": "Спокойной ночи!",
+      "example_translit": "Spokoynoy nochi!",
+      "example_fr": "Bonne nuit !",
+      "level": 1
+    },
+    {
+      "word": "время",
+      "translit": "vremya",
+      "translation": [ "temps" ],
+      "example": "У меня нет времени.",
+      "example_translit": "U menya net vremeni.",
+      "example_fr": "Je n’ai pas le temps.",
+      "level": 1
+    },
+    {
+      "word": "человек",
+      "translit": "chelovek",
+      "translation": [ "personne", "être humain" ],
+      "example": "Там много людей.",
+      "example_translit": "Tam mnogo lyudey.",
+      "example_fr": "Il y a beaucoup de gens.",
+      "level": 1
+    },
+    {
+      "word": "женщина",
+      "translit": "zhenshchina",
+      "translation": [ "femme" ],
+      "example": "Она добрая женщина.",
+      "example_translit": "Ona dobraya zhenshchina.",
+      "example_fr": "C’est une femme gentille.",
+      "level": 1
+    },
+    {
+      "word": "мужчина",
+      "translit": "muzhchina",
+      "translation": [ "homme" ],
+      "example": "Он хороший мужчина.",
+      "example_translit": "On khoroshiy muzhchina.",
+      "example_fr": "C’est un homme bien.",
+      "level": 1
+    },
+    {
+      "word": "ребёнок",
+      "translit": "rebenok",
+      "translation": [ "enfant" ],
+      "example": "Ребёнок спит.",
+      "example_translit": "Rebenok spit.",
+      "example_fr": "L’enfant dort.",
+      "level": 1
+    },
+    {
+      "word": "вода",
+      "translit": "voda",
+      "translation": [ "eau" ],
+      "example": "Мне нужна вода.",
+      "example_translit": "Mne nuzhna voda.",
+      "example_fr": "J’ai besoin d’eau.",
+      "level": 1
+    },
+
+    {
+      "word": "еда",
+      "translit": "yeda",
+      "translation": [ "nourriture", "repas" ],
+      "example": "Еда вкусная.",
+      "example_translit": "Yeda vkusnaya.",
+      "example_fr": "La nourriture est délicieuse.",
+      "level": 1
+    },
+    {
+      "word": "хлеб",
+      "translit": "khleb",
+      "translation": [ "pain" ],
+      "example": "Я покупаю хлеб.",
+      "example_translit": "Ya pokupayu khleb.",
+      "example_fr": "J’achète du pain.",
+      "level": 1
+    },
+    {
+      "word": "молоко",
+      "translit": "moloko",
+      "translation": [ "lait" ],
+      "example": "Мне нужно молоко.",
+      "example_translit": "Mne nuzhno moloko.",
+      "example_fr": "J’ai besoin de lait.",
+      "level": 1
+    },
+    {
+      "word": "кофе",
+      "translit": "kofe",
+      "translation": [ "café" ],
+      "example": "Я люблю кофе.",
+      "example_translit": "Ya lyublyu kofe.",
+      "example_fr": "J’aime le café.",
+      "level": 1
+    },
+    {
+      "word": "чай",
+      "translit": "chai",
+      "translation": [ "thé" ],
+      "example": "Мы пьём чай.",
+      "example_translit": "My pym chai.",
+      "example_fr": "Nous buvons du thé.",
+      "level": 1
+    },
+    {
+      "word": "книга",
+      "translit": "kniga",
+      "translation": [ "livre" ],
+      "example": "Это интересная книга.",
+      "example_translit": "Eto interesnaya kniga.",
+      "example_fr": "C’est un livre intéressant.",
+      "level": 1
+    },
+    {
+      "word": "слово",
+      "translit": "slovo",
+      "translation": [ "mot" ],
+      "example": "Он знает много слов.",
+      "example_translit": "On znaet mnogo slov.",
+      "example_fr": "Il connaît beaucoup de mots.",
+      "level": 1
+    },
+    {
+      "word": "вопрос",
+      "translit": "vopros",
+      "translation": [ "question" ],
+      "example": "У меня есть вопрос.",
+      "example_translit": "U menya yest vopros.",
+      "example_fr": "J’ai une question.",
+      "level": 1
+    },
+    {
+      "word": "ответ",
+      "translit": "otvet",
+      "translation": [ "réponse" ],
+      "example": "Это правильный ответ.",
+      "example_translit": "Eto pravilnyy otvet.",
+      "example_fr": "C’est la bonne réponse.",
+      "level": 1
+    },
+
+    {
+      "word": "дорога",
+      "translit": "doroga",
+      "translation": [ "route", "chemin" ],
+      "example": "Дорога длинная.",
+      "example_translit": "Doroga dlinnaya.",
+      "example_fr": "La route est longue.",
+      "level": 1
+    },
+    {
+      "word": "улица",
+      "translit": "ulitsa",
+      "translation": [ "rue" ],
+      "example": "Мы живём на этой улице.",
+      "example_translit": "My zhivyom na etoy ulitse.",
+      "example_fr": "Nous habitons dans cette rue.",
+      "level": 1
+    },
+    {
+      "word": "место",
+      "translit": "mesto",
+      "translation": [ "lieu", "place" ],
+      "example": "Это хорошее место.",
+      "example_translit": "Eto khorosheye mesto.",
+      "example_fr": "C’est un bon endroit.",
+      "level": 1
+    },
+    {
+      "word": "школа",
+      "translit": "shkola",
+      "translation": [ "école" ],
+      "example": "Дети идут в школу.",
+      "example_translit": "Deti idut v shkolu.",
+      "example_fr": "Les enfants vont à l’école.",
+      "level": 1
+    },
+    {
+      "word": "учитель",
+      "translit": "uchitel'",
+      "translation": [ "enseignant" ],
+      "example": "Учитель объясняет урок.",
+      "example_translit": "Uchitel obyasnyayet urok.",
+      "example_fr": "Le professeur explique la leçon.",
+      "level": 1
+    },
+    {
+      "word": "урок",
+      "translit": "urok",
+      "translation": [ "leçon", "cours" ],
+      "example": "У нас урок русского языка.",
+      "example_translit": "U nas urok russkogo yazyka.",
+      "example_fr": "Nous avons un cours de russe.",
+      "level": 1
+    },
+    {
+      "word": "вещь",
+      "translit": "veshch'",
+      "translation": [ "chose", "objet" ],
+      "example": "Это полезная вещь.",
+      "example_translit": "Eto poleznaya veshch.",
+      "example_fr": "C’est une chose utile.",
+      "level": 1
+    },
+    {
+      "word": "комната",
+      "translit": "komnata",
+      "translation": [ "pièce", "chambre" ],
+      "example": "Комната светлая.",
+      "example_translit": "Komnata svetlaya.",
+      "example_fr": "La chambre est lumineuse.",
+      "level": 1
+    },
+    {
+      "word": "окно",
+      "translit": "okno",
+      "translation": [ "fenêtre" ],
+      "example": "Открой окно.",
+      "example_translit": "Otkroy okno.",
+      "example_fr": "Ouvre la fenêtre.",
+      "level": 1
+    },
+    {
+      "word": "дверь",
+      "translit": "dver'",
+      "translation": [ "porte" ],
+      "example": "Закрой дверь.",
+      "example_translit": "Zakroy dver.",
+      "example_fr": "Ferme la porte.",
+      "level": 1
+    },
+      {
+        "word": "стол",
+        "translit": "stol",
+        "translation": [ "table" ],
+        "example": "Книга лежит на столе.",
+        "example_translit": "Kniga lezhit na stole.",
+        "example_fr": "Le livre est sur la table.",
+        "level": 1
+      },
+      {
+        "word": "стул",
+        "translit": "stul",
+        "translation": [ "chaise" ],
+        "example": "Возьми стул и садись.",
+        "example_translit": "Vozmi stul i sadis.",
+        "example_fr": "Prends une chaise et assieds-toi.",
+        "level": 1
+      },
+      {
+        "word": "кровать",
+        "translit": "krovat'",
+        "translation": [ "lit" ],
+        "example": "Кровать очень мягкая.",
+        "example_translit": "Krovat ochen myagkaya.",
+        "example_fr": "Le lit est très doux.",
+        "level": 1
+      },
+      {
+        "word": "телефон",
+        "translit": "telefon",
+        "translation": [ "téléphone" ],
+        "example": "Где мой телефон?",
+        "example_translit": "Gde moy telefon?",
+        "example_fr": "Où est mon téléphone ?",
+        "level": 1
+      },
+      {
+        "word": "компьютер",
+        "translit": "kompyuter",
+        "translation": [ "ordinateur" ],
+        "example": "Мой компьютер новый.",
+        "example_translit": "Moy kompyuter novyy.",
+        "example_fr": "Mon ordinateur est neuf.",
+        "level": 1
+      },
+      {
+        "word": "машина",
+        "translit": "mashina",
+        "translation": [ "voiture" ],
+        "example": "У него быстрая машина.",
+        "example_translit": "U nego bystraya mashina.",
+        "example_fr": "Il a une voiture rapide.",
+        "level": 1
+      },
+      {
+        "word": "автобус",
+        "translit": "avtobus",
+        "translation": [ "bus" ],
+        "example": "Мы ждём автобус.",
+        "example_translit": "My zhdyom avtobus.",
+        "example_fr": "Nous attendons le bus.",
+        "level": 1
+      },
+      {
+        "word": "поезд",
+        "translit": "poezd",
+        "translation": [ "train" ],
+        "example": "Поезд уже прибыл.",
+        "example_translit": "Poezd uzhe pribyl.",
+        "example_fr": "Le train est déjà arrivé.",
+        "level": 1
+      },
+      {
+        "word": "самолёт",
+        "translit": "samolet",
+        "translation": [ "avion" ],
+        "example": "Самолёт взлетает.",
+        "example_translit": "Samolet vzletayet.",
+        "example_fr": "L’avion décolle.",
+        "level": 1
+      },
+      {
+        "word": "ожидать",
+        "translit": "ozhidat'",
+        "translation": [ "attendre" ],
+        "example": "Мы ожидаем гостей.",
+        "example_translit": "My ozhidayem gostey.",
+        "example_fr": "Nous attendons des invités.",
+        "level": 1
+      },
+
+      {
+        "word": "идти",
+        "translit": "idti",
+        "translation": [ "aller", "marcher" ],
+        "example": "Я иду домой.",
+        "example_translit": "Ya idu domoy.",
+        "example_fr": "Je rentre à la maison.",
+        "level": 1
+      },
+      {
+        "word": "ехать",
+        "translit": "yekhat'",
+        "translation": [ "aller (véhicule)" ],
+        "example": "Мы едем в центр.",
+        "example_translit": "My yedem v tsentr.",
+        "example_fr": "Nous allons au centre-ville.",
+        "level": 1
+      },
+      {
+        "word": "бежать",
+        "translit": "bezhat'",
+        "translation": [ "courir" ],
+        "example": "Он быстро бежит.",
+        "example_translit": "On bystro bezhit.",
+        "example_fr": "Il court vite.",
+        "level": 1
+      },
+      {
+        "word": "видеть",
+        "translit": "videt'",
+        "translation": [ "voir" ],
+        "example": "Я вижу машину.",
+        "example_translit": "Ya vizhu mashinu.",
+        "example_fr": "Je vois une voiture.",
+        "level": 1
+      },
+      {
+        "word": "слышать",
+        "translit": "slyshat'",
+        "translation": [ "entendre" ],
+        "example": "Я слышу музыку.",
+        "example_translit": "Ya slyshu muzyku.",
+        "example_fr": "J’entends de la musique.",
+        "level": 1
+      },
+      {
+        "word": "говорить",
+        "translit": "govorit'",
+        "translation": [ "parler" ],
+        "example": "Он говорит по-русски.",
+        "example_translit": "On govorit po-russki.",
+        "example_fr": "Il parle russe.",
+        "level": 1
+      },
+      {
+        "word": "читать",
+        "translit": "chitat'",
+        "translation": [ "lire" ],
+        "example": "Она читает книгу.",
+        "example_translit": "Ona chitayet knigu.",
+        "example_fr": "Elle lit un livre.",
+        "level": 1
+      },
+      {
+        "word": "писать",
+        "translit": "pisat'",
+        "translation": [ "écrire" ],
+        "example": "Я пишу письмо.",
+        "example_translit": "Ya pishu pismo.",
+        "example_fr": "J’écris une lettre.",
+        "level": 1
+      },
+      {
+        "word": "думать",
+        "translit": "dumat'",
+        "translation": [ "penser" ],
+        "example": "Я думаю об этом.",
+        "example_translit": "Ya dumayu ob etom.",
+        "example_fr": "Je pense à cela.",
+        "level": 1
+      },
+      {
+        "word": "знать",
+        "translit": "znat'",
+        "translation": [ "savoir" ],
+        "example": "Я знаю этот город.",
+        "example_translit": "Ya znayu etot gorod.",
+        "example_fr": "Je connais cette ville.",
+        "level": 1
+      },
+
+      {
+        "word": "любить",
+        "translit": "lyubit'",
+        "translation": [ "aimer" ],
+        "example": "Я люблю тебя.",
+        "example_translit": "Ya lyublyu tebya.",
+        "example_fr": "Je t’aime.",
+        "level": 1
+      },
+      {
+        "word": "хотеть",
+        "translit": "khotet'",
+        "translation": [ "vouloir" ],
+        "example": "Я хочу есть.",
+        "example_translit": "Ya khochu yest.",
+        "example_fr": "J’ai faim (je veux manger).",
+        "level": 1
+      },
+      {
+        "word": "мочь",
+        "translit": "moch'",
+        "translation": [ "pouvoir (capacité)" ],
+        "example": "Я могу помочь.",
+        "example_translit": "Ya mogu pomoch.",
+        "example_fr": "Je peux aider.",
+        "level": 1
+      },
+      {
+        "word": "жить",
+        "translit": "zhit'",
+        "translation": [ "vivre", "habiter" ],
+        "example": "Мы живём в России.",
+        "example_translit": "My zhivyom v Rossii.",
+        "example_fr": "Nous vivons en Russie.",
+        "level": 1
+      },
+      {
+        "word": "сидеть",
+        "translit": "sidet'",
+        "translation": [ "être assis" ],
+        "example": "Она сидит на стуле.",
+        "example_translit": "Ona sidit na stule.",
+        "example_fr": "Elle est assise sur une chaise.",
+        "level": 1
+      },
+      {
+        "word": "стоять",
+        "translit": "stoyat'",
+        "translation": [ "être debout" ],
+        "example": "Он стоит у двери.",
+        "example_translit": "On stoit u dveri.",
+        "example_fr": "Il se tient près de la porte.",
+        "level": 1
+      },
+      {
+        "word": "лежать",
+        "translit": "lezhat'",
+        "translation": [ "être allongé" ],
+        "example": "Кошка лежит на диване.",
+        "example_translit": "Koshka lezhit na divane.",
+        "example_fr": "Le chat est allongé sur le canapé.",
+        "level": 1
+      },
+      {
+        "word": "давать",
+        "translit": "davat'",
+        "translation": [ "donner" ],
+        "example": "Он даёт мне книгу.",
+        "example_translit": "On dayot mne knigu.",
+        "example_fr": "Il me donne un livre.",
+        "level": 1
+      },
+      {
+        "word": "брать",
+        "translit": "brat'",
+        "translation": [ "prendre" ],
+        "example": "Я беру зонт.",
+        "example_translit": "Ya beru zont.",
+        "example_fr": "Je prends un parapluie.",
+        "level": 1
+      },
+      {
+        "word": "открывать",
+        "translit": "otkryvat'",
+        "translation": [ "ouvrir" ],
+        "example": "Он открывает окно.",
+        "example_translit": "On otkryvayet okno.",
+        "example_fr": "Il ouvre la fenêtre.",
+        "level": 1
+      },
+
+      {
+        "word": "закрывать",
+        "translit": "zakryvat'",
+        "translation": [ "fermer" ],
+        "example": "Закрой дверь, пожалуйста.",
+        "example_translit": "Zakroy dver, pozhaluysta.",
+        "example_fr": "Ferme la porte, s’il te plaît.",
+        "level": 1
+      },
+      {
+        "word": "да",
+        "translit": "da",
+        "translation": [ "oui" ],
+        "example": "Да, это правда.",
+        "example_translit": "Da, eto pravda.",
+        "example_fr": "Oui, c’est vrai.",
+        "level": 1
+      },
+      {
+        "word": "нет",
+        "translit": "net",
+        "translation": [ "non" ],
+        "example": "Нет, я не хочу.",
+        "example_translit": "Net, ya ne khochu.",
+        "example_fr": "Non, je ne veux pas.",
+        "level": 1
+      },
+      {
+        "word": "спасибо",
+        "translit": "spasibo",
+        "translation": [ "merci" ],
+        "example": "Спасибо за помощь.",
+        "example_translit": "Spasibo za pomoshch.",
+        "example_fr": "Merci pour l’aide.",
+        "level": 1
+      },
+      {
+        "word": "пожалуйста",
+        "translit": "pozhaluysta",
+        "translation": [ "s’il vous plaît", "de rien" ],
+        "example": "Пожалуйста, входите.",
+        "example_translit": "Pozhaluysta, vkhodite.",
+        "example_fr": "Veuillez entrer.",
+        "level": 1
+      },
+        {
+          "word": "привет",
+          "translit": "privet",
+          "translation": [ "salut" ],
+          "example": "Привет! Как дела?",
+          "example_translit": "Privet! Kak dela?",
+          "example_fr": "Salut ! Comment ça va ?",
+          "level": 1
+        },
+        {
+          "word": "здравствуйте",
+          "translit": "zdravstvuyte",
+          "translation": [ "bonjour (formel)" ],
+          "example": "Здравствуйте, вы доктор?",
+          "example_translit": "Zdravstvuyte, vy doktor?",
+          "example_fr": "Bonjour, êtes-vous docteur ?",
+          "level": 1
+        },
+        {
+          "word": "пока",
+          "translit": "poka",
+          "translation": [ "au revoir", "ciao" ],
+          "example": "Пока! Увидимся завтра.",
+          "example_translit": "Poka! Uvidimsya zavtra.",
+          "example_fr": "Salut ! On se voit demain.",
+          "level": 1
+        },
+        {
+          "word": "друг",
+          "translit": "drug",
+          "translation": [ "ami" ],
+          "example": "Он мой лучший друг.",
+          "example_translit": "On moy luchshiy drug.",
+          "example_fr": "C’est mon meilleur ami.",
+          "level": 1
+        },
+        {
+          "word": "семья",
+          "translit": "sem'ya",
+          "translation": [ "famille" ],
+          "example": "У меня большая семья.",
+          "example_translit": "U menya bolshaya semya.",
+          "example_fr": "J’ai une grande famille.",
+          "level": 1
+        },
+        {
+          "word": "мама",
+          "translit": "mama",
+          "translation": [ "maman" ],
+          "example": "Моя мама очень добрая.",
+          "example_translit": "Moya mama ochen dobraya.",
+          "example_fr": "Ma mère est très gentille.",
+          "level": 1
+        },
+        {
+          "word": "папа",
+          "translit": "papa",
+          "translation": [ "papa" ],
+          "example": "Папа работает дома.",
+          "example_translit": "Papa rabotayet doma.",
+          "example_fr": "Papa travaille à la maison.",
+          "level": 1
+        },
+        {
+          "word": "брат",
+          "translit": "brat",
+          "translation": [ "frère" ],
+          "example": "У меня есть младший брат.",
+          "example_translit": "U menya yest mladshiy brat.",
+          "example_fr": "J’ai un petit frère.",
+          "level": 1
+        },
+        {
+          "word": "сестра",
+          "translit": "sestra",
+          "translation": [ "soeur" ],
+          "example": "Моя сестра учится в школе.",
+          "example_translit": "Moya sestra uchitsya v shkole.",
+          "example_fr": "Ma sœur étudie à l’école.",
+          "level": 1
+        },
+        {
+          "word": "ребёнок",
+          "translit": "rebyonok",
+          "translation": [ "enfant" ],
+          "example": "Ребёнок играет во дворе.",
+          "example_translit": "Rebyonok igrayet vo dvore.",
+          "example_fr": "L’enfant joue dans la cour.",
+          "level": 1
+        },
+
+        {
+          "word": "врач",
+          "translit": "vrach",
+          "translation": [ "médecin" ],
+          "example": "Врач помогает людям.",
+          "example_translit": "Vrach pomogayet lyudyam.",
+          "example_fr": "Le médecin aide les gens.",
+          "level": 1
+        },
+        {
+          "word": "учитель",
+          "translit": "uchitel'",
+          "translation": [ "professeur", "enseignant" ],
+          "example": "Учитель объясняет урок.",
+          "example_translit": "Uchitel obyasnyayet urok.",
+          "example_fr": "Le professeur explique la leçon.",
+          "level": 1
+        },
+        {
+          "word": "работник",
+          "translit": "rabotnik",
+          "translation": [ "travailleur", "employé" ],
+          "example": "Работник идёт на работу.",
+          "example_translit": "Rabotnik idyot na rabotu.",
+          "example_fr": "L’employé va au travail.",
+          "level": 1
+        },
+        {
+          "word": "повар",
+          "translit": "povar",
+          "translation": [ "cuisinier" ],
+          "example": "Повар готовит суп.",
+          "example_translit": "Povar gotovit sup.",
+          "example_fr": "Le cuisinier prépare une soupe.",
+          "level": 1
+        },
+        {
+          "word": "полицейский",
+          "translit": "politseyskiy",
+          "translation": [ "policier" ],
+          "example": "Полицейский помогает людям.",
+          "example_translit": "Politseyskiy pomogayet lyudyam.",
+          "example_fr": "Le policier aide les gens.",
+          "level": 1
+        },
+        {
+          "word": "продавец",
+          "translit": "prodavets",
+          "translation": [ "vendeur" ],
+          "example": "Продавец работает в магазине.",
+          "example_translit": "Prodavets rabotayet v magazine.",
+          "example_fr": "Le vendeur travaille dans un magasin.",
+          "level": 1
+        },
+        {
+          "word": "магазин",
+          "translit": "magazin",
+          "translation": [ "magasin" ],
+          "example": "Этот магазин открыт.",
+          "example_translit": "Etot magazin otkryt.",
+          "example_fr": "Ce magasin est ouvert.",
+          "level": 1
+        },
+        {
+          "word": "рынок",
+          "translit": "rynok",
+          "translation": [ "marché" ],
+          "example": "Мы идём на рынок.",
+          "example_translit": "My idyom na rynok.",
+          "example_fr": "Nous allons au marché.",
+          "level": 1
+        },
+        {
+          "word": "цена",
+          "translit": "tsena",
+          "translation": [ "prix" ],
+          "example": "Цена слишком высокая.",
+          "example_translit": "Tsena slishkom vysokaya.",
+          "example_fr": "Le prix est trop élevé.",
+          "level": 1
+        },
+        {
+          "word": "деньги",
+          "translit": "den'gi",
+          "translation": [ "argent" ],
+          "example": "У меня нет денег.",
+          "example_translit": "U menya net deneg.",
+          "example_fr": "Je n’ai pas d’argent.",
+          "level": 1
+        },
+
+        {
+          "word": "работа",
+          "translit": "rabota",
+          "translation": [ "travail" ],
+          "example": "У меня новая работа.",
+          "example_translit": "U menya novaya rabota.",
+          "example_fr": "J’ai un nouveau travail.",
+          "level": 1
+        },
+        {
+          "word": "школа",
+          "translit": "shkola",
+          "translation": [ "école" ],
+          "example": "Школа закрыта на каникулы.",
+          "example_translit": "Shkola zakryta na kanikuly.",
+          "example_fr": "L’école est fermée pour les vacances.",
+          "level": 1
+        },
+        {
+          "word": "университет",
+          "translit": "universitet",
+          "translation": [ "université" ],
+          "example": "Она учится в университете.",
+          "example_translit": "Ona uchitsya v universitete.",
+          "example_fr": "Elle étudie à l’université.",
+          "level": 1
+        },
+        {
+          "word": "урок",
+          "translit": "urok",
+          "translation": [ "leçon", "cours" ],
+          "example": "У нас сейчас урок русского.",
+          "example_translit": "U nas seychas urok russkogo.",
+          "example_fr": "Nous avons maintenant un cours de russe.",
+          "level": 1
+        },
+        {
+          "word": "класс",
+          "translit": "klass",
+          "translation": [ "classe", "salle de classe" ],
+          "example": "Класс большой и светлый.",
+          "example_translit": "Klass bolshoy i svetlyy.",
+          "example_fr": "La salle de classe est grande et lumineuse.",
+          "level": 1
+        },
+        {
+          "word": "ученик",
+          "translit": "uchenik",
+          "translation": [ "élève" ],
+          "example": "Ученик делает домашнее задание.",
+          "example_translit": "Uchenik delayet domashneye zadaniye.",
+          "example_fr": "L’élève fait ses devoirs.",
+          "level": 1
+        },
+        {
+          "word": "домашнее задание",
+          "translit": "domashneye zadaniye",
+          "translation": [ "devoirs (scolaires)" ],
+          "example": "Я сделал домашнее задание.",
+          "example_translit": "Ya sdelal domashneye zadaniye.",
+          "example_fr": "J’ai fait mes devoirs.",
+          "level": 1
+        },
+        {
+          "word": "книга",
+          "translit": "kniga",
+          "translation": [ "livre" ],
+          "example": "Это интересная книга.",
+          "example_translit": "Eto interesnaya kniga.",
+          "example_fr": "C’est un livre intéressant.",
+          "level": 1
+        },
+        {
+          "word": "тетрадь",
+          "translit": "tetrad'",
+          "translation": [ "cahier" ],
+          "example": "Возьми тетрадь и ручку.",
+          "example_translit": "Vozmi tetrad i ruchku.",
+          "example_fr": "Prends un cahier et un stylo.",
+          "level": 1
+        },
+
+        {
+          "word": "вода",
+          "translit": "voda",
+          "translation": [ "eau" ],
+          "example": "Мне нужна вода.",
+          "example_translit": "Mne nuzhna voda.",
+          "example_fr": "J’ai besoin d’eau.",
+          "level": 1
+        },
+        {
+          "word": "еда",
+          "translit": "yeda",
+          "translation": [ "nourriture", "repas" ],
+          "example": "Еда готова.",
+          "example_translit": "Yeda gotova.",
+          "example_fr": "Le repas est prêt.",
+          "level": 1
+        },
+        {
+          "word": "чай",
+          "translit": "chay",
+          "translation": [ "thé" ],
+          "example": "Я люблю зелёный чай.",
+          "example_translit": "Ya lyublyu zelyonyy chay.",
+          "example_fr": "J’aime le thé vert.",
+          "level": 1
+        },
+        {
+          "word": "кофе",
+          "translit": "kofe",
+          "translation": [ "café" ],
+          "example": "Он пьёт крепкий кофе.",
+          "example_translit": "On pyot krepkij kofe.",
+          "example_fr": "Il boit un café fort.",
+          "level": 1
+        },
+        {
+          "word": "хлеб",
+          "translit": "khleb",
+          "translation": [ "pain" ],
+          "example": "Купи хлеб, пожалуйста.",
+          "example_translit": "Kupi khleb, pozhaluysta.",
+          "example_fr": "Achète du pain, s’il te plaît.",
+          "level": 1
+        },
+        {
+          "word": "мясо",
+          "translit": "myaso",
+          "translation": [ "viande" ],
+          "example": "Я не ем мясо.",
+          "example_translit": "Ya ne yem myaso.",
+          "example_fr": "Je ne mange pas de viande.",
+          "level": 1
+        },
+        {
+          "word": "рыба",
+          "translit": "ryba",
+          "translation": [ "poisson" ],
+          "example": "Свежая рыба сегодня.",
+          "example_translit": "Svezhaya ryba segodnya.",
+          "example_fr": "Le poisson est frais aujourd’hui.",
+          "level": 1
+        },
+          {
+            "word": "овощи",
+            "translit": "ovoshchi",
+            "translation": [ "légumes" ],
+            "example": "Я люблю свежие овощи.",
+            "example_translit": "Ya lyublyu svezhie ovoshchi.",
+            "example_fr": "J’aime les légumes frais.",
+            "level": 1
+          },
+          {
+            "word": "фрукты",
+            "translit": "frukty",
+            "translation": [ "fruits" ],
+            "example": "Фрукты полезны для здоровья.",
+            "example_translit": "Frukty polezny dlya zdorovya.",
+            "example_fr": "Les fruits sont bons pour la santé.",
+            "level": 1
+          },
+          {
+            "word": "яблоко",
+            "translit": "yabloko",
+            "translation": [ "pomme" ],
+            "example": "Я ем красное яблоко.",
+            "example_translit": "Ya yem krasnoye yabloko.",
+            "example_fr": "Je mange une pomme rouge.",
+            "level": 1
+          },
+          {
+            "word": "банан",
+            "translit": "banan",
+            "translation": [ "banane" ],
+            "example": "Он купил один банан.",
+            "example_translit": "On kupil odin banan.",
+            "example_fr": "Il a acheté une banane.",
+            "level": 1
+          },
+          {
+            "word": "апельсин",
+            "translit": "apel'sin",
+            "translation": [ "orange (fruit)" ],
+            "example": "Свежий апельсин очень вкусный.",
+            "example_translit": "Svezhiy apel'sin ochen vkusnyy.",
+            "example_fr": "Une orange fraîche est très bonne.",
+            "level": 1
+          },
+
+          {
+            "word": "город",
+            "translit": "gorod",
+            "translation": [ "ville" ],
+            "example": "Мой город очень красивый.",
+            "example_translit": "Moy gorod ochen krasivyy.",
+            "example_fr": "Ma ville est très belle.",
+            "level": 1
+          },
+          {
+            "word": "улица",
+            "translit": "ulitsa",
+            "translation": [ "rue" ],
+            "example": "Дом находится на этой улице.",
+            "example_translit": "Dom nakhoditsya na etoy ulitse.",
+            "example_fr": "La maison est dans cette rue.",
+            "level": 1
+          },
+          {
+            "word": "парк",
+            "translit": "park",
+            "translation": [ "parc" ],
+            "example": "Мы гуляем в парке.",
+            "example_translit": "My gulyayem v parke.",
+            "example_fr": "Nous nous promenons dans le parc.",
+            "level": 1
+          },
+          {
+            "word": "площадь",
+            "translit": "ploshchad'",
+            "translation": [ "place (centre-ville)" ],
+            "example": "Мы встретились на площади.",
+            "example_translit": "My vstretillis na ploshchadi.",
+            "example_fr": "Nous nous sommes rencontrés sur la place.",
+            "level": 1
+          },
+          {
+            "word": "мост",
+            "translit": "most",
+            "translation": [ "pont" ],
+            "example": "Это старый мост через реку.",
+            "example_translit": "Eto staryy most cherez reku.",
+            "example_fr": "C’est un vieux pont qui traverse la rivière.",
+            "level": 1
+          },
+
+          {
+            "word": "дом",
+            "translit": "dom",
+            "translation": [ "maison" ],
+            "example": "Он строит новый дом.",
+            "example_translit": "On stroit novyy dom.",
+            "example_fr": "Il construit une nouvelle maison.",
+            "level": 1
+          },
+          {
+            "word": "квартира",
+            "translit": "kvartira",
+            "translation": [ "appartement" ],
+            "example": "Мы сняли квартиру.",
+            "example_translit": "My snyali kvartiru.",
+            "example_fr": "Nous avons loué un appartement.",
+            "level": 1
+          },
+          {
+            "word": "комната",
+            "translit": "komnata",
+            "translation": [ "chambre", "pièce" ],
+            "example": "Комната очень светлая.",
+            "example_translit": "Komnata ochen svetlaya.",
+            "example_fr": "La chambre est très lumineuse.",
+            "level": 1
+          },
+          {
+            "word": "окно",
+            "translit": "okno",
+            "translation": [ "fenêtre" ],
+            "example": "Открой окно, жарко.",
+            "example_translit": "Otkroy okno, zharko.",
+            "example_fr": "Ouvre la fenêtre, il fait chaud.",
+            "level": 1
+          },
+          {
+            "word": "дверь",
+            "translit": "dver'",
+            "translation": [ "porte" ],
+            "example": "Закрой дверь, пожалуйста.",
+            "example_translit": "Zakroy dver', pozhaluysta.",
+            "example_fr": "Ferme la porte, s’il te plaît.",
+            "level": 1
+          },
+
+          {
+            "word": "час",
+            "translit": "chas",
+            "translation": [ "heure" ],
+            "example": "Через час я буду дома.",
+            "example_translit": "Cherez chas ya budu doma.",
+            "example_fr": "Dans une heure je serai à la maison.",
+            "level": 1
+          },
+          {
+            "word": "день",
+            "translit": "den'",
+            "translation": [ "jour" ],
+            "example": "Хороший день сегодня.",
+            "example_translit": "Khoroshiy den segodnya.",
+            "example_fr": "C’est une bonne journée aujourd’hui.",
+            "level": 1
+          },
+          {
+            "word": "неделя",
+            "translit": "nedelya",
+            "translation": [ "semaine" ],
+            "example": "Это была длинная неделя.",
+            "example_translit": "Eto byla dlinaya nedelya.",
+            "example_fr": "C’était une longue semaine.",
+            "level": 1
+          },
+          {
+            "word": "месяц",
+            "translit": "mesyats",
+            "translation": [ "mois" ],
+            "example": "Через месяц мы поедем в отпуск.",
+            "example_translit": "Cherez mesyats my poedem v otpusk.",
+            "example_fr": "Dans un mois nous partirons en vacances.",
+            "level": 1
+          },
+          {
+            "word": "год",
+            "translit": "god",
+            "translation": [ "année" ],
+            "example": "Этот год был трудным.",
+            "example_translit": "Etot god byl trudnym.",
+            "example_fr": "Cette année a été difficile.",
+            "level": 1
+          },
+
+          {
+            "word": "утро",
+            "translit": "utro",
+            "translation": [ "matin" ],
+            "example": "Доброе утро!",
+            "example_translit": "Dobroye utro!",
+            "example_fr": "Bonjour (le matin) !",
+            "level": 1
+          },
+          {
+            "word": "деньги",
+            "translit": "den'gi",
+            "translation": [ "argent" ],
+            "example": "У меня мало денег.",
+            "example_translit": "U menya malo deneg.",
+            "example_fr": "J’ai peu d’argent.",
+            "level": 1
+          },
+          {
+            "word": "вечер",
+            "translit": "vecher",
+            "translation": [ "soir" ],
+            "example": "Хорошего вечера!",
+            "example_translit": "Khoroshego vechera!",
+            "example_fr": "Bonne soirée !",
+            "level": 1
+          },
+          {
+            "word": "ночь",
+            "translit": "noch'",
+            "translation": [ "nuit" ],
+            "example": "Ночь была тихой.",
+            "example_translit": "Noch byla tikhoy.",
+            "example_fr": "La nuit était calme.",
+            "level": 1
+          },
+          {
+            "word": "сегодня",
+            "translit": "segodnya",
+            "translation": [ "aujourd’hui" ],
+            "example": "Сегодня холодно.",
+            "example_translit": "Segodnya kholodno.",
+            "example_fr": "Il fait froid aujourd’hui.",
+            "level": 1
+          },
+
+          {
+            "word": "вчера",
+            "translit": "vchera",
+            "translation": [ "hier" ],
+            "example": "Вчера шёл дождь.",
+            "example_translit": "Vchera shyol dozhd.",
+            "example_fr": "Il pleuvait hier.",
+            "level": 1
+          },
+          {
+            "word": "завтра",
+            "translit": "zavtra",
+            "translation": [ "demain" ],
+            "example": "Завтра будет тепло.",
+            "example_translit": "Zavtra budet teplo.",
+            "example_fr": "Demain il fera chaud.",
+            "level": 1
+          },
+          {
+            "word": "погода",
+            "translit": "pogoda",
+            "translation": [ "météo" ],
+            "example": "Сегодня отличная погода.",
+            "example_translit": "Segodnya otlichnaya pogoda.",
+            "example_fr": "Il fait très beau aujourd’hui.",
+            "level": 1
+          },
+          {
+            "word": "дождь",
+            "translit": "dozhd'",
+            "translation": [ "pluie" ],
+            "example": "Идёт сильный дождь.",
+            "example_translit": "Idyot silnyy dozhd.",
+            "example_fr": "Il pleut fortement.",
+            "level": 1
+          },
+          {
+            "word": "снег",
+            "translit": "sneg",
+            "translation": [ "neige" ],
+            "example": "Сегодня выпал снег.",
+            "example_translit": "Segodnya vypal sneg.",
+            "example_fr": "Il a neigé aujourd’hui.",
+            "level": 1
+          }
+        
+
+]
