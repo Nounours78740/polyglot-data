@@ -1,0 +1,26 @@
+[
+  {
+    "word": "dog",
+    "translation": ["chien"],
+    "translit": "",
+    "example": "The dog barked loudly.",
+    "example_fr": "Le chien a aboyé fort.",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "translation": ["chat"],
+    "translit": "",
+    "example": "The cat slept on the sofa.",
+    "example_fr": "Le chat a dormi sur le canapé.",
+    "level": 1
+  },
+  {
+    "word": "house",
+    "translation": ["maison"],
+    "translit": "",
+    "example": "The house is very old.",
+    "example_fr": "La maison est très vieille.",
+    "level": 1
+  }
+]
