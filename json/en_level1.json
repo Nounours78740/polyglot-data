@@ -4,7 +4,7 @@
     "translation": [ "chien" ],
     "translit": "",
     "example": "The dog barked loudly when someone approached the gate.",
-    "example_fr": "Le chien a aboyé fort quand quelqu'un s'est approché du portail.",
+    "example_fr": "Le chien a aboyÃ© fort quand quelqu'un s'est approchÃ© du portail.",
     "level": 1
   },
   {
@@ -12,7 +12,7 @@
     "translation": [ "chat" ],
     "translit": "",
     "example": "The cat slept quietly on the windowsill all afternoon.",
-    "example_fr": "Le chat a dormi tranquillement sur le rebord de la fenêtre tout l'après-midi.",
+    "example_fr": "Le chat a dormi tranquillement sur le rebord de la fenÃªtre tout l'aprÃ¨s-midi.",
     "level": 1
   },
   {
@@ -20,7 +20,7 @@
     "translation": [ "maison", "demeure" ],
     "translit": "",
     "example": "Their house was painted last summer and now looks brand new.",
-    "example_fr": "Leur maison a été repeinte l'été dernier et paraît maintenant neuve.",
+    "example_fr": "Leur maison a Ã©tÃ© repeinte l'Ã©tÃ© dernier et paraÃ®t maintenant neuve.",
     "level": 1
   },
   {
@@ -28,7 +28,7 @@
     "translation": [ "voiture" ],
     "translit": "",
     "example": "His car broke down on the way to work this morning.",
-    "example_fr": "Sa voiture est tombée en panne en allant au travail ce matin.",
+    "example_fr": "Sa voiture est tombÃ©e en panne en allant au travail ce matin.",
     "level": 1
   },
   {
@@ -36,7 +36,7 @@
     "translation": [ "eau" ],
     "translit": "",
     "example": "She drank a glass of cold water after her run.",
-    "example_fr": "Elle a bu un verre d'eau froide après sa course.",
+    "example_fr": "Elle a bu un verre d'eau froide aprÃ¨s sa course.",
     "level": 1
   },
   {
@@ -44,7 +44,7 @@
     "translation": [ "pain" ],
     "translit": "",
     "example": "They bought fresh bread from the bakery every morning.",
-    "example_fr": "Ils achetaient du pain frais à la boulangerie chaque matin.",
+    "example_fr": "Ils achetaient du pain frais Ã  la boulangerie chaque matin.",
     "level": 1
   },
   {
@@ -60,7 +60,7 @@
     "translation": [ "livre" ],
     "translit": "",
     "example": "He found the book he had been looking for at the library.",
-    "example_fr": "Il a trouvé le livre qu'il cherchait à la bibliothèque.",
+    "example_fr": "Il a trouvÃ© le livre qu'il cherchait Ã  la bibliothÃ¨que.",
     "level": 1
   },
   {
@@ -68,7 +68,7 @@
     "translation": [ "chaise" ],
     "translit": "",
     "example": "The chair was so comfortable that she didn't want to get up.",
-    "example_fr": "La chaise était si confortable qu'elle ne voulait plus se lever.",
+    "example_fr": "La chaise Ã©tait si confortable qu'elle ne voulait plus se lever.",
     "level": 1
   },
   {
@@ -76,16 +76,16 @@
     "translation": [ "table" ],
     "translit": "",
     "example": "They set the table for dinner before their guests arrived.",
-    "example_fr": "Ils ont dressé la table pour le dîner avant l'arrivée de leurs invités.",
+    "example_fr": "Ils ont dressÃ© la table pour le dÃ®ner avant l'arrivÃ©e de leurs invitÃ©s.",
     "level": 1
   },
 
   {
     "word": "window",
-    "translation": [ "fenêtre" ],
+    "translation": [ "fenÃªtre" ],
     "translit": "",
     "example": "She opened the window to let in some fresh air.",
-    "example_fr": "Elle a ouvert la fenêtre pour laisser entrer un peu d'air frais.",
+    "example_fr": "Elle a ouvert la fenÃªtre pour laisser entrer un peu d'air frais.",
     "level": 1
   },
   {
@@ -93,7 +93,7 @@
     "translation": [ "porte" ],
     "translit": "",
     "example": "Someone knocked on the door, but nobody was expecting visitors.",
-    "example_fr": "Quelqu'un a frappé à la porte, mais personne n'attendait de visiteurs.",
+    "example_fr": "Quelqu'un a frappÃ© Ã  la porte, mais personne n'attendait de visiteurs.",
     "level": 1
   },
   {
@@ -101,7 +101,7 @@
     "translation": [ "rue" ],
     "translit": "",
     "example": "The street was empty early in the morning.",
-    "example_fr": "La rue était déserte tôt le matin.",
+    "example_fr": "La rue Ã©tait dÃ©serte tÃ´t le matin.",
     "level": 1
   },
   {
@@ -109,7 +109,7 @@
     "translation": [ "ville" ],
     "translit": "",
     "example": "The city is known for its beautiful historic buildings.",
-    "example_fr": "La ville est connue pour ses beaux bâtiments historiques.",
+    "example_fr": "La ville est connue pour ses beaux bÃ¢timents historiques.",
     "level": 1
   },
   {
@@ -117,7 +117,7 @@
     "translation": [ "soleil" ],
     "translit": "",
     "example": "The sun was shining brightly over the lake.",
-    "example_fr": "Le soleil brillait intensément au-dessus du lac.",
+    "example_fr": "Le soleil brillait intensÃ©ment au-dessus du lac.",
     "level": 1
   },
   {
@@ -125,7 +125,7 @@
     "translation": [ "lune" ],
     "translit": "",
     "example": "A full moon lit up the sky last night.",
-    "example_fr": "Une pleine lune éclairait le ciel la nuit dernière.",
+    "example_fr": "Une pleine lune Ã©clairait le ciel la nuit derniÃ¨re.",
     "level": 1
   },
   {
@@ -138,18 +138,18 @@
   },
   {
     "word": "mother",
-    "translation": [ "mère", "maman" ],
+    "translation": [ "mÃ¨re", "maman" ],
     "translit": "",
     "example": "His mother cooked his favorite meal for dinner.",
-    "example_fr": "Sa mère a préparé son plat préféré pour le dîner.",
+    "example_fr": "Sa mÃ¨re a prÃ©parÃ© son plat prÃ©fÃ©rÃ© pour le dÃ®ner.",
     "level": 1
   },
   {
     "word": "father",
-    "translation": [ "père", "papa" ],
+    "translation": [ "pÃ¨re", "papa" ],
     "translit": "",
     "example": "Her father picked her up from school every day.",
-    "example_fr": "Son père venait la chercher à l'école chaque jour.",
+    "example_fr": "Son pÃ¨re venait la chercher Ã  l'Ã©cole chaque jour.",
     "level": 1
   },
   {
@@ -157,16 +157,16 @@
     "translation": [ "nourriture" ],
     "translit": "",
     "example": "The food smelled delicious when it was brought to the table.",
-    "example_fr": "La nourriture sentait délicieusement bon lorsqu'on l'a apportée à table.",
+    "example_fr": "La nourriture sentait dÃ©licieusement bon lorsqu'on l'a apportÃ©e Ã  table.",
     "level": 1
   },
 
   {
     "word": "watermelon",
-    "translation": [ "pastèque" ],
+    "translation": [ "pastÃ¨que" ],
     "translit": "",
     "example": "They shared a fresh watermelon during the picnic.",
-    "example_fr": "Ils ont partagé une pastèque fraîche pendant le pique-nique.",
+    "example_fr": "Ils ont partagÃ© une pastÃ¨que fraÃ®che pendant le pique-nique.",
     "level": 1
   },
   {
@@ -174,7 +174,7 @@
     "translation": [ "pomme" ],
     "translit": "",
     "example": "He ate an apple before leaving the house.",
-    "example_fr": "Il a mangé une pomme avant de quitter la maison.",
+    "example_fr": "Il a mangÃ© une pomme avant de quitter la maison.",
     "level": 1
   },
   {
@@ -190,7 +190,7 @@
     "translation": [ "lait" ],
     "translit": "",
     "example": "He bought a bottle of milk on his way home.",
-    "example_fr": "Il a acheté une bouteille de lait sur le chemin du retour.",
+    "example_fr": "Il a achetÃ© une bouteille de lait sur le chemin du retour.",
     "level": 1
   },
   {
@@ -198,7 +198,7 @@
     "translation": [ "fromage" ],
     "translit": "",
     "example": "She added cheese to the pasta to make it tastier.",
-    "example_fr": "Elle a ajouté du fromage aux pâtes pour les rendre plus savoureuses.",
+    "example_fr": "Elle a ajoutÃ© du fromage aux pÃ¢tes pour les rendre plus savoureuses.",
     "level": 1
   },
   {
@@ -206,7 +206,7 @@
     "translation": [ "beurre" ],
     "translit": "",
     "example": "He spread butter on a slice of warm bread.",
-    "example_fr": "Il a étalé du beurre sur une tranche de pain chaud.",
+    "example_fr": "Il a Ã©talÃ© du beurre sur une tranche de pain chaud.",
     "level": 1
   },
   {
@@ -214,7 +214,7 @@
     "translation": [ "sel" ],
     "translit": "",
     "example": "She added a little salt to improve the flavor.",
-    "example_fr": "Elle a ajouté un peu de sel pour améliorer le goût.",
+    "example_fr": "Elle a ajoutÃ© un peu de sel pour amÃ©liorer le goÃ»t.",
     "level": 1
   },
   {
@@ -222,32 +222,32 @@
     "translation": [ "sucre" ],
     "translit": "",
     "example": "He prefers tea without sugar in the morning.",
-    "example_fr": "Il préfère le thé sans sucre le matin.",
+    "example_fr": "Il prÃ©fÃ¨re le thÃ© sans sucre le matin.",
     "level": 1
   },
   {
     "word": "coffee",
-    "translation": [ "café" ],
+    "translation": [ "cafÃ©" ],
     "translit": "",
     "example": "She drank a cup of hot coffee before leaving.",
-    "example_fr": "Elle a bu une tasse de café chaud avant de partir.",
+    "example_fr": "Elle a bu une tasse de cafÃ© chaud avant de partir.",
     "level": 1
   },
   {
     "word": "tea",
-    "translation": [ "thé" ],
+    "translation": [ "thÃ©" ],
     "translit": "",
     "example": "He made himself a cup of tea to relax.",
-    "example_fr": "Il s'est préparé une tasse de thé pour se détendre.",
+    "example_fr": "Il s'est prÃ©parÃ© une tasse de thÃ© pour se dÃ©tendre.",
     "level": 1
   },
 
   {
     "word": "school",
-    "translation": [ "école" ],
+    "translation": [ "Ã©cole" ],
     "translit": "",
     "example": "The school was closed due to heavy snow.",
-    "example_fr": "L'école a été fermée à cause des fortes chutes de neige.",
+    "example_fr": "L'Ã©cole a Ã©tÃ© fermÃ©e Ã  cause des fortes chutes de neige.",
     "level": 1
   },
   {
@@ -255,15 +255,15 @@
     "translation": [ "professeur", "enseignant" ],
     "translit": "",
     "example": "The teacher explained the lesson with patience.",
-    "example_fr": "Le professeur a expliqué la leçon avec patience.",
+    "example_fr": "Le professeur a expliquÃ© la leÃ§on avec patience.",
     "level": 1
   },
   {
     "word": "student",
-    "translation": [ "étudiant", "élève" ],
+    "translation": [ "Ã©tudiant", "Ã©lÃ¨ve" ],
     "translit": "",
     "example": "Each student received a new workbook.",
-    "example_fr": "Chaque élève a reçu un nouveau cahier d'exercices.",
+    "example_fr": "Chaque Ã©lÃ¨ve a reÃ§u un nouveau cahier d'exercices.",
     "level": 1
   },
   {
@@ -279,7 +279,7 @@
     "translation": [ "papier", "feuille" ],
     "translit": "",
     "example": "He wrote his name on a piece of paper.",
-    "example_fr": "Il a écrit son nom sur une feuille de papier.",
+    "example_fr": "Il a Ã©crit son nom sur une feuille de papier.",
     "level": 1
   },
   {
@@ -287,7 +287,7 @@
     "translation": [ "cahier", "carnet" ],
     "translit": "",
     "example": "She always keeps a notebook in her bag to jot down ideas.",
-    "example_fr": "Elle garde toujours un cahier dans son sac pour noter ses idées.",
+    "example_fr": "Elle garde toujours un cahier dans son sac pour noter ses idÃ©es.",
     "level": 1
   },
   {
@@ -295,7 +295,7 @@
     "translation": [ "sac" ],
     "translit": "",
     "example": "He forgot his bag on the bus yesterday.",
-    "example_fr": "Il a oublié son sac dans le bus hier.",
+    "example_fr": "Il a oubliÃ© son sac dans le bus hier.",
     "level": 1
   },
   {
@@ -303,7 +303,7 @@
     "translation": [ "ami", "amie" ],
     "translit": "",
     "example": "His friend helped him move into his new apartment.",
-    "example_fr": "Son ami l'a aidé à emménager dans son nouvel appartement.",
+    "example_fr": "Son ami l'a aidÃ© Ã  emmÃ©nager dans son nouvel appartement.",
     "level": 1
   },
   {
@@ -311,7 +311,7 @@
     "translation": [ "famille" ],
     "translit": "",
     "example": "They spent the holidays with their family.",
-    "example_fr": "Ils ont passé les vacances avec leur famille.",
+    "example_fr": "Ils ont passÃ© les vacances avec leur famille.",
     "level": 1
   },
   {
@@ -319,7 +319,7 @@
     "translation": [ "travail", "emploi" ],
     "translit": "",
     "example": "She found a new job in the city center.",
-    "example_fr": "Elle a trouvé un nouvel emploi dans le centre-ville.",
+    "example_fr": "Elle a trouvÃ© un nouvel emploi dans le centre-ville.",
     "level": 1
   },
   {
@@ -343,7 +343,7 @@
     "translation": [ "jour" ],
     "translit": "",
     "example": "They planned to leave early in the day.",
-    "example_fr": "Ils avaient prévu de partir tôt dans la journée.",
+    "example_fr": "Ils avaient prÃ©vu de partir tÃ´t dans la journÃ©e.",
     "level": 1
   },
   {
@@ -351,7 +351,7 @@
     "translation": [ "nuit" ],
     "translit": "",
     "example": "The stars were bright in the night sky.",
-    "example_fr": "Les étoiles brillaient dans le ciel nocturne.",
+    "example_fr": "Les Ã©toiles brillaient dans le ciel nocturne.",
     "level": 1
   },
   {
@@ -359,7 +359,7 @@
     "translation": [ "matin" ],
     "translit": "",
     "example": "She wakes up early every morning to exercise.",
-    "example_fr": "Elle se réveille tôt chaque matin pour faire du sport.",
+    "example_fr": "Elle se rÃ©veille tÃ´t chaque matin pour faire du sport.",
     "level": 1
   },
 
@@ -376,7 +376,7 @@
     "translation": [ "musique" ],
     "translit": "",
     "example": "He listens to music while studying.",
-    "example_fr": "Il écoute de la musique en étudiant.",
+    "example_fr": "Il Ã©coute de la musique en Ã©tudiant.",
     "level": 1
   },
   {
@@ -384,7 +384,7 @@
     "translation": [ "chanson" ],
     "translit": "",
     "example": "That song always reminds her of summer.",
-    "example_fr": "Cette chanson lui rappelle toujours l'été.",
+    "example_fr": "Cette chanson lui rappelle toujours l'Ã©tÃ©.",
     "level": 1
   },
   {
@@ -392,7 +392,7 @@
     "translation": [ "film" ],
     "translit": "",
     "example": "They watched a movie together on Friday night.",
-    "example_fr": "Ils ont regardé un film ensemble vendredi soir.",
+    "example_fr": "Ils ont regardÃ© un film ensemble vendredi soir.",
     "level": 1
   },
   {
@@ -408,15 +408,15 @@
     "translation": [ "ordinateur" ],
     "translit": "",
     "example": "Her computer stopped working this morning.",
-    "example_fr": "Son ordinateur a cessé de fonctionner ce matin.",
+    "example_fr": "Son ordinateur a cessÃ© de fonctionner ce matin.",
     "level": 1
   },
   {
     "word": "phone",
-    "translation": [ "téléphone" ],
+    "translation": [ "tÃ©lÃ©phone" ],
     "translit": "",
     "example": "He forgot his phone at home again.",
-    "example_fr": "Il a encore oublié son téléphone à la maison.",
+    "example_fr": "Il a encore oubliÃ© son tÃ©lÃ©phone Ã  la maison.",
     "level": 1
   },
   {
@@ -424,7 +424,7 @@
     "translation": [ "internet" ],
     "translit": "",
     "example": "The internet was very slow yesterday.",
-    "example_fr": "Internet était très lent hier.",
+    "example_fr": "Internet Ã©tait trÃ¨s lent hier.",
     "level": 1
   },
   {
@@ -432,15 +432,15 @@
     "translation": [ "magasin", "boutique" ],
     "translit": "",
     "example": "She went to the shop to buy some bread.",
-    "example_fr": "Elle est allée au magasin pour acheter du pain.",
+    "example_fr": "Elle est allÃ©e au magasin pour acheter du pain.",
     "level": 1
   },
   {
     "word": "market",
-    "translation": [ "marché" ],
+    "translation": [ "marchÃ©" ],
     "translit": "",
     "example": "The market is full of fresh fruits and vegetables.",
-    "example_fr": "Le marché est rempli de fruits et légumes frais.",
+    "example_fr": "Le marchÃ© est rempli de fruits et lÃ©gumes frais.",
     "level": 1
   },
 
@@ -449,7 +449,7 @@
     "translation": [ "argent" ],
     "translit": "",
     "example": "He saved money to buy a new bicycle.",
-    "example_fr": "Il a économisé de l'argent pour acheter un nouveau vélo.",
+    "example_fr": "Il a Ã©conomisÃ© de l'argent pour acheter un nouveau vÃ©lo.",
     "level": 1
   },
   {
@@ -457,7 +457,7 @@
     "translation": [ "prix" ],
     "translit": "",
     "example": "The price of the ticket increased last month.",
-    "example_fr": "Le prix du billet a augmenté le mois dernier.",
+    "example_fr": "Le prix du billet a augmentÃ© le mois dernier.",
     "level": 1
   },
   {
@@ -465,7 +465,7 @@
     "translation": [ "cadeau" ],
     "translit": "",
     "example": "She bought a gift for her best friend's birthday.",
-    "example_fr": "Elle a acheté un cadeau pour l'anniversaire de sa meilleure amie.",
+    "example_fr": "Elle a achetÃ© un cadeau pour l'anniversaire de sa meilleure amie.",
     "level": 1
   },
   {
@@ -473,15 +473,15 @@
     "translation": [ "anniversaire" ],
     "translit": "",
     "example": "His birthday party was a great success.",
-    "example_fr": "Sa fête d'anniversaire a été un grand succès.",
+    "example_fr": "Sa fÃªte d'anniversaire a Ã©tÃ© un grand succÃ¨s.",
     "level": 1
   },
   {
     "word": "weather",
-    "translation": [ "météo", "temps" ],
+    "translation": [ "mÃ©tÃ©o", "temps" ],
     "translit": "",
     "example": "The weather was perfect for a walk.",
-    "example_fr": "La météo était parfaite pour une promenade.",
+    "example_fr": "La mÃ©tÃ©o Ã©tait parfaite pour une promenade.",
     "level": 1
   },
   {
@@ -489,7 +489,7 @@
     "translation": [ "pluie" ],
     "translit": "",
     "example": "The rain started suddenly in the afternoon.",
-    "example_fr": "La pluie a commencé soudainement dans l'après-midi.",
+    "example_fr": "La pluie a commencÃ© soudainement dans l'aprÃ¨s-midi.",
     "level": 1
   },
   {
@@ -505,7 +505,7 @@
     "translation": [ "vent" ],
     "translit": "",
     "example": "The wind was strong near the coast.",
-    "example_fr": "Le vent était fort près de la côte.",
+    "example_fr": "Le vent Ã©tait fort prÃ¨s de la cÃ´te.",
     "level": 1
   },
   {
@@ -522,7 +522,7 @@
     "translation": [ "heureux", "contente" ],
     "translit": "",
     "example": "She felt happy after receiving the good news.",
-    "example_fr": "Elle s'est sentie heureuse après avoir reçu la bonne nouvelle.",
+    "example_fr": "Elle s'est sentie heureuse aprÃ¨s avoir reÃ§u la bonne nouvelle.",
     "level": 1
   },
   {
@@ -530,39 +530,39 @@
     "translation": [ "triste" ],
     "translit": "",
     "example": "He was sad when his trip was cancelled.",
-    "example_fr": "Il était triste lorsque son voyage a été annulé.",
+    "example_fr": "Il Ã©tait triste lorsque son voyage a Ã©tÃ© annulÃ©.",
     "level": 1
   },
   {
     "word": "angry",
-    "translation": [ "énervé", "en colère" ],
+    "translation": [ "Ã©nervÃ©", "en colÃ¨re" ],
     "translit": "",
     "example": "She was angry because she missed the bus.",
-    "example_fr": "Elle était en colère parce qu'elle avait raté le bus.",
+    "example_fr": "Elle Ã©tait en colÃ¨re parce qu'elle avait ratÃ© le bus.",
     "level": 1
   },
   {
     "word": "tired",
-    "translation": [ "fatigué" ],
+    "translation": [ "fatiguÃ©" ],
     "translit": "",
     "example": "He was tired after working all day.",
-    "example_fr": "Il était fatigué après avoir travaillé toute la journée.",
+    "example_fr": "Il Ã©tait fatiguÃ© aprÃ¨s avoir travaillÃ© toute la journÃ©e.",
     "level": 1
   },
   {
     "word": "hungry",
-    "translation": [ "affamé" ],
+    "translation": [ "affamÃ©" ],
     "translit": "",
     "example": "She felt hungry before dinner.",
-    "example_fr": "Elle avait faim avant le dîner.",
+    "example_fr": "Elle avait faim avant le dÃ®ner.",
     "level": 1
   },
   {
     "word": "thirsty",
-    "translation": [ "assoiffé" ],
+    "translation": [ "assoiffÃ©" ],
     "translit": "",
     "example": "He was thirsty after playing football.",
-    "example_fr": "Il avait soif après avoir joué au football.",
+    "example_fr": "Il avait soif aprÃ¨s avoir jouÃ© au football.",
     "level": 1
   },
   {
@@ -570,7 +570,7 @@
     "translation": [ "grand", "gros" ],
     "translit": "",
     "example": "They adopted a big dog from the shelter.",
-    "example_fr": "Ils ont adopté un grand chien du refuge.",
+    "example_fr": "Ils ont adoptÃ© un grand chien du refuge.",
     "level": 1
   },
   {
@@ -578,7 +578,7 @@
     "translation": [ "petit" ],
     "translit": "",
     "example": "She found a small key under the rug.",
-    "example_fr": "Elle a trouvé une petite clé sous le tapis.",
+    "example_fr": "Elle a trouvÃ© une petite clÃ© sous le tapis.",
     "level": 1
   },
   {
@@ -586,7 +586,7 @@
     "translation": [ "long" ],
     "translit": "",
     "example": "The road to the village is long and narrow.",
-    "example_fr": "La route vers le village est longue et étroite.",
+    "example_fr": "La route vers le village est longue et Ã©troite.",
     "level": 1
   },
   {
@@ -594,7 +594,7 @@
     "translation": [ "court" ],
     "translit": "",
     "example": "He wrote a short message before leaving.",
-    "example_fr": "Il a écrit un court message avant de partir.",
+    "example_fr": "Il a Ã©crit un court message avant de partir.",
     "level": 1
   },
   {
@@ -602,7 +602,7 @@
     "translation": [ "beau", "belle" ],
     "translit": "",
     "example": "The garden looked beautiful in spring.",
-    "example_fr": "Le jardin était magnifique au printemps.",
+    "example_fr": "Le jardin Ã©tait magnifique au printemps.",
     "level": 1
   },
   {
@@ -618,7 +618,7 @@
     "translation": [ "chaud" ],
     "translit": "",
     "example": "The soup was too hot to eat.",
-    "example_fr": "La soupe était trop chaude pour être mangée.",
+    "example_fr": "La soupe Ã©tait trop chaude pour Ãªtre mangÃ©e.",
     "level": 1
   },
   {
@@ -626,7 +626,7 @@
     "translation": [ "froid" ],
     "translit": "",
     "example": "The water in the lake was cold even in summer.",
-    "example_fr": "L'eau du lac était froide même en été.",
+    "example_fr": "L'eau du lac Ã©tait froide mÃªme en Ã©tÃ©.",
     "level": 1
   },
   {
@@ -634,7 +634,7 @@
     "translation": [ "rapide" ],
     "translit": "",
     "example": "The train was so fast that they arrived early.",
-    "example_fr": "Le train était si rapide qu'ils sont arrivés en avance.",
+    "example_fr": "Le train Ã©tait si rapide qu'ils sont arrivÃ©s en avance.",
     "level": 1
   },
   {
@@ -642,7 +642,7 @@
     "translation": [ "lent" ],
     "translit": "",
     "example": "The internet connection was slow all day.",
-    "example_fr": "La connexion internet a été lente toute la journée.",
+    "example_fr": "La connexion internet a Ã©tÃ© lente toute la journÃ©e.",
     "level": 1
   },
 
@@ -651,7 +651,7 @@
     "translation": [ "jeune" ],
     "translit": "",
     "example": "The young boy helped his grandmother carry groceries.",
-    "example_fr": "Le jeune garçon a aidé sa grand-mère à porter les courses.",
+    "example_fr": "Le jeune garÃ§on a aidÃ© sa grand-mÃ¨re Ã  porter les courses.",
     "level": 1
   },
   {
@@ -659,7 +659,7 @@
     "translation": [ "vieux", "ancienne" ],
     "translit": "",
     "example": "They live in a very old house in the countryside.",
-    "example_fr": "Ils vivent dans une très vieille maison à la campagne.",
+    "example_fr": "Ils vivent dans une trÃ¨s vieille maison Ã  la campagne.",
     "level": 1
   },
   {
@@ -667,7 +667,7 @@
     "translation": [ "nouveau", "neuf" ],
     "translit": "",
     "example": "She bought a new jacket for the winter.",
-    "example_fr": "Elle a acheté une nouvelle veste pour l'hiver.",
+    "example_fr": "Elle a achetÃ© une nouvelle veste pour l'hiver.",
     "level": 1
   },
   {
@@ -683,7 +683,7 @@
     "translation": [ "mauvais" ],
     "translit": "",
     "example": "He had a bad day at work.",
-    "example_fr": "Il a eu une mauvaise journée au travail.",
+    "example_fr": "Il a eu une mauvaise journÃ©e au travail.",
     "level": 1
   },
   {
@@ -691,7 +691,7 @@
     "translation": [ "facile" ],
     "translit": "",
     "example": "The exercise was easy for most students.",
-    "example_fr": "L'exercice était facile pour la plupart des élèves.",
+    "example_fr": "L'exercice Ã©tait facile pour la plupart des Ã©lÃ¨ves.",
     "level": 1
   },
   {
@@ -699,7 +699,7 @@
     "translation": [ "difficile" ],
     "translit": "",
     "example": "Climbing the mountain was difficult but rewarding.",
-    "example_fr": "Gravir la montagne était difficile mais gratifiant.",
+    "example_fr": "Gravir la montagne Ã©tait difficile mais gratifiant.",
     "level": 1
   },
   {
@@ -707,7 +707,7 @@
     "translation": [ "propre" ],
     "translit": "",
     "example": "She cleaned her room before the guests arrived.",
-    "example_fr": "Elle a nettoyé sa chambre avant l'arrivée des invités.",
+    "example_fr": "Elle a nettoyÃ© sa chambre avant l'arrivÃ©e des invitÃ©s.",
     "level": 1
   },
   {
@@ -715,7 +715,7 @@
     "translation": [ "sale" ],
     "translit": "",
     "example": "The children came home with dirty shoes.",
-    "example_fr": "Les enfants sont rentrés avec des chaussures sales.",
+    "example_fr": "Les enfants sont rentrÃ©s avec des chaussures sales.",
     "level": 1
   },
   {
@@ -723,7 +723,7 @@
     "translation": [ "plein" ],
     "translit": "",
     "example": "The bus was full, so they had to wait for the next one.",
-    "example_fr": "Le bus était plein, alors ils ont dû attendre le suivant.",
+    "example_fr": "Le bus Ã©tait plein, alors ils ont dÃ» attendre le suivant.",
     "level": 1
   },
 
@@ -732,7 +732,7 @@
     "translation": [ "vide" ],
     "translit": "",
     "example": "The bottle was empty after the picnic.",
-    "example_fr": "La bouteille était vide après le pique-nique.",
+    "example_fr": "La bouteille Ã©tait vide aprÃ¨s le pique-nique.",
     "level": 1
   },
   {
@@ -740,15 +740,15 @@
     "translation": [ "ouvert" ],
     "translit": "",
     "example": "The shop is open from 9 a.m. to 6 p.m.",
-    "example_fr": "Le magasin est ouvert de 9 h à 18 h.",
+    "example_fr": "Le magasin est ouvert de 9 h Ã  18 h.",
     "level": 1
   },
   {
     "word": "closed",
-    "translation": [ "fermé" ],
+    "translation": [ "fermÃ©" ],
     "translit": "",
     "example": "The museum is closed on Mondays.",
-    "example_fr": "Le musée est fermé le lundi.",
+    "example_fr": "Le musÃ©e est fermÃ© le lundi.",
     "level": 1
   },
   {
@@ -756,7 +756,7 @@
     "translation": [ "gauche" ],
     "translit": "",
     "example": "Turn left at the next traffic light.",
-    "example_fr": "Tournez à gauche au prochain feu.",
+    "example_fr": "Tournez Ã  gauche au prochain feu.",
     "level": 1
   },
   {
@@ -764,15 +764,15 @@
     "translation": [ "droite" ],
     "translit": "",
     "example": "The pharmacy is on the right side of the street.",
-    "example_fr": "La pharmacie est sur le côté droit de la rue.",
+    "example_fr": "La pharmacie est sur le cÃ´tÃ© droit de la rue.",
     "level": 1
   },
   {
     "word": "near",
-    "translation": [ "près", "proche" ],
+    "translation": [ "prÃ¨s", "proche" ],
     "translit": "",
     "example": "The school is near the post office.",
-    "example_fr": "L'école est près du bureau de poste.",
+    "example_fr": "L'Ã©cole est prÃ¨s du bureau de poste.",
     "level": 1
   },
   {
@@ -785,18 +785,18 @@
   },
   {
     "word": "inside",
-    "translation": [ "à l'intérieur" ],
+    "translation": [ "Ã  l'intÃ©rieur" ],
     "translit": "",
     "example": "The cat stayed inside because it was cold outside.",
-    "example_fr": "Le chat est resté à l'intérieur parce qu'il faisait froid dehors.",
+    "example_fr": "Le chat est restÃ© Ã  l'intÃ©rieur parce qu'il faisait froid dehors.",
     "level": 1
   },
   {
     "word": "outside",
-    "translation": [ "à l'extérieur", "dehors" ],
+    "translation": [ "Ã  l'extÃ©rieur", "dehors" ],
     "translit": "",
     "example": "The children played outside all afternoon.",
-    "example_fr": "Les enfants ont joué dehors tout l'après-midi.",
+    "example_fr": "Les enfants ont jouÃ© dehors tout l'aprÃ¨s-midi.",
     "level": 1
   },
   {
@@ -804,7 +804,7 @@
     "translation": [ "maison", "domicile" ],
     "translit": "",
     "example": "She stayed home because she was feeling sick.",
-    "example_fr": "Elle est restée à la maison parce qu'elle ne se sentait pas bien.",
+    "example_fr": "Elle est restÃ©e Ã  la maison parce qu'elle ne se sentait pas bien.",
     "level": 1
   },
 
@@ -813,7 +813,7 @@
     "translation": [ "endroit", "lieu" ],
     "translit": "",
     "example": "They visited a beautiful place near the mountains.",
-    "example_fr": "Ils ont visité un bel endroit près des montagnes.",
+    "example_fr": "Ils ont visitÃ© un bel endroit prÃ¨s des montagnes.",
     "level": 1
   },
   {
@@ -821,7 +821,7 @@
     "translation": [ "pays" ],
     "translit": "",
     "example": "He traveled to a country he had never visited before.",
-    "example_fr": "Il a voyagé dans un pays qu'il n'avait jamais visité auparavant.",
+    "example_fr": "Il a voyagÃ© dans un pays qu'il n'avait jamais visitÃ© auparavant.",
     "level": 1
   },
   {
@@ -829,7 +829,7 @@
     "translation": [ "monde" ],
     "translit": "",
     "example": "The world is full of beautiful places to discover.",
-    "example_fr": "Le monde est plein de beaux endroits à découvrir.",
+    "example_fr": "Le monde est plein de beaux endroits Ã  dÃ©couvrir.",
     "level": 1
   },
   {
@@ -837,7 +837,7 @@
     "translation": [ "langue" ],
     "translit": "",
     "example": "Learning a new language takes time and dedication.",
-    "example_fr": "Apprendre une nouvelle langue demande du temps et de la détermination.",
+    "example_fr": "Apprendre une nouvelle langue demande du temps et de la dÃ©termination.",
     "level": 1
   },
   {
@@ -845,7 +845,7 @@
     "translation": [ "librairie" ],
     "translit": "",
     "example": "They went to the bookstore to look for a travel guide.",
-    "example_fr": "Ils sont allés à la librairie pour chercher un guide de voyage.",
+    "example_fr": "Ils sont allÃ©s Ã  la librairie pour chercher un guide de voyage.",
     "level": 1
   },
   {
@@ -853,23 +853,23 @@
     "translation": [ "restaurant" ],
     "translit": "",
     "example": "They chose a small restaurant near the river.",
-    "example_fr": "Ils ont choisi un petit restaurant près de la rivière.",
+    "example_fr": "Ils ont choisi un petit restaurant prÃ¨s de la riviÃ¨re.",
     "level": 1
   },
   {
     "word": "hotel",
-    "translation": [ "hôtel" ],
+    "translation": [ "hÃ´tel" ],
     "translit": "",
     "example": "The hotel offers breakfast and free Wi-Fi.",
-    "example_fr": "L'hôtel propose le petit-déjeuner et le Wi-Fi gratuit.",
+    "example_fr": "L'hÃ´tel propose le petit-dÃ©jeuner et le Wi-Fi gratuit.",
     "level": 1
   },
   {
     "word": "room",
-    "translation": [ "chambre", "pièce" ],
+    "translation": [ "chambre", "piÃ¨ce" ],
     "translit": "",
     "example": "Her room was clean and well organized.",
-    "example_fr": "Sa chambre était propre et bien rangée.",
+    "example_fr": "Sa chambre Ã©tait propre et bien rangÃ©e.",
     "level": 1
   },
   {
@@ -877,7 +877,7 @@
     "translation": [ "lit" ],
     "translit": "",
     "example": "The bed was so soft she fell asleep immediately.",
-    "example_fr": "Le lit était si doux qu'elle s'est endormie immédiatement.",
+    "example_fr": "Le lit Ã©tait si doux qu'elle s'est endormie immÃ©diatement.",
     "level": 1
   },
   {
@@ -885,7 +885,7 @@
     "translation": [ "cuisine" ],
     "translit": "",
     "example": "The kitchen smelled wonderful after he baked the cake.",
-    "example_fr": "La cuisine sentait bon après qu'il a préparé le gâteau.",
+    "example_fr": "La cuisine sentait bon aprÃ¨s qu'il a prÃ©parÃ© le gÃ¢teau.",
     "level": 1
   },
   {
@@ -893,7 +893,7 @@
     "translation": [ "salle de bain" ],
     "translit": "",
     "example": "The bathroom was recently renovated.",
-    "example_fr": "La salle de bain a été récemment rénovée.",
+    "example_fr": "La salle de bain a Ã©tÃ© rÃ©cemment rÃ©novÃ©e.",
     "level": 1
   },
   {
@@ -901,15 +901,15 @@
     "translation": [ "jardin" ],
     "translit": "",
     "example": "They planted flowers in the garden in spring.",
-    "example_fr": "Ils ont planté des fleurs dans le jardin au printemps.",
+    "example_fr": "Ils ont plantÃ© des fleurs dans le jardin au printemps.",
     "level": 1
   },
   {
     "word": "river",
-    "translation": [ "rivière", "fleuve" ],
+    "translation": [ "riviÃ¨re", "fleuve" ],
     "translit": "",
     "example": "The river flows quietly through the valley.",
-    "example_fr": "La rivière coule doucement à travers la vallée.",
+    "example_fr": "La riviÃ¨re coule doucement Ã  travers la vallÃ©e.",
     "level": 1
   },
   {
@@ -917,7 +917,7 @@
     "translation": [ "lac" ],
     "translit": "",
     "example": "They swam in the lake during the summer holidays.",
-    "example_fr": "Ils ont nagé dans le lac pendant les vacances d'été.",
+    "example_fr": "Ils ont nagÃ© dans le lac pendant les vacances d'Ã©tÃ©.",
     "level": 1
   },
   {
@@ -925,7 +925,7 @@
     "translation": [ "mer" ],
     "translit": "",
     "example": "The sea was calm and blue that morning.",
-    "example_fr": "La mer était calme et bleue ce matin-là.",
+    "example_fr": "La mer Ã©tait calme et bleue ce matin-lÃ .",
     "level": 1
   },
 
@@ -934,23 +934,23 @@
     "translation": [ "montagne" ],
     "translit": "",
     "example": "They hiked up the mountain before sunset.",
-    "example_fr": "Ils ont grimpé la montagne avant le coucher du soleil.",
+    "example_fr": "Ils ont grimpÃ© la montagne avant le coucher du soleil.",
     "level": 1
   },
   {
     "word": "forest",
-    "translation": [ "forêt" ],
+    "translation": [ "forÃªt" ],
     "translit": "",
     "example": "The forest was full of birds singing.",
-    "example_fr": "La forêt était pleine d'oiseaux qui chantaient.",
+    "example_fr": "La forÃªt Ã©tait pleine d'oiseaux qui chantaient.",
     "level": 1
   },
   {
     "word": "island",
-    "translation": [ "île" ],
+    "translation": [ "Ã®le" ],
     "translit": "",
     "example": "They spent a week on a small island.",
-    "example_fr": "Ils ont passé une semaine sur une petite île.",
+    "example_fr": "Ils ont passÃ© une semaine sur une petite Ã®le.",
     "level": 1
   },
   {
@@ -958,7 +958,7 @@
     "translation": [ "route" ],
     "translit": "",
     "example": "The road was closed because of construction.",
-    "example_fr": "La route était fermée à cause des travaux.",
+    "example_fr": "La route Ã©tait fermÃ©e Ã  cause des travaux.",
     "level": 1
   },
   {
@@ -966,7 +966,7 @@
     "translation": [ "pont" ],
     "translit": "",
     "example": "They crossed the old stone bridge.",
-    "example_fr": "Ils ont traversé le vieux pont en pierre.",
+    "example_fr": "Ils ont traversÃ© le vieux pont en pierre.",
     "level": 1
   },
   {
@@ -974,7 +974,7 @@
     "translation": [ "parc" ],
     "translit": "",
     "example": "The children played at the park all morning.",
-    "example_fr": "Les enfants ont joué au parc toute la matinée.",
+    "example_fr": "Les enfants ont jouÃ© au parc toute la matinÃ©e.",
     "level": 1
   },
   {
@@ -998,7 +998,7 @@
     "translation": [ "herbe" ],
     "translit": "",
     "example": "The grass was wet from the morning dew.",
-    "example_fr": "L'herbe était mouillée par la rosée du matin.",
+    "example_fr": "L'herbe Ã©tait mouillÃ©e par la rosÃ©e du matin.",
     "level": 1
   },
   {
@@ -1006,7 +1006,7 @@
     "translation": [ "pierre" ],
     "translit": "",
     "example": "He found a smooth stone near the riverbank.",
-    "example_fr": "Il a trouvé une pierre lisse près de la berge.",
+    "example_fr": "Il a trouvÃ© une pierre lisse prÃ¨s de la berge.",
     "level": 1
   },
 
@@ -1015,7 +1015,7 @@
     "translation": [ "chaussure" ],
     "translit": "",
     "example": "She bought a new pair of shoes for the party.",
-    "example_fr": "Elle a acheté une nouvelle paire de chaussures pour la fête.",
+    "example_fr": "Elle a achetÃ© une nouvelle paire de chaussures pour la fÃªte.",
     "level": 1
   },
   {
@@ -1023,7 +1023,7 @@
     "translation": [ "chemise" ],
     "translit": "",
     "example": "He ironed his shirt before the interview.",
-    "example_fr": "Il a repassé sa chemise avant l'entretien.",
+    "example_fr": "Il a repassÃ© sa chemise avant l'entretien.",
     "level": 1
   },
   {
@@ -1031,7 +1031,7 @@
     "translation": [ "pantalon" ],
     "translit": "",
     "example": "His pants were too long, so he had them shortened.",
-    "example_fr": "Son pantalon était trop long, alors il l'a fait raccourcir.",
+    "example_fr": "Son pantalon Ã©tait trop long, alors il l'a fait raccourcir.",
     "level": 1
   },
   {
@@ -1039,7 +1039,7 @@
     "translation": [ "robe" ],
     "translit": "",
     "example": "She wore a blue dress to the wedding.",
-    "example_fr": "Elle a porté une robe bleue au mariage.",
+    "example_fr": "Elle a portÃ© une robe bleue au mariage.",
     "level": 1
   },
   {
@@ -1055,7 +1055,7 @@
     "translation": [ "chapeau" ],
     "translit": "",
     "example": "He wore a hat to protect himself from the sun.",
-    "example_fr": "Il portait un chapeau pour se protéger du soleil.",
+    "example_fr": "Il portait un chapeau pour se protÃ©ger du soleil.",
     "level": 1
   },
   {
@@ -1063,7 +1063,7 @@
     "translation": [ "sac" ],
     "translit": "",
     "example": "Her bag was full of books and notebooks.",
-    "example_fr": "Son sac était rempli de livres et de cahiers.",
+    "example_fr": "Son sac Ã©tait rempli de livres et de cahiers.",
     "level": 1
   },
   {
@@ -1071,15 +1071,15 @@
     "translation": [ "portefeuille" ],
     "translit": "",
     "example": "He lost his wallet in the supermarket.",
-    "example_fr": "Il a perdu son portefeuille au supermarché.",
+    "example_fr": "Il a perdu son portefeuille au supermarchÃ©.",
     "level": 1
   },
   {
     "word": "key",
-    "translation": [ "clé" ],
+    "translation": [ "clÃ©" ],
     "translit": "",
     "example": "She couldn't find the key to the front door.",
-    "example_fr": "Elle n'arrivait pas à trouver la clé de la porte d'entrée.",
+    "example_fr": "Elle n'arrivait pas Ã  trouver la clÃ© de la porte d'entrÃ©e.",
     "level": 1
   },
   {
@@ -1087,7 +1087,7 @@
     "translation": [ "montre" ],
     "translit": "",
     "example": "His watch stopped working during the meeting.",
-    "example_fr": "Sa montre a cessé de fonctionner pendant la réunion.",
+    "example_fr": "Sa montre a cessÃ© de fonctionner pendant la rÃ©union.",
     "level": 1
   },
 
@@ -1096,7 +1096,7 @@
     "translation": [ "horloge" ],
     "translit": "",
     "example": "The clock on the wall was more than a century old.",
-    "example_fr": "L'horloge accrochée au mur avait plus d'un siècle.",
+    "example_fr": "L'horloge accrochÃ©e au mur avait plus d'un siÃ¨cle.",
     "level": 1
   },
   {
@@ -1112,7 +1112,7 @@
     "translation": [ "sol", "plancher" ],
     "translit": "",
     "example": "The floor was cold in the morning.",
-    "example_fr": "Le sol était froid le matin.",
+    "example_fr": "Le sol Ã©tait froid le matin.",
     "level": 1
   },
   {
@@ -1120,7 +1120,7 @@
     "translation": [ "plafond" ],
     "translit": "",
     "example": "The ceiling was decorated with old paintings.",
-    "example_fr": "Le plafond était décoré de vieilles peintures.",
+    "example_fr": "Le plafond Ã©tait dÃ©corÃ© de vieilles peintures.",
     "level": 1
   },
   {
@@ -1128,7 +1128,7 @@
     "translation": [ "mur" ],
     "translit": "",
     "example": "The wall was painted a light blue color.",
-    "example_fr": "Le mur était peint d'un bleu clair.",
+    "example_fr": "Le mur Ã©tait peint d'un bleu clair.",
     "level": 1
   },
   {
@@ -1136,23 +1136,23 @@
     "translation": [ "chaise" ],
     "translit": "",
     "example": "He bought a wooden chair for his desk.",
-    "example_fr": "Il a acheté une chaise en bois pour son bureau.",
+    "example_fr": "Il a achetÃ© une chaise en bois pour son bureau.",
     "level": 1
   },
   {
     "word": "sofa",
-    "translation": [ "canapé" ],
+    "translation": [ "canapÃ©" ],
     "translit": "",
     "example": "They relaxed on the sofa after a long day.",
-    "example_fr": "Ils se sont détendus sur le canapé après une longue journée.",
+    "example_fr": "Ils se sont dÃ©tendus sur le canapÃ© aprÃ¨s une longue journÃ©e.",
     "level": 1
   },
   {
     "word": "television",
-    "translation": [ "télévision" ],
+    "translation": [ "tÃ©lÃ©vision" ],
     "translit": "",
     "example": "The children watched a cartoon on television.",
-    "example_fr": "Les enfants ont regardé un dessin animé à la télévision.",
+    "example_fr": "Les enfants ont regardÃ© un dessin animÃ© Ã  la tÃ©lÃ©vision.",
     "level": 1
   },
   {
@@ -1160,7 +1160,7 @@
     "translation": [ "radio" ],
     "translit": "",
     "example": "He listens to the news on the radio every morning.",
-    "example_fr": "Il écoute les informations à la radio chaque matin.",
+    "example_fr": "Il Ã©coute les informations Ã  la radio chaque matin.",
     "level": 1
   },
   {
@@ -1168,15 +1168,15 @@
     "translation": [ "lampe" ],
     "translit": "",
     "example": "She turned on the lamp to read her book.",
-    "example_fr": "Elle a allumé la lampe pour lire son livre.",
+    "example_fr": "Elle a allumÃ© la lampe pour lire son livre.",
     "level": 1
   },
   {
     "word": "window",
-    "translation": [ "fenêtre" ],
+    "translation": [ "fenÃªtre" ],
     "translit": "",
     "example": "The window was open and a cool breeze came in.",
-    "example_fr": "La fenêtre était ouverte et une brise fraîche entrait.",
+    "example_fr": "La fenÃªtre Ã©tait ouverte et une brise fraÃ®che entrait.",
     "level": 1
   },
   {
@@ -1184,7 +1184,7 @@
     "translation": [ "tasse", "gobelet" ],
     "translit": "",
     "example": "He drank a cup of tea before bed.",
-    "example_fr": "Il a bu une tasse de thé avant de se coucher.",
+    "example_fr": "Il a bu une tasse de thÃ© avant de se coucher.",
     "level": 1
   },
   {
@@ -1200,15 +1200,15 @@
     "translation": [ "fourchette" ],
     "translit": "",
     "example": "He used a fork to eat the salad.",
-    "example_fr": "Il a utilisé une fourchette pour manger la salade.",
+    "example_fr": "Il a utilisÃ© une fourchette pour manger la salade.",
     "level": 1
   },
   {
     "word": "spoon",
-    "translation": [ "cuillère" ],
+    "translation": [ "cuillÃ¨re" ],
     "translit": "",
     "example": "She needed a spoon for her soup.",
-    "example_fr": "Elle avait besoin d'une cuillère pour sa soupe.",
+    "example_fr": "Elle avait besoin d'une cuillÃ¨re pour sa soupe.",
     "level": 1
   },
 
@@ -1217,7 +1217,7 @@
     "translation": [ "couteau" ],
     "translit": "",
     "example": "He used a knife to cut the bread.",
-    "example_fr": "Il a utilisé un couteau pour couper le pain.",
+    "example_fr": "Il a utilisÃ© un couteau pour couper le pain.",
     "level": 1
   },
   {
@@ -1225,15 +1225,15 @@
     "translation": [ "placard" ],
     "translit": "",
     "example": "The plates are stored in the cupboard above the sink.",
-    "example_fr": "Les assiettes sont rangées dans le placard au-dessus de l'évier.",
+    "example_fr": "Les assiettes sont rangÃ©es dans le placard au-dessus de l'Ã©vier.",
     "level": 1
   },
   {
     "word": "fridge",
-    "translation": [ "réfrigérateur", "frigo" ],
+    "translation": [ "rÃ©frigÃ©rateur", "frigo" ],
     "translit": "",
     "example": "The fridge is full of vegetables today.",
-    "example_fr": "Le frigo est rempli de légumes aujourd'hui.",
+    "example_fr": "Le frigo est rempli de lÃ©gumes aujourd'hui.",
     "level": 1
   },
   {
@@ -1241,7 +1241,7 @@
     "translation": [ "bougie" ],
     "translit": "",
     "example": "She lit a candle when the power went out.",
-    "example_fr": "Elle a allumé une bougie lorsque le courant est coupé.",
+    "example_fr": "Elle a allumÃ© une bougie lorsque le courant est coupÃ©.",
     "level": 1
   },
   {
@@ -1249,7 +1249,7 @@
     "translation": [ "miroir" ],
     "translit": "",
     "example": "He checked his hair in the mirror.",
-    "example_fr": "Il a vérifié ses cheveux dans le miroir.",
+    "example_fr": "Il a vÃ©rifiÃ© ses cheveux dans le miroir.",
     "level": 1
   },
   {
@@ -1257,7 +1257,7 @@
     "translation": [ "bain" ],
     "translit": "",
     "example": "She took a warm bath to relax.",
-    "example_fr": "Elle a pris un bain chaud pour se détendre.",
+    "example_fr": "Elle a pris un bain chaud pour se dÃ©tendre.",
     "level": 1
   },
   {
@@ -1265,15 +1265,15 @@
     "translation": [ "douche" ],
     "translit": "",
     "example": "He prefers a quick shower in the morning.",
-    "example_fr": "Il préfère une douche rapide le matin.",
+    "example_fr": "Il prÃ©fÃ¨re une douche rapide le matin.",
     "level": 1
   },
   {
     "word": "toothbrush",
-    "translation": [ "brosse à dents" ],
+    "translation": [ "brosse Ã  dents" ],
     "translit": "",
     "example": "She forgot her toothbrush at home.",
-    "example_fr": "Elle a oublié sa brosse à dents à la maison.",
+    "example_fr": "Elle a oubliÃ© sa brosse Ã  dents Ã  la maison.",
     "level": 1
   },
   {
@@ -1281,7 +1281,7 @@
     "translation": [ "savon" ],
     "translit": "",
     "example": "He washed his hands with scented soap.",
-    "example_fr": "Il s'est lavé les mains avec un savon parfumé.",
+    "example_fr": "Il s'est lavÃ© les mains avec un savon parfumÃ©.",
     "level": 1
   },
   {
@@ -1298,23 +1298,23 @@
     "translation": [ "nourriture" ],
     "translit": "",
     "example": "The food tasted delicious.",
-    "example_fr": "La nourriture avait un goût délicieux.",
+    "example_fr": "La nourriture avait un goÃ»t dÃ©licieux.",
     "level": 1
   },
   {
     "word": "drink",
     "translation": [ "boisson" ],
     "translit": "",
-    "example": "He ordered a cold drink at the café.",
-    "example_fr": "Il a commandé une boisson fraîche au café.",
+    "example": "He ordered a cold drink at the cafÃ©.",
+    "example_fr": "Il a commandÃ© une boisson fraÃ®che au cafÃ©.",
     "level": 1
   },
   {
     "word": "egg",
-    "translation": [ "œuf" ],
+    "translation": [ "Âœuf" ],
     "translit": "",
     "example": "She cooked an egg for breakfast.",
-    "example_fr": "Elle a cuisiné un œuf pour le petit-déjeuner.",
+    "example_fr": "Elle a cuisinÃ© un Âœuf pour le petit-dÃ©jeuner.",
     "level": 1
   },
   {
@@ -1322,7 +1322,7 @@
     "translation": [ "viande" ],
     "translit": "",
     "example": "They bought fresh meat from the butcher.",
-    "example_fr": "Ils ont acheté de la viande fraîche chez le boucher.",
+    "example_fr": "Ils ont achetÃ© de la viande fraÃ®che chez le boucher.",
     "level": 1
   },
   {
@@ -1330,15 +1330,15 @@
     "translation": [ "poisson" ],
     "translit": "",
     "example": "He grilled fish for dinner.",
-    "example_fr": "Il a grillé du poisson pour le dîner.",
+    "example_fr": "Il a grillÃ© du poisson pour le dÃ®ner.",
     "level": 1
   },
   {
     "word": "vegetable",
-    "translation": [ "légume" ],
+    "translation": [ "lÃ©gume" ],
     "translit": "",
     "example": "She prefers vegetable soup on cold days.",
-    "example_fr": "Elle préfère la soupe de légumes les jours froids.",
+    "example_fr": "Elle prÃ©fÃ¨re la soupe de lÃ©gumes les jours froids.",
     "level": 1
   },
   {
@@ -1354,7 +1354,7 @@
     "translation": [ "orange" ],
     "translit": "",
     "example": "He peeled an orange and shared it.",
-    "example_fr": "Il a épluché une orange et l'a partagée.",
+    "example_fr": "Il a Ã©pluchÃ© une orange et l'a partagÃ©e.",
     "level": 1
   },
   {
@@ -1362,7 +1362,7 @@
     "translation": [ "raisin" ],
     "translit": "",
     "example": "The grapes were sweet and juicy.",
-    "example_fr": "Les raisins étaient sucrés et juteux.",
+    "example_fr": "Les raisins Ã©taient sucrÃ©s et juteux.",
     "level": 1
   },
   {
@@ -1370,9 +1370,8 @@
     "translation": [ "poire" ],
     "translit": "",
     "example": "She ate a ripe pear after lunch.",
-    "example_fr": "Elle a mangé une poire mûre après le déjeuner.",
+    "example_fr": "Elle a mangÃ© une poire mÃ»re aprÃ¨s le dÃ©jeuner.",
     "level": 1
   }
 ]
-
 
