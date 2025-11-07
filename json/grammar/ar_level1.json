@@ -1,0 +1,127 @@
+[
+  {
+    "title": "L'article défini « ال » (al-)",
+    "explanation": "En arabe, l’article défini est toujours « ال ». Il s’attache directement au mot et ne change jamais de forme. En revanche, sa prononciation change selon la première lettre du mot : lettres solaires → assimilation du « l », lettres lunaires → prononciation normale.",
+    "rules": [
+      "Lettres lunaires : le ل se prononce → القمر (al-qamar).",
+      "Lettres solaires : le ل s’assimile → الشمس (ash-shams).",
+      "Toujours collé au mot, pas d’espace.",
+      "Invariable : pas de pluriel ni de féminin."
+    ],
+    "examples": [
+      {
+        "example": "البيت كبير.",
+        "example_translit_litteral": "al-baytu kabīr",
+        "example_egyptian": "البيت كبير.",
+        "example_translit_egyptian": "il-bēt kibīr",
+        "translation": "La maison est grande."
+      },
+      {
+        "example": "الشمس مشرقة.",
+        "example_translit_litteral": "ash-shamsu mushriqa",
+        "example_egyptian": "الشمس مشرقة.",
+        "example_translit_egyptian": "ish-shams mushri’a",
+        "translation": "Le soleil brille."
+      }
+    ],
+    "notes": [
+      "Les lettres solaires provoquent un doublement consonantique.",
+      "La distinction solaire/lunaire est essentielle pour la lecture."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Genre grammatical : masculin et féminin",
+    "explanation": "En arabe, le genre est structurel : un mot est soit masculin, soit féminin. La marque la plus courante du féminin est le suffixe « ـة » (ta' marbūṭa). Certains mots sont féminins sans cette marque, et quelques rares mots masculins l'ont.",
+    "rules": [
+      "Le féminin se termine souvent par : ـة / ـه (ā/ah).",
+      "Les adjectifs s’accordent en genre.",
+      "Beaucoup de mots de lieux sont féminins.",
+      "Certains mots sont féminins sans marque (أرض, شمس)."
+    ],
+    "examples": [
+      {
+        "example": "القطة جميلة.",
+        "example_translit_litteral": "al-qiṭṭatu jamīla",
+        "example_egyptian": "القطة جميلة.",
+        "example_translit_egyptian": "il-oʾṭa gamīla",
+        "translation": "La chatte est belle."
+      },
+      {
+        "example": "الولد صغير.",
+        "example_translit_litteral": "al-waladu ṣaghīr",
+        "example_egyptian": "الولد صغير.",
+        "example_translit_egyptian": "il-walad sughayyar",
+        "translation": "Le garçon est petit."
+      }
+    ],
+    "notes": [
+      "Le féminin change la voyelle finale de beaucoup d’adjectifs.",
+      "L’égyptien simplifie souvent la prononciation finale."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Le pronom personnel indépendant",
+    "explanation": "Les pronoms personnels en arabe sont utilisés pour insister ou lorsqu’il n’y a pas de verbe conjugué exprimant déjà la personne.",
+    "rules": [
+      "أنا (ana) → je",
+      "أنتَ / أنتِ (anta / anti) → tu (m/f)",
+      "هو / هي (huwa / hiya) → il / elle",
+      "Nous → نحن (naḥnu)",
+      "Ils/elles → هم / هن"
+    ],
+    "examples": [
+      {
+        "example": "أنا طالب.",
+        "example_translit_litteral": "anā ṭālib",
+        "example_egyptian": "أنا طالب.",
+        "example_translit_egyptian": "ana ṭālib",
+        "translation": "Je suis étudiant."
+      },
+      {
+        "example": "هي معلمة.",
+        "example_translit_litteral": "hiya muʿallima",
+        "example_egyptian": "هي مُعَلِّمَة.",
+        "example_translit_egyptian": "hiya muʿallima",
+        "translation": "Elle est enseignante."
+      }
+    ],
+    "notes": [
+      "En arabe, le verbe inclut souvent la personne → le pronom devient optionnel.",
+      "En Egyptien : formes identiques mais plus relâchées."
+    ],
+    "level": 1
+  },
+  {
+    "title": "Le pluriel régulier masculin et féminin",
+    "explanation": "Le pluriel régulier se forme différemment selon le genre. Arabe littéral et dialecte partagent les règles, mais l’égyptien simplifie légèrement la prononciation.",
+    "rules": [
+      "Masculin régulier : ـونَ / ـينَ",
+      "Féminin régulier : ajouter ـات",
+      "L’accord adjectival suit le pluriel.",
+      "Certains pluriels sont brisés : ils apparaîtront plus tard (niveau 2)."
+    ],
+    "examples": [
+      {
+        "example": "معلمون نشيطون.",
+        "example_translit_litteral": "muʿallimūna nashīṭūn",
+        "example_egyptian": "مُعَلِّمين نشيطين.",
+        "example_translit_egyptian": "muʿallimīn nashīṭīn",
+        "translation": "Des enseignants actifs."
+      },
+      {
+        "example": "طالبات جديدات.",
+        "example_translit_litteral": "ṭālibāt jadīdāt",
+        "example_egyptian": "طالبات جديدات.",
+        "example_translit_egyptian": "ṭālibāt gadīdāt",
+        "translation": "Des étudiantes nouvelles."
+      }
+    ],
+    "notes": [
+      "Les pluriels brisés sont une difficulté majeure — à voir niveau 2.",
+      "En égyptien, le masculin pluriel se prononce presque toujours -īn."
+    ],
+    "level": 1
+  }
+]

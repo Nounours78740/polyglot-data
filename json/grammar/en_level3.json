@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Les Conditionnels (0, 1, 2, 3)",
+    "explanation": "Les conditionnels anglais expriment la conséquence d’une condition. Ils sont structurés selon la probabilité du scénario. Chaque type a une structure fixe.",
+    "rules": [
+      "0 Conditional → vérités générales : If + present, present.",
+      "1st Conditional → futur probable : If + present, will + base.",
+      "2nd Conditional → hypothèse irréelle (présent) : If + past, would + base.",
+      "3rd Conditional → regret / irréel du passé : If + had + past participle, would have + past participle."
+    ],
+    "examples": [
+      {
+        "example": "If you heat water, it boils. (0)",
+        "translation": "Si on chauffe de l’eau, elle bout."
+      },
+      {
+        "example": "If I were rich, I would travel the world. (2)",
+        "translation": "Si j’étais riche, je voyagerais autour du monde."
+      },
+      {
+        "example": "If you had called me, I would have helped you. (3)",
+        "translation": "Si tu m’avais appelé, je t’aurais aidé."
+      }
+    ],
+    "notes": [
+      "Toujours un passé en 2ᵉ conditionnel et un past perfect en 3ᵉ conditionnel.",
+      "L’usage de *were* pour toutes les personnes dans les phrases irréelles est courant (If I were…)."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Le Passif (Passive Voice)",
+    "explanation": "Le passif anglais met l'accent sur l’action et non sur celui qui la réalise. Il se forme avec 'be' + participe passé.",
+    "rules": [
+      "Présent : am/is/are + past participle",
+      "Prétérit : was/were + past participle",
+      "Futur : will be + past participle",
+      "Formes avancées : is being done, has been done",
+      "Agent introduit par 'by' si nécessaire"
+    ],
+    "examples": [
+      {
+        "example": "The report was written yesterday.",
+        "translation": "Le rapport a été écrit hier."
+      },
+      {
+        "example": "The house is being renovated.",
+        "translation": "La maison est en train d’être rénovée."
+      }
+    ],
+    "notes": [
+      "Le passif est très fréquent dans les textes académiques.",
+      "Un complément de moyen utilise 'with' ou 'by means of'."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les Phrasal Verbs (verbes à particule)",
+    "explanation": "Les phrasal verbs sont des verbes suivis d’une particule (up, out, in, off, etc.). Leur sens est souvent idiomatique, donc non littéral.",
+    "rules": [
+      "Structure : verbe + particule",
+      "Certains sont séparables (turn off the light / turn the light off)",
+      "D’autres sont inséparables (look after, run into)",
+      "Le sens change avec la particule : give up ≠ give in ≠ give away"
+    ],
+    "examples": [
+      {
+        "example": "He ran into an old friend.",
+        "translation": "Il est tombé sur un vieil ami."
+      },
+      {
+        "example": "I need to look after the kids.",
+        "translation": "Je dois m'occuper des enfants."
+      }
+    ],
+    "notes": [
+      "Il existe plus de 200 phrasal verbs courants.",
+      "Essentiel pour comprendre les natifs et les films/séries."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Le Discours Indirect (Reported Speech)",
+    "explanation": "Le discours indirect rapporte les paroles de quelqu’un sans citer directement ses mots. Le temps se décale souvent vers le passé.",
+    "rules": [
+      "She said, 'I am tired.' → She said (that) she was tired.",
+      "Présent → Prétérit ; prétérit → past perfect",
+      "Will → would ; can → could ; may → might",
+      "Ce décalage ne s'applique pas si l’information est encore vraie"
+    ],
+    "examples": [
+      {
+        "example": "He said he had finished.",
+        "translation": "Il a dit qu’il avait terminé."
+      },
+      {
+        "example": "She told me she would come.",
+        "translation": "Elle m’a dit qu’elle viendrait."
+      }
+    ],
+    "notes": [
+      "Le verbe introducteur courant est say/tell.",
+      "Les marqueurs temporels changent : today → that day, tomorrow → the next day."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les Adverbes de phrase et de manière",
+    "explanation": "Les adverbes complètent un verbe, un adjectif ou toute une phrase. Leur position influence la nuance du message.",
+    "rules": [
+      "Forme régulière : adjective + -ly (quick → quickly)",
+      "Position : avant l’adjectif, après le verbe, ou en début de phrase",
+      "Toujours avant le verbe dans les adverbes de fréquence (always, often…) sauf exceptions"
+    ],
+    "examples": [
+      {
+        "example": "She quickly understood the problem.",
+        "translation": "Elle a compris le problème rapidement."
+      },
+      {
+        "example": "Honestly, I don’t know what to say.",
+        "translation": "Honnêtement, je ne sais pas quoi dire."
+      }
+    ],
+    "notes": [
+      "Certains adverbes n’ont pas de -ly : fast, hard, late.",
+      "L’adverbe peut changer complètement le sens de la phrase."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les Modaux avancés (should have, must have, might have)",
+    "explanation": "Les modaux suivis de 'have + participe passé' expriment des hypothèses ou jugements sur une action passée.",
+    "rules": [
+      "should have + pp → regret / critique : you should have called",
+      "must have + pp → forte probabilité passée",
+      "might have + pp → possibilité passée",
+      "could have + pp → capacité non réalisée"
+    ],
+    "examples": [
+      {
+        "example": "You should have told me.",
+        "translation": "Tu aurais dû me le dire."
+      },
+      {
+        "example": "He must have forgotten.",
+        "translation": "Il a dû oublier."
+      }
+    ],
+    "notes": [
+      "Forme essentielle dans les conversations et analyses de situations.",
+      "Erreur fréquente : ne pas ajouter 'to' après un modal."
+    ],
+    "level": 3
+  }
+]

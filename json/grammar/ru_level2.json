@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Les cas : accusatif, génitif, datif (introduction intermédiaire)",
+    "explanation": "Le russe utilise six cas. Ici, on apprend les trois plus fréquents après le nominatif. Chaque cas modifie la fin du mot selon son rôle dans la phrase.",
+    "rules": [
+      "Accusatif → objet direct, mouvement vers un lieu",
+      "Génitif → possession, absence, quantité",
+      "Datif → destinataire, bénéficiaire",
+      "Règle clé : les masculins inanimés à l’accusatif = nominatif"
+    ],
+    "examples": [
+      {
+        "example": "Я вижу машину.",
+        "example_translit": "Ya vizhu mashinu.",
+        "translation": "Je vois une voiture."
+      },
+      {
+        "example": "У меня нет времени.",
+        "example_translit": "U menya net vremeni.",
+        "translation": "Je n’ai pas de temps."
+      },
+      {
+        "example": "Я даю тебе книгу.",
+        "example_translit": "Ya dayu tebe knigu.",
+        "translation": "Je te donne un livre."
+      }
+    ],
+    "notes": [
+      "Le génitif après 'нет' est une règle fondamentale.",
+      "Le datif a une fonction claire mais très fréquente : destinataire."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Aspect verbal : perfectif vs imperfectif",
+    "explanation": "Chaque verbe russe possède deux formes : imperfective (processus, répétition, durée) et perfective (résultat, action unique). Le choix change complètement le sens.",
+    "rules": [
+      "Imperfectif → action en cours / habituelle : читать",
+      "Perfectif → résultat / accomplissement : прочитать",
+      "Le perfectif n’a pas de présent → forme future automatique",
+      "Futur imperfectif = буду + infinitif"
+    ],
+    "examples": [
+      {
+        "example": "Я читаю книгу.",
+        "example_translit": "Ya chitayu knigu.",
+        "translation": "Je lis un livre."
+      },
+      {
+        "example": "Я прочитаю книгу.",
+        "example_translit": "Ya prochitayu knigu.",
+        "translation": "Je lirai (entièrement) un livre."
+      }
+    ],
+    "notes": [
+      "L’aspect est plus important que les temps en russe.",
+      "Chaque verbe doit être appris en paire."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les verbes de mouvement (1 direction vs multidirectionnel)",
+    "explanation": "Les verbes de mouvement russes ont deux formes : unidirectionnelle (aller dans une direction précise) et multidirectionnelle (aller, revenir, habitude).",
+    "rules": [
+      "идти (aller à pied, direction unique) vs ходить (aller à pied régulièrement)",
+      "ехать (aller en transport, direction unique) vs ездить (aller régulièrement)",
+      "venir : идти → прийти (perfectif)",
+      "Le perfectif n’a pas d’opposition directionnelle"
+    ],
+    "examples": [
+      {
+        "example": "Я иду домой.",
+        "example_translit": "Ya idu domoy.",
+        "translation": "Je vais à la maison (à pied, maintenant)."
+      },
+      {
+        "example": "Я хожу в школу каждый день.",
+        "example_translit": "Ya khozhu v shkolu kazhdy den'.",
+        "translation": "Je vais à l’école tous les jours."
+      }
+    ],
+    "notes": [
+      "C’est l’un des sujets les plus difficiles du russe intermédiaire.",
+      "Les russes y sont très sensibles dans la vie quotidienne."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les adjectifs : formation et accord de base",
+    "explanation": "Les adjectifs s’accordent toujours en genre, nombre et cas avec le nom. Ils suivent des schémas relativement réguliers.",
+    "rules": [
+      "Masculin nominatif → -ый / -ий",
+      "Féminin nominatif → -ая / -яя",
+      "Neutre nominatif → -ое / -ее",
+      "Pluriel → -ые / -ие"
+    ],
+    "examples": [
+      {
+        "example": "большой дом",
+        "example_translit": "bol'shoy dom",
+        "translation": "une grande maison"
+      },
+      {
+        "example": "красивая книга",
+        "example_translit": "krasivaya kniga",
+        "translation": "un beau livre"
+      }
+    ],
+    "notes": [
+      "Les adjectifs déclinent dans chaque cas au niveau avancé.",
+      "Le nominatif est la base obligatoire."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les pronoms personnels et possessifs",
+    "explanation": "Les pronoms déclinent selon les cas. La possession utilise des adjectifs possessifs variables en genre et nombre.",
+    "rules": [
+      "Pronoms sujets : я, ты, он/она/оно, мы, вы, они",
+      "Possessifs : мой, моя, моё, мои ; твой, твоя…",
+      "Les possessifs s’accordent comme des adjectifs"
+    ],
+    "examples": [
+      {
+        "example": "Это моя мама.",
+        "example_translit": "Eto moya mama.",
+        "translation": "C’est ma mère."
+      },
+      {
+        "example": "Он любит свою семью.",
+        "example_translit": "On lyubit svoyu sem'yu.",
+        "translation": "Il aime sa famille (la sienne)."
+      }
+    ],
+    "notes": [
+      "Le réflexif 'свой' est très fréquent et évite les ambiguïtés.",
+      "Un des pièges : свой s’utilise pour TOUS les sujets."
+    ],
+    "level": 2
+  },
+  {
+    "title": "La possession : structure « у меня есть »",
+    "explanation": "La possession en russe se construit à l’inverse du français : littéralement « chez moi, il y a ». Très fréquente et très logique.",
+    "rules": [
+      "Structure : у + génitif + есть + nominatif",
+      "Négation → у меня нет + génitif"
+    ],
+    "examples": [
+      {
+        "example": "У меня есть брат.",
+        "example_translit": "U menya yest' brat.",
+        "translation": "J’ai un frère."
+      },
+      {
+        "example": "У неё нет машины.",
+        "example_translit": "U neyo net mashiny.",
+        "translation": "Elle n’a pas de voiture."
+      }
+    ],
+    "notes": [
+      "Fondamental pour parler naturellement.",
+      "Toujours suivi du génitif quand il n’y a pas possession."
+    ],
+    "level": 2
+  }
+]

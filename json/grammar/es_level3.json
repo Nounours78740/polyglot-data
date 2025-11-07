@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Le subjonctif présent (Subjuntivo)",
+    "explanation": "Le subjonctif est utilisé dans les expressions de doute, désir, sentiment, nécessité ou dans les propositions subordonnées introduites par 'que'. Il n’a pas d’équivalent direct en français en termes d’usage.",
+    "rules": [
+      "Terminaisons en -ar : e, es, e, emos, éis, en",
+      "Terminaisons en -er/-ir : a, as, a, amos, áis, an",
+      "Irréguliers fréquents : ser → sea, estar → esté, ir → vaya, haber → haya",
+      "Déclencheurs : quiero que…, dudo que…, es posible que…, cuando (futur)"
+    ],
+    "examples": [
+      {
+        "example": "Quiero que vengas.",
+        "translation": "Je veux que tu viennes."
+      },
+      {
+        "example": "Es posible que llueva.",
+        "translation": "Il est possible qu’il pleuve."
+      }
+    ],
+    "notes": [
+      "Le subjonctif est obligatoire après beaucoup d’expressions.",
+      "Fréquent dans la langue formelle mais aussi dans la conversation courante."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Le passé simple (Pretérito Indefinido)",
+    "explanation": "Le passé simple espagnol décrit une action ponctuelle, datée, terminée. Il est essentiel en Amérique latine et très utilisé à l’oral.",
+    "rules": [
+      "Terminaisons -ar : é, aste, ó, amos, asteis, aron",
+      "Terminaisons -er/-ir : í, iste, ió, imos, isteis, ieron",
+      "Irréguliers : tener → tuve, estar → estuve, ir/ser → fui",
+      "Verbes en -ducir : duje, dujiste…"
+    ],
+    "examples": [
+      {
+        "example": "Ayer fui al cine.",
+        "translation": "Hier, je suis allé au cinéma."
+      },
+      {
+        "example": "Ella tuvo un problema.",
+        "translation": "Elle a eu un problème."
+      }
+    ],
+    "notes": [
+      "Très fréquent en Amérique latine, moins en Espagne.",
+      "Ne pas confondre avec le Pretérito Perfecto (niveau 2)."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Ser vs Estar (niveau avancé)",
+    "explanation": "Au niveau avancé, ser/estar peut changer le sens d’un adjectif. Le choix exprime un état temporaire, une essence, une personnalité, ou un jugement.",
+    "rules": [
+      "Ser + adjectif → caractéristique permanente : es nervioso",
+      "Estar + adjectif → état temporaire : está nervioso",
+      "Changement total selon le verbe : ser bueno (bon moralement), estar bueno (en bonne santé / attirant)"
+    ],
+    "examples": [
+      {
+        "example": "El café está malo.",
+        "translation": "Le café est mauvais (goût, temporaire)."
+      },
+      {
+        "example": "El café es malo.",
+        "translation": "Le café est mauvais (qualité générale)."
+      }
+    ],
+    "notes": [
+      "Peut donner lieu à des ambiguïtés voulues dans la littérature.",
+      "Une des subtilités les plus difficiles pour les francophones."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Les propositions relatives (que, quien, cuyo, donde)",
+    "explanation": "Les relatives permettent de préciser un nom. Leur usage dépend du type d’antécédent (personne, chose, possession, lieu).",
+    "rules": [
+      "que → le plus courant, personnes et choses",
+      "quien(es) → personnes, souvent après une préposition",
+      "cuyo/a/os/as → exprime la possession",
+      "donde → lieu"
+    ],
+    "examples": [
+      {
+        "example": "La mujer que vive allí es doctora.",
+        "translation": "La femme qui habite là-bas est docteur."
+      },
+      {
+        "example": "El libro cuyo autor conocí es famoso.",
+        "translation": "Le livre dont j’ai rencontré l’auteur est célèbre."
+      }
+    ],
+    "notes": [
+      "Cuyo s’accorde en genre et nombre avec le nom qui suit.",
+      "Quien est largement utilisé après les prépositions (a, con, de…)."
+    ],
+    "level": 3
+  },
+  {
+    "title": "La voix passive et la structure 'se'",
+    "explanation": "L’espagnol préfère souvent la construction passive pronominale avec 'se' plutôt que la voix passive classique.",
+    "rules": [
+      "Voix passive classique : ser + participe : fue construido",
+      "Passive pronominale : se + verbe → sens passif",
+      "se vende, se busca, se alquila"
+    ],
+    "examples": [
+      {
+        "example": "La casa fue construida en 1950.",
+        "translation": "La maison a été construite en 1950."
+      },
+      {
+        "example": "Se venden coches.",
+        "translation": "Voitures à vendre."
+      }
+    ],
+    "notes": [
+      "La structure 'se' est beaucoup plus naturelle en espagnol.",
+      "Très fréquente dans la langue écrite informelle."
+    ],
+    "level": 3
+  },
+  {
+    "title": "Le discours indirect (estilo indirecto)",
+    "explanation": "Comme en anglais, le discours indirect implique souvent un décalage des temps. Il est essentiel pour raconter ce que quelqu’un a dit.",
+    "rules": [
+      "Présent → imperfecto : 'estoy cansado' → dijo que estaba cansado",
+      "Passé → pluscuamperfecto",
+      "Futur → condicional",
+      "Changement des marqueurs temporels : hoy → ese día"
+    ],
+    "examples": [
+      {
+        "example": "Dijo que vendría mañana.",
+        "translation": "Il a dit qu’il viendrait demain."
+      },
+      {
+        "example": "Ella dijo que había terminado.",
+        "translation": "Elle a dit qu’elle avait terminé."
+      }
+    ],
+    "notes": [
+      "Beaucoup plus systématique qu’en français.",
+      "Le subjonctif peut apparaître dans les subordonnées."
+    ],
+    "level": 3
+  }
+]

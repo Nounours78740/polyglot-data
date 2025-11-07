@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Le Present Continuous",
+    "explanation": "Le Present Continuous décrit une action en cours, temporaire, ou un futur planifié. Il est formé avec 'be' + verbe-ing.",
+    "rules": [
+      "Be (am/is/are) + verbe-ing",
+      "Utilisé pour les actions en train de se dérouler",
+      "Utilisé pour décrire des tendances, des changements",
+      "Utilisé pour un futur arrangé : I'm meeting him tomorrow"
+    ],
+    "examples": [
+      {
+        "example": "She is studying right now.",
+        "translation": "Elle étudie en ce moment."
+      },
+      {
+        "example": "We are moving next week.",
+        "translation": "Nous déménageons la semaine prochaine."
+      }
+    ],
+    "notes": [
+      "Ne jamais utiliser avec les verbes d’état : know, love, understand…",
+      "Souvent accompagné de 'now', 'currently', 'at the moment'."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Le Past Simple (prétérit)",
+    "explanation": "Le Past Simple est utilisé pour les actions terminées dans le passé. Il est indispensable pour raconter des événements.",
+    "rules": [
+      "Verbes réguliers : base + -ed (worked, played)",
+      "Verbes irréguliers : formes particulières (went, saw, made)",
+      "Did/Didn't pour les questions et la négation",
+      "Jamais d’auxiliaire avec les verbes irréguliers en affirmation"
+    ],
+    "examples": [
+      {
+        "example": "They visited London last year.",
+        "translation": "Ils ont visité Londres l'année dernière."
+      },
+      {
+        "example": "Did you see the movie?",
+        "translation": "As-tu vu le film ?"
+      }
+    ],
+    "notes": [
+      "Les marqueurs de temps sont essentiels : yesterday, last week, in 2010.",
+      "Attention : 'did' + base verbale (jamais au prétérit)."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les comparatifs et superlatifs",
+    "explanation": "Les adjectifs anglais ont des formes comparatives (plus) et superlatives (le plus). Leur formation dépend de la longueur de l’adjectif.",
+    "rules": [
+      "Adjectifs courts : -er / -est → tall → taller → the tallest",
+      "Adjectifs longs : more / the most → more interesting",
+      "Irréguliers : good → better → the best ; bad → worse → the worst"
+    ],
+    "examples": [
+      {
+        "example": "This car is faster than the other one.",
+        "translation": "Cette voiture est plus rapide que l’autre."
+      },
+      {
+        "example": "He is the most talented player.",
+        "translation": "C’est le joueur le plus talentueux."
+      }
+    ],
+    "notes": [
+      "Jamais *more taller* ou *most biggest* → erreur fréquente.",
+      "Le comparatif est suivi de 'than'."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les quantifieurs (some, any, much, many, a lot of)",
+    "explanation": "Les quantifieurs anglais expriment la quantité. On distingue souvent les noms dénombrables et indénombrables.",
+    "rules": [
+      "some → phrases affirmatives",
+      "any → questions et négations",
+      "many (dénombrables), much (indénombrables)",
+      "a lot of → universel (affirmations et négations)"
+    ],
+    "examples": [
+      {
+        "example": "I have some questions.",
+        "translation": "J'ai quelques questions."
+      },
+      {
+        "example": "Do you have any money?",
+        "translation": "As-tu de l'argent ?"
+      }
+    ],
+    "notes": [
+      "Much est rare en affirmatif (style formel).",
+      "A lot of est le plus naturel pour parler à l’oral."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Les modaux (can, must, should, might)",
+    "explanation": "Les verbes modaux expriment la capacité, l'obligation, le conseil ou la probabilité. Ils sont invariables et suivis de la base verbale.",
+    "rules": [
+      "can → capacité",
+      "must → obligation forte",
+      "should → conseil",
+      "might → possibilité faible"
+    ],
+    "examples": [
+      {
+        "example": "You should try this restaurant.",
+        "translation": "Tu devrais essayer ce restaurant."
+      },
+      {
+        "example": "She must finish her work.",
+        "translation": "Elle doit finir son travail."
+      }
+    ],
+    "notes": [
+      "Jamais *to* après un modal (sauf 'ought to').",
+      "Deux modaux ne peuvent pas se suivre."
+    ],
+    "level": 2
+  },
+  {
+    "title": "Be going to (futur proche)",
+    "explanation": "La structure 'be going to' exprime une intention ou un futur basé sur une situation présente.",
+    "rules": [
+      "Be (am/is/are) + going to + base verbale",
+      "Utilisé pour des plans décidés avant le moment où l’on parle",
+      "Utilisé pour des choses visiblement sur le point de se produire"
+    ],
+    "examples": [
+      {
+        "example": "We are going to travel next month.",
+        "translation": "Nous allons voyager le mois prochain."
+      },
+      {
+        "example": "Look at the clouds! It’s going to rain.",
+        "translation": "Regarde les nuages ! Il va pleuvoir."
+      }
+    ],
+    "notes": [
+      "Très fréquent dans la conversation quotidienne.",
+      "Ne pas confondre avec 'will' (décision instantanée)."
+    ],
+    "level": 2
+  }
+]
