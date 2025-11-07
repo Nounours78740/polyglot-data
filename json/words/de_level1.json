@@ -1,157 +1,546 @@
-﻿[
+[
   {
-    "title": "Les articles définis en allemand",
-    "explanation": "L’allemand possède trois genres (masculin, féminin, neutre) et quatre cas. Au niveau débutant, il faut d’abord mémoriser les formes du nominatif, utilisées pour le sujet de la phrase.",
-    "rules": [
-      "Masculin : der",
-      "Féminin : die",
-      "Neutre : das",
-      "Pluriel : die"
-    ],
-    "examples": [
-      {
-        "example": "Der Hund schläft.",
-        "translation": "Le chien dort."
-      },
-      {
-        "example": "Die Katze ist schwarz.",
-        "translation": "La chatte est noire."
-      },
-      {
-        "example": "Das Haus ist groß.",
-        "translation": "La maison est grande."
-      }
-    ],
-    "notes": [
-      "Le nominatif est le cas le plus simple.",
-      "Les articles changeront dans les niveaux suivants (accusatif, datif…)."
-    ],
+    "word": "anstarren",
+    "translation": ["fixer du regard", "dévisager"],
+    "translit": "",
+    "example": "Es ist unhöflich, jemanden anzustarren.",
+    "example_fr": "Il est impoli de dévisager quelqu’un.",
     "level": 1
   },
   {
-    "title": "Les articles indéfinis",
-    "explanation": "Comme en français, les articles indéfinis servent à parler de quelque chose de non spécifique. Ils ne s’emploient qu’au singulier en allemand.",
-    "rules": [
-      "Masculin : ein",
-      "Féminin : eine",
-      "Neutre : ein"
-    ],
-    "examples": [
-      {
-        "example": "Ich habe ein Buch.",
-        "translation": "J’ai un livre."
-      },
-      {
-        "example": "Sie sieht eine Katze.",
-        "translation": "Elle voit une chatte."
-      }
-    ],
-    "notes": [
-      "Pas d’article indéfini au pluriel : on utilise simplement le nom.",
-      "Les formes changeront selon les cas aux niveaux 2 et 3."
-    ],
+    "word": "benutzen",
+    "translation": ["utiliser", "se servir de"],
+    "translit": "",
+    "example": "Kann ich dein Handy benutzen?",
+    "example_fr": "Puis-je utiliser ton téléphone ?",
     "level": 1
   },
   {
-    "title": "Le verbe au présent (Présent simple)",
-    "explanation": "Les verbes allemands se conjuguent selon la personne. Au niveau débutant, on apprend la terminaison régulière du présent.",
-    "rules": [
-      "ich : -e",
-      "du : -st",
-      "er/sie/es : -t",
-      "wir : -en",
-      "ihr : -t",
-      "sie/Sie : -en"
-    ],
-    "examples": [
-      {
-        "example": "Ich spiele.",
-        "translation": "Je joue."
-      },
-      {
-        "example": "Du lernst Deutsch.",
-        "translation": "Tu apprends l’allemand."
-      },
-      {
-        "example": "Sie arbeiten viel.",
-        "translation": "Ils travaillent beaucoup."
-      }
-    ],
-    "notes": [
-      "Certains verbes ont une modification du radical à « du » et « er/sie/es » (voir Niveau 2).",
-      "Les verbes réguliers suivent tous ce modèle."
-    ],
+    "word": "beachten",
+    "translation": ["respecter", "tenir compte de"],
+    "translit": "",
+    "example": "Bitte beachten Sie die Hausordnung.",
+    "example_fr": "Veuillez respecter le règlement intérieur.",
     "level": 1
   },
   {
-    "title": "La négation avec « nicht »",
-    "explanation": "Nicht sert à dire « ne… pas ». Il s’emploie pour nier un verbe, un adjectif, un adverbe ou une phrase entière.",
-    "rules": [
-      "Nicht se place généralement en fin de phrase.",
-      "Il se place avant l’adjectif ou l’adverbe qu’il nie."
-    ],
-    "examples": [
-      {
-        "example": "Ich komme nicht.",
-        "translation": "Je ne viens pas."
-      },
-      {
-        "example": "Das ist nicht gut.",
-        "translation": "Ce n’est pas bien."
-      }
-    ],
-    "notes": [
-      "Pour nier un nom, on utilise « kein » (voir règle suivante).",
-      "Le placement de « nicht » dépend de ce que l’on veut nier."
-    ],
+    "word": "der Vorteil",
+    "translation": ["avantage"],
+    "translit": "",
+    "example": "Ein großer Vorteil ist die Flexibilität.",
+    "example_fr": "Un grand avantage est la flexibilité.",
     "level": 1
   },
   {
-    "title": "La négation avec « kein »",
-    "explanation": "Kein remplace l’article indéfini pour nier un nom : « aucun ». Il s’accorde en genre et en nombre.",
-    "rules": [
-      "Masculin : kein",
-      "Féminin : keine",
-      "Neutre : kein",
-      "Pluriel : keine"
-    ],
-    "examples": [
-      {
-        "example": "Ich habe kein Auto.",
-        "translation": "Je n’ai pas de voiture."
-      },
-      {
-        "example": "Er hat keine Zeit.",
-        "translation": "Il n’a pas de temps."
-      }
-    ],
-    "notes": [
-      "Kein = nicht + ein.",
-      "Très utilisé dans le vocabulaire quotidien."
-    ],
+    "word": "der Nachteil",
+    "translation": ["inconvénient"],
+    "translit": "",
+    "example": "Der einzige Nachteil ist der Preis.",
+    "example_fr": "Le seul inconvénient est le prix.",
     "level": 1
   },
   {
-    "title": "L’ordre des mots dans la phrase",
-    "explanation": "En allemand, le verbe conjugué doit toujours être en deuxième position dans une phrase déclarative.",
-    "rules": [
-      "Le verbe est toujours en 2ᵉ position, même si la phrase commence par un autre élément.",
-      "Si un complément est placé en tête de phrase, le sujet passe après le verbe."
-    ],
-    "examples": [
-      {
-        "example": "Heute spiele ich Fußball.",
-        "translation": "Aujourd’hui, je joue au football."
-      },
-      {
-        "example": "Ich spiele heute Fußball.",
-        "translation": "Je joue aujourd’hui au football."
-      }
-    ],
-    "notes": [
-      "Un des principes les plus importants de la grammaire allemande.",
-      "Les subordonnées (verbe en fin de phrase) seront vues au niveau 2."
-    ],
+    "word": "anfangen",
+    "translation": ["commencer"],
+    "translit": "",
+    "example": "Wann fängt der Film an?",
+    "example_fr": "Quand commence le film ?",
+    "level": 1
+  },
+  {
+    "word": "die Umgebung",
+    "translation": ["environnement", "alentours"],
+    "translit": "",
+    "example": "Die Umgebung der Stadt ist sehr schön.",
+    "example_fr": "Les environs de la ville sont très beaux.",
+    "level": 1
+  },
+  {
+    "word": "schaffen",
+    "translation": ["réussir", "parvenir à"],
+    "translit": "",
+    "example": "Ich schaffe das schon.",
+    "example_fr": "J’y arriverai.",
+    "level": 1
+  },
+  {
+    "word": "genießen",
+    "translation": ["profiter de", "apprécier"],
+    "translit": "",
+    "example": "Wir genießen den sonnigen Tag.",
+    "example_fr": "Nous profitons de cette journée ensoleillée.",
+    "level": 1
+  },
+  {
+    "word": "der Eindruck",
+    "translation": ["impression"],
+    "translit": "",
+    "example": "Ich habe den Eindruck, dass er müde ist.",
+    "example_fr": "J’ai l’impression qu’il est fatigué.",
+    "level": 1
+  },
+  {
+    "word": "wecken",
+    "translation": ["réveiller"],
+    "translit": "",
+    "example": "Kannst du mich um sieben wecken?",
+    "example_fr": "Peux-tu me réveiller à sept heures ?",
+    "level": 1
+  },
+  {
+    "word": "ausgeben",
+    "translation": ["dépenser"],
+    "translit": "",
+    "example": "Ich habe zu viel Geld ausgegeben.",
+    "example_fr": "J’ai dépensé trop d’argent.",
+    "level": 1
+  },
+  {
+    "word": "entdecken",
+    "translation": ["découvrir"],
+    "translit": "",
+    "example": "Wir haben ein neues Café entdeckt.",
+    "example_fr": "Nous avons découvert un nouveau café.",
+    "level": 1
+  },
+  {
+    "word": "die Gewohnheit",
+    "translation": ["habitude"],
+    "translit": "",
+    "example": "Rauchen ist eine schlechte Gewohnheit.",
+    "example_fr": "Fumer est une mauvaise habitude.",
+    "level": 1
+  },
+  {
+    "word": "erklären",
+    "translation": ["expliquer"],
+    "translit": "",
+    "example": "Kannst du mir das erklären?",
+    "example_fr": "Peux-tu m’expliquer cela ?",
+    "level": 1
+  },
+  {
+    "word": "sich erinnern",
+    "translation": ["se souvenir"],
+    "translit": "",
+    "example": "Ich erinnere mich nicht mehr.",
+    "example_fr": "Je ne m’en souviens plus.",
+    "level": 1
+  },
+  {
+    "word": "jedoch",
+    "translation": ["cependant"],
+    "translit": "",
+    "example": "Ich möchte kommen, jedoch habe ich keine Zeit.",
+    "example_fr": "J’aimerais venir, cependant je n’ai pas le temps.",
+    "level": 1
+  },
+  {
+    "word": "die Beziehung",
+    "translation": ["relation"],
+    "translit": "",
+    "example": "Ihre Beziehung ist sehr stabil.",
+    "example_fr": "Leur relation est très stable.",
+    "level": 1
+  },
+  {
+    "word": "bevorzugen",
+    "translation": ["préférer"],
+    "translit": "",
+    "example": "Ich bevorzuge Tee statt Kaffee.",
+    "example_fr": "Je préfère le thé au café.",
+    "level": 1
+  },
+  {
+    "word": "vorbereiten",
+    "translation": ["préparer"],
+    "translit": "",
+    "example": "Ich muss das Abendessen vorbereiten.",
+    "example_fr": "Je dois préparer le dîner.",
+    "level": 1
+  },
+  {
+    "word": "vermeiden",
+    "translation": ["éviter"],
+    "translit": "",
+    "example": "Du solltest Stress vermeiden.",
+    "example_fr": "Tu devrais éviter le stress.",
+    "level": 1
+  },
+  {
+    "word": "der Zweck",
+    "translation": ["but", "objectif"],
+    "translit": "",
+    "example": "Der Zweck der Reise ist Erholung.",
+    "example_fr": "Le but du voyage est la détente.",
+    "level": 1
+  },
+  {
+    "word": "überzeugen",
+    "translation": ["convaincre"],
+    "translit": "",
+    "example": "Ich versuche, ihn zu überzeugen.",
+    "example_fr": "J’essaie de le convaincre.",
+    "level": 1
+  },
+  {
+    "word": "die Forschung",
+    "translation": ["recherche scientifique"],
+    "translit": "",
+    "example": "Die Forschung hat große Fortschritte gemacht.",
+    "example_fr": "La recherche a fait de grands progrès.",
+    "level": 1
+  },
+  {
+    "word": "die Bildung",
+    "translation": ["éducation"],
+    "translit": "",
+    "example": "Bildung ist sehr wichtig.",
+    "example_fr": "L’éducation est très importante.",
+    "level": 1
+  },
+  {
+    "word": "das Verhalten",
+    "translation": ["comportement"],
+    "translit": "",
+    "example": "Sein Verhalten war heute ungewöhnlich.",
+    "example_fr": "Son comportement était inhabituel aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "vergleichen",
+    "translation": ["comparer"],
+    "translit": "",
+    "example": "Man sollte Preise vergleichen.",
+    "example_fr": "Il faut comparer les prix.",
+    "level": 1
+  },
+  {
+    "word": "bestimmen",
+    "translation": ["déterminer"],
+    "translit": "",
+    "example": "Das Alter des Gebäudes ist schwer zu bestimmen.",
+    "example_fr": "Il est difficile de déterminer l’âge du bâtiment.",
+    "level": 1
+  }
+  {
+    "word": "wecken",
+    "translation": ["réveiller"],
+    "translit": "",
+    "example": "Kannst du mich um sieben wecken?",
+    "example_fr": "Peux-tu me réveiller à sept heures ?",
+    "level": 1
+  },
+  {
+    "word": "ausgeben",
+    "translation": ["dépenser"],
+    "translit": "",
+    "example": "Ich habe zu viel Geld ausgegeben.",
+    "example_fr": "J’ai dépensé trop d’argent.",
+    "level": 1
+  },
+  {
+    "word": "entdecken",
+    "translation": ["découvrir"],
+    "translit": "",
+    "example": "Wir haben ein neues Café entdeckt.",
+    "example_fr": "Nous avons découvert un nouveau café.",
+    "level": 1
+  },
+  {
+    "word": "die Gewohnheit",
+    "translation": ["habitude"],
+    "translit": "",
+    "example": "Rauchen ist eine schlechte Gewohnheit.",
+    "example_fr": "Fumer est une mauvaise habitude.",
+    "level": 1
+  },
+  {
+    "word": "erklären",
+    "translation": ["expliquer"],
+    "translit": "",
+    "example": "Kannst du mir das erklären?",
+    "example_fr": "Peux-tu m’expliquer cela ?",
+    "level": 1
+  },
+  {
+    "word": "sich erinnern",
+    "translation": ["se souvenir"],
+    "translit": "",
+    "example": "Ich erinnere mich nicht mehr.",
+    "example_fr": "Je ne m’en souviens plus.",
+    "level": 1
+  },
+  {
+    "word": "jedoch",
+    "translation": ["cependant"],
+    "translit": "",
+    "example": "Ich möchte kommen, jedoch habe ich keine Zeit.",
+    "example_fr": "J’aimerais venir, cependant je n’ai pas le temps.",
+    "level": 1
+  },
+  {
+    "word": "die Beziehung",
+    "translation": ["relation"],
+    "translit": "",
+    "example": "Ihre Beziehung ist sehr stabil.",
+    "example_fr": "Leur relation est très stable.",
+    "level": 1
+  },
+  {
+    "word": "bevorzugen",
+    "translation": ["préférer"],
+    "translit": "",
+    "example": "Ich bevorzuge Tee statt Kaffee.",
+    "example_fr": "Je préfère le thé au café.",
+    "level": 1
+  },
+  {
+    "word": "vorbereiten",
+    "translation": ["préparer"],
+    "translit": "",
+    "example": "Ich muss das Abendessen vorbereiten.",
+    "example_fr": "Je dois préparer le dîner.",
+    "level": 1
+  },
+  {
+    "word": "vermeiden",
+    "translation": ["éviter"],
+    "translit": "",
+    "example": "Du solltest Stress vermeiden.",
+    "example_fr": "Tu devrais éviter le stress.",
+    "level": 1
+  },
+  {
+    "word": "der Zweck",
+    "translation": ["but", "objectif"],
+    "translit": "",
+    "example": "Der Zweck der Reise ist Erholung.",
+    "example_fr": "Le but du voyage est la détente.",
+    "level": 1
+  },
+  {
+    "word": "überzeugen",
+    "translation": ["convaincre"],
+    "translit": "",
+    "example": "Ich versuche, ihn zu überzeugen.",
+    "example_fr": "J’essaie de le convaincre.",
+    "level": 1
+  },
+  {
+    "word": "die Forschung",
+    "translation": ["recherche scientifique"],
+    "translit": "",
+    "example": "Die Forschung hat große Fortschritte gemacht.",
+    "example_fr": "La recherche a fait de grands progrès.",
+    "level": 1
+  },
+  {
+    "word": "die Bildung",
+    "translation": ["éducation"],
+    "translit": "",
+    "example": "Bildung ist sehr wichtig.",
+    "example_fr": "L’éducation est très importante.",
+    "level": 1
+  },
+  {
+    "word": "das Verhalten",
+    "translation": ["comportement"],
+    "translit": "",
+    "example": "Sein Verhalten war heute ungewöhnlich.",
+    "example_fr": "Son comportement était inhabituel aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "vergleichen",
+    "translation": ["comparer"],
+    "translit": "",
+    "example": "Man sollte Preise vergleichen.",
+    "example_fr": "Il faut comparer les prix.",
+    "level": 1
+  },
+  {
+    "word": "bestimmen",
+    "translation": ["déterminer"],
+    "translit": "",
+    "example": "Das Alter des Gebäudes ist schwer zu bestimmen.",
+    "example_fr": "Il est difficile de déterminer l’âge du bâtiment.",
+    "level": 1
+  },
+  {
+    "word": "reduzieren",
+    "translation": ["réduire"],
+    "translit": "",
+    "example": "Wir müssen den Plastikverbrauch reduzieren.",
+    "example_fr": "Nous devons réduire la consommation de plastique.",
+    "level": 1
+  },
+  {
+    "word": "erreichen",
+    "translation": ["atteindre", "joindre"],
+    "translit": "",
+    "example": "Ich kann ihn telefonisch nicht erreichen.",
+    "example_fr": "Je n’arrive pas à le joindre par téléphone.",
+    "level": 1
+  },
+  {
+    "word": "der Eindruck",
+    "translation": ["impression"],
+    "translit": "",
+    "example": "Ich hatte einen guten Eindruck von ihm.",
+    "example_fr": "J’ai eu une bonne impression de lui.",
+    "level": 1
+  }
+  {
+    "word": "die Aufgabe",
+    "translation": ["tâche", "devoir"],
+    "translit": "",
+    "example": "Die Aufgabe war schwieriger als gedacht.",
+    "example_fr": "La tâche était plus difficile que prévu.",
+    "level": 1
+  },
+  {
+    "word": "erhöhen",
+    "translation": ["augmenter"],
+    "translit": "",
+    "example": "Die Regierung will die Steuern erhöhen.",
+    "example_fr": "Le gouvernement veut augmenter les impôts.",
+    "level": 1
+  },
+  {
+    "word": "verantwortlich",
+    "translation": ["responsable"],
+    "translit": "",
+    "example": "Er ist für das Projekt verantwortlich.",
+    "example_fr": "Il est responsable du projet.",
+    "level": 1
+  },
+  {
+    "word": "vereinbaren",
+    "translation": ["convenir de", "fixer"],
+    "translit": "",
+    "example": "Wir haben einen Termin vereinbart.",
+    "example_fr": "Nous avons fixé un rendez-vous.",
+    "level": 1
+  },
+  {
+    "word": "beenden",
+    "translation": ["terminer", "mettre fin à"],
+    "translit": "",
+    "example": "Wir müssen das Gespräch beenden.",
+    "example_fr": "Nous devons mettre fin à la conversation.",
+    "level": 1
+  },
+  {
+    "word": "die Lage",
+    "translation": ["situation", "position"],
+    "translit": "",
+    "example": "Die Lage ist ernst.",
+    "example_fr": "La situation est grave.",
+    "level": 1
+  },
+  {
+    "word": "zwar",
+    "translation": ["certes", "c’est vrai… mais"],
+    "translit": "",
+    "example": "Es ist zwar teuer, aber sehr gut.",
+    "example_fr": "C’est certes cher, mais très bon.",
+    "level": 1
+  },
+  {
+    "word": "schätzen",
+    "translation": ["estimer", "apprécier"],
+    "translit": "",
+    "example": "Ich schätze deine Hilfe sehr.",
+    "example_fr": "J’apprécie beaucoup ton aide.",
+    "level": 1
+  },
+  {
+    "word": "überraschen",
+    "translation": ["surprendre"],
+    "translit": "",
+    "example": "Die Nachricht hat mich überrascht.",
+    "example_fr": "La nouvelle m’a surpris.",
+    "level": 1
+  },
+  {
+    "word": "der Zustand",
+    "translation": ["état", "condition"],
+    "translit": "",
+    "example": "Der Zustand des Autos ist sehr gut.",
+    "example_fr": "L’état de la voiture est très bon.",
+    "level": 1
+  },
+  {
+    "word": "die Entscheidung",
+    "translation": ["décision"],
+    "translit": "",
+    "example": "Es war keine leichte Entscheidung.",
+    "example_fr": "Ce n’était pas une décision facile.",
+    "level": 1
+  },
+  {
+    "word": "auftreten",
+    "translation": ["se produire", "apparaître"],
+    "translit": "",
+    "example": "Das Problem tritt nur selten auf.",
+    "example_fr": "Le problème n’apparaît que rarement.",
+    "level": 1
+  },
+  {
+    "word": "der Versuch",
+    "translation": ["tentative", "essai"],
+    "translit": "",
+    "example": "Der Versuch ist gelungen.",
+    "example_fr": "La tentative a réussi.",
+    "level": 1
+  },
+  {
+    "word": "bezeichnen",
+    "translation": ["désigner", "qualifier"],
+    "translit": "",
+    "example": "Er bezeichnet ihn als Freund.",
+    "example_fr": "Il le qualifie d’ami.",
+    "level": 1
+  },
+  {
+    "word": "die Zukunft",
+    "translation": ["avenir"],
+    "translit": "",
+    "example": "Sie denkt viel über die Zukunft nach.",
+    "example_fr": "Elle pense beaucoup à l’avenir.",
+    "level": 1
+  },
+  {
+    "word": "der Zusammenhang",
+    "translation": ["lien", "relation"],
+    "translit": "",
+    "example": "Es gibt keinen Zusammenhang zwischen den beiden Fällen.",
+    "example_fr": "Il n’y a aucun lien entre les deux affaires.",
+    "level": 1
+  },
+  {
+    "word": "der Bereich",
+    "translation": ["domaine", "secteur"],
+    "translit": "",
+    "example": "Sie arbeitet im medizinischen Bereich.",
+    "example_fr": "Elle travaille dans le domaine médical.",
+    "level": 1
+  },
+  {
+    "word": "steigern",
+    "translation": ["augmenter", "accroître"],
+    "translit": "",
+    "example": "Wir müssen die Produktivität steigern.",
+    "example_fr": "Nous devons augmenter la productivité.",
+    "level": 1
+  },
+  {
+    "word": "handeln",
+    "translation": ["agir"],
+    "translit": "",
+    "example": "Es ist Zeit zu handeln.",
+    "example_fr": "Il est temps d’agir.",
     "level": 1
   }
 ]
