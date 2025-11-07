@@ -4,15 +4,15 @@
     "translation": [ "profiter de", "tirer parti de" ],
     "translit": "",
     "example": "Tenemos que aprovechar esta oportunidad.",
-    "example_fr": "Nous devons profiter de cette opportunité.",
+    "example_fr": "Nous devons profiter de cette opportunitÃ©.",
     "level": 2
   },
   {
-    "word": "desempeño",
+    "word": "desempeÃ±o",
     "translation": [ "performance", "rendement" ],
     "translit": "",
-    "example": "Su desempeño en el trabajo ha mejorado mucho.",
-    "example_fr": "Sa performance au travail s'est beaucoup améliorée.",
+    "example": "Su desempeÃ±o en el trabajo ha mejorado mucho.",
+    "example_fr": "Sa performance au travail s'est beaucoup amÃ©liorÃ©e.",
     "level": 2
   },
   {
@@ -25,7 +25,7 @@
   },
   {
     "word": "aclarar",
-    "translation": [ "clarifier", "éclaircir" ],
+    "translation": [ "clarifier", "Ã©claircir" ],
     "translit": "",
     "example": "Quiero aclarar un malentendido.",
     "example_fr": "Je veux clarifier un malentendu.",
@@ -41,10 +41,10 @@
   },
   {
     "word": "reclamar",
-    "translation": [ "réclamer", "revendiquer" ],
+    "translation": [ "rÃ©clamer", "revendiquer" ],
     "translit": "",
     "example": "Voy a reclamar el reembolso.",
-    "example_fr": "Je vais réclamer le remboursement.",
+    "example_fr": "Je vais rÃ©clamer le remboursement.",
     "level": 2
   },
   {
@@ -52,31 +52,31 @@
     "translation": [ "accabler", "submerger" ],
     "translit": "",
     "example": "La cantidad de trabajo me abruma.",
-    "example_fr": "La quantité de travail m'accable.",
+    "example_fr": "La quantitÃ© de travail m'accable.",
     "level": 2
   },
   {
     "word": "sugerencia",
     "translation": [ "suggestion" ],
     "translit": "",
-    "example": "Tu sugerencia fue muy útil.",
-    "example_fr": "Ta suggestion a été très utile.",
+    "example": "Tu sugerencia fue muy Ãºtil.",
+    "example_fr": "Ta suggestion a Ã©tÃ© trÃ¨s utile.",
     "level": 2
   },
   {
     "word": "queja",
     "translation": [ "plainte" ],
     "translit": "",
-    "example": "Presentó una queja formal.",
-    "example_fr": "Il a déposé une plainte officielle.",
+    "example": "PresentÃ³ una queja formal.",
+    "example_fr": "Il a dÃ©posÃ© une plainte officielle.",
     "level": 2
   },
   {
     "word": "lograr",
-    "translation": [ "réussir à", "obtenir" ],
+    "translation": [ "rÃ©ussir Ã ", "obtenir" ],
     "translit": "",
-    "example": "Logró terminar el proyecto a tiempo.",
-    "example_fr": "Il a réussi à terminer le projet à temps.",
+    "example": "LogrÃ³ terminar el proyecto a tiempo.",
+    "example_fr": "Il a rÃ©ussi Ã  terminer le projet Ã  temps.",
     "level": 2
   },
 
@@ -84,23 +84,23 @@
     "word": "fomentar",
     "translation": [ "favoriser", "encourager" ],
     "translit": "",
-    "example": "El gobierno quiere fomentar la educación.",
-    "example_fr": "Le gouvernement veut encourager l'éducation.",
+    "example": "El gobierno quiere fomentar la educaciÃ³n.",
+    "example_fr": "Le gouvernement veut encourager l'Ã©ducation.",
     "level": 2
   },
   {
     "word": "apenas",
-    "translation": [ "à peine" ],
+    "translation": [ "Ã  peine" ],
     "translit": "",
-    "example": "Apenas tengo tiempo libre estos días.",
-    "example_fr": "J'ai à peine du temps libre ces jours-ci.",
+    "example": "Apenas tengo tiempo libre estos dÃ­as.",
+    "example_fr": "J'ai Ã  peine du temps libre ces jours-ci.",
     "level": 2
   },
   {
     "word": "amenaza",
     "translation": [ "menace" ],
     "translit": "",
-    "example": "La contaminación es una amenaza global.",
+    "example": "La contaminaciÃ³n es una amenaza global.",
     "example_fr": "La pollution est une menace mondiale.",
     "level": 2
   },
@@ -108,7 +108,7 @@
     "word": "anteriormente",
     "translation": [ "auparavant" ],
     "translit": "",
-    "example": "Anteriormente vivíamos en otra ciudad.",
+    "example": "Anteriormente vivÃ­amos en otra ciudad.",
     "example_fr": "Auparavant, nous vivions dans une autre ville.",
     "level": 2
   },
@@ -116,8 +116,8 @@
     "word": "carecer",
     "translation": [ "manquer de" ],
     "translit": "",
-    "example": "Carece de experiencia en el área.",
-    "example_fr": "Il manque d'expérience dans ce domaine.",
+    "example": "Carece de experiencia en el Ã¡rea.",
+    "example_fr": "Il manque d'expÃ©rience dans ce domaine.",
     "level": 2
   },
   {
@@ -137,18 +137,18 @@
     "level": 2
   },
   {
-    "word": "desafío",
-    "translation": [ "défi" ],
+    "word": "desafÃ­o",
+    "translation": [ "dÃ©fi" ],
     "translit": "",
-    "example": "Aceptar este trabajo es un gran desafío.",
-    "example_fr": "Accepter ce travail est un grand défi.",
+    "example": "Aceptar este trabajo es un gran desafÃ­o.",
+    "example_fr": "Accepter ce travail est un grand dÃ©fi.",
     "level": 2
   },
   {
     "word": "elegir",
     "translation": [ "choisir" ],
     "translit": "",
-    "example": "Tenemos que elegir la mejor opción.",
+    "example": "Tenemos que elegir la mejor opciÃ³n.",
     "example_fr": "Nous devons choisir la meilleure option.",
     "level": 2
   },
@@ -156,81 +156,81 @@
     "word": "empeorar",
     "translation": [ "empirer" ],
     "translit": "",
-    "example": "La situación empezó a empeorar.",
-    "example_fr": "La situation a commencé à empirer.",
+    "example": "La situaciÃ³n empezÃ³ a empeorar.",
+    "example_fr": "La situation a commencÃ© Ã  empirer.",
     "level": 2
   },
 
   {
     "word": "escasez",
-    "translation": [ "pénurie" ],
+    "translation": [ "pÃ©nurie" ],
     "translit": "",
-    "example": "Hay escasez de agua en la región.",
-    "example_fr": "Il y a une pénurie d'eau dans la région.",
+    "example": "Hay escasez de agua en la regiÃ³n.",
+    "example_fr": "Il y a une pÃ©nurie d'eau dans la rÃ©gion.",
     "level": 2
   },
   {
     "word": "establecer",
-    "translation": [ "établir", "fixer" ],
+    "translation": [ "Ã©tablir", "fixer" ],
     "translit": "",
     "example": "Tenemos que establecer algunas reglas.",
-    "example_fr": "Nous devons établir quelques règles.",
+    "example_fr": "Nous devons Ã©tablir quelques rÃ¨gles.",
     "level": 2
   },
   {
     "word": "exigir",
     "translation": [ "exiger" ],
     "translit": "",
-    "example": "El cliente exige una explicación.",
+    "example": "El cliente exige una explicaciÃ³n.",
     "example_fr": "Le client exige une explication.",
     "level": 2
   },
   {
     "word": "fallecer",
-    "translation": [ "décéder" ],
+    "translation": [ "dÃ©cÃ©der" ],
     "translit": "",
-    "example": "Su abuelo falleció el año pasado.",
-    "example_fr": "Son grand-père est décédé l'an dernier.",
+    "example": "Su abuelo falleciÃ³ el aÃ±o pasado.",
+    "example_fr": "Son grand-pÃ¨re est dÃ©cÃ©dÃ© l'an dernier.",
     "level": 2
   },
   {
     "word": "fijarse",
     "translation": [ "remarquer", "faire attention" ],
     "translit": "",
-    "example": "No me fijé en el detalle.",
-    "example_fr": "Je n’ai pas fait attention au détail.",
+    "example": "No me fijÃ© en el detalle.",
+    "example_fr": "Je nâ€™ai pas fait attention au dÃ©tail.",
     "level": 2
   },
   {
     "word": "fortalecer",
     "translation": [ "renforcer" ],
     "translit": "",
-    "example": "Este ejercicio fortalece los músculos.",
+    "example": "Este ejercicio fortalece los mÃºsculos.",
     "example_fr": "Cet exercice renforce les muscles.",
     "level": 2
   },
   {
     "word": "heredar",
-    "translation": [ "hériter" ],
+    "translation": [ "hÃ©riter" ],
     "translit": "",
-    "example": "Heredó la casa de sus abuelos.",
-    "example_fr": "Il a hérité la maison de ses grands-parents.",
+    "example": "HeredÃ³ la casa de sus abuelos.",
+    "example_fr": "Il a hÃ©ritÃ© la maison de ses grands-parents.",
     "level": 2
   },
   {
     "word": "impedir",
-    "translation": [ "empêcher" ],
+    "translation": [ "empÃªcher" ],
     "translit": "",
-    "example": "La lluvia nos impidió salir.",
-    "example_fr": "La pluie nous a empêchés de sortir.",
+    "example": "La lluvia nos impidiÃ³ salir.",
+    "example_fr": "La pluie nous a empÃªchÃ©s de sortir.",
     "level": 2
   },
   {
     "word": "logro",
-    "translation": [ "succès", "accomplissement" ],
+    "translation": [ "succÃ¨s", "accomplissement" ],
     "translit": "",
     "example": "Fue un logro muy importante.",
-    "example_fr": "Ce fut un accomplissement très important.",
+    "example_fr": "Ce fut un accomplissement trÃ¨s important.",
     "level": 2
   },
   {
@@ -238,24 +238,24 @@
     "translation": [ "entretien", "maintenance" ],
     "translit": "",
     "example": "El edificio necesita mantenimiento urgente.",
-    "example_fr": "Le bâtiment a besoin d’un entretien urgent.",
+    "example_fr": "Le bÃ¢timent a besoin dâ€™un entretien urgent.",
     "level": 2
   },
 
   {
     "word": "mejorar",
-    "translation": [ "améliorer" ],
+    "translation": [ "amÃ©liorer" ],
     "translit": "",
-    "example": "Tienes que mejorar tu pronunciación.",
-    "example_fr": "Tu dois améliorer ta prononciation.",
+    "example": "Tienes que mejorar tu pronunciaciÃ³n.",
+    "example_fr": "Tu dois amÃ©liorer ta prononciation.",
     "level": 2
   },
   {
     "word": "merecer",
-    "translation": [ "mériter" ],
+    "translation": [ "mÃ©riter" ],
     "translit": "",
-    "example": "Creo que mereces una explicación.",
-    "example_fr": "Je pense que tu mérites une explication.",
+    "example": "Creo que mereces una explicaciÃ³n.",
+    "example_fr": "Je pense que tu mÃ©rites une explication.",
     "level": 2
   },
   {
@@ -263,15 +263,15 @@
     "translation": [ "mesure", "disposition" ],
     "translit": "",
     "example": "Tomaron medidas para evitar el accidente.",
-    "example_fr": "Ils ont pris des mesures pour éviter l’accident.",
+    "example_fr": "Ils ont pris des mesures pour Ã©viter lâ€™accident.",
     "level": 2
   },
   {
     "word": "negociar",
-    "translation": [ "négocier" ],
+    "translation": [ "nÃ©gocier" ],
     "translit": "",
-    "example": "Vamos a negociar el contrato mañana.",
-    "example_fr": "Nous allons négocier le contrat demain.",
+    "example": "Vamos a negociar el contrato maÃ±ana.",
+    "example_fr": "Nous allons nÃ©gocier le contrat demain.",
     "level": 2
   },
   {
@@ -279,7 +279,7 @@
     "translation": [ "accorder", "octroyer" ],
     "translit": "",
     "example": "Le otorgaron un permiso especial.",
-    "example_fr": "Ils lui ont accordé une autorisation spéciale.",
+    "example_fr": "Ils lui ont accordÃ© une autorisation spÃ©ciale.",
     "level": 2
   },
   {
@@ -287,52 +287,52 @@
     "translation": [ "particulier", "singulier" ],
     "translit": "",
     "example": "Tiene un estilo muy peculiar.",
-    "example_fr": "Il a un style très particulier.",
+    "example_fr": "Il a un style trÃ¨s particulier.",
     "level": 2
   },
   {
     "word": "perjudicar",
-    "translation": [ "nuire à" ],
+    "translation": [ "nuire Ã " ],
     "translit": "",
     "example": "Eso puede perjudicar tu salud.",
-    "example_fr": "Cela peut nuire à ta santé.",
+    "example_fr": "Cela peut nuire Ã  ta santÃ©.",
     "level": 2
   },
   {
     "word": "pretender",
-    "translation": [ "prétendre", "vouloir" ],
+    "translation": [ "prÃ©tendre", "vouloir" ],
     "translit": "",
-    "example": "¿Qué pretendes lograr con eso?",
-    "example_fr": "Que veux-tu accomplir avec ça ?",
+    "example": "Â¿QuÃ© pretendes lograr con eso?",
+    "example_fr": "Que veux-tu accomplir avec Ã§a ?",
     "level": 2
   },
   {
     "word": "proveer",
     "translation": [ "fournir" ],
     "translit": "",
-    "example": "La empresa provee materiales de construcción.",
-    "example_fr": "L’entreprise fournit des matériaux de construction.",
+    "example": "La empresa provee materiales de construcciÃ³n.",
+    "example_fr": "Lâ€™entreprise fournit des matÃ©riaux de construction.",
     "level": 2
   },
   {
     "word": "ralentizar",
     "translation": [ "ralentir" ],
     "translit": "",
-    "example": "El tráfico se ralentizó por la lluvia.",
-    "example_fr": "La circulation a ralenti à cause de la pluie.",
+    "example": "El trÃ¡fico se ralentizÃ³ por la lluvia.",
+    "example_fr": "La circulation a ralenti Ã  cause de la pluie.",
     "level": 2
   },
   {
     "word": "recaudar",
-    "translation": [ "collecter", "récolter (des fonds)" ],
+    "translation": [ "collecter", "rÃ©colter (des fonds)" ],
     "translit": "",
-    "example": "La organización recaudó dinero para los afectados.",
-    "example_fr": "L’organisation a collecté de l’argent pour les sinistrés.",
+    "example": "La organizaciÃ³n recaudÃ³ dinero para los afectados.",
+    "example_fr": "Lâ€™organisation a collectÃ© de lâ€™argent pour les sinistrÃ©s.",
     "level": 2
   },
   {
     "word": "resaltar",
-    "translation": [ "mettre en évidence", "souligner" ],
+    "translation": [ "mettre en Ã©vidence", "souligner" ],
     "translit": "",
     "example": "Quiero resaltar la importancia del proyecto.",
     "example_fr": "Je veux souligner l'importance du projet.",
@@ -342,32 +342,32 @@
     "word": "respaldar",
     "translation": [ "soutenir", "appuyer" ],
     "translit": "",
-    "example": "Muchos expertos respaldan esta teoría.",
-    "example_fr": "Beaucoup d’experts soutiennent cette théorie.",
+    "example": "Muchos expertos respaldan esta teorÃ­a.",
+    "example_fr": "Beaucoup dâ€™experts soutiennent cette thÃ©orie.",
     "level": 2
   },
   {
     "word": "retrasar",
     "translation": [ "retarder", "repousser" ],
     "translit": "",
-    "example": "Tuvimos que retrasar la reunión.",
-    "example_fr": "Nous avons dû retarder la réunion.",
+    "example": "Tuvimos que retrasar la reuniÃ³n.",
+    "example_fr": "Nous avons dÃ» retarder la rÃ©union.",
     "level": 2
   },
   {
     "word": "rendir",
-    "translation": [ "produire", "donner des résultats" ],
+    "translation": [ "produire", "donner des rÃ©sultats" ],
     "translit": "",
-    "example": "Este método no rinde lo esperado.",
-    "example_fr": "Cette méthode ne donne pas les résultats attendus.",
+    "example": "Este mÃ©todo no rinde lo esperado.",
+    "example_fr": "Cette mÃ©thode ne donne pas les rÃ©sultats attendus.",
     "level": 2
   },
   {
     "word": "repartir",
-    "translation": [ "répartir", "distribuer" ],
+    "translation": [ "rÃ©partir", "distribuer" ],
     "translit": "",
     "example": "Repartieron comida entre los voluntarios.",
-    "example_fr": "Ils ont distribué de la nourriture aux volontaires.",
+    "example_fr": "Ils ont distribuÃ© de la nourriture aux volontaires.",
     "level": 2
   },
   {
@@ -375,31 +375,31 @@
     "translation": [ "soutenir", "maintenir" ],
     "translit": "",
     "example": "Sostiene que sus decisiones fueron correctas.",
-    "example_fr": "Il soutient que ses décisions étaient correctes.",
+    "example_fr": "Il soutient que ses dÃ©cisions Ã©taient correctes.",
     "level": 2
   },
   {
     "word": "superar",
-    "translation": [ "surmonter", "dépasser" ],
+    "translation": [ "surmonter", "dÃ©passer" ],
     "translit": "",
-    "example": "Logró superar todas las dificultades.",
-    "example_fr": "Il a réussi à surmonter toutes les difficultés.",
+    "example": "LogrÃ³ superar todas las dificultades.",
+    "example_fr": "Il a rÃ©ussi Ã  surmonter toutes les difficultÃ©s.",
     "level": 2
   },
   {
     "word": "surgir",
-    "translation": [ "surgir", "apparaître" ],
+    "translation": [ "surgir", "apparaÃ®tre" ],
     "translit": "",
-    "example": "El problema surgió de repente.",
-    "example_fr": "Le problème est apparu soudainement.",
+    "example": "El problema surgiÃ³ de repente.",
+    "example_fr": "Le problÃ¨me est apparu soudainement.",
     "level": 2
   },
   {
     "word": "tardar",
     "translation": [ "mettre du temps", "tarder" ],
     "translit": "",
-    "example": "No tardará mucho en llegar.",
-    "example_fr": "Il n’arrivera pas tard.",
+    "example": "No tardarÃ¡ mucho en llegar.",
+    "example_fr": "Il nâ€™arrivera pas tard.",
     "level": 2
   },
 
@@ -407,16 +407,16 @@
     "word": "teclear",
     "translation": [ "taper (au clavier)" ],
     "translit": "",
-    "example": "Teclea la contraseña correctamente.",
+    "example": "Teclea la contraseÃ±a correctamente.",
     "example_fr": "Tape correctement le mot de passe.",
     "level": 2
   },
   {
     "word": "tramitar",
-    "translation": [ "traiter (administratif)", "gérer" ],
+    "translation": [ "traiter (administratif)", "gÃ©rer" ],
     "translit": "",
     "example": "Voy a tramitar la solicitud hoy.",
-    "example_fr": "Je vais traiter la demande aujourd’hui.",
+    "example_fr": "Je vais traiter la demande aujourdâ€™hui.",
     "level": 2
   },
   {
@@ -424,23 +424,23 @@
     "translation": [ "s'agir de" ],
     "translit": "",
     "example": "Se trata de un asunto urgente.",
-    "example_fr": "Il s’agit d’une affaire urgente.",
+    "example_fr": "Il sâ€™agit dâ€™une affaire urgente.",
     "level": 2
   },
   {
     "word": "vincular",
     "translation": [ "lier", "relier" ],
     "translit": "",
-    "example": "Muchos expertos vinculan los dos fenómenos.",
-    "example_fr": "Beaucoup d’experts relient les deux phénomènes.",
+    "example": "Muchos expertos vinculan los dos fenÃ³menos.",
+    "example_fr": "Beaucoup dâ€™experts relient les deux phÃ©nomÃ¨nes.",
     "level": 2
   },
   {
     "word": "agotar",
-    "translation": [ "épuiser" ],
+    "translation": [ "Ã©puiser" ],
     "translit": "",
-    "example": "La batería se agotó rápidamente.",
-    "example_fr": "La batterie s’est rapidement épuisée.",
+    "example": "La baterÃ­a se agotÃ³ rÃ¡pidamente.",
+    "example_fr": "La batterie sâ€™est rapidement Ã©puisÃ©e.",
     "level": 2
   },
   {
@@ -455,23 +455,23 @@
     "word": "aliviar",
     "translation": [ "soulager" ],
     "translit": "",
-    "example": "El medicamento ayudó a aliviar el dolor.",
-    "example_fr": "Le médicament a aidé à soulager la douleur.",
+    "example": "El medicamento ayudÃ³ a aliviar el dolor.",
+    "example_fr": "Le mÃ©dicament a aidÃ© Ã  soulager la douleur.",
     "level": 2
   },
   {
     "word": "apartar",
-    "translation": [ "écarter", "mettre à part" ],
+    "translation": [ "Ã©carter", "mettre Ã  part" ],
     "translit": "",
     "example": "Aparta las cajas del pasillo.",
-    "example_fr": "Écarte les boîtes du couloir.",
+    "example_fr": "Ã‰carte les boÃ®tes du couloir.",
     "level": 2
   },
   {
-    "word": "añorar",
+    "word": "aÃ±orar",
     "translation": [ "manquer", "avoir la nostalgie de" ],
     "translit": "",
-    "example": "Añora mucho a su familia.",
+    "example": "AÃ±ora mucho a su familia.",
     "example_fr": "Sa famille lui manque beaucoup.",
     "level": 2
   },
@@ -479,8 +479,8 @@
     "word": "asimilar",
     "translation": [ "assimiler" ],
     "translit": "",
-    "example": "Tardó en asimilar la información.",
-    "example_fr": "Il a mis du temps à assimiler l'information.",
+    "example": "TardÃ³ en asimilar la informaciÃ³n.",
+    "example_fr": "Il a mis du temps Ã  assimiler l'information.",
     "level": 2
   },
 
@@ -488,37 +488,37 @@
     "word": "atajar",
     "translation": [ "endiguer", "couper court" ],
     "translit": "",
-    "example": "El gobierno quiere atajar la crisis económica.",
-    "example_fr": "Le gouvernement veut endiguer la crise économique.",
+    "example": "El gobierno quiere atajar la crisis econÃ³mica.",
+    "example_fr": "Le gouvernement veut endiguer la crise Ã©conomique.",
     "level": 2
   },
   {
     "word": "averiguar",
-    "translation": [ "découvrir", "enquêter" ],
+    "translation": [ "dÃ©couvrir", "enquÃªter" ],
     "translit": "",
-    "example": "Voy a averiguar qué pasó.",
-    "example_fr": "Je vais découvrir ce qui s’est passé.",
+    "example": "Voy a averiguar quÃ© pasÃ³.",
+    "example_fr": "Je vais dÃ©couvrir ce qui sâ€™est passÃ©.",
     "level": 2
   },
   {
     "word": "capacidad",
-    "translation": [ "capacité" ],
+    "translation": [ "capacitÃ©" ],
     "translit": "",
-    "example": "Tiene una gran capacidad de adaptación.",
-    "example_fr": "Il a une grande capacité d’adaptation.",
+    "example": "Tiene una gran capacidad de adaptaciÃ³n.",
+    "example_fr": "Il a une grande capacitÃ© dâ€™adaptation.",
     "level": 2
   },
   {
     "word": "comprometerse",
     "translation": [ "s'engager" ],
     "translit": "",
-    "example": "Se comprometió a terminar el trabajo.",
-    "example_fr": "Il s’est engagé à terminer le travail.",
+    "example": "Se comprometiÃ³ a terminar el trabajo.",
+    "example_fr": "Il sâ€™est engagÃ© Ã  terminer le travail.",
     "level": 2
   },
   {
     "word": "conllevar",
-    "translation": [ "entraîner", "impliquer" ],
+    "translation": [ "entraÃ®ner", "impliquer" ],
     "translit": "",
     "example": "Este cambio conlleva muchos riesgos.",
     "example_fr": "Ce changement implique de nombreux risques.",
@@ -529,47 +529,47 @@
     "translation": [ "constater" ],
     "translit": "",
     "example": "Constatamos que faltaban documentos.",
-    "example_fr": "Nous avons constaté qu’il manquait des documents.",
+    "example_fr": "Nous avons constatÃ© quâ€™il manquait des documents.",
     "level": 2
   },
   {
     "word": "cuestionar",
     "translation": [ "remettre en question" ],
     "translit": "",
-    "example": "No puedes cuestionar cada decisión.",
-    "example_fr": "Tu ne peux pas remettre en question chaque décision.",
+    "example": "No puedes cuestionar cada decisiÃ³n.",
+    "example_fr": "Tu ne peux pas remettre en question chaque dÃ©cision.",
     "level": 2
   },
   {
     "word": "derivar de",
-    "translation": [ "découler de" ],
+    "translation": [ "dÃ©couler de" ],
     "translit": "",
-    "example": "El problema deriva de una mala gestión.",
-    "example_fr": "Le problème découle d’une mauvaise gestion.",
+    "example": "El problema deriva de una mala gestiÃ³n.",
+    "example_fr": "Le problÃ¨me dÃ©coule dâ€™une mauvaise gestion.",
     "level": 2
   },
   {
     "word": "desmentir",
-    "translation": [ "démentir" ],
+    "translation": [ "dÃ©mentir" ],
     "translit": "",
-    "example": "El portavoz desmintió los rumores.",
-    "example_fr": "Le porte-parole a démenti les rumeurs.",
+    "example": "El portavoz desmintiÃ³ los rumores.",
+    "example_fr": "Le porte-parole a dÃ©menti les rumeurs.",
     "level": 2
   },
   {
     "word": "despreciar",
-    "translation": [ "mépriser" ],
+    "translation": [ "mÃ©priser" ],
     "translit": "",
     "example": "Desprecia a quienes mienten.",
-    "example_fr": "Il méprise ceux qui mentent.",
+    "example_fr": "Il mÃ©prise ceux qui mentent.",
     "level": 2
   },
   {
     "word": "detallar",
-    "translation": [ "détailler" ],
+    "translation": [ "dÃ©tailler" ],
     "translit": "",
     "example": "Voy a detallar el plan paso a paso.",
-    "example_fr": "Je vais détailler le plan étape par étape.",
+    "example_fr": "Je vais dÃ©tailler le plan Ã©tape par Ã©tape.",
     "level": 2
   },
   {
@@ -582,10 +582,10 @@
   },
   {
     "word": "efectuar",
-    "translation": [ "effectuer", "réaliser" ],
+    "translation": [ "effectuer", "rÃ©aliser" ],
     "translit": "",
     "example": "Efectuaron varios cambios en el sistema.",
-    "example_fr": "Ils ont effectué plusieurs changements dans le système.",
+    "example_fr": "Ils ont effectuÃ© plusieurs changements dans le systÃ¨me.",
     "level": 2
   },
   {
@@ -593,63 +593,63 @@
     "translation": [ "confier", "charger" ],
     "translit": "",
     "example": "Le encargaron un proyecto importante.",
-    "example_fr": "On lui a confié un projet important.",
+    "example_fr": "On lui a confiÃ© un projet important.",
     "level": 2
   },
   {
     "word": "enterrar",
     "translation": [ "enterrer" ],
     "translit": "",
-    "example": "Enterraron la cápsula del tiempo en el patio.",
-    "example_fr": "Ils ont enterré la capsule temporelle dans le jardin.",
+    "example": "Enterraron la cÃ¡psula del tiempo en el patio.",
+    "example_fr": "Ils ont enterrÃ© la capsule temporelle dans le jardin.",
     "level": 2
   },
   {
     "word": "erigir",
-    "translation": [ "ériger" ],
+    "translation": [ "Ã©riger" ],
     "translit": "",
     "example": "Erigieron un monumento en su honor.",
-    "example_fr": "Ils ont érigé un monument en son honneur.",
+    "example_fr": "Ils ont Ã©rigÃ© un monument en son honneur.",
     "level": 2
   },
   {
     "word": "estimular",
     "translation": [ "stimuler" ],
     "translit": "",
-    "example": "El ejercicio estimula el sistema inmunológico.",
-    "example_fr": "L'exercice stimule le système immunitaire.",
+    "example": "El ejercicio estimula el sistema inmunolÃ³gico.",
+    "example_fr": "L'exercice stimule le systÃ¨me immunitaire.",
     "level": 2
   },
   {
     "word": "hallar",
     "translation": [ "trouver" ],
     "translit": "",
-    "example": "Hallaron una solución inesperada.",
-    "example_fr": "Ils ont trouvé une solution inattendue.",
+    "example": "Hallaron una soluciÃ³n inesperada.",
+    "example_fr": "Ils ont trouvÃ© une solution inattendue.",
     "level": 2
   },
   {
     "word": "huella",
     "translation": [ "empreinte", "trace" ],
     "translit": "",
-    "example": "Dejó una huella profunda en la historia.",
-    "example_fr": "Il a laissé une empreinte profonde dans l’histoire.",
+    "example": "DejÃ³ una huella profunda en la historia.",
+    "example_fr": "Il a laissÃ© une empreinte profonde dans lâ€™histoire.",
     "level": 2
   },
   {
     "word": "ilustrar",
     "translation": [ "illustrer" ],
     "translit": "",
-    "example": "El profesor ilustró el concepto con ejemplos.",
-    "example_fr": "Le professeur a illustré le concept avec des exemples.",
+    "example": "El profesor ilustrÃ³ el concepto con ejemplos.",
+    "example_fr": "Le professeur a illustrÃ© le concept avec des exemples.",
     "level": 2
   },
 
   {
     "word": "impartir",
-    "translation": [ "donner (un cours)", "dispérer" ],
+    "translation": [ "donner (un cours)", "dispÃ©rer" ],
     "translit": "",
-    "example": "Imparte clases de música los lunes.",
+    "example": "Imparte clases de mÃºsica los lunes.",
     "example_fr": "Il donne des cours de musique le lundi.",
     "level": 2
   },
@@ -657,23 +657,23 @@
     "word": "incidir",
     "translation": [ "influer", "incider sur" ],
     "translit": "",
-    "example": "La decisión incide en todo el proyecto.",
-    "example_fr": "La décision influe sur tout le projet.",
+    "example": "La decisiÃ³n incide en todo el proyecto.",
+    "example_fr": "La dÃ©cision influe sur tout le projet.",
     "level": 2
   },
   {
     "word": "incurrir",
     "translation": [ "encourir" ],
     "translit": "",
-    "example": "Incurrió en varios errores graves.",
+    "example": "IncurriÃ³ en varios errores graves.",
     "example_fr": "Il a encouru plusieurs erreurs graves.",
     "level": 2
   },
   {
     "word": "indagar",
-    "translation": [ "investiguer", "chercher à savoir" ],
+    "translation": [ "investiguer", "chercher Ã  savoir" ],
     "translit": "",
-    "example": "La policía indaga las causas del accidente.",
+    "example": "La policÃ­a indaga las causas del accidente.",
     "example_fr": "La police investigue les causes de l'accident.",
     "level": 2
   },
@@ -681,24 +681,24 @@
     "word": "infringir",
     "translation": [ "enfreindre" ],
     "translit": "",
-    "example": "Infringió las normas de seguridad.",
-    "example_fr": "Il a enfreint les règles de sécurité.",
+    "example": "InfringiÃ³ las normas de seguridad.",
+    "example_fr": "Il a enfreint les rÃ¨gles de sÃ©curitÃ©.",
     "level": 2
   },
   {
     "word": "inmenso",
     "translation": [ "immense" ],
     "translit": "",
-    "example": "El océano es inmenso.",
-    "example_fr": "L’océan est immense.",
+    "example": "El ocÃ©ano es inmenso.",
+    "example_fr": "Lâ€™ocÃ©an est immense.",
     "level": 2
   },
   {
     "word": "insistir",
     "translation": [ "insister" ],
     "translit": "",
-    "example": "Insistió en acompañarme.",
-    "example_fr": "Il a insisté pour m'accompagner.",
+    "example": "InsistiÃ³ en acompaÃ±arme.",
+    "example_fr": "Il a insistÃ© pour m'accompagner.",
     "level": 2
   },
   {
@@ -713,16 +713,16 @@
     "word": "manifestar",
     "translation": [ "manifester", "exprimer" ],
     "translit": "",
-    "example": "Manifestó su desacuerdo.",
-    "example_fr": "Il a exprimé son désaccord.",
+    "example": "ManifestÃ³ su desacuerdo.",
+    "example_fr": "Il a exprimÃ© son dÃ©saccord.",
     "level": 2
   },
   {
-    "word": "mejoría",
-    "translation": [ "amélioration" ],
+    "word": "mejorÃ­a",
+    "translation": [ "amÃ©lioration" ],
     "translit": "",
-    "example": "Se nota una ligera mejoría.",
-    "example_fr": "On remarque une légère amélioration.",
+    "example": "Se nota una ligera mejorÃ­a.",
+    "example_fr": "On remarque une lÃ©gÃ¨re amÃ©lioration.",
     "level": 2
   },
 
@@ -731,39 +731,39 @@
     "translation": [ "modifier" ],
     "translit": "",
     "example": "Modificaron las condiciones del contrato.",
-    "example_fr": "Ils ont modifié les conditions du contrat.",
+    "example_fr": "Ils ont modifiÃ© les conditions du contrat.",
     "level": 2
   },
   {
     "word": "molestia",
-    "translation": [ "gêne", "désagrément" ],
+    "translation": [ "gÃªne", "dÃ©sagrÃ©ment" ],
     "translit": "",
-    "example": "Perdón por la molestia.",
-    "example_fr": "Désolé pour le dérangement.",
+    "example": "PerdÃ³n por la molestia.",
+    "example_fr": "DÃ©solÃ© pour le dÃ©rangement.",
     "level": 2
   },
   {
-    "word": "obstáculo",
+    "word": "obstÃ¡culo",
     "translation": [ "obstacle" ],
     "translit": "",
-    "example": "Superaron todos los obstáculos.",
-    "example_fr": "Ils ont surmonté tous les obstacles.",
+    "example": "Superaron todos los obstÃ¡culos.",
+    "example_fr": "Ils ont surmontÃ© tous les obstacles.",
     "level": 2
   },
   {
     "word": "padecer",
     "translation": [ "souffrir (d'une maladie)" ],
     "translit": "",
-    "example": "Padece una enfermedad crónica.",
-    "example_fr": "Il souffre d’une maladie chronique.",
+    "example": "Padece una enfermedad crÃ³nica.",
+    "example_fr": "Il souffre dâ€™une maladie chronique.",
     "level": 2
   },
   {
-    "word": "patrón",
-    "translation": [ "schéma", "modèle" ],
+    "word": "patrÃ³n",
+    "translation": [ "schÃ©ma", "modÃ¨le" ],
     "translit": "",
-    "example": "Hay un patrón en su comportamiento.",
-    "example_fr": "Il y a un schéma dans son comportement.",
+    "example": "Hay un patrÃ³n en su comportamiento.",
+    "example_fr": "Il y a un schÃ©ma dans son comportement.",
     "level": 2
   },
   {
@@ -771,7 +771,7 @@
     "translation": [ "perceptible" ],
     "translit": "",
     "example": "Hubo una mejora perceptible.",
-    "example_fr": "Il y a eu une amélioration perceptible.",
+    "example_fr": "Il y a eu une amÃ©lioration perceptible.",
     "level": 2
   },
   {
@@ -779,48 +779,48 @@
     "translation": [ "persister" ],
     "translit": "",
     "example": "El problema persiste desde hace meses.",
-    "example_fr": "Le problème persiste depuis des mois.",
+    "example_fr": "Le problÃ¨me persiste depuis des mois.",
     "level": 2
   },
   {
     "word": "plazo",
-    "translation": [ "délai" ],
+    "translation": [ "dÃ©lai" ],
     "translit": "",
     "example": "Tienes un plazo de dos semanas.",
-    "example_fr": "Tu as un délai de deux semaines.",
+    "example_fr": "Tu as un dÃ©lai de deux semaines.",
     "level": 2
   },
   {
     "word": "prorrogar",
     "translation": [ "prolonger" ],
     "translit": "",
-    "example": "Prorrogaron el contrato un año más.",
-    "example_fr": "Ils ont prolongé le contrat pour un an de plus.",
+    "example": "Prorrogaron el contrato un aÃ±o mÃ¡s.",
+    "example_fr": "Ils ont prolongÃ© le contrat pour un an de plus.",
     "level": 2
   },
   {
     "word": "reanudarse",
     "translation": [ "reprendre" ],
     "translit": "",
-    "example": "Las clases se reanudarán mañana.",
+    "example": "Las clases se reanudarÃ¡n maÃ±ana.",
     "example_fr": "Les cours reprendront demain.",
     "level": 2
   },
 
   {
     "word": "recurrir a",
-    "translation": [ "avoir recours à" ],
+    "translation": [ "avoir recours Ã " ],
     "translit": "",
     "example": "Tuvo que recurrir a un especialista.",
-    "example_fr": "Il a dû avoir recours à un spécialiste.",
+    "example_fr": "Il a dÃ» avoir recours Ã  un spÃ©cialiste.",
     "level": 2
   },
   {
     "word": "remediar",
-    "translation": [ "remédier" ],
+    "translation": [ "remÃ©dier" ],
     "translit": "",
-    "example": "Hay que remediar la situación.",
-    "example_fr": "Il faut remédier à la situation.",
+    "example": "Hay que remediar la situaciÃ³n.",
+    "example_fr": "Il faut remÃ©dier Ã  la situation.",
     "level": 2
   },
   {
@@ -828,7 +828,7 @@
     "translation": [ "reprocher" ],
     "translit": "",
     "example": "No tengo nada que reprocharle.",
-    "example_fr": "Je n’ai rien à lui reprocher.",
+    "example_fr": "Je nâ€™ai rien Ã  lui reprocher.",
     "level": 2
   },
   {
@@ -836,7 +836,7 @@
     "translation": [ "supplier" ],
     "translit": "",
     "example": "Te ruego que me escuches.",
-    "example_fr": "Je te supplie de m’écouter.",
+    "example_fr": "Je te supplie de mâ€™Ã©couter.",
     "level": 2
   },
   {
@@ -849,10 +849,10 @@
   },
   {
     "word": "sobresalir",
-    "translation": [ "se démarquer", "ressortir" ],
+    "translation": [ "se dÃ©marquer", "ressortir" ],
     "translit": "",
     "example": "Siempre sobresale en lo que hace.",
-    "example_fr": "Il se démarque toujours dans ce qu’il fait.",
+    "example_fr": "Il se dÃ©marque toujours dans ce quâ€™il fait.",
     "level": 2
   },
   {
@@ -867,7 +867,7 @@
     "word": "sumar",
     "translation": [ "additionner", "ajouter" ],
     "translit": "",
-    "example": "Si sumas dos más dos, obtienes cuatro.",
+    "example": "Si sumas dos mÃ¡s dos, obtienes cuatro.",
     "example_fr": "Si tu additionnes deux plus deux, tu obtiens quatre.",
     "level": 2
   },
@@ -875,29 +875,29 @@
     "word": "suponer",
     "translation": [ "supposer" ],
     "translit": "",
-    "example": "Supongo que llegarán pronto.",
-    "example_fr": "Je suppose qu’ils arriveront bientôt.",
+    "example": "Supongo que llegarÃ¡n pronto.",
+    "example_fr": "Je suppose quâ€™ils arriveront bientÃ´t.",
     "level": 2
   },
   {
     "word": "tejer",
     "translation": [ "tisser" ],
     "translit": "",
-    "example": "Ella sabe tejer suéteres muy bien.",
-    "example_fr": "Elle sait très bien tisser des pullovers.",
+    "example": "Ella sabe tejer suÃ©teres muy bien.",
+    "example_fr": "Elle sait trÃ¨s bien tisser des pullovers.",
     "level": 2
   },
   {
     "word": "temblar",
     "translation": [ "trembler" ],
     "translit": "",
-    "example": "La tierra empezó a temblar.",
-    "example_fr": "La terre a commencé à trembler.",
+    "example": "La tierra empezÃ³ a temblar.",
+    "example_fr": "La terre a commencÃ© Ã  trembler.",
     "level": 2
   },
   {
     "word": "templado",
-    "translation": [ "doux", "tempéré" ],
+    "translation": [ "doux", "tempÃ©rÃ©" ],
     "translit": "",
     "example": "El clima es templado en primavera.",
     "example_fr": "Le climat est doux au printemps.",
@@ -907,24 +907,24 @@
     "word": "tramposo",
     "translation": [ "tricheur" ],
     "translit": "",
-    "example": "No juegues con él, es un tramposo.",
+    "example": "No juegues con Ã©l, es un tramposo.",
     "example_fr": "Ne joue pas avec lui, c'est un tricheur.",
     "level": 2
   },
   {
     "word": "trascender",
-    "translation": [ "dépasser", "transcender" ],
+    "translation": [ "dÃ©passer", "transcender" ],
     "translit": "",
-    "example": "Su influencia trascendió las fronteras.",
-    "example_fr": "Son influence a dépassé les frontières.",
+    "example": "Su influencia trascendiÃ³ las fronteras.",
+    "example_fr": "Son influence a dÃ©passÃ© les frontiÃ¨res.",
     "level": 2
   },
   {
     "word": "trastorno",
-    "translation": [ "trouble", "désordre" ],
+    "translation": [ "trouble", "dÃ©sordre" ],
     "translit": "",
     "example": "Sufre un trastorno de ansiedad.",
-    "example_fr": "Il souffre d’un trouble anxieux.",
+    "example_fr": "Il souffre dâ€™un trouble anxieux.",
     "level": 2
   },
   {
@@ -932,15 +932,15 @@
     "translation": [ "tracer" ],
     "translit": "",
     "example": "Trazaron un mapa detallado.",
-    "example_fr": "Ils ont tracé une carte détaillée.",
+    "example_fr": "Ils ont tracÃ© une carte dÃ©taillÃ©e.",
     "level": 2
   },
   {
     "word": "tropezar",
-    "translation": [ "trébucher" ],
+    "translation": [ "trÃ©bucher" ],
     "translit": "",
-    "example": "Tropecé con una piedra.",
-    "example_fr": "J’ai trébuché sur une pierre.",
+    "example": "TropecÃ© con una piedra.",
+    "example_fr": "Jâ€™ai trÃ©buchÃ© sur une pierre.",
     "level": 2
   },
   {
@@ -948,15 +948,15 @@
     "translation": [ "utilisable" ],
     "translit": "",
     "example": "Esa herramienta ya no es utilizable.",
-    "example_fr": "Cet outil n’est plus utilisable.",
+    "example_fr": "Cet outil nâ€™est plus utilisable.",
     "level": 2
   },
   {
     "word": "variedad",
-    "translation": [ "variété" ],
+    "translation": [ "variÃ©tÃ©" ],
     "translit": "",
     "example": "Hay una gran variedad de opciones.",
-    "example_fr": "Il y a une grande variété d'options.",
+    "example_fr": "Il y a une grande variÃ©tÃ© d'options.",
     "level": 2
   },
   {
@@ -964,7 +964,7 @@
     "translation": [ "surveiller" ],
     "translit": "",
     "example": "Los guardias vigilan la entrada.",
-    "example_fr": "Les gardes surveillent l'entrée.",
+    "example_fr": "Les gardes surveillent l'entrÃ©e.",
     "level": 2
   },
 
@@ -972,8 +972,8 @@
     "word": "volcar",
     "translation": [ "renverser" ],
     "translit": "",
-    "example": "El camión volcó en la carretera.",
-    "example_fr": "Le camion s'est renversé sur la route.",
+    "example": "El camiÃ³n volcÃ³ en la carretera.",
+    "example_fr": "Le camion s'est renversÃ© sur la route.",
     "level": 2
   },
   {
@@ -989,15 +989,15 @@
     "translation": [ "repriser" ],
     "translit": "",
     "example": "Mi abuela sabe zurcir calcetines.",
-    "example_fr": "Ma grand-mère sait repriser des chaussettes.",
+    "example_fr": "Ma grand-mÃ¨re sait repriser des chaussettes.",
     "level": 2
   },
   {
     "word": "acudir",
-    "translation": [ "se rendre à", "venir" ],
+    "translation": [ "se rendre Ã ", "venir" ],
     "translit": "",
-    "example": "Acudieron todos a la reunión.",
-    "example_fr": "Ils sont tous venus à la réunion.",
+    "example": "Acudieron todos a la reuniÃ³n.",
+    "example_fr": "Ils sont tous venus Ã  la rÃ©union.",
     "level": 2
   },
   {
@@ -1005,15 +1005,15 @@
     "translation": [ "encourager" ],
     "translit": "",
     "example": "Sus palabras me alentaron mucho.",
-    "example_fr": "Ses paroles m'ont beaucoup encouragé.",
+    "example_fr": "Ses paroles m'ont beaucoup encouragÃ©.",
     "level": 2
   },
   {
     "word": "amenazar",
     "translation": [ "menacer" ],
     "translit": "",
-    "example": "El ladrón amenazó al dueño.",
-    "example_fr": "Le voleur a menacé le propriétaire.",
+    "example": "El ladrÃ³n amenazÃ³ al dueÃ±o.",
+    "example_fr": "Le voleur a menacÃ© le propriÃ©taire.",
     "level": 2
   },
   {
@@ -1029,15 +1029,15 @@
     "translation": [ "assumer" ],
     "translit": "",
     "example": "Debe asumir sus responsabilidades.",
-    "example_fr": "Il doit assumer ses responsabilités.",
+    "example_fr": "Il doit assumer ses responsabilitÃ©s.",
     "level": 2
   },
   {
     "word": "avanzar",
     "translation": [ "avancer", "progresser" ],
     "translit": "",
-    "example": "Hemos avanzado mucho este año.",
-    "example_fr": "Nous avons beaucoup progressé cette année.",
+    "example": "Hemos avanzado mucho este aÃ±o.",
+    "example_fr": "Nous avons beaucoup progressÃ© cette annÃ©e.",
     "level": 2
   },
   {
@@ -1045,29 +1045,29 @@
     "translation": [ "battre (culinaire)", "agiter" ],
     "translit": "",
     "example": "Hay que batir los huevos fuerte.",
-    "example_fr": "Il faut battre les œufs vigoureusement.",
+    "example_fr": "Il faut battre les Å“ufs vigoureusement.",
     "level": 2
   },
 
   {
     "word": "ceder",
-    "translation": [ "céder" ],
+    "translation": [ "cÃ©der" ],
     "translit": "",
-    "example": "Finalmente cedió ante la presión.",
-    "example_fr": "Il a finalement cédé sous la pression.",
+    "example": "Finalmente cediÃ³ ante la presiÃ³n.",
+    "example_fr": "Il a finalement cÃ©dÃ© sous la pression.",
     "level": 2
   },
   {
     "word": "compaginar",
     "translation": [ "concilier" ],
     "translit": "",
-    "example": "Es difícil compaginar trabajo y estudios.",
-    "example_fr": "Il est difficile de concilier travail et études.",
+    "example": "Es difÃ­cil compaginar trabajo y estudios.",
+    "example_fr": "Il est difficile de concilier travail et Ã©tudes.",
     "level": 2
   },
   {
     "word": "convenir",
-    "translation": [ "convenir", "être approprié" ],
+    "translation": [ "convenir", "Ãªtre appropriÃ©" ],
     "translit": "",
     "example": "Ese acuerdo nos conviene.",
     "example_fr": "Cet accord nous convient.",
@@ -1075,34 +1075,34 @@
   },
   {
     "word": "desatar",
-    "translation": [ "déclencher", "détacher" ],
+    "translation": [ "dÃ©clencher", "dÃ©tacher" ],
     "translit": "",
-    "example": "La noticia desató el pánico.",
-    "example_fr": "La nouvelle a déclenché la panique.",
+    "example": "La noticia desatÃ³ el pÃ¡nico.",
+    "example_fr": "La nouvelle a dÃ©clenchÃ© la panique.",
     "level": 2
   },
   {
-    "word": "desempeñar",
-    "translation": [ "remplir (un rôle)", "exercer" ],
+    "word": "desempeÃ±ar",
+    "translation": [ "remplir (un rÃ´le)", "exercer" ],
     "translit": "",
-    "example": "Desempeña un papel crucial en la empresa.",
-    "example_fr": "Il joue un rôle crucial dans l'entreprise.",
+    "example": "DesempeÃ±a un papel crucial en la empresa.",
+    "example_fr": "Il joue un rÃ´le crucial dans l'entreprise.",
     "level": 2
   },
   {
     "word": "descuidar",
-    "translation": [ "négliger" ],
+    "translation": [ "nÃ©gliger" ],
     "translit": "",
     "example": "No debes descuidar tu salud.",
-    "example_fr": "Tu ne dois pas négliger ta santé.",
+    "example_fr": "Tu ne dois pas nÃ©gliger ta santÃ©.",
     "level": 2
   },
   {
     "word": "detener",
-    "translation": [ "arrêter" ],
+    "translation": [ "arrÃªter" ],
     "translit": "",
-    "example": "La policía detuvo al sospechoso.",
-    "example_fr": "La police a arrêté le suspect.",
+    "example": "La policÃ­a detuvo al sospechoso.",
+    "example_fr": "La police a arrÃªtÃ© le suspect.",
     "level": 2
   },
   {
@@ -1115,18 +1115,18 @@
   },
   {
     "word": "encoger",
-    "translation": [ "rétrécir" ],
+    "translation": [ "rÃ©trÃ©cir" ],
     "translit": "",
-    "example": "La camiseta se encogió en la lavadora.",
-    "example_fr": "Le t-shirt a rétréci dans la machine.",
+    "example": "La camiseta se encogiÃ³ en la lavadora.",
+    "example_fr": "Le t-shirt a rÃ©trÃ©ci dans la machine.",
     "level": 2
   },
   {
     "word": "fugarse",
-    "translation": [ "s’enfuir" ],
+    "translation": [ "sâ€™enfuir" ],
     "translit": "",
-    "example": "El prisionero intentó fugarse.",
-    "example_fr": "Le prisonnier a tenté de s’enfuir.",
+    "example": "El prisionero intentÃ³ fugarse.",
+    "example_fr": "Le prisonnier a tentÃ© de sâ€™enfuir.",
     "level": 2
   }
 ]
