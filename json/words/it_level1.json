@@ -1,0 +1,1294 @@
+[
+  {
+    "word": "bruco",
+    "translation": [ "chenille" ],
+    "translit": "",
+    "example": "Il bruco diventerà una farfalla.",
+    "example_fr": "La chenille deviendra un papillon.",
+    "level": 1
+  },
+  {
+    "word": "schiuma",
+    "translation": [ "mousse", "écume" ],
+    "translit": "",
+    "example": "La schiuma del cappuccino è deliziosa.",
+    "example_fr": "La mousse du cappuccino est délicieuse.",
+    "level": 1
+  },
+  {
+    "word": "cieco",
+    "translation": [ "aveugle" ],
+    "translit": "",
+    "example": "Lui è cieco da bambino.",
+    "example_fr": "Il est aveugle depuis l’enfance.",
+    "level": 1
+  },
+  {
+    "word": "spiga",
+    "translation": [ "épi (de blé)" ],
+    "translit": "",
+    "example": "La spiga ondeggia nel vento.",
+    "example_fr": "L’épi ondule dans le vent.",
+    "level": 1
+  },
+  {
+    "word": "rospo",
+    "translation": [ "crapaud" ],
+    "translit": "",
+    "example": "Un rospo è saltato nel giardino.",
+    "example_fr": "Un crapaud a sauté dans le jardin.",
+    "level": 1
+  },
+  {
+    "word": "pigrizia",
+    "translation": [ "paresse" ],
+    "translit": "",
+    "example": "La pigrizia non aiuta a migliorare.",
+    "example_fr": "La paresse n’aide pas à s’améliorer.",
+    "level": 1
+  },
+  {
+    "word": "stelo",
+    "translation": [ "tige" ],
+    "translit": "",
+    "example": "Lo stelo del fiore è sottile.",
+    "example_fr": "La tige de la fleur est fine.",
+    "level": 1
+  },
+  {
+    "word": "sguardo",
+    "translation": [ "regard" ],
+    "translit": "",
+    "example": "Mi ha dato uno sguardo strano.",
+    "example_fr": "Il m’a lancé un drôle de regard.",
+    "level": 1
+  },
+  {
+    "word": "urto",
+    "translation": [ "choc", "heurt" ],
+    "translit": "",
+    "example": "Ho sentito un urto improvviso.",
+    "example_fr": "J’ai senti un heurt soudain.",
+    "level": 1
+  },
+  {
+    "word": "liso",
+    "translation": [ "lisse" ],
+    "translit": "",
+    "example": "Il tavolo ha una superficie liscia.",
+    "example_fr": "La table a une surface lisse.",
+    "level": 1
+  },
+
+  {
+    "word": "spiffero",
+    "translation": [ "courant d’air" ],
+    "translit": "",
+    "example": "C'è uno spiffero vicino alla finestra.",
+    "example_fr": "Il y a un courant d’air près de la fenêtre.",
+    "level": 1
+  },
+  {
+    "word": "scrigno",
+    "translation": [ "coffret", "écrin" ],
+    "translit": "",
+    "example": "Lo scrigno contiene vecchi ricordi.",
+    "example_fr": "Le coffret contient de vieux souvenirs.",
+    "level": 1
+  },
+  {
+    "word": "ciuffo",
+    "translation": [ "mèche", "touffe" ],
+    "translit": "",
+    "example": "Ha un ciuffo di capelli ribelle.",
+    "example_fr": "Il a une mèche de cheveux rebelle.",
+    "level": 1
+  },
+  {
+    "word": "faggio",
+    "translation": [ "hêtre" ],
+    "translit": "",
+    "example": "Il faggio è un albero molto diffuso.",
+    "example_fr": "Le hêtre est un arbre très répandu.",
+    "level": 1
+  },
+  {
+    "word": "orto",
+    "translation": [ "potager" ],
+    "translit": "",
+    "example": "L’orto di mia nonna è pieno di verdure.",
+    "example_fr": "Le potager de ma grand-mère est rempli de légumes.",
+    "level": 1
+  },
+  {
+    "word": "falò",
+    "translation": [ "feu de joie" ],
+    "translit": "",
+    "example": "Abbiamo acceso un falò sulla spiaggia.",
+    "example_fr": "Nous avons allumé un feu de joie sur la plage.",
+    "level": 1
+  },
+  {
+    "word": "bava",
+    "translation": [ "bave" ],
+    "translit": "",
+    "example": "C'è della bava sul vetro.",
+    "example_fr": "Il y a de la bave sur la vitre.",
+    "level": 1
+  },
+  {
+    "word": "tana",
+    "translation": [ "terrier", "tanière" ],
+    "translit": "",
+    "example": "Il coniglio è tornato nella sua tana.",
+    "example_fr": "Le lapin est retourné dans son terrier.",
+    "level": 1
+  },
+  {
+    "word": "fibbia",
+    "translation": [ "boucle (de ceinture)" ],
+    "translit": "",
+    "example": "La fibbia della cintura si è rotta.",
+    "example_fr": "La boucle de la ceinture s’est cassée.",
+    "level": 1
+  },
+  {
+    "word": "goccia",
+    "translation": [ "goutte" ],
+    "translit": "",
+    "example": "Una goccia è caduta dal rubinetto.",
+    "example_fr": "Une goutte est tombée du robinet.",
+    "level": 1
+  },
+
+  {
+    "word": "bavero",
+    "translation": [ "col (d’un manteau)" ],
+    "translit": "",
+    "example": "Alza il bavero, fa freddo.",
+    "example_fr": "Remonte ton col, il fait froid.",
+    "level": 1
+  },
+  {
+    "word": "stiva",
+    "translation": [ "cale (bateau)" ],
+    "translit": "",
+    "example": "Le casse sono nella stiva della nave.",
+    "example_fr": "Les caisses sont dans la cale du bateau.",
+    "level": 1
+  },
+  {
+    "word": "culla",
+    "translation": [ "berceau" ],
+    "translit": "",
+    "example": "Il bambino dorme nella culla.",
+    "example_fr": "Le bébé dort dans le berceau.",
+    "level": 1
+  },
+  {
+    "word": "ramarro",
+    "translation": [ "lézard vert" ],
+    "translit": "",
+    "example": "Un ramarro è corso tra le pietre.",
+    "example_fr": "Un lézard vert a couru entre les pierres.",
+    "level": 1
+  },
+  {
+    "word": "sforzo",
+    "translation": [ "effort" ],
+    "translit": "",
+    "example": "Con un piccolo sforzo, puoi farcela.",
+    "example_fr": "Avec un petit effort, tu peux y arriver.",
+    "level": 1
+  },
+  {
+    "word": "crollo",
+    "translation": [ "effondrement" ],
+    "translit": "",
+    "example": "Il crollo del muro ha fatto rumore.",
+    "example_fr": "L’effondrement du mur a fait du bruit.",
+    "level": 1
+  },
+  {
+    "word": "frana",
+    "translation": [ "glissement de terrain" ],
+    "translit": "",
+    "example": "C'è stata una frana sulla strada.",
+    "example_fr": "Il y a eu un glissement de terrain sur la route.",
+    "level": 1
+  },
+  {
+    "word": "muffa",
+    "translation": [ "moisissure" ],
+    "translit": "",
+    "example": "C'è della muffa sul muro.",
+    "example_fr": "Il y a de la moisissure sur le mur.",
+    "level": 1
+  },
+  {
+    "word": "lenza",
+    "translation": [ "ligne (de pêche)" ],
+    "translit": "",
+    "example": "Ha lanciato la lenza nel lago.",
+    "example_fr": "Il a lancé la ligne dans le lac.",
+    "level": 1
+  },
+  {
+    "word": "ghianda",
+    "translation": [ "gland (arbre)" ],
+    "translit": "",
+    "example": "La ghianda è caduta dalla quercia.",
+    "example_fr": "Le gland est tombé du chêne.",
+    "level": 1
+  },
+
+  {
+    "word": "ruggine",
+    "translation": [ "rouille" ],
+    "translit": "",
+    "example": "Il metallo ha molta ruggine.",
+    "example_fr": "Le métal a beaucoup de rouille.",
+    "level": 1
+  },
+  {
+    "word": "sbarra",
+    "translation": [ "barre", "barrière" ],
+    "translit": "",
+    "example": "La sbarra è abbassata, bisogna aspettare.",
+    "example_fr": "La barrière est baissée, il faut attendre.",
+    "level": 1
+  },
+  {
+    "word": "frullo",
+    "translation": [ "battement d’ailes" ],
+    "translit": "",
+    "example": "Ho sentito un frullo dietro di me.",
+    "example_fr": "J’ai entendu un battement d’ailes derrière moi.",
+    "level": 1
+  },
+  {
+    "word": "crostata",
+    "translation": [ "tarte (maison)" ],
+    "translit": "",
+    "example": "Ho preparato una crostata alla marmellata.",
+    "example_fr": "J’ai préparé une tarte à la confiture.",
+    "level": 1
+  },
+  {
+    "word": "strillo",
+    "translation": [ "cri aigu" ],
+    "translit": "",
+    "example": "Un strillo mi ha svegliato.",
+    "example_fr": "Un cri aigu m’a réveillé.",
+    "level": 1
+  },
+  {
+    "word": "grembiule",
+    "translation": [ "tablier" ],
+    "translit": "",
+    "example": "Metti il grembiule per cucinare.",
+    "example_fr": "Mets le tablier pour cuisiner.",
+    "level": 1
+  },
+  {
+    "word": "baratro",
+    "translation": [ "abîme", "gouffre" ],
+    "translit": "",
+    "example": "Erano vicini al baratro.",
+    "example_fr": "Ils étaient tout près du gouffre.",
+    "level": 1
+  },
+  {
+    "word": "braciere",
+    "translation": [ "brasero" ],
+    "translit": "",
+    "example": "Hanno acceso un braciere per scaldarsi.",
+    "example_fr": "Ils ont allumé un brasero pour se réchauffer.",
+    "level": 1
+  },
+  {
+    "word": "ovatta",
+    "translation": [ "coton (médical)" ],
+    "translit": "",
+    "example": "Serve dell’ovatta per la ferita.",
+    "example_fr": "Il faut du coton pour la blessure.",
+    "level": 1
+  },
+  {
+    "word": "salvia",
+    "translation": [ "sauge" ],
+    "translit": "",
+    "example": "La salvia dà un sapore speciale ai piatti.",
+    "example_fr": "La sauge donne un goût particulier aux plats.",
+    "level": 1
+  },
+  {
+    "word": "straccio",
+    "translation": [ "chiffon", "torchon" ],
+    "translit": "",
+    "example": "Passa lo straccio sul pavimento.",
+    "example_fr": "Passe le chiffon sur le sol.",
+    "level": 1
+  },
+  {
+    "word": "civetta",
+    "translation": [ "chouette (animal)" ],
+    "translit": "",
+    "example": "La civetta ha occhi molto grandi.",
+    "example_fr": "La chouette a de très grands yeux.",
+    "level": 1
+  },
+  {
+    "word": "colle",
+    "translation": [ "colline" ],
+    "translit": "",
+    "example": "Vivono su un piccolo colle.",
+    "example_fr": "Ils vivent sur une petite colline.",
+    "level": 1
+  },
+  {
+    "word": "ceppo",
+    "translation": [ "souche (arbre)" ],
+    "translit": "",
+    "example": "Si è seduto su un ceppo.",
+    "example_fr": "Il s’est assis sur une souche.",
+    "level": 1
+  },
+  {
+    "word": "corteccia",
+    "translation": [ "écorce" ],
+    "translit": "",
+    "example": "La corteccia dell’albero è ruvida.",
+    "example_fr": "L’écorce de l’arbre est rugueuse.",
+    "level": 1
+  },
+  {
+    "word": "rovo",
+    "translation": [ "ronce" ],
+    "translit": "",
+    "example": "Il sentiero era pieno di rovi.",
+    "example_fr": "Le sentier était plein de ronces.",
+    "level": 1
+  },
+  {
+    "word": "bega",
+    "translation": [ "ennui", "souci" ],
+    "translit": "",
+    "example": "Non voglio altre beghe oggi.",
+    "example_fr": "Je ne veux pas d’autres soucis aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "gomito",
+    "translation": [ "coude" ],
+    "translit": "",
+    "example": "Mi fa male il gomito.",
+    "example_fr": "J’ai mal au coude.",
+    "level": 1
+  },
+  {
+    "word": "caviglia",
+    "translation": [ "cheville" ],
+    "translit": "",
+    "example": "Si è slogato la caviglia.",
+    "example_fr": "Il s’est foulé la cheville.",
+    "level": 1
+  },
+  {
+    "word": "briciola",
+    "translation": [ "miette" ],
+    "translit": "",
+    "example": "Ci sono briciole sul tavolo.",
+    "example_fr": "Il y a des miettes sur la table.",
+    "level": 1
+  },
+
+  {
+    "word": "vetta",
+    "translation": [ "sommet" ],
+    "translit": "",
+    "example": "La vetta della montagna è innevata.",
+    "example_fr": "Le sommet de la montagne est enneigé.",
+    "level": 1
+  },
+  {
+    "word": "roccia",
+    "translation": [ "rocher" ],
+    "translit": "",
+    "example": "La roccia è molto scivolosa.",
+    "example_fr": "Le rocher est très glissant.",
+    "level": 1
+  },
+  {
+    "word": "sbuffo",
+    "translation": [ "souffle", "bouffée" ],
+    "translit": "",
+    "example": "Un sbuffo di vento ha chiuso la porta.",
+    "example_fr": "Une bouffée de vent a fermé la porte.",
+    "level": 1
+  },
+  {
+    "word": "fiocco",
+    "translation": [ "nœud", "flocon" ],
+    "translit": "",
+    "example": "Ha fatto un fiocco al regalo.",
+    "example_fr": "Elle a fait un nœud au cadeau.",
+    "level": 1
+  },
+  {
+    "word": "trincea",
+    "translation": [ "tranchée" ],
+    "translit": "",
+    "example": "I soldati aspettavano nella trincea.",
+    "example_fr": "Les soldats attendaient dans la tranchée.",
+    "level": 1
+  },
+  {
+    "word": "fuso",
+    "translation": [ "fuseau", "filage" ],
+    "translit": "",
+    "example": "Un tempo si filava la lana con il fuso.",
+    "example_fr": "On filait la laine avec un fuseau autrefois.",
+    "level": 1
+  },
+  {
+    "word": "zolla",
+    "translation": [ "motte de terre" ],
+    "translit": "",
+    "example": "La zolla si è rotta sotto i piedi.",
+    "example_fr": "La motte s’est brisée sous ses pieds.",
+    "level": 1
+  },
+  {
+    "word": "garza",
+    "translation": [ "gaze (pansement)" ],
+    "translit": "",
+    "example": "Serve una garza pulita.",
+    "example_fr": "Il faut une gaze propre.",
+    "level": 1
+  },
+  {
+    "word": "vicolo",
+    "translation": [ "ruelle" ],
+    "translit": "",
+    "example": "Hanno preso un vicolo stretto.",
+    "example_fr": "Ils ont pris une ruelle étroite.",
+    "level": 1
+  },
+  {
+    "word": "starnuto",
+    "translation": [ "éternuement" ],
+    "translit": "",
+    "example": "Ho sentito uno starnuto forte.",
+    "example_fr": "J’ai entendu un gros éternuement.",
+    "level": 1
+  },
+
+  {
+    "word": "botte",
+    "translation": [ "tonneau" ],
+    "translit": "",
+    "example": "Il vino è conservato in una botte.",
+    "example_fr": "Le vin est conservé dans un tonneau.",
+    "level": 1
+  },
+  {
+    "word": "bolletta",
+    "translation": [ "facture (ménage)" ],
+    "translit": "",
+    "example": "È arrivata la bolletta della luce.",
+    "example_fr": "La facture d’électricité est arrivée.",
+    "level": 1
+  },
+  {
+    "word": "molo",
+    "translation": [ "quai" ],
+    "translit": "",
+    "example": "La barca ci aspetta al molo.",
+    "example_fr": "Le bateau nous attend au quai.",
+    "level": 1
+  },
+  {
+    "word": "cespuglio",
+    "translation": [ "buisson" ],
+    "translit": "",
+    "example": "Un gatto si nascondeva nel cespuglio.",
+    "example_fr": "Un chat se cachait dans le buisson.",
+    "level": 1
+  },
+  {
+    "word": "tappo",
+    "translation": [ "bouchon" ],
+    "translit": "",
+    "example": "Non riesco a togliere il tappo.",
+    "example_fr": "Je n’arrive pas à retirer le bouchon.",
+    "level": 1
+  },
+  {
+    "word": "rocchetto",
+    "translation": [ "bobine" ],
+    "translit": "",
+    "example": "Il filo è avvolto nel rocchetto.",
+    "example_fr": "Le fil est enroulé sur la bobine.",
+    "level": 1
+  },
+  {
+    "word": "gruccia",
+    "translation": [ "cintre" ],
+    "translit": "",
+    "example": "Il cappotto è sulla gruccia.",
+    "example_fr": "Le manteau est sur le cintre.",
+    "level": 1
+  },
+  {
+    "word": "scialle",
+    "translation": [ "châle" ],
+    "translit": "",
+    "example": "La nonna indossa sempre uno scialle.",
+    "example_fr": "Ma grand-mère porte toujours un châle.",
+    "level": 1
+  },
+  {
+    "word": "zuppa",
+    "translation": [ "soupe" ],
+    "translit": "",
+    "example": "La zuppa è troppo calda.",
+    "example_fr": "La soupe est trop chaude.",
+    "level": 1
+  },
+  {
+    "word": "forbici",
+    "translation": [ "ciseaux" ],
+    "translit": "",
+    "example": "Passami le forbici, per favore.",
+    "example_fr": "Passe-moi les ciseaux, s’il te plaît.",
+    "level": 1
+  },
+
+  {
+    "word": "argilla",
+    "translation": [ "argile" ],
+    "translit": "",
+    "example": "L’argilla serve per fare i vasi.",
+    "example_fr": "L’argile sert à fabriquer des vases.",
+    "level": 1
+  },
+  {
+    "word": "piuma",
+    "translation": [ "plume" ],
+    "translit": "",
+    "example": "La piuma è caduta dal cuscino.",
+    "example_fr": "Une plume est tombée du coussin.",
+    "level": 1
+  },
+  {
+    "word": "tettoia",
+    "translation": [ "auvent", "hangar" ],
+    "translit": "",
+    "example": "Le biciclette sono sotto la tettoia.",
+    "example_fr": "Les vélos sont sous l’auvent.",
+    "level": 1
+  },
+  {
+    "word": "sciarpa",
+    "translation": [ "écharpe" ],
+    "translit": "",
+    "example": "Metti la sciarpa, fa freddo.",
+    "example_fr": "Mets ton écharpe, il fait froid.",
+    "level": 1
+  },
+  {
+    "word": "spalla",
+    "translation": [ "épaule" ],
+    "translit": "",
+    "example": "Mi fa male la spalla sinistra.",
+    "example_fr": "J’ai mal à l’épaule gauche.",
+    "level": 1
+  },
+  {
+    "word": "barca",
+    "translation": [ "barque", "bateau" ],
+    "translit": "",
+    "example": "La barca sta arrivando al porto.",
+    "example_fr": "La barque arrive au port.",
+    "level": 1
+  },
+  {
+    "word": "secchio",
+    "translation": [ "seau" ],
+    "translit": "",
+    "example": "Riempi il secchio d’acqua.",
+    "example_fr": "Remplis le seau d’eau.",
+    "level": 1
+  },
+  {
+    "word": "stufa",
+    "translation": [ "poêle (chauffage)" ],
+    "translit": "",
+    "example": "La stufa riscalda tutta la stanza.",
+    "example_fr": "Le poêle chauffe toute la pièce.",
+    "level": 1
+  },
+  {
+    "word": "rete",
+    "translation": [ "filet (pêche)", "réseau" ],
+    "translit": "",
+    "example": "La rete è piena di pesci.",
+    "example_fr": "Le filet est plein de poissons.",
+    "level": 1
+  },
+  {
+    "word": "orma",
+    "translation": [ "empreinte" ],
+    "translit": "",
+    "example": "Hanno trovato orme nella neve.",
+    "example_fr": "Ils ont trouvé des empreintes dans la neige.",
+    "level": 1
+  },
+  {
+    "word": "straccio",
+    "translation": [ "chiffon", "torchon" ],
+    "translit": "",
+    "example": "Passa lo straccio sul pavimento.",
+    "example_fr": "Passe le chiffon sur le sol.",
+    "level": 1
+  },
+  {
+    "word": "civetta",
+    "translation": [ "chouette (animal)" ],
+    "translit": "",
+    "example": "La civetta ha occhi molto grandi.",
+    "example_fr": "La chouette a de très grands yeux.",
+    "level": 1
+  },
+  {
+    "word": "colle",
+    "translation": [ "colline" ],
+    "translit": "",
+    "example": "Vivono su un piccolo colle.",
+    "example_fr": "Ils vivent sur une petite colline.",
+    "level": 1
+  },
+  {
+    "word": "ceppo",
+    "translation": [ "souche (arbre)" ],
+    "translit": "",
+    "example": "Si è seduto su un ceppo.",
+    "example_fr": "Il s’est assis sur une souche.",
+    "level": 1
+  },
+  {
+    "word": "corteccia",
+    "translation": [ "écorce" ],
+    "translit": "",
+    "example": "La corteccia dell’albero è ruvida.",
+    "example_fr": "L’écorce de l’arbre est rugueuse.",
+    "level": 1
+  },
+  {
+    "word": "rovo",
+    "translation": [ "ronce" ],
+    "translit": "",
+    "example": "Il sentiero era pieno di rovi.",
+    "example_fr": "Le sentier était plein de ronces.",
+    "level": 1
+  },
+  {
+    "word": "bega",
+    "translation": [ "ennui", "souci" ],
+    "translit": "",
+    "example": "Non voglio altre beghe oggi.",
+    "example_fr": "Je ne veux pas d’autres soucis aujourd’hui.",
+    "level": 1
+  },
+  {
+    "word": "gomito",
+    "translation": [ "coude" ],
+    "translit": "",
+    "example": "Mi fa male il gomito.",
+    "example_fr": "J’ai mal au coude.",
+    "level": 1
+  },
+  {
+    "word": "caviglia",
+    "translation": [ "cheville" ],
+    "translit": "",
+    "example": "Si è slogato la caviglia.",
+    "example_fr": "Il s’est foulé la cheville.",
+    "level": 1
+  },
+  {
+    "word": "briciola",
+    "translation": [ "miette" ],
+    "translit": "",
+    "example": "Ci sono briciole sul tavolo.",
+    "example_fr": "Il y a des miettes sur la table.",
+    "level": 1
+  },
+
+  {
+    "word": "vetta",
+    "translation": [ "sommet" ],
+    "translit": "",
+    "example": "La vetta della montagna è innevata.",
+    "example_fr": "Le sommet de la montagne est enneigé.",
+    "level": 1
+  },
+  {
+    "word": "roccia",
+    "translation": [ "rocher" ],
+    "translit": "",
+    "example": "La roccia è molto scivolosa.",
+    "example_fr": "Le rocher est très glissant.",
+    "level": 1
+  },
+  {
+    "word": "sbuffo",
+    "translation": [ "souffle", "bouffée" ],
+    "translit": "",
+    "example": "Un sbuffo di vento ha chiuso la porta.",
+    "example_fr": "Une bouffée de vent a fermé la porte.",
+    "level": 1
+  },
+  {
+    "word": "fiocco",
+    "translation": [ "nœud", "flocon" ],
+    "translit": "",
+    "example": "Ha fatto un fiocco al regalo.",
+    "example_fr": "Elle a fait un nœud au cadeau.",
+    "level": 1
+  },
+  {
+    "word": "trincea",
+    "translation": [ "tranchée" ],
+    "translit": "",
+    "example": "I soldati aspettavano nella trincea.",
+    "example_fr": "Les soldats attendaient dans la tranchée.",
+    "level": 1
+  },
+  {
+    "word": "fuso",
+    "translation": [ "fuseau", "filage" ],
+    "translit": "",
+    "example": "Un tempo si filava la lana con il fuso.",
+    "example_fr": "On filait la laine avec un fuseau autrefois.",
+    "level": 1
+  },
+  {
+    "word": "zolla",
+    "translation": [ "motte de terre" ],
+    "translit": "",
+    "example": "La zolla si è rotta sotto i piedi.",
+    "example_fr": "La motte s’est brisée sous ses pieds.",
+    "level": 1
+  },
+  {
+    "word": "garza",
+    "translation": [ "gaze (pansement)" ],
+    "translit": "",
+    "example": "Serve una garza pulita.",
+    "example_fr": "Il faut une gaze propre.",
+    "level": 1
+  },
+  {
+    "word": "vicolo",
+    "translation": [ "ruelle" ],
+    "translit": "",
+    "example": "Hanno preso un vicolo stretto.",
+    "example_fr": "Ils ont pris une ruelle étroite.",
+    "level": 1
+  },
+  {
+    "word": "starnuto",
+    "translation": [ "éternuement" ],
+    "translit": "",
+    "example": "Ho sentito uno starnuto forte.",
+    "example_fr": "J’ai entendu un gros éternuement.",
+    "level": 1
+  },
+
+  {
+    "word": "botte",
+    "translation": [ "tonneau" ],
+    "translit": "",
+    "example": "Il vino è conservato in una botte.",
+    "example_fr": "Le vin est conservé dans un tonneau.",
+    "level": 1
+  },
+  {
+    "word": "bolletta",
+    "translation": [ "facture (ménage)" ],
+    "translit": "",
+    "example": "È arrivata la bolletta della luce.",
+    "example_fr": "La facture d’électricité est arrivée.",
+    "level": 1
+  },
+  {
+    "word": "molo",
+    "translation": [ "quai" ],
+    "translit": "",
+    "example": "La barca ci aspetta al molo.",
+    "example_fr": "Le bateau nous attend au quai.",
+    "level": 1
+  },
+  {
+    "word": "cespuglio",
+    "translation": [ "buisson" ],
+    "translit": "",
+    "example": "Un gatto si nascondeva nel cespuglio.",
+    "example_fr": "Un chat se cachait dans le buisson.",
+    "level": 1
+  },
+  {
+    "word": "tappo",
+    "translation": [ "bouchon" ],
+    "translit": "",
+    "example": "Non riesco a togliere il tappo.",
+    "example_fr": "Je n’arrive pas à retirer le bouchon.",
+    "level": 1
+  },
+  {
+    "word": "rocchetto",
+    "translation": [ "bobine" ],
+    "translit": "",
+    "example": "Il filo è avvolto nel rocchetto.",
+    "example_fr": "Le fil est enroulé sur la bobine.",
+    "level": 1
+  },
+  {
+    "word": "gruccia",
+    "translation": [ "cintre" ],
+    "translit": "",
+    "example": "Il cappotto è sulla gruccia.",
+    "example_fr": "Le manteau est sur le cintre.",
+    "level": 1
+  },
+  {
+    "word": "scialle",
+    "translation": [ "châle" ],
+    "translit": "",
+    "example": "La nonna indossa sempre uno scialle.",
+    "example_fr": "Ma grand-mère porte toujours un châle.",
+    "level": 1
+  },
+  {
+    "word": "zuppa",
+    "translation": [ "soupe" ],
+    "translit": "",
+    "example": "La zuppa è troppo calda.",
+    "example_fr": "La soupe est trop chaude.",
+    "level": 1
+  },
+  {
+    "word": "forbici",
+    "translation": [ "ciseaux" ],
+    "translit": "",
+    "example": "Passami le forbici, per favore.",
+    "example_fr": "Passe-moi les ciseaux, s’il te plaît.",
+    "level": 1
+  },
+
+  {
+    "word": "argilla",
+    "translation": [ "argile" ],
+    "translit": "",
+    "example": "L’argilla serve per fare i vasi.",
+    "example_fr": "L’argile sert à fabriquer des vases.",
+    "level": 1
+  },
+  {
+    "word": "piuma",
+    "translation": [ "plume" ],
+    "translit": "",
+    "example": "La piuma è caduta dal cuscino.",
+    "example_fr": "Une plume est tombée du coussin.",
+    "level": 1
+  },
+  {
+    "word": "tettoia",
+    "translation": [ "auvent", "hangar" ],
+    "translit": "",
+    "example": "Le biciclette sono sotto la tettoia.",
+    "example_fr": "Les vélos sont sous l’auvent.",
+    "level": 1
+  },
+  {
+    "word": "sciarpa",
+    "translation": [ "écharpe" ],
+    "translit": "",
+    "example": "Metti la sciarpa, fa freddo.",
+    "example_fr": "Mets ton écharpe, il fait froid.",
+    "level": 1
+  },
+  {
+    "word": "spalla",
+    "translation": [ "épaule" ],
+    "translit": "",
+    "example": "Mi fa male la spalla sinistra.",
+    "example_fr": "J’ai mal à l’épaule gauche.",
+    "level": 1
+  },
+  {
+    "word": "barca",
+    "translation": [ "barque", "bateau" ],
+    "translit": "",
+    "example": "La barca sta arrivando al porto.",
+    "example_fr": "La barque arrive au port.",
+    "level": 1
+  },
+  {
+    "word": "secchio",
+    "translation": [ "seau" ],
+    "translit": "",
+    "example": "Riempi il secchio d’acqua.",
+    "example_fr": "Remplis le seau d’eau.",
+    "level": 1
+  },
+  {
+    "word": "stufa",
+    "translation": [ "poêle (chauffage)" ],
+    "translit": "",
+    "example": "La stufa riscalda tutta la stanza.",
+    "example_fr": "Le poêle chauffe toute la pièce.",
+    "level": 1
+  },
+  {
+    "word": "rete",
+    "translation": [ "filet (pêche)", "réseau" ],
+    "translit": "",
+    "example": "La rete è piena di pesci.",
+    "example_fr": "Le filet est plein de poissons.",
+    "level": 1
+  },
+  {
+    "word": "orma",
+    "translation": [ "empreinte" ],
+    "translit": "",
+    "example": "Hanno trovato orme nella neve.",
+    "example_fr": "Ils ont trouvé des empreintes dans la neige.",
+    "level": 1
+  },
+  {
+    "word": "aquilone",
+    "translation": [ "cerf-volant" ],
+    "translit": "",
+    "example": "Il bambino fa volare l'aquilone.",
+    "example_fr": "L’enfant fait voler le cerf-volant.",
+    "level": 1
+  },
+  {
+    "word": "spazzola",
+    "translation": [ "brosse" ],
+    "translit": "",
+    "example": "Prendi la spazzola per capelli.",
+    "example_fr": "Prends la brosse à cheveux.",
+    "level": 1
+  },
+  {
+    "word": "starnuto",
+    "translation": [ "éternuement" ],
+    "translit": "",
+    "example": "Ho sentito uno starnuto forte.",
+    "example_fr": "J’ai entendu un gros éternuement.",
+    "level": 1
+  },
+  {
+    "word": "cartello",
+    "translation": [ "panneau" ],
+    "translit": "",
+    "example": "Il cartello indica la direzione giusta.",
+    "example_fr": "Le panneau indique la bonne direction.",
+    "level": 1
+  },
+  {
+    "word": "madia",
+    "translation": [ "pétrin", "meuble de cuisine ancien" ],
+    "translit": "",
+    "example": "La madia era piena di pane.",
+    "example_fr": "Le pétrin était rempli de pain.",
+    "level": 1
+  },
+  {
+    "word": "sacco",
+    "translation": [ "sac (grand)" ],
+    "translit": "",
+    "example": "Il sacco di patate è pesante.",
+    "example_fr": "Le sac de pommes de terre est lourd.",
+    "level": 1
+  },
+  {
+    "word": "gabbia",
+    "translation": [ "cage" ],
+    "translit": "",
+    "example": "L’uccello è nella gabbia.",
+    "example_fr": "L’oiseau est dans la cage.",
+    "level": 1
+  },
+  {
+    "word": "piumone",
+    "translation": [ "couette" ],
+    "translit": "",
+    "example": "Mi copro col piumone quando fa freddo.",
+    "example_fr": "Je me couvre avec la couette quand il fait froid.",
+    "level": 1
+  },
+  {
+    "word": "mattone",
+    "translation": [ "brique" ],
+    "translit": "",
+    "example": "La casa è fatta di mattoni.",
+    "example_fr": "La maison est faite de briques.",
+    "level": 1
+  },
+  {
+    "word": "scopa",
+    "translation": [ "balai" ],
+    "translit": "",
+    "example": "Usa la scopa per pulire il pavimento.",
+    "example_fr": "Utilise le balai pour nettoyer le sol.",
+    "level": 1
+  },
+
+  {
+    "word": "stagno",
+    "translation": [ "étang" ],
+    "translit": "",
+    "example": "Lo stagno è pieno di rane.",
+    "example_fr": "L’étang est plein de grenouilles.",
+    "level": 1
+  },
+  {
+    "word": "piuma",
+    "translation": [ "plume" ],
+    "translit": "",
+    "example": "Una piuma è caduta dalla finestra.",
+    "example_fr": "Une plume est tombée de la fenêtre.",
+    "level": 1
+  },
+  {
+    "word": "cappuccio",
+    "translation": [ "capuche" ],
+    "translit": "",
+    "example": "Tira su il cappuccio, piove.",
+    "example_fr": "Remonte ta capuche, il pleut.",
+    "level": 1
+  },
+  {
+    "word": "pila",
+    "translation": [ "pile", "batterie" ],
+    "translit": "",
+    "example": "La pila è scarica.",
+    "example_fr": "La pile est déchargée.",
+    "level": 1
+  },
+  {
+    "word": "tappeto",
+    "translation": [ "tapis" ],
+    "translit": "",
+    "example": "Il tappeto è molto morbido.",
+    "example_fr": "Le tapis est très doux.",
+    "level": 1
+  },
+  {
+    "word": "ciotola",
+    "translation": [ "gamelle", "bol" ],
+    "translit": "",
+    "example": "Metti il cibo nella ciotola del cane.",
+    "example_fr": "Mets la nourriture dans la gamelle du chien.",
+    "level": 1
+  },
+  {
+    "word": "pendio",
+    "translation": [ "pente" ],
+    "translit": "",
+    "example": "Il pendio è scivoloso.",
+    "example_fr": "La pente est glissante.",
+    "level": 1
+  },
+  {
+    "word": "coperchio",
+    "translation": [ "couvercle" ],
+    "translit": "",
+    "example": "Chiudi il coperchio della pentola.",
+    "example_fr": "Ferme le couvercle de la casserole.",
+    "level": 1
+  },
+  {
+    "word": "morsa",
+    "translation": [ "étau" ],
+    "translit": "",
+    "example": "La morsa tiene fermo il pezzo di legno.",
+    "example_fr": "L’étau maintient la pièce de bois.",
+    "level": 1
+  },
+  {
+    "word": "caviglia",
+    "translation": [ "cheville" ],
+    "translit": "",
+    "example": "Mi sono slogato la caviglia.",
+    "example_fr": "Je me suis foulé la cheville.",
+    "level": 1
+  },
+
+  {
+    "word": "canna",
+    "translation": [ "roseau" ],
+    "translit": "",
+    "example": "Le canne crescono vicino al fiume.",
+    "example_fr": "Les roseaux poussent près du fleuve.",
+    "level": 1
+  },
+  {
+    "word": "nappa",
+    "translation": [ "pampille", "gland décoratif" ],
+    "translit": "",
+    "example": "La tenda ha una nappa elegante.",
+    "example_fr": "Le rideau a une pampille élégante.",
+    "level": 1
+  },
+  {
+    "word": "spiga",
+    "translation": [ "épi" ],
+    "translit": "",
+    "example": "Ogni spiga era matura.",
+    "example_fr": "Chaque épi était mûr.",
+    "level": 1
+  },
+  {
+    "word": "zolla",
+    "translation": [ "motte (de terre)" ],
+    "translit": "",
+    "example": "La zolla si è rotta sotto i suoi piedi.",
+    "example_fr": "La motte s’est brisée sous ses pieds.",
+    "level": 1
+  },
+  {
+    "word": "pupilla",
+    "translation": [ "pupille" ],
+    "translit": "",
+    "example": "La pupilla si è dilatata.",
+    "example_fr": "La pupille s’est dilatée.",
+    "level": 1
+  },
+  {
+    "word": "culla",
+    "translation": [ "berceau" ],
+    "translit": "",
+    "example": "Il bambino dorme nella culla.",
+    "example_fr": "Le bébé dort dans le berceau.",
+    "level": 1
+  },
+  {
+    "word": "fascio",
+    "translation": [ "fagot", "faisceau" ],
+    "translit": "",
+    "example": "Ha portato un fascio di legna.",
+    "example_fr": "Il a apporté un fagot de bois.",
+    "level": 1
+  },
+  {
+    "word": "diga",
+    "translation": [ "barrage" ],
+    "translit": "",
+    "example": "La diga controlla il livello dell’acqua.",
+    "example_fr": "Le barrage contrôle le niveau de l’eau.",
+    "level": 1
+  },
+  {
+    "word": "spiffero",
+    "translation": [ "courant d’air" ],
+    "translit": "",
+    "example": "Sento uno spiffero dalla finestra.",
+    "example_fr": "Je sens un courant d’air venant de la fenêtre.",
+    "level": 1
+  },
+  {
+    "word": "brocca",
+    "translation": [ "carafe" ],
+    "translit": "",
+    "example": "La brocca è piena d’acqua fresca.",
+    "example_fr": "La carafe est pleine d’eau fraîche.",
+    "level": 1
+  },
+
+  {
+    "word": "cordone",
+    "translation": [ "cordon", "lacet épais" ],
+    "translit": "",
+    "example": "Il cordone era annodato stretto.",
+    "example_fr": "Le cordon était noué très serré.",
+    "level": 1
+  },
+  {
+    "word": "dentino",
+    "translation": [ "dent de lait" ],
+    "translit": "",
+    "example": "Al bambino è caduto un dentino.",
+    "example_fr": "L’enfant a perdu une dent de lait.",
+    "level": 1
+  },
+  {
+    "word": "gambo",
+    "translation": [ "jambe (de meuble)", "tige" ],
+    "translit": "",
+    "example": "Il gambo della sedia è rotto.",
+    "example_fr": "Le pied de la chaise est cassé.",
+    "level": 1
+  },
+  {
+    "word": "scodella",
+    "translation": [ "bol" ],
+    "translit": "",
+    "example": "Prendi una scodella per il latte.",
+    "example_fr": "Prends un bol pour le lait.",
+    "level": 1
+  },
+  {
+    "word": "borsa",
+    "translation": [ "sac", "sacoche" ],
+    "translit": "",
+    "example": "La borsa è sul tavolo.",
+    "example_fr": "Le sac est sur la table.",
+    "level": 1
+  },
+  {
+    "word": "piastrella",
+    "translation": [ "carreau", "carrelage" ],
+    "translit": "",
+    "example": "La piastrella si è rotta.",
+    "example_fr": "Le carreau s’est cassé.",
+    "level": 1
+  },
+  {
+    "word": "cesto",
+    "translation": [ "panier" ],
+    "translit": "",
+    "example": "Il cesto è pieno di mele.",
+    "example_fr": "Le panier est plein de pommes.",
+    "level": 1
+  },
+  {
+    "word": "sbarra",
+    "translation": [ "barre", "barrière" ],
+    "translit": "",
+    "example": "La sbarra era chiusa.",
+    "example_fr": "La barrière était fermée.",
+    "level": 1
+  },
+  {
+    "word": "scintilla",
+    "translation": [ "étincelle" ],
+    "translit": "",
+    "example": "Una scintilla è uscita dal camino.",
+    "example_fr": "Une étincelle est sortie de la cheminée.",
+    "level": 1
+  },
+  {
+    "word": "briciola",
+    "translation": [ "miette" ],
+    "translit": "",
+    "example": "Ci sono briciole sul tavolo.",
+    "example_fr": "Il y a des miettes sur la table.",
+    "level": 1
+  }
+]
