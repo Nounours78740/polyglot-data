@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Present simple",
+    "explanation": "Le present simple décrit des actions habituelles, des vérités générales ou des habitudes.",
+    "rules": [
+      "Sujet + base verbale",
+      "Ajouter -s à la 3e personne du singulier (he, she, it)"
+    ],
+    "examples": [
+      {
+        "example": "I walk to school.",
+        "translation": "Je vais à l'école à pied."
+      },
+      {
+        "example": "She likes apples.",
+        "translation": "Elle aime les pommes."
+      }
+    ]
+  }
+]
