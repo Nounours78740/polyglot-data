@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Pretérito Indefinido",
+    "explanation": "Actions achevées dans le passé.",
+    "rules": [
+      "Terminaciones (-é/-aste/-ó ...).",
+      "Beaucoup d’irréguliers.",
+      "Negación: no + verbo."
+    ],
+    "examples": [
+      {
+        "example": "Ayer fuimos al cine.",
+        "translation": "Hier nous sommes allés au cinéma."
+      },
+      {
+        "example": "¿Comiste ya?",
+        "translation": "As-tu déjà mangé ?"
+      }
+    ],
+    "level": 2
+  }
+]

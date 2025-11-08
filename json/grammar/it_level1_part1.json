@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Presente Indicativo",
+    "explanation": "Habitudes, actions actuelles, vérités générales.",
+    "rules": [
+      "Conjugaisons en -are, -ere, -ire.",
+      "Négation : non + verbe.",
+      "Questions sans inversion."
+    ],
+    "examples": [
+      {
+        "example": "Lei parla italiano.",
+        "translation": "Elle parle italien."
+      },
+      {
+        "example": "Non capisco.",
+        "translation": "Je ne comprends pas."
+      }
+    ],
+    "level": 1
+  }
+]

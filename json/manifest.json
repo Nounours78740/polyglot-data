@@ -1,0 +1,174 @@
+{
+  "words": {
+    "en": {
+      "1": [
+        "json/words/en_level1_part1.json"
+      ],
+      "2": [
+        "json/words/en_level2_part1.json"
+      ],
+      "3": [
+        "json/words/en_level3_part1.json"
+      ],
+      "4": [
+        "json/words/en_level4_part1.json"
+      ]
+    },
+    "es": {
+      "1": [
+        "json/words/es_level1_part1.json"
+      ],
+      "2": [
+        "json/words/es_level2_part1.json"
+      ],
+      "3": [
+        "json/words/es_level3_part1.json"
+      ],
+      "4": [
+        "json/words/es_level4_part1.json"
+      ]
+    },
+    "de": {
+      "1": [
+        "json/words/de_level1_part1.json"
+      ],
+      "2": [
+        "json/words/de_level2_part1.json"
+      ],
+      "3": [
+        "json/words/de_level3_part1.json"
+      ],
+      "4": [
+        "json/words/de_level4_part1.json"
+      ]
+    },
+    "it": {
+      "1": [
+        "json/words/it_level1_part1.json"
+      ],
+      "2": [
+        "json/words/it_level2_part1.json"
+      ],
+      "3": [
+        "json/words/it_level3_part1.json"
+      ],
+      "4": [
+        "json/words/it_level4_part1.json"
+      ]
+    },
+    "ru": {
+      "1": [
+        "json/words/ru_level1_part1.json"
+      ],
+      "2": [
+        "json/words/ru_level2_part1.json"
+      ],
+      "3": [
+        "json/words/ru_level3_part1.json"
+      ],
+      "4": [
+        "json/words/ru_level4_part1.json"
+      ]
+    },
+    "ar": {
+      "1": [
+        "json/words/ar_level1_part1.json"
+      ],
+      "2": [
+        "json/words/ar_level2_part1.json"
+      ],
+      "3": [
+        "json/words/ar_level3_part1.json"
+      ],
+      "4": [
+        "json/words/ar_level4_part1.json"
+      ]
+    }
+  },
+  "grammar": {
+    "en": {
+      "1": [
+        "json/grammar/en_level1_part1.json"
+      ],
+      "2": [
+        "json/grammar/en_level2_part1.json"
+      ],
+      "3": [
+        "json/grammar/en_level3_part1.json"
+      ],
+      "4": [
+        "json/grammar/en_level4_part1.json"
+      ]
+    },
+    "es": {
+      "1": [
+        "json/grammar/es_level1_part1.json"
+      ],
+      "2": [
+        "json/grammar/es_level2_part1.json"
+      ],
+      "3": [
+        "json/grammar/es_level3_part1.json"
+      ],
+      "4": [
+        "json/grammar/es_level4_part1.json"
+      ]
+    },
+    "de": {
+      "1": [
+        "json/grammar/de_level1_part1.json"
+      ],
+      "2": [
+        "json/grammar/de_level2_part1.json"
+      ],
+      "3": [
+        "json/grammar/de_level3_part1.json"
+      ],
+      "4": [
+        "json/grammar/de_level4_part1.json"
+      ]
+    },
+    "it": {
+      "1": [
+        "json/grammar/it_level1_part1.json"
+      ],
+      "2": [
+        "json/grammar/it_level2_part1.json"
+      ],
+      "3": [
+        "json/grammar/it_level3_part1.json"
+      ],
+      "4": [
+        "json/grammar/it_level4_part1.json"
+      ]
+    },
+    "ru": {
+      "1": [
+        "json/grammar/ru_level1_part1.json"
+      ],
+      "2": [
+        "json/grammar/ru_level2_part1.json"
+      ],
+      "3": [
+        "json/grammar/ru_level3_part1.json"
+      ],
+      "4": [
+        "json/grammar/ru_level4_part1.json"
+      ]
+    },
+    "ar": {
+      "1": [
+        "json/grammar/ar_level1_part1.json"
+      ],
+      "2": [
+        "json/grammar/ar_level2_part1.json"
+      ],
+      "3": [
+        "json/grammar/ar_level3_part1.json"
+      ],
+      "4": [
+        "json/grammar/ar_level4_part1.json"
+      ]
+    }
+  }
+}

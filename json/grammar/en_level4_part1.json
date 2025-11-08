@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Conditionals & Modals (Advanced)",
+    "explanation": "Hypothèses, nuances de modalité.",
+    "rules": [
+      "Type 1/2/3 conditionals.",
+      "Modal perfect: should have, could have…"
+    ],
+    "examples": [
+      {
+        "example": "If I had known, I would have called.",
+        "translation": "Si j’avais su, j’aurais appelé."
+      },
+      {
+        "example": "You should have told me.",
+        "translation": "Tu aurais dû me le dire."
+      }
+    ],
+    "level": 4
+  }
+]

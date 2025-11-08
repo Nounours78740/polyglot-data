@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Subjuntivo (avancé)",
+    "explanation": "Doute, désir, irréel.",
+    "rules": [
+      "Presente/Imperfecto de subjuntivo.",
+      "Oraciones condicionales."
+    ],
+    "examples": [
+      {
+        "example": "Si tuviera tiempo, viajaría.",
+        "translation": "Si j’avais le temps, je voyagerais."
+      },
+      {
+        "example": "Quiero que vengas.",
+        "translation": "Je veux que tu viennes."
+      }
+    ],
+    "level": 4
+  }
+]

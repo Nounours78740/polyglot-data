@@ -1,0 +1,21 @@
+[
+  {
+    "title": "المضارع المنصوب/المجزوم (intro)",
+    "explanation": "صور المضارع في التراكيب.",
+    "rules": [
+      "حروف النصب/الجزم.",
+      "العلامات الإعرابية."
+    ],
+    "examples": [
+      {
+        "example": "لن أفعل ذلك.",
+        "translation": "Je ne le ferai pas."
+      },
+      {
+        "example": "لم أذهب.",
+        "translation": "Je ne suis pas allé."
+      }
+    ],
+    "level": 3
+  }
+]

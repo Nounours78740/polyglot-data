@@ -1,0 +1,58 @@
+[
+  {
+    "word": "dog",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "Every dog has its day.",
+    "example_fr": "À chacun son heure de gloire.",
+    "pos": "noun",
+    "level": 1
+  },
+  {
+    "word": "to listen",
+    "translation": [
+      "écouter"
+    ],
+    "translit": "",
+    "example": "Listen before you speak.",
+    "example_fr": "Écoute avant de parler.",
+    "pos": "verb",
+    "level": 1
+  },
+  {
+    "word": "beautiful",
+    "translation": [
+      "beau",
+      "belle"
+    ],
+    "translit": "",
+    "example": "A beautiful view.",
+    "example_fr": "Un beau panorama.",
+    "pos": "adjective",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "A book a day keeps boredom away.",
+    "example_fr": "Un livre par jour éloigne l’ennui.",
+    "pos": "noun",
+    "level": 1
+  },
+  {
+    "word": "to learn",
+    "translation": [
+      "apprendre"
+    ],
+    "translit": "",
+    "example": "Learn by doing.",
+    "example_fr": "On apprend en faisant.",
+    "pos": "verb",
+    "level": 1
+  }
+]

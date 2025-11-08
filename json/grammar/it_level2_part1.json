@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Passato Prossimo/Remoto (intro)",
+    "explanation": "Passé récent/écrit selon variété.",
+    "rules": [
+      "Avere/Essere + participio passato.",
+      "Accords avec essere.",
+      "Negazione: non + ausiliare."
+    ],
+    "examples": [
+      {
+        "example": "Ho visto il film.",
+        "translation": "J’ai vu le film."
+      },
+      {
+        "example": "È andata a casa.",
+        "translation": "Elle est allée à la maison."
+      }
+    ],
+    "level": 2
+  }
+]
