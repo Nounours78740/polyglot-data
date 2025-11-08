@@ -1,0 +1,22 @@
+[
+  {
+    "title": "المضارع (Présent)",
+    "explanation": "أفعال الحاضر والعادات.",
+    "rules": [
+      "اللواحق تختلف حسب الضمائر.",
+      "النفي: لا + المضارع.",
+      "الأسئلة بسياق أو هل/أ؟"
+    ],
+    "examples": [
+      {
+        "example": "هو يدرس كل يوم.",
+        "translation": "Il étudie chaque jour."
+      },
+      {
+        "example": "لا أفهم.",
+        "translation": "Je ne comprends pas."
+      }
+    ],
+    "level": 1
+  }
+]

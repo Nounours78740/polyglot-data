@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Präteritum",
+    "explanation": "Récits écrits, certains verbes fréquents.",
+    "rules": [
+      "sein: war, haben: hatte",
+      "Verbes faibles: -te",
+      "Verbes forts: changement radical"
+    ],
+    "examples": [
+      {
+        "example": "Er war müde.",
+        "translation": "Il était fatigué."
+      },
+      {
+        "example": "Ich ging nach Hause.",
+        "translation": "Je suis allé à la maison (je m’en allai)."
+      }
+    ],
+    "level": 2
+  }
+]

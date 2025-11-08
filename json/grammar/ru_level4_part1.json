@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Сослагательное наклонение",
+    "explanation": "Гипотеза, условность.",
+    "rules": [
+      "бы + прошедшее время.",
+      "Условные конструкции."
+    ],
+    "examples": [
+      {
+        "example": "Если бы я знал, я бы пришёл.",
+        "translation": "Si j’avais su, je serais venu."
+      },
+      {
+        "example": "Я бы помог, если бы мог.",
+        "translation": "J’aiderais si je pouvais."
+      }
+    ],
+    "level": 4
+  }
+]

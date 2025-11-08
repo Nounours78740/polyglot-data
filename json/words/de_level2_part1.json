@@ -1,0 +1,58 @@
+[
+  {
+    "word": "Hund",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "Alter Hund lernt keine neuen Tricks.",
+    "example_fr": "Vieux chien n’apprend pas de nouveaux tours.",
+    "pos": "noun",
+    "level": 2
+  },
+  {
+    "word": "zuhören",
+    "translation": [
+      "écouter"
+    ],
+    "translit": "",
+    "example": "Zuhören ist eine Kunst.",
+    "example_fr": "Écouter est un art.",
+    "pos": "verb",
+    "level": 2
+  },
+  {
+    "word": "schön",
+    "translation": [
+      "beau",
+      "belle"
+    ],
+    "translit": "",
+    "example": "Ein schöner Tag.",
+    "example_fr": "Une belle journée.",
+    "pos": "adjective",
+    "level": 2
+  },
+  {
+    "word": "Buch",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "Ein Buch ist ein Garten, den man in der Tasche trägt.",
+    "example_fr": "Un livre est un jardin que l’on porte dans sa poche.",
+    "pos": "noun",
+    "level": 2
+  },
+  {
+    "word": "lernen",
+    "translation": [
+      "apprendre"
+    ],
+    "translit": "",
+    "example": "Durch Fehler lernt man.",
+    "example_fr": "On apprend par ses erreurs.",
+    "pos": "verb",
+    "level": 2
+  }
+]

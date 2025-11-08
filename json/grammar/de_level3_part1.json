@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Perfekt",
+    "explanation": "Parlé: passé achevé lié au présent.",
+    "rules": [
+      "haben/sein + Partizip II.",
+      "Ge-…-t/…en"
+    ],
+    "examples": [
+      {
+        "example": "Ich habe gegessen.",
+        "translation": "J’ai mangé."
+      },
+      {
+        "example": "Er ist gekommen.",
+        "translation": "Il est venu."
+      }
+    ],
+    "level": 3
+  }
+]

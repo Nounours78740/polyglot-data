@@ -1,0 +1,552 @@
+[
+  {
+    "word": "dog",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "The dog barked loudly.",
+    "example_fr": "Le chien a aboyé fort.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "translation": [
+      "chat"
+    ],
+    "translit": "",
+    "example": "The cat slept on the sofa.",
+    "example_fr": "Le chat a dormi sur le canapé.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "house",
+    "translation": [
+      "maison"
+    ],
+    "translit": "",
+    "example": "The house is big.",
+    "example_fr": "La maison est grande.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "water",
+    "translation": [
+      "eau"
+    ],
+    "translit": "",
+    "example": "She drank water.",
+    "example_fr": "Elle a bu de l'eau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "car",
+    "translation": [
+      "voiture"
+    ],
+    "translit": "",
+    "example": "The car is new.",
+    "example_fr": "La voiture est neuve.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "eat",
+    "translation": [
+      "manger"
+    ],
+    "translit": "",
+    "example": "I eat apples.",
+    "example_fr": "Je mange des pommes.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "go",
+    "translation": [
+      "aller"
+    ],
+    "translit": "",
+    "example": "They go to school.",
+    "example_fr": "Ils vont à l'école.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "see",
+    "translation": [
+      "voir"
+    ],
+    "translit": "",
+    "example": "I see a bird.",
+    "example_fr": "Je vois un oiseau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "make",
+    "translation": [
+      "faire"
+    ],
+    "translit": "",
+    "example": "She makes a cake.",
+    "example_fr": "Elle fait un gâteau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "The book is interesting.",
+    "example_fr": "Le livre est intéressant.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "dog",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "The dog barked loudly.",
+    "example_fr": "Le chien a aboyé fort.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "translation": [
+      "chat"
+    ],
+    "translit": "",
+    "example": "The cat slept on the sofa.",
+    "example_fr": "Le chat a dormi sur le canapé.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "house",
+    "translation": [
+      "maison"
+    ],
+    "translit": "",
+    "example": "The house is big.",
+    "example_fr": "La maison est grande.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "water",
+    "translation": [
+      "eau"
+    ],
+    "translit": "",
+    "example": "She drank water.",
+    "example_fr": "Elle a bu de l'eau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "car",
+    "translation": [
+      "voiture"
+    ],
+    "translit": "",
+    "example": "The car is new.",
+    "example_fr": "La voiture est neuve.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "eat",
+    "translation": [
+      "manger"
+    ],
+    "translit": "",
+    "example": "I eat apples.",
+    "example_fr": "Je mange des pommes.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "go",
+    "translation": [
+      "aller"
+    ],
+    "translit": "",
+    "example": "They go to school.",
+    "example_fr": "Ils vont à l'école.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "see",
+    "translation": [
+      "voir"
+    ],
+    "translit": "",
+    "example": "I see a bird.",
+    "example_fr": "Je vois un oiseau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "make",
+    "translation": [
+      "faire"
+    ],
+    "translit": "",
+    "example": "She makes a cake.",
+    "example_fr": "Elle fait un gâteau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "The book is interesting.",
+    "example_fr": "Le livre est intéressant.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "dog",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "The dog barked loudly.",
+    "example_fr": "Le chien a aboyé fort.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "translation": [
+      "chat"
+    ],
+    "translit": "",
+    "example": "The cat slept on the sofa.",
+    "example_fr": "Le chat a dormi sur le canapé.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "house",
+    "translation": [
+      "maison"
+    ],
+    "translit": "",
+    "example": "The house is big.",
+    "example_fr": "La maison est grande.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "water",
+    "translation": [
+      "eau"
+    ],
+    "translit": "",
+    "example": "She drank water.",
+    "example_fr": "Elle a bu de l'eau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "car",
+    "translation": [
+      "voiture"
+    ],
+    "translit": "",
+    "example": "The car is new.",
+    "example_fr": "La voiture est neuve.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "eat",
+    "translation": [
+      "manger"
+    ],
+    "translit": "",
+    "example": "I eat apples.",
+    "example_fr": "Je mange des pommes.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "go",
+    "translation": [
+      "aller"
+    ],
+    "translit": "",
+    "example": "They go to school.",
+    "example_fr": "Ils vont à l'école.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "see",
+    "translation": [
+      "voir"
+    ],
+    "translit": "",
+    "example": "I see a bird.",
+    "example_fr": "Je vois un oiseau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "make",
+    "translation": [
+      "faire"
+    ],
+    "translit": "",
+    "example": "She makes a cake.",
+    "example_fr": "Elle fait un gâteau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "The book is interesting.",
+    "example_fr": "Le livre est intéressant.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "dog",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "The dog barked loudly.",
+    "example_fr": "Le chien a aboyé fort.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "translation": [
+      "chat"
+    ],
+    "translit": "",
+    "example": "The cat slept on the sofa.",
+    "example_fr": "Le chat a dormi sur le canapé.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "house",
+    "translation": [
+      "maison"
+    ],
+    "translit": "",
+    "example": "The house is big.",
+    "example_fr": "La maison est grande.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "water",
+    "translation": [
+      "eau"
+    ],
+    "translit": "",
+    "example": "She drank water.",
+    "example_fr": "Elle a bu de l'eau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "car",
+    "translation": [
+      "voiture"
+    ],
+    "translit": "",
+    "example": "The car is new.",
+    "example_fr": "La voiture est neuve.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "eat",
+    "translation": [
+      "manger"
+    ],
+    "translit": "",
+    "example": "I eat apples.",
+    "example_fr": "Je mange des pommes.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "go",
+    "translation": [
+      "aller"
+    ],
+    "translit": "",
+    "example": "They go to school.",
+    "example_fr": "Ils vont à l'école.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "see",
+    "translation": [
+      "voir"
+    ],
+    "translit": "",
+    "example": "I see a bird.",
+    "example_fr": "Je vois un oiseau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "make",
+    "translation": [
+      "faire"
+    ],
+    "translit": "",
+    "example": "She makes a cake.",
+    "example_fr": "Elle fait un gâteau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "The book is interesting.",
+    "example_fr": "Le livre est intéressant.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "dog",
+    "translation": [
+      "chien"
+    ],
+    "translit": "",
+    "example": "The dog barked loudly.",
+    "example_fr": "Le chien a aboyé fort.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "cat",
+    "translation": [
+      "chat"
+    ],
+    "translit": "",
+    "example": "The cat slept on the sofa.",
+    "example_fr": "Le chat a dormi sur le canapé.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "house",
+    "translation": [
+      "maison"
+    ],
+    "translit": "",
+    "example": "The house is big.",
+    "example_fr": "La maison est grande.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "water",
+    "translation": [
+      "eau"
+    ],
+    "translit": "",
+    "example": "She drank water.",
+    "example_fr": "Elle a bu de l'eau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "car",
+    "translation": [
+      "voiture"
+    ],
+    "translit": "",
+    "example": "The car is new.",
+    "example_fr": "La voiture est neuve.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "eat",
+    "translation": [
+      "manger"
+    ],
+    "translit": "",
+    "example": "I eat apples.",
+    "example_fr": "Je mange des pommes.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "go",
+    "translation": [
+      "aller"
+    ],
+    "translit": "",
+    "example": "They go to school.",
+    "example_fr": "Ils vont à l'école.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "see",
+    "translation": [
+      "voir"
+    ],
+    "translit": "",
+    "example": "I see a bird.",
+    "example_fr": "Je vois un oiseau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "make",
+    "translation": [
+      "faire"
+    ],
+    "translit": "",
+    "example": "She makes a cake.",
+    "example_fr": "Elle fait un gâteau.",
+    "pos": "",
+    "level": 1
+  },
+  {
+    "word": "book",
+    "translation": [
+      "livre"
+    ],
+    "translit": "",
+    "example": "The book is interesting.",
+    "example_fr": "Le livre est intéressant.",
+    "pos": "",
+    "level": 1
+  }
+]

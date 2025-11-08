@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Present Simple",
+    "explanation": "Habitudes, vérités générales, emplois réguliers.",
+    "rules": [
+      "Sujet + base verbale : I work, you play.",
+      "He/She/It + -s : he works, she plays.",
+      "Do/Does pour les questions.",
+      "Don’t/Doesn’t pour la négation."
+    ],
+    "examples": [
+      {
+        "example": "She works every day.",
+        "translation": "Elle travaille tous les jours."
+      },
+      {
+        "example": "Do you like tea?",
+        "translation": "Aimes-tu le thé ?"
+      }
+    ],
+    "level": 1
+  }
+]

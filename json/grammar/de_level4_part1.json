@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Konjunktiv II",
+    "explanation": "Hypothèse, irréel du présent/passé.",
+    "rules": [
+      "würde + Infinitiv",
+      "Formes fortes: käme, ginge…"
+    ],
+    "examples": [
+      {
+        "example": "Ich würde gehen, wenn ich könnte.",
+        "translation": "J’irais si je pouvais."
+      },
+      {
+        "example": "Er käme, wenn er Zeit hätte.",
+        "translation": "Il viendrait s’il avait le temps."
+      }
+    ],
+    "level": 4
+  }
+]
